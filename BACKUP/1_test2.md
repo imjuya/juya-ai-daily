@@ -4,6 +4,8 @@
 
 # AI 早报 2026-02-16
 
+**视频版**：[YouTube](https://www.youtube.com/watch?v=qUP5LOjj5Pk) ｜ [哔哩哔哩](https://www.bilibili.com/video/BV1BwZPBDEMm)
+
 ## 概览
 ### 精选
 - OpenClaw 创始人 Peter Steinberger 加入 OpenAI `#1`
@@ -30,10 +32,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/fa2660ce-5694-4af4-aedc-34264b54760e/m001.png)
 
-```
-https://steipete.me/posts/2026/openclaw
-https://x.com/sama/status/2023150230905159801
-```
+参考链接：
+- [来源 1 · steipete.me](https://steipete.me/posts/2026/openclaw)
+- [来源 2 · x.com](https://x.com/sama/status/2023150230905159801)
 
 ---
 
@@ -50,9 +51,8 @@ https://x.com/sama/status/2023150230905159801
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/2ccda77a-5436-4e2e-9cad-a7452b3fd332/m001.png)
 
-```
-https://huggingface.co/jdopensource/JoyAI-LLM-Flash
-```
+参考链接：
+- [来源 1 · huggingface.co](https://huggingface.co/jdopensource/JoyAI-LLM-Flash)
 
 ---
 
@@ -63,9 +63,8 @@ https://huggingface.co/jdopensource/JoyAI-LLM-Flash
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c7d48d38-c487-4cbe-b8dc-92e3900ee656/m001.png)
 
-```
-https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw
-```
+参考链接：
+- [来源 1 · mp.weixin.qq.com](https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw)
 
 ---
 
@@ -82,9 +81,8 @@ https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/b554ffc7-e448-4870-a6f7-5333f374d6a7/m002.png)
 
-```
-https://www.kimi.com/bot
-```
+参考链接：
+- [来源 1 · kimi.com](https://www.kimi.com/bot)
 
 ---
 
@@ -97,10 +95,9 @@ https://www.kimi.com/bot
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/eb972b87-f05c-42c7-b0c3-82e6ee7fa0a3/m001.png)
 
-```
-https://www.openroom.ai/
-https://x.com/MiniMax_AI/status/2023059842542485683
-```
+参考链接：
+- [来源 1 · openroom.ai](https://www.openroom.ai/)
+- [来源 2 · x.com](https://x.com/MiniMax_AI/status/2023059842542485683)
 
 ---
 
@@ -111,9 +108,8 @@ https://x.com/MiniMax_AI/status/2023059842542485683
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c094f103-37e3-48f8-aca6-a31757901161/m001.png)
 
-```
-https://x.com/elonmusk/status/2022921927791382896
-```
+参考链接：
+- [来源 1 · x.com](https://x.com/elonmusk/status/2022921927791382896)
 
 ---
 
@@ -122,10 +118,9 @@ https://x.com/elonmusk/status/2022921927791382896
 
 **Google Threat Intelligence Group** (**GTIG**) 发布了一份报告，详细说明了威胁行为者对人工智能的滥用情况，包括 `模型提取攻击`、`AI增强的钓鱼活动` 以及新型 `AI集成恶意软件` 的开发。报告指出，在 **2025年第四季度** 观察到威胁行为者日益整合AI以加速攻击生命周期，但目前尚未发现政府背景的 `APT` 组织对前沿模型或生成式AI产品发起直接攻击。**Google** 已采取行动，包括禁用相关账户，并加强了安全控制与 `Gemini模型` 以防止滥用。
 
-```
-https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/
-https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use
-```
+参考链接：
+- [来源 1 · blog.google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)
+- [来源 2 · cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
 
 ---
 
