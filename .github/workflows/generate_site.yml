@@ -1,6 +1,14 @@
 name: Deploy static content to Pages
 
 on:
+  push:
+    branches:
+      - master
+    paths:
+      - config.toml
+      - static/**
+      - templates/**
+      - .github/workflows/generate_site.yml
   issues:
     types:
       - opened
@@ -57,7 +65,8 @@ jobs:
           cp -r static/* output/static/ 2>/dev/null || true
           cd output && zola build --base-url $BASE_URL
           # Inject custom CSS into all HTML files
-          find public -name "*.html" -exec sed -i 's|</head>|<link rel="stylesheet" href="/custom.css"></head>|g' {} \;
+          CSS_HREF="${BASE_URL%/}/custom.css"
+          find public -name "*.html" -exec sed -i "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" {} \;
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

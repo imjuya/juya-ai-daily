@@ -9,8 +9,8 @@ taxonomies = [
 [extra]
 even_title = "橘鸦AI早报"
 even_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/tags/top/", name = "Top"},
+    {url = "https://imjuya.github.io/juya-ai-daily", name = "Home"},
+    {url = "https://imjuya.github.io/juya-ai-daily/tags/top/", name = "Top"},
 ]
 [markdown]
 highlight_code = true
