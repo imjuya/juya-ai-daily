@@ -9,9 +9,9 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """# juya's Blog
+MD_HEAD = """# 橘鸦AI早报
 
-> My personal blog using GitHub Issues and GitHub Actions
+> 记录人类完蛋全过程
 
 ## Links
 
@@ -291,9 +291,10 @@ def get_to_generate_issues(repo, dir_name, issue_number=None):
 def generate_rss_feed(repo, filename, me):
     generator = FeedGenerator()
     generator.id(repo.html_url)
-    generator.title(f"RSS feed of {repo.owner.login}'s {repo.name}")
+    generator.title("橘鸦AI早报")
+    generator.subtitle("记录人类完蛋全过程")
     generator.author(
-        {"name": os.getenv("GITHUB_NAME"), "email": os.getenv("GITHUB_EMAIL")}
+        {"name": "imjuya", "email": "imjuyaya@gmail.com"}
     )
     generator.link(href=repo.html_url)
     generator.link(
