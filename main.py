@@ -9,9 +9,23 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Gitblog](https://imjuya.github.io/juya-ai-daily/)
-My personal blog using issues and GitHub Actions
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+MD_HEAD = """# juya's Blog
+
+> My personal blog using GitHub Issues and GitHub Actions
+
+## Links
+
+| Platform | Link |
+| :--- | :--- |
+| AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
+| AI早报 视频版-YouTube | [YouTube](https://www.youtube.com/@imjuya) |
+| X (Twitter) | [@imjuyaya](https://x.com/imjuyaya) |
+| RSS Feed | [Subscribe](https://raw.githubusercontent.com/{repo_name}/master/feed.xml) |
+
+---
+
+## Blog
+
 """
 
 BACKUP_DIR = "BACKUP"
@@ -246,6 +260,19 @@ def add_md_label(repo, md, me):
                 md.write("\n")
 
 
+def add_md_footer(md):
+    """Add footer with credits to the original author"""
+    footer = """
+---
+
+## Credits
+
+Built with [gitblog](https://github.com/yihong0618/gitblog) by [@yihong0618](https://github.com/yihong0618)
+"""
+    with open(md, "a+", encoding="utf-8") as md_file:
+        md_file.write(footer)
+
+
 def get_to_generate_issues(repo, dir_name, issue_number=None):
     md_files = os.listdir(dir_name)
     generated_issues_numbers = [
@@ -296,6 +323,9 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     add_md_header("README.md", repo_name)
     for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
+
+    # add footer with credits
+    add_md_footer("README.md")
 
     generate_rss_feed(repo, "feed.xml", me)
     to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
