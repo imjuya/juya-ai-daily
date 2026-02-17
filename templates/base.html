@@ -1,6 +1,0 @@
-<!-- 继承 Even 主题的 base 模板并添加自定义 CSS -->
-{% extends "even/templates/base.html" %}
-
-{% block extra_head %}
-<link rel="stylesheet" href="{{ get_url(path="custom.css") }}">
-{% endblock extra_head %}
