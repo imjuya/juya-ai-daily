@@ -21,7 +21,7 @@
 
 ---
 
-## OpenClaw 创始人 Peter Steinberger 加入 OpenAI `#1`
+## OpenClaw 创始人 Peter Steinberger 加入 OpenAI `#1` [原文链接](https://steipete.me/posts/2026/openclaw)
 > 开源 AI 项目 **OpenClaw** 创始人 **Peter Steinberger** 加入 **OpenAI**，将推动下一代 `个人 Agent` 发展。**OpenClaw** 将转为基金会运营的独立开源项目，并获得 **OpenAI** 支持。**Steinberger** 表示，目标是打造人人可用的 `智能体`，而与 **OpenAI** 合作是实现这一愿景的最快路径。
 
 开源 AI 智能体项目 **OpenClaw** 创始人 **Peter Steinberger** 已加入 **OpenAI**，旨在推动下一代个人 `Agent` 的开发。**Steinberger** 在其个人博客中表示，其目标是构建一个普通用户也能便捷使用的 `Agent`，并认为与 **OpenAI** 合作是将此能力带给所有人的最快方式。
@@ -32,13 +32,12 @@
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/fa2660ce-5694-4af4-aedc-34264b54760e/m001.png)
 
-参考链接：
-- [来源 1 · steipete.me](https://steipete.me/posts/2026/openclaw)
-- [来源 2 · x.com](https://x.com/sama/status/2023150230905159801)
+相关链接：
+- [https://x.com/sama/status/2023150230905159801](https://x.com/sama/status/2023150230905159801)
 
 ---
 
-## 京东开源JoyAI-LLM-Flash模型 `#2`
+## 京东开源JoyAI-LLM-Flash模型 `#2` [原文链接](https://huggingface.co/jdopensource/JoyAI-LLM-Flash)
 > **京东**开源了基于 `MoE` 架构的语言模型 `JoyAI-LLM Flash`，总参数量达**48B**， 激活参数**3B**，该模型在知识、推理、编程与智能体任务上表现优异，已发布于 **Hugging Face**。
 
 **京东集团探索研究院**推出并开源了全新模型`JoyAI-LLM-Flash`。该模型是基于`混合专家系统架构`的中型指令语言模型，拥有**480亿总参数**和**30亿激活参数**，专为`工具使用`、`推理`和`自主问题解决`设计。
@@ -51,24 +50,18 @@
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/2ccda77a-5436-4e2e-9cad-a7452b3fd332/m001.png)
 
-参考链接：
-- [来源 1 · huggingface.co](https://huggingface.co/jdopensource/JoyAI-LLM-Flash)
-
 ---
 
-## MiniMax上线 M2.5-HighSpeed 高速版API `#3`
+## MiniMax上线 M2.5-HighSpeed 高速版API `#3` [原文链接](https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw)
 > **MiniMax**上线`M2.5-HighSpeed`，速度达**100TPS**。模型已在`API`中上线，同时上线了极速版`Coding Plan`，提供 `Plus`、`Max`、`Ultra`三档。
 
 **MiniMax**上线了专为Agent应用场景设计的新型号`MiniMax-M2.5-HighSpeed`。据官方称，该模型支持**100 TPS**的极速推理，速度为同类产品的**3**倍。其对应极速版`Coding Plan`与`API`接口已同步上线，`Plus`、`Max`与`Ultra`三档规格套餐均可用。
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c7d48d38-c487-4cbe-b8dc-92e3900ee656/m001.png)
 
-参考链接：
-- [来源 1 · mp.weixin.qq.com](https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw)
-
 ---
 
-## 月之暗面推出 AI 助手 Kimi Claw `#4`
+## 月之暗面推出 AI 助手 Kimi Claw `#4` [原文链接](https://www.kimi.com/bot)
 > **月之暗面**推出 `Kimi Claw`，一个集成于 **kimi.com** 中的 `OpenClaw 框架` 实现。支持 **7*24** 小时运行。目前已上线 **Beta** 测试，支持 **Allegretto** 及以上套餐用户。
 
 **Moonshot AI** 推出集成于 **kimi.com** 的 **Kimi Claw**（`OpenClaw` 框架实现），提供 **7×24 小时**云端 AI Agent 环境。该功能目前处于 `Beta` 测试阶段，面向 **Allegretto** 及以上套餐用户（据称需 **199 元/月**及以上）。
@@ -81,12 +74,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/b554ffc7-e448-4870-a6f7-5333f374d6a7/m002.png)
 
-参考链接：
-- [来源 1 · kimi.com](https://www.kimi.com/bot)
-
 ---
 
-## MiniMax 宣布即将上线 OpenRoom `#5`
+## MiniMax 宣布即将上线 OpenRoom `#5` [原文链接](https://www.openroom.ai/)
 > **MiniMax** 推出名为 **OpenRoom** 的首个 `agent-native` playground，支持用户探索由 `agent` 构建的 `多模态` 动态世界，并与 `agent` 互动。平台目前处于“即将上线”阶段，可通过加入官方社区获取访问。
 
 **MiniMax** 推出 **OpenRoom**，定位为 **首个** `agent-native` `playground`。该平台允许用户探索由 `agent` 构建的动态多模态世界，并体验 `agent` 与人类之间的互动。用户可与不同 `agent` 建立连接，并让其在环境中主导运行。
@@ -95,32 +85,27 @@
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/eb972b87-f05c-42c7-b0c3-82e6ee7fa0a3/m001.png)
 
-参考链接：
-- [来源 1 · openroom.ai](https://www.openroom.ai/)
-- [来源 2 · x.com](https://x.com/MiniMax_AI/status/2023059842542485683)
+相关链接：
+- [https://x.com/MiniMax_AI/status/2023059842542485683](https://x.com/MiniMax_AI/status/2023059842542485683)
 
 ---
 
-## 马斯克宣布Grok 4.20下周发布 `#6`
+## 马斯克宣布Grok 4.20下周发布 `#6` [原文链接](https://x.com/elonmusk/status/2022921927791382896)
 > **Elon Musk** 宣布 `Grok 4.20` 将于下周发布，相比 `4.1` 版本有显著升级。
 
 **马斯克**称`Grok 4.20`下周发布，较`4.1`显著改进。
 
 ![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c094f103-37e3-48f8-aca6-a31757901161/m001.png)
 
-参考链接：
-- [来源 1 · x.com](https://x.com/elonmusk/status/2022921927791382896)
-
 ---
 
-## 谷歌发布报告披露Gemini遭滥用 `#7`
+## 谷歌发布报告披露Gemini遭滥用 `#7` [原文链接](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)
 > **Google**威胁情报团队报告称，**2025年第四季度**，黑客加速利用`AI`实施攻击，包括`模型提取`、`AI钓鱼`及`恶意软件开发`。**Google**已禁用违规账户，强化安全控制，并推出`SAIF框架`与防御工具应对`AI`滥用风险。
 
 **Google Threat Intelligence Group** (**GTIG**) 发布了一份报告，详细说明了威胁行为者对人工智能的滥用情况，包括 `模型提取攻击`、`AI增强的钓鱼活动` 以及新型 `AI集成恶意软件` 的开发。报告指出，在 **2025年第四季度** 观察到威胁行为者日益整合AI以加速攻击生命周期，但目前尚未发现政府背景的 `APT` 组织对前沿模型或生成式AI产品发起直接攻击。**Google** 已采取行动，包括禁用相关账户，并加强了安全控制与 `Gemini模型` 以防止滥用。
 
-参考链接：
-- [来源 1 · blog.google](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/)
-- [来源 2 · cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
+相关链接：
+- [https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
 
 ---
 
