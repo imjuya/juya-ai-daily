@@ -1,0 +1,17 @@
+base_url = "https://imjuya.github.io/juya-ai-daily/"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+theme = "even"
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+[extra]
+even_title = "juya-ai-daily"
+even_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/tags/top/", name = "Top"},
+]
+[markdown]
+highlight_code = true
+render_emoji = true
