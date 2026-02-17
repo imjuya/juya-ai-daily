@@ -1,6 +1,6 @@
-# juya's Blog
+# 橘鸦AI早报
 
-> My personal blog using GitHub Issues and GitHub Actions
+> 记录人类完蛋全过程
 
 ## Links
 
