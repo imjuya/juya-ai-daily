@@ -17,7 +17,7 @@
 
 
 ## 最近更新
-- [test2](https://github.com/imjuya/juya-ai-daily/issues/1)--2026-02-17
+- [2026-02-18](https://github.com/imjuya/juya-ai-daily/issues/1)--2026-02-17
 
 ---
 

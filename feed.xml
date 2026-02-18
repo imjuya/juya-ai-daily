@@ -1,95 +1,187 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-17T14:33:42.713748+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>test2</title><updated>2026-02-17T14:33:43.089874+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260216/202602160815074762543e8c_cover_2212.jpg" alt="" /></p>
-<h1>AI 早报 2026-02-16</h1>
-<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qUP5LOjj5Pk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1BwZPBDEMm">哔哩哔哩</a></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-18T01:17:43.472966+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-18T01:17:43.813965+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+<h1>AI 早报 2026-02-18</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
 <h3>精选</h3>
 <ul>
-<li>OpenClaw 创始人 Peter Steinberger 加入 OpenAI <code>#1</code></li>
+<li>Anthropic 发布 Claude Sonnet 4.6 <code>#1</code></li>
+<li>xAI 上线 Grok 4.20 测试版 <code>#2</code></li>
+<li>NotebookLM推出幻灯片Prompt修订与PPTX导出 <code>#3</code></li>
 </ul>
 <h3>模型发布</h3>
 <ul>
-<li>京东开源JoyAI-LLM-Flash模型 <code>#2</code></li>
-<li>MiniMax上线 M2.5-HighSpeed 高速版API <code>#3</code></li>
+<li>蚂蚁集团开源Ming-omni-tts音频生成模型 <code>#4</code></li>
+<li>Cohere Labs发布Tiny Aya多语言模型 <code>#5</code></li>
+<li>字节跳动研究团队开源 BitDance 多模态模型 <code>#6</code></li>
 </ul>
-<h3>产品应用</h3>
+<h3>开发生态</h3>
 <ul>
-<li>月之暗面推出 AI 助手 Kimi Claw <code>#4</code></li>
-<li>MiniMax 宣布即将上线 OpenRoom <code>#5</code></li>
+<li>Cursor 发布 2.5 版本更新，推出插件市场 <code>#7</code></li>
+<li>OpenAI修复GPT-5.3-Codex请求重定向问题 <code>#8</code></li>
+<li>Cerebras下调部分免费层级的推理额度 <code>#9</code></li>
+<li>Intelligent Internet 开源多Agent协作系统 Common Ground Core <code>#10</code></li>
 </ul>
 <h3>行业动态</h3>
 <ul>
-<li>马斯克宣布Grok 4.20下周发布 <code>#6</code></li>
-<li>谷歌发布报告披露Gemini遭滥用 <code>#7</code></li>
+<li>Nerve加入OpenAI构建ChatGPT搜索 <code>#11</code></li>
+<li>传 Moonshot AI 完成7亿美元融资 <code>#12</code></li>
 </ul>
 <hr />
-<h2>OpenClaw 创始人 Peter Steinberger 加入 OpenAI <code>#1</code> <a href="https://steipete.me/posts/2026/openclaw">原文链接</a></h2>
+<h2><a href="https://www.anthropic.com/news/claude-sonnet-4-6">Anthropic 发布 Claude Sonnet 4.6</a> <code>#1</code></h2>
 <blockquote>
-<p>开源 AI 项目 <strong>OpenClaw</strong> 创始人 <strong>Peter Steinberger</strong> 加入 <strong>OpenAI</strong>，将推动下一代 <code>个人 Agent</code> 发展。<strong>OpenClaw</strong> 将转为基金会运营的独立开源项目，并获得 <strong>OpenAI</strong> 支持。<strong>Steinberger</strong> 表示，目标是打造人人可用的 <code>智能体</code>，而与 <strong>OpenAI</strong> 合作是实现这一愿景的最快路径。</p>
+<p><strong>Anthropic</strong> 正式发布了 <code>Claude Sonnet 4.6</code> 模型。该模型在编程、长上下文推理及 <code>Agent</code> 规划能力上全面升级，并支持 <strong>100 万</strong> <code>token</code> 上下文。同步推出的还有改进版网页搜索工具，在提升准确率的同时大幅降低了 <code>Token</code> 消耗。目前，<code>Sonnet 4.6</code> 已上线 <code>API</code> 及各类AI应用，价格与上一代保持一致，免费版用户现已可在<strong>Claude</strong>体验。</p>
 </blockquote>
-<p>开源 AI 智能体项目 <strong>OpenClaw</strong> 创始人 <strong>Peter Steinberger</strong> 已加入 <strong>OpenAI</strong>，旨在推动下一代个人 <code>Agent</code> 的开发。<strong>Steinberger</strong> 在其个人博客中表示，其目标是构建一个普通用户也能便捷使用的 <code>Agent</code>，并认为与 <strong>OpenAI</strong> 合作是将此能力带给所有人的最快方式。</p>
-<p><strong>OpenAI</strong> CEO <strong>Sam Altman</strong> 在社交媒体上确认了此消息，称 <strong>Steinberger</strong> 是一位天才，其关于智能体协同工作的想法将迅速成为 <strong>OpenAI</strong> 产品的核心。<strong>Steinberger</strong> 将在 <strong>OpenAI</strong> 负责驱动下一代个人 <code>Agent</code> 的发展。</p>
-<p>至于 <strong>OpenClaw</strong> 项目的未来，将移转至一个基金会，作为独立开源项目持续运营，并获得 <strong>OpenAI</strong> 支持。<strong>Altman</strong> 强调，未来是“<code>极度多智能体</code>”的时代，支持开源是 <strong>OpenAI</strong> 愿景的重要组成部分。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/fa2660ce-5694-4af4-aedc-34264b54760e/m001.png" alt="" /></p>
+<p><strong>Anthropic</strong> 正式发布 <code>Claude Sonnet 4.6</code>，官方称其为迄今最强的 <code>Sonnet</code> 模型。该模型在编程、长上下文推理、<code>Agent</code> 规划、知识工作及设计等领域全面升级，并提供支持 <strong>100 万</strong> token 的上下文窗口（<code>Beta版</code>）。价格维持每百万 token 输入 <strong>3</strong> 美元、输出 <strong>15</strong> 美元不变。</p>
+<p>性能提升显著。在编程方面，根据 <code>Claude Code</code> 的早期测试，约 <strong>70%</strong> 的开发者更偏好 <code>Sonnet 4.6</code> 而非上代模型，<strong>59%</strong> 的用户选择它而非旗舰 <code>Opus 4.5</code>。用户反馈其在修改代码前能更有效阅读上下文，并减少“偷懒”行为。在计算机使用能力上，<code>OSWorld</code> 基准测试得分从 <strong>14.0%</strong> 大幅提升至 <strong>72.5%</strong>，能更有效地处理复杂电子表格和多步网页表单任务。据外部评估，<code>Sonnet 4.6</code> 在部分真实工作任务基准上略微优于 <code>Opus 4.6</code>。</p>
+<p><strong>Anthropic</strong> 同步推出改进版 <code>Web Search</code> 和 <code>Web Fetch</code> 工具，通过 <code>代码执行</code> 对搜索结果进行动态过滤，官方数据显示平均准确率提升 <strong>11%</strong>，输入 Token 消耗减少 <strong>24%</strong>。<code>Sonnet 4.6</code> 现已上线 <code>API</code> 及各类AI应用，免费版 <strong>Claude</strong> 也可体验<code>Sonnet 4.6</code>。官方建议，对于大规模代码重构等超复杂任务，<code>Opus 4.6</code> 仍是最佳选择，但对多数任务，<code>Sonnet 4.6</code> 提供了极高性价比。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/37ae8237-3741-4ff4-950b-a7944f9f7c68/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/37ae8237-3741-4ff4-950b-a7944f9f7c68/m002.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/37ae8237-3741-4ff4-950b-a7944f9f7c68/m003.png" alt="" /></p>
 <p>相关链接：</p>
 <ul>
-<li><a href="https://x.com/sama/status/2023150230905159801">https://x.com/sama/status/2023150230905159801</a></li>
+<li><a href="https://www.anthropic.com/news/claude-sonnet-4-6">https://www.anthropic.com/news/claude-sonnet-4-6</a></li>
+<li><a href="https://claude.com/blog/improved-web-search-with-dynamic-filtering">https://claude.com/blog/improved-web-search-with-dynamic-filtering</a></li>
 </ul>
 <hr />
-<h2>京东开源JoyAI-LLM-Flash模型 <code>#2</code> <a href="https://huggingface.co/jdopensource/JoyAI-LLM-Flash">原文链接</a></h2>
+<h2><a href="https://x.com/elonmusk/status/2023828048580387001">xAI 上线 Grok 4.20 测试版</a> <code>#2</code></h2>
 <blockquote>
-<p><strong>京东</strong>开源了基于 <code>MoE</code> 架构的语言模型 <code>JoyAI-LLM Flash</code>，总参数量达<strong>48B</strong>， 激活参数<strong>3B</strong>，该模型在知识、推理、编程与智能体任务上表现优异，已发布于 <strong>Hugging Face</strong>。</p>
+<p><strong>xAI</strong> 上线了 <code>Grok 4.20</code> 公开测试版，该版本引入了由四个 <code>Agent</code> 组成的 <code>原生协作系统</code>，用于处理复杂查询。据 <strong>Elon Musk</strong> 称，该版本基于 <strong>5000 亿</strong>参数的 <code>V8</code> 模型，凭借快速学习与每周迭代，<strong>下个月</strong>测试结束时，其智能水平和速度预计将比 <code>Grok 4</code> 提升约一个数量级。</p>
 </blockquote>
-<p><strong>京东集团探索研究院</strong>推出并开源了全新模型<code>JoyAI-LLM-Flash</code>。该模型是基于<code>混合专家系统架构</code>的中型指令语言模型，拥有<strong>480亿总参数</strong>和<strong>30亿激活参数</strong>，专为<code>工具使用</code>、<code>推理</code>和<code>自主问题解决</code>设计。</p>
-<p>性能评估显示，该模型在<strong>19</strong>个权威基准测试中综合表现领先。数学能力上，<code>MATH 500</code>得分<strong>97.10</strong>；编程能力上，<code>HumanEval</code>得分<strong>96.34</strong>；<code>Agentic</code>能力上，<code>SWE-bench Verified</code>得分<strong>60.60</strong>。但在与<code>GLM-4.7-Flash</code>的对比中，其<code>Tau2-Telecom</code>基准得分<strong>79.83</strong>，略低于后者的<strong>88.60</strong>。模型在长上下文处理上表现稳定，<code>RULER</code>基准得分<strong>95.60</strong>。</p>
-<p>该模型在<strong>20万亿</strong><code>token</code>上<code>预训练</code>，并融合了三项关键技术：其一为<code>Fiber Bundle RL</code>，引入<code>FiberPO</code>优化框架以提升<code>训练稳定性</code>；其二是<code>Training-Inference Collaboration</code>，通过带<code>dense MTP</code>的<code>Muon优化器</code>，实现了<strong>1.3</strong>至<strong>1.7</strong>倍的<code>吞吐量</code>提升；其三为<code>Agentic Intelligence</code>，以强化核心的<code>推理</code>与<code>工具调用</code>能力。</p>
-<p>模型权重与代码采用<code>Modified MIT License</code>在<strong>Hugging Face</strong>开源，同步提供了官方<code>API</code>及与<strong>OpenAI</strong>、<strong>Anthropic</strong>兼容的<code>API</code>接口，方便用户<code>部署</code>与<code>集成</code>。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/2ccda77a-5436-4e2e-9cad-a7452b3fd332/m001.png" alt="" /></p>
-<hr />
-<h2>MiniMax上线 M2.5-HighSpeed 高速版API <code>#3</code> <a href="https://mp.weixin.qq.com/s/xOjcMFjA46QdidYJOhK9gw">原文链接</a></h2>
-<blockquote>
-<p><strong>MiniMax</strong>上线<code>M2.5-HighSpeed</code>，速度达<strong>100TPS</strong>。模型已在<code>API</code>中上线，同时上线了极速版<code>Coding Plan</code>，提供 <code>Plus</code>、<code>Max</code>、<code>Ultra</code>三档。</p>
-</blockquote>
-<p><strong>MiniMax</strong>上线了专为Agent应用场景设计的新型号<code>MiniMax-M2.5-HighSpeed</code>。据官方称，该模型支持<strong>100 TPS</strong>的极速推理，速度为同类产品的<strong>3</strong>倍。其对应极速版<code>Coding Plan</code>与<code>API</code>接口已同步上线，<code>Plus</code>、<code>Max</code>与<code>Ultra</code>三档规格套餐均可用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c7d48d38-c487-4cbe-b8dc-92e3900ee656/m001.png" alt="" /></p>
-<hr />
-<h2>月之暗面推出 AI 助手 Kimi Claw <code>#4</code> <a href="https://www.kimi.com/bot">原文链接</a></h2>
-<blockquote>
-<p><strong>月之暗面</strong>推出 <code>Kimi Claw</code>，一个集成于 <strong>kimi.com</strong> 中的 <code>OpenClaw 框架</code> 实现。支持 <strong>7*24</strong> 小时运行。目前已上线 <strong>Beta</strong> 测试，支持 <strong>Allegretto</strong> 及以上套餐用户。</p>
-</blockquote>
-<p><strong>Moonshot AI</strong> 推出集成于 <strong>kimi.com</strong> 的 <strong>Kimi Claw</strong>（<code>OpenClaw</code> 框架实现），提供 <strong>7×24 小时</strong>云端 AI Agent 环境。该功能目前处于 <code>Beta</code> 测试阶段，面向 <strong>Allegretto</strong> 及以上套餐用户（据称需 <strong>199 元/月</strong>及以上）。</p>
-<p>核心功能包括：<code>ClawHub</code> 技能库（<strong>5000+</strong> 社区技能）支持无代码集成；<strong>40GB</strong> 云存储优化 <code>RAG</code> 流程；<strong>Pro-Grade Search</strong> 提供 <strong>Yahoo Finance</strong> 等实时结构化数据；<code>BYOC</code> 模式允许接入自托管实例。</p>
-<p>技术层面，<strong>Kimi Claw</strong> 运行在基于 <code>KVM/QEMU</code> 的 <code>Ubuntu 24.04 LTS</code> 虚拟化环境中，配置为 <strong>2</strong> vCPU（<code>Intel Xeon Platinum 8582C</code>）、<strong>3.8GB</strong> 内存、<strong>40GB</strong> 存储，默认使用 <code>Kimi K2.5 Thinking</code> 模型并支持定时任务。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/b554ffc7-e448-4870-a6f7-5333f374d6a7/m001.png" alt="" /></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/b554ffc7-e448-4870-a6f7-5333f374d6a7/m002.png" alt="" /></p>
-<hr />
-<h2>MiniMax 宣布即将上线 OpenRoom <code>#5</code> <a href="https://www.openroom.ai/">原文链接</a></h2>
-<blockquote>
-<p><strong>MiniMax</strong> 推出名为 <strong>OpenRoom</strong> 的首个 <code>agent-native</code> playground，支持用户探索由 <code>agent</code> 构建的 <code>多模态</code> 动态世界，并与 <code>agent</code> 互动。平台目前处于“即将上线”阶段，可通过加入官方社区获取访问。</p>
-</blockquote>
-<p><strong>MiniMax</strong> 推出 <strong>OpenRoom</strong>，定位为 <strong>首个</strong> <code>agent-native</code> <code>playground</code>。该平台允许用户探索由 <code>agent</code> 构建的动态多模态世界，并体验 <code>agent</code> 与人类之间的互动。用户可与不同 <code>agent</code> 建立连接，并让其在环境中主导运行。</p>
-<p>产品目前状态为“Coming soon”，正根据真实用户的反馈进行快速迭代和演化。早期访问权限可通过加入其社区获取。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/eb972b87-f05c-42c7-b0c3-82e6ee7fa0a3/m001.png" alt="" /></p>
+<p><strong>xAI</strong>上线了<code>Grok 4.20</code>公开测试版，用户需在应用内手动选择。据创始人<strong>Elon Musk</strong>透露，该模型并非单纯迭代，而是基于<strong>500B</strong>参数的<code>V8</code>小型基础模型构建。官方声明指出，<code>Grok 4.2</code>基础设施支持快速学习与每周更新，以实现“<code>递归智能增长</code>”。官方预计，在下个月测试版结束时，其智能水平和速度将比<code>Grok 4</code>提升约一个数量级。</p>
+<p>该版本引入的原生<code>多Agent协作系统</code>是其核心亮点。据了解，该系统包含<code>Grok/Captain</code>、<code>Harper</code>、<code>Benjamin</code>和<code>Lucas</code> <strong>四个</strong> Agent，在处理复杂查询时自动运行。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/7078bb72-ab29-4eeb-9a0a-1c0a2666c81d/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/7078bb72-ab29-4eeb-9a0a-1c0a2666c81d/m002.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/7078bb72-ab29-4eeb-9a0a-1c0a2666c81d/m003.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/7078bb72-ab29-4eeb-9a0a-1c0a2666c81d/m004.png" alt="" /></p>
 <p>相关链接：</p>
 <ul>
-<li><a href="https://x.com/MiniMax_AI/status/2023059842542485683">https://x.com/MiniMax_AI/status/2023059842542485683</a></li>
+<li><a href="https://x.com/elonmusk/status/2023828048580387001">https://x.com/elonmusk/status/2023828048580387001</a></li>
 </ul>
 <hr />
-<h2>马斯克宣布Grok 4.20下周发布 <code>#6</code> <a href="https://x.com/elonmusk/status/2022921927791382896">原文链接</a></h2>
+<h2><a href="https://x.com/NotebookLM/status/2023851190102986970">NotebookLM推出幻灯片Prompt修订与PPTX导出</a> <code>#3</code></h2>
 <blockquote>
-<p><strong>Elon Musk</strong> 宣布 <code>Grok 4.20</code> 将于下周发布，相比 <code>4.1</code> 版本有显著升级。</p>
+<p><strong>NotebookLM</strong> 发布重要更新，现在可以直接输入提示词来微调和修改幻灯片内容。同时，系统新增了 <code>PPTX</code> 导出支持，允许用户将生成的演示文稿直接下载为 <code>PPTX</code> 文件。这两项功能目前正在向 <strong>Ultra</strong> 和 <strong>Pro</strong> 会员推送。</p>
 </blockquote>
-<p><strong>马斯克</strong>称<code>Grok 4.20</code>下周发布，较<code>4.1</code>显著改进。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/221286a1-616c-4976-8913-e8c39c44799d/c094f103-37e3-48f8-aca6-a31757901161/m001.png" alt="" /></p>
-<hr />
-<h2>谷歌发布报告披露Gemini遭滥用 <code>#7</code> <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-report-ai-cyber-attacks-feb-2026/">原文链接</a></h2>
-<blockquote>
-<p><strong>Google</strong>威胁情报团队报告称，<strong>2025年第四季度</strong>，黑客加速利用<code>AI</code>实施攻击，包括<code>模型提取</code>、<code>AI钓鱼</code>及<code>恶意软件开发</code>。<strong>Google</strong>已禁用违规账户，强化安全控制，并推出<code>SAIF框架</code>与防御工具应对<code>AI</code>滥用风险。</p>
-</blockquote>
-<p><strong>Google Threat Intelligence Group</strong> (<strong>GTIG</strong>) 发布了一份报告，详细说明了威胁行为者对人工智能的滥用情况，包括 <code>模型提取攻击</code>、<code>AI增强的钓鱼活动</code> 以及新型 <code>AI集成恶意软件</code> 的开发。报告指出，在 <strong>2025年第四季度</strong> 观察到威胁行为者日益整合AI以加速攻击生命周期，但目前尚未发现政府背景的 <code>APT</code> 组织对前沿模型或生成式AI产品发起直接攻击。<strong>Google</strong> 已采取行动，包括禁用相关账户，并加强了安全控制与 <code>Gemini模型</code> 以防止滥用。</p>
+<p><code>NotebookLM</code> 发布两项重要更新：<code>Prompt-Based Revisions</code> 与 <code>PPTX Support</code>，以回应用户强烈需求。</p>
+<p>核心功能 <code>Prompt-Based Revisions</code> 允许用户通过 <code>Prompt</code> 描述直接对幻灯片进行调整、定制和微调。此外，<code>NotebookLM</code> 现已支持将生成的幻灯片导出为 <code>PPTX</code> 格式，官方透露 <strong>Google Slides</strong> 的支持即将推出。<code>NotebookLM</code> 正为 <code>Ultra</code> 和 <code>Pro</code> 会员推送这两项新功能：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/a726e5fc-b654-42ea-9d19-ca3d11dc9ace/m001.png" alt="" /></p>
 <p>相关链接：</p>
 <ul>
-<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use">https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use</a></li>
+<li><a href="https://x.com/NotebookLM/status/2023851190102986970">https://x.com/NotebookLM/status/2023851190102986970</a></li>
+</ul>
+<hr />
+<h2><a href="https://xqacmer.github.io/Ming-Flash-Omni-V2-TTS/">蚂蚁集团开源Ming-omni-tts音频生成模型</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong> <code>Inclusion AI</code> 开源了统一音频生成模型 <code>Ming-Omni-TTS</code>。该模型不仅能生成语音，还能合成音乐和环境音，包含 <strong>0.5B</strong> 和 <strong>16.8B-A3B</strong> 两个版本。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong> <strong>inclusionAI</strong> 开源统一音频生成模型 <code>Ming-omni-tts</code>，提供 <strong>0.5B</strong> 及 <code>16.8B-A3B</code> 两个版本。该模型是业界首个在单通道内联合生成语音、环境音和音乐的 <code>自回归模型</code>，通过定制 <strong>12.5Hz</strong> 连续 <code>Tokenizer</code> 实现了 <strong>3.1Hz</strong> 的高效推理帧率。官方评测显示，<code>Ming-omni-tts-16.8B-A3B</code> 在粤语生成、情感控制及零样本语音克隆等基准测试中达到 <code>SOTA</code> 水平，其文本规范化能力媲美 <code>Gemini-2.5 Pro</code>。模型权重及推理代码已上线 <strong>Hugging Face</strong>、<strong>ModelScope</strong> 及 <strong>GitHub</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/ea284cf1-f5d6-42cf-a715-7f1e71cee91c/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://xqacmer.github.io/Ming-Flash-Omni-V2-TTS/">https://xqacmer.github.io/Ming-Flash-Omni-V2-TTS/</a></li>
+<li><a href="https://github.com/inclusionAI/Ming-omni-tts">https://github.com/inclusionAI/Ming-omni-tts</a></li>
+<li><a href="https://modelscope.cn/studios/antsipan/ming-uniaudio-demo">https://modelscope.cn/studios/antsipan/ming-uniaudio-demo</a></li>
+</ul>
+<hr />
+<h2><a href="https://cohere.com/blog/cohere-labs-tiny-aya">Cohere Labs发布Tiny Aya多语言模型</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Cohere Labs</strong> 发布了名为 <code>Tiny Aya</code> 的多语言小型模型家族。该系列拥有 <strong>33.5 亿</strong> 参数，覆盖全球 <strong>70 多种</strong> 语言。</p>
+</blockquote>
+<p><strong>Cohere Labs</strong> 发布多语言小型模型家族 <code>Tiny Aya</code>。该系列包含 <strong>3.35B</strong> 参数基座模型及 <strong>4</strong> 个针对全球及特定区域（南亚、西亚/非洲、欧亚）优化的指令微调模型，覆盖 <strong>70+</strong> 种语言，侧重低资源语言支持。模型上下文 <strong>8K</strong>，采用 <code>CC-BY-NC</code> 协议，支持在笔记本电脑及手机端离线运行。官方指出模型擅长翻译与摘要，但在思维链推理任务上表现较弱。目前模型已在 <strong>Hugging Face</strong>、<strong>Kaggle</strong> 等平台开源，提供 <code>GGUF</code> 格式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/88832ab7-c4cc-48f2-9407-70a7fc40e493/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cohere.com/blog/cohere-labs-tiny-aya">https://cohere.com/blog/cohere-labs-tiny-aya</a></li>
+<li><a href="https://github.com/Cohere-Labs/tiny-aya-tech-report/blob/main/tiny_aya_tech_report.pdf">https://github.com/Cohere-Labs/tiny-aya-tech-report/blob/main/tiny_aya_tech_report.pdf</a></li>
+<li><a href="https://huggingface.co/collections/CohereLabs/tiny-aya">https://huggingface.co/collections/CohereLabs/tiny-aya</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/shallowdream204/BitDance">字节跳动研究团队开源 BitDance 多模态模型</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>字节跳动</strong>研究团队发布了名为 <code>BitDance</code> 的开源多模态模型，参数量达 <strong>140 亿</strong>，该模型专为视觉生成优化，通过 <code>并行预测 Token</code>，推理速度比标准模型提升超过 <strong>30 倍</strong>。</p>
+</blockquote>
+<p><strong>字节跳动</strong>研究团队近日发布开源离散自回归多模态模型 <code>BitDance</code>，参数量为 <strong>14B</strong>。模型引入<code>大词汇量二元分词器</code>及<code>下一块扩散范式</code>，支持每步并行预测最多 <strong>64</strong> 个 <code>Token</code>，官方数据显示其比标准 <code>AR 模型</code>推理速度快 <strong>30 倍</strong>以上。</p>
+<p>官方发布了 <code>BitDance-14B-64x</code> 和 <code>16x</code> 两个版本，配套 <code>UniWeTok</code> 分词器。在性能方面，<code>BitDance</code> 在 <code>DPG-Bench</code>（<strong>88.28</strong> 分）和 <code>GenEval</code>（<strong>0.86</strong> 分）上表现优异。目前，该模型代码与权重已在 <strong>GitHub</strong> 和 <strong>Hugging Face</strong> 开源（<code>Apache 2.0</code>），并提供在线演示，相关论文已发布于 <strong>arXiv</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/a5632f31-cd75-4f9a-b20b-abc61940866e/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/shallowdream204/BitDance">https://github.com/shallowdream204/BitDance</a></li>
+<li><a href="https://bitdance.csuhan.com/">https://bitdance.csuhan.com/</a></li>
+<li><a href="https://huggingface.co/collections/shallowdream204/bitdance">https://huggingface.co/collections/shallowdream204/bitdance</a></li>
+</ul>
+<hr />
+<h2><a href="https://cursor.com/changelog/2-5">Cursor 发布 2.5 版本更新，推出插件市场</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 发布了 <strong>2.5</strong> 版本更新，上线了 <strong>Cursor Marketplace</strong> 插件市场。首批整合了 <strong>Figma</strong>、<strong>Stripe</strong> 和 <strong>AWS</strong> 等工具。此外，<code>子智能体</code>现在支持<code>异步运行</code>与<code>树状协作</code>，<code>沙箱功能</code>新增了<code>细粒度访问控制</code>。</p>
+</blockquote>
+<p>近日，代码编辑器 <strong>Cursor</strong> 正式发布 <code>2.5</code> 版本，上线了 <code>Cursor Marketplace</code> 插件市场，并对核心 <code>Agent</code> 功能与 <code>沙盒</code> 安全机制进行了升级。</p>
+<p>在扩展性方面，新版本引入统一<code>插件</code>机制，将 <code>Skills</code>、<code>Subagents</code>、<code>MCP servers</code> 等能力打包。<code>Cursor Marketplace</code> 已汇集 <strong>Linear</strong>、<strong>Figma</strong>、<strong>Stripe</strong>、<strong>AWS</strong> 等首批合作伙伴插件，覆盖设计、支付、部署及数据分析全流程。用户可通过网页或编辑器内 <code>/add-plugin</code> 命令直接安装。官方已开放插件提交入口，并发布了其内部 <code>CI</code> 和 <code>代码审查</code> 工作流模板 <code>Cursor Team Kit</code>，未来将推出支持统一治理的私有团队插件市场。</p>
+<p>在 <code>Agent</code> 性能方面，<code>子智能体</code> 现已支持异步运行与树状层级协作，使<code>父智能体</code>可在后台执行任务，以更低的延迟处理大型重构或多文件任务。基于此，官方推出了具备自主规划与执行能力的 <code>长期运行智能体</code>，官方称在测试中已能生成更完整的 <code>PR</code> 并减少后续干预。</p>
+<p>在安全与权限控制方面，<code>沙盒</code> 新增了对域名和本地文件系统的细粒度访问控制，提供 <code>仅用户配置</code>、<code>用户配置+默认值</code> 及 <code>允许全部</code> 三种模式。企业版管理员可通过 <code>管理控制台</code> 强制实施网络策略，确保组织级的出站访问安全。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/be845020-a5ba-43a5-a15f-fac997938c77/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/be845020-a5ba-43a5-a15f-fac997938c77/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/changelog/2-5">https://cursor.com/changelog/2-5</a></li>
+<li><a href="https://cursor.com/blog/marketplace">https://cursor.com/blog/marketplace</a></li>
+</ul>
+<hr />
+<h2><a href="https://developers.openai.com/codex/concepts/cyber-safety">OpenAI修复GPT-5.3-Codex请求重定向问题</a> <code>#8</code></h2>
+<blockquote>
+<p>针对部分用户使用 <code>GPT-5.3-Codex</code> 却被路由至 <code>GPT-5.2</code> 的问题，<strong>OpenAI</strong> 称已修复相关 <code>Bug</code> 并校准了 <code>分类器</code>，同时在 <code>CLI</code> <strong>v0.102.0</strong> 版本中加入了显眼的降级通知功能。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 将 <code>GPT-5.3-Codex</code> 定义为其 <strong>Preparedness Framework</strong> 下的首个**“高网络安全能力”**模型。鉴于网络能力具备支持防御性研究与潜在恶意滥用的双重用途属性，<strong>OpenAI</strong> 实施了包括<code>安全训练</code>和<code>自动监控</code>在内的多重防护措施，会将检测到的<code>可疑网络活动流量</code> <code>重路由</code>至网络能力较弱的 <code>GPT-5.2</code> 模型。</p>
+<p>针对近期用户遭遇请求被意外降级的情况，<strong>OpenAI</strong> 团队成员承认，系统曾在特定时段出现<code>过度标记问题</code>，影响了约 <strong>9%</strong> 的用户。该问题已修复，团队通过<code>校准分类器</code>将预期受影响用户比例降至 <strong>1%</strong> 以下，并修复了<code>信任访问权限</code>未生效的 <code>Bug</code>。为提升透明度，<code>CLI v0.102.0</code> 版本已加入请求被降级时的<code>显眼通知</code>，并将在未来几天内扩展至所有客户端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/01abe632-e2e8-4802-9ff8-8b94bfbd5b27/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/codex/concepts/cyber-safety">https://developers.openai.com/codex/concepts/cyber-safety</a></li>
+<li><a href="https://x.com/embirico/status/2023891414623592653">https://x.com/embirico/status/2023891414623592653</a></li>
+</ul>
+<hr />
+<h2><a href="https://inference-docs.cerebras.ai/models/overview">Cerebras下调部分免费层级的推理额度</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Cerebras</strong> 官方宣布，由于部分模型需求量激增，已暂时下调相关模型免费层级的 <code>速率限制</code>。</p>
+</blockquote>
+<p><strong>Cerebras</strong>官方宣布，因<code>zai-glm-4.7</code>和<code>qwen-3-235b-a22b-instruct-2507</code>模型需求激增，已暂时下调免费层级<code>速率限制</code>，正致力恢复原有设置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/c0ebb726-a3e0-4afc-8ae0-a410a7df87ea/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://inference-docs.cerebras.ai/models/overview">https://inference-docs.cerebras.ai/models/overview</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/Intelligent-Internet/CommonGround">Intelligent Internet 开源多Agent协作系统 Common Ground Core</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Intelligent Internet</strong> 宣布开源 <code>多 Agent</code> 协作操作系统 <code>Common Ground Core</code>，这是一个协议优先的 <code>OS</code> 内核，旨在解决 <code>多 Agent 系统</code> 常见的上下文丢失等问题。</p>
+</blockquote>
+<p><strong>Intelligent Internet</strong> 团队近日开源 <code>多 Agent 协作操作系统</code> <strong>Common Ground Core (CGC)</strong>。该系统定位为 <code>协议优先的 OS 内核</code>，旨在解决 <code>多 Agent</code> 扩展时的 <code>上下文丢失</code>、<code>死锁</code> 及 <code>协调崩溃</code> 等问题。<strong>CGC</strong> 采用 <code>边缘自由、内核约束</code> 设计，利用 <strong>Postgres</strong> 维护 <code>不可变共享认知账本</code> 作为 <code>真理源</code>，通过 <strong>NATS</strong> 消除 <code>分布式消息重排序风险</code>。系统将人类视为与 AI 平等的 <code>异步节点</code>，支持介入协作。目前项目已在 <strong>GitHub</strong> 发布 <code>预览版</code>，提供 <strong>Docker</strong> 部署并集成 <strong>CardBox</strong> 状态模型。官方特别提示，当前版本 <code>API</code> 无认证且具备 <code>任意命令执行能力</code>，严禁直接暴露于 <code>公网</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/b928c84e-5235-405d-819a-51c14e1ad9d8/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/Intelligent-Internet/CommonGround">https://github.com/Intelligent-Internet/CommonGround</a></li>
+<li><a href="https://ii.inc/web/blog/post/common-ground-core-cgc">https://ii.inc/web/blog/post/common-ground-core-cgc</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.usenerve.com/blog/joining-openai">Nerve加入OpenAI构建ChatGPT搜索</a> <code>#11</code></h2>
+<blockquote>
+<p>初创公司 <strong>Nerve</strong> 宣布加入 <strong>OpenAI</strong>，团队将致力于在更大规模上为 <strong>ChatGPT</strong> 构建搜索功能。</p>
+</blockquote>
+<p>企业级 <code>AI Agent</code> 初创公司 <strong>Nerve</strong> 官方宣布加入 <strong>OpenAI</strong>，旨在为 <code>ChatGPT</code> 构建更大规模的搜索功能。<strong>Nerve</strong> 过去 <strong>两年</strong> 专注于以搜索为核心的企业级 <code>Agent</code>，因认可 <strong>OpenAI</strong> 在 <code>信息检索</code> 领域的深度与雄心而决定加入。针对现有客户，<strong>Nerve</strong> 宣布产品将在 <strong>30 天后</strong> 正式关停，即日起暂停所有计费；未来 <strong>30 天内</strong> 服务将继续运行并提供支持，过渡期结束后将安全删除所有客户数据。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e48a712e-9804-40a3-83ef-a724b8c835d1/970fab9f-d63e-4427-96e6-c64530e0cae8/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.usenerve.com/blog/joining-openai">https://www.usenerve.com/blog/joining-openai</a></li>
+</ul>
+<hr />
+<h2><a href="https://mp.weixin.qq.com/s/MRx63AOgKZcn9ug8aSiH6w">传 Moonshot AI 完成7亿美元融资</a> <code>#12</code></h2>
+<blockquote>
+<p>据媒体报道，<strong>月之暗面</strong>完成<strong>7亿美元</strong>融资，<strong>阿里巴巴</strong>和<strong>腾讯</strong>参与投资，公司投后估值超过<strong>100亿美元</strong>。</p>
+</blockquote>
+<p>据媒体报道，<strong>Moonshot AI（月之暗面）<strong>完成</strong>7亿美元</strong>融资，投后估值超<strong>100亿美元</strong>。本轮融资由<strong>Alibaba</strong>与<strong>Tencent</strong>参与。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/MRx63AOgKZcn9ug8aSiH6w">https://mp.weixin.qq.com/s/MRx63AOgKZcn9ug8aSiH6w</a></li>
 </ul>
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
