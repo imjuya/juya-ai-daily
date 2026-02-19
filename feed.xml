@@ -1,5 +1,173 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-18T01:17:43.472966+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-18T01:17:43.813965+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-19T01:57:41.831652+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-19T01:57:42.180293+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
+<h1>AI 早报 2026-02-19</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qaQ1uDPjCqk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1WfZ8BqEu6">哔哩哔哩</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>Google DeepMind发布Lyria 3音乐生成模型 <code>#1</code></li>
+<li>xAI 发布16-Agent协作模式 Grok 4.20 Heavy <code>#2</code></li>
+<li>Prime Intellect开源106B参数MoE模型 <code>#3</code></li>
+<li>印度AI企业Sarvam发布Sarvam-30B与105B <code>#4</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI 开源 Codex App Server 支持ChatGPT登录 <code>#5</code></li>
+<li>Figma 推出 Claude Code to Figma 功能 <code>#6</code></li>
+<li>OpenAI发布智能合约安全基准EVMbench <code>#7</code></li>
+<li>Gemini CLI 推出 v0.29.0 版本每周更新 <code>#8</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>谷歌、OpenAI 和微软宣布在印计划 <code>#9</code></li>
+<li>Perplexity撤下搜索平台广告 <code>#10</code></li>
+<li>World Labs完成融资并与Autodesk合作 <code>#11</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>智谱AI发布GLM-5技术报告 <code>#12</code></li>
+</ul>
+<hr />
+<h2><a href="https://deepmind.google/models/lyria/">Google DeepMind发布Lyria 3音乐生成模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 发布音乐生成模型 <code>Lyria 3</code>，并已在 <code>Gemini</code> 桌面端开启测试。用户只需输入文字描述或上传图片、视频，即可生成 <strong>30 秒</strong> 带歌词的 <code>高保真</code> 音乐，且支持对风格和人声的精细控制。该功能面向 <strong>18 岁</strong> 以上用户开放，生成的所有音轨均嵌入 <code>SynthID</code> 水印，以确保可追溯性。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> 发布最先进音乐生成模型 <strong>Lyria 3</strong>，并已在 <strong>Gemini App</strong> 中推出 Beta 版。用户可以通过 <code>文本转音轨</code> 功能，描述特定的流派、情绪、记忆甚至内部笑话来生成音乐；也可以利用 <code>图像/视频转音轨</code> 功能，上传照片或视频，让 AI 根据视觉内容的氛围自动谱曲并填写歌词。<strong>Gemini App</strong> 生成的音轨时长固定为 <strong>30</strong> 秒，并附带由 <code>Nano Banana</code> 生成的自定义封面图。</p>
+<p>官方指出，<strong>Lyria 3</strong> 的 <strong>三大</strong> 改进点包括：自动生成歌词无需用户提供、提供对风格及人声和节奏的更强控制、以及生成更真实且音乐结构更复杂的曲目。该服务目前向所有 <strong>18</strong> 岁及以上的 <strong>Gemini</strong> 用户开放，支持英语、德语、西班牙语、法语、印地语、日语、韩语和葡萄牙语。桌面端现已可用，移动端预计将在未来几天内上线，<strong>Google AI Plus</strong>、<strong>Pro</strong> 和 <strong>Ultra</strong> 订阅用户将享有更高的使用额度。在 <strong>Gemini</strong> 应用中生成的所有音轨均嵌入了 <code>SynthID</code>，<strong>Gemini</strong> 亦上线了 <code>音频验证工具</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/f050b0b0-bd7f-4176-b7e3-b545c975855d/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://deepmind.google/models/lyria/">https://deepmind.google/models/lyria/</a></li>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/">https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/elonmusk/status/2024194618930401590">xAI 发布16-Agent协作模式 Grok 4.20 Heavy</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Elon Musk</strong> 宣布<strong>xAI</strong>上线 <code>Grok 4.20 Heavy</code> 并向 Heavy 订阅用户开放。该模型核心架构为由 <strong>16</strong> 个专门化 <code>Agent</code> 组成的协作团队。</p>
+</blockquote>
+<p><strong>Elon Musk</strong>宣布推出<code>Grok 4.20 Heavy</code>，称其为重大升级，现已向<strong>Heavy</strong>订阅者开放。该版本核心变化在于底层架构调整，即在<code>grok-4.20架构</code>下运行由<strong>16</strong>个专门化<code>Agent</code>组成的团队进行<code>实时协作</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/e0145bc4-033f-4528-bfb5-5821485d31b6/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2024194618930401590">https://x.com/elonmusk/status/2024194618930401590</a></li>
+<li><a href="https://x.com/tetsuoai/status/2024121909286494435">https://x.com/tetsuoai/status/2024121909286494435</a></li>
+</ul>
+<hr />
+<h2><a href="https://huggingface.co/PrimeIntellect/INTELLECT-3.1">Prime Intellect开源106B参数MoE模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Prime Intellect</strong> 发布了基于 <code>GLM-4.5-Air-Base</code> 通过 <code>强化学习</code> 训练的 <code>INTELLECT-3.1</code> 模型，显著提升了在数学、编程及 <code>Agent</code> 任务上的表现。</p>
+</blockquote>
+<p><strong>Prime Intellect</strong> 发布开源推理模型 <code>INTELLECT-3.1</code>。该模型采用 <code>Mixture-of-Experts (MoE)</code> 架构，拥有 <strong>106B</strong> 总参数及 <strong>A12B</strong> 活跃参数，基于 <code>zai-org/GLM-4.5-Air-Base</code> 并结合 <code>prime-rl</code> 框架进行了强化学习训练，重点提升了数学、编程、软件工程和 <code>Agent</code> 任务的能力。</p>
+<p>官方已将模型、训练框架及环境以 <code>MIT</code> 和 <code>Apache 2.0</code> 协议完全开源，并提供了技术报告。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/PrimeIntellect/INTELLECT-3.1">https://huggingface.co/PrimeIntellect/INTELLECT-3.1</a></li>
+</ul>
+<hr />
+<h2><a href="https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai">印度AI企业Sarvam发布Sarvam-30B与105B</a> <code>#4</code></h2>
+<blockquote>
+<p>印度AI初创公司<strong>Sarvam</strong>发布了从零训练的<code>Sarvam-30B</code>和<code>Sarvam-105B</code>混合专家架构模型。根据官方数据，这两款模型针对印度本土语言进行了优化，在多项基准测试中表现出色。</p>
+</blockquote>
+<p>印度AI初创公司<strong>Sarvam</strong>近日发布了<strong>两款</strong>从零训练的<code>大型语言模型``Sarvam-30B</code>和<code>Sarvam-105B</code>，并同步推出语音及视觉模型。核心模型采用<code>混合专家架构</code>，获<strong>印度政府</strong>、<strong>Yotta</strong>及<strong>Nvidia</strong>支持。其中，<strong>30B</strong>模型预训练数据达<strong>16T</strong> <code>Token</code>，支持<strong>32k</strong> <code>上下文</code>；<strong>105B</strong>模型支持<strong>128k</strong> <code>上下文</code>，专攻复杂推理。官方数据显示，其性能优于或持平<code>Gemma</code>、<code>Qwen</code>等竞品。<strong>Sarvam</strong>计划开源<strong>这两款</strong>模型，并推出**“Sarvam for Work”<strong>企业工具及</strong>“Samvaad”**对话<code>Agent</code>平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/d06d1a70-4751-4a0e-a57a-33b53050c804/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/d06d1a70-4751-4a0e-a57a-33b53050c804/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai">https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai</a></li>
+</ul>
+<hr />
+<h2><a href="https://developers.openai.com/codex/app-server/">OpenAI 开源 Codex App Server 支持ChatGPT登录</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 开源了驱动 Codex 应用的底层框架 <code>Codex App Server</code>，允许开发者将 <code>Codex Agent</code> 深度集成到自有产品中。该工具支持通过 <strong>ChatGPT</strong> 账号 <code>OAuth</code> 直接接入第三方应用。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 已开源其核心接口 <code>Codex App Server</code>，旨在让开发者在自有产品中深度集成 <code>Codex Agent</code>。该服务器是 Codex 富客户端（如 <code>VS Code</code> 扩展）的底层驱动，支持通过 <strong>ChatGPT</strong> 账号 <code>OAuth</code> 直接接入第三方应用，并提供身份验证、会话历史、审批流和流式 Agent 事件等完整功能。在协议层面，其采用类似 <code>MCP</code> 的 <code>JSON-RPC 2.0</code> 进行双向通信，支持 <code>stdio</code> 和实验性的 <code>websocket</code> 传输方式。客户端必须在连接后立即发送 <code>initialize</code> 请求并携带标识信息，企业级集成需在 <strong>OpenAI</strong> 平台注册。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/f1458b74-fc09-407d-9990-8504ee226fb2/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/codex/app-server/">https://developers.openai.com/codex/app-server/</a></li>
+<li><a href="https://github.com/openai/codex/tree/main/codex-rs/app-server">https://github.com/openai/codex/tree/main/codex-rs/app-server</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.figma.com/blog/introducing-claude-code-to-figma/">Figma 推出 Claude Code to Figma 功能</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Figma</strong> 近期推出 <code>Claude Code to Figma</code> 功能，利用 <code>Figma MCP Server</code>，能够将 <code>Claude Code</code> 生成的 <code>UI</code> 直接转化为 <strong>Figma</strong> 画布上的可编辑 <code>Frame</code>。</p>
+</blockquote>
+<p><strong>Figma</strong> 近期推出“<code>Claude Code</code> to <strong>Figma</strong>”功能，通过更新<strong>Figma</strong><code>MCP server</code>，打通代码构建与设计协作。开发者可将<code>Claude Code</code>生成的真实<code>UI</code>转化为<strong>Figma</strong>画布上可编辑的<code>Frame</code>，支持捕捉完整流程并保留上下文，从而实现从“代码收敛”到“画布发散”的高效转换。该功能允许团队直接对代码生成的界面进行协作，避免了截图反馈的摩擦，并支持从设计回到代码的“往返”工作流。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/1aadc184-cda8-4630-858b-7a5f6b3a2db2/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.figma.com/blog/introducing-claude-code-to-figma/">https://www.figma.com/blog/introducing-claude-code-to-figma/</a></li>
+</ul>
+<hr />
+<h2><a href="https://openai.com/index/introducing-evmbench/">OpenAI发布智能合约安全基准EVMbench</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 与 <strong>Paradigm</strong> 联合推出了<code>智能合约安全基准</code> <code>EVMbench</code>，旨在评估 <code>AI Agent</code> 在检测、修补及利用高危漏洞方面的<code>实战能力</code>。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 联合 <strong>Paradigm</strong> 发布 <code>EVMbench</code> 基准，旨在评估 <code>AI Agent</code> 在 <code>智能合约</code> 安全领域（<code>检测</code>、<code>修补</code>、<code>利用</code>）的能力。该基准包含 <strong>120</strong> 个源自 <strong>40</strong> 次审计的漏洞场景，并配备基于 <code>Rust</code> 的测试工具和 <code>隔离沙盒</code> 环境。</p>
+<p>官方评估显示，<code>GPT-5.3-Codex</code> 在 <code>Exploit</code> 模式得分 <strong>72.2%</strong>，显著优于 <code>GPT-5</code> 的 <strong>31.9%</strong>，但在 <code>检测</code> 和 <code>修补</code> 方面仍有提升空间。<strong>OpenAI</strong> 承认该基准存在环境与评分机制局限，不完全代表现实难度。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-evmbench/">https://openai.com/index/introducing-evmbench/</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/google-gemini/gemini-cli/discussions/19473">Gemini CLI 推出 v0.29.0 版本每周更新</a> <code>#8</code></h2>
+<blockquote>
+<p><code>Gemini CLI</code> 推出 <code>v0.29.0</code> 版本更新，新增 <code>Ask User Tool</code> 支持模型交互式提问以澄清指令，同时引入 <code>Conductor</code> 和 <code>Firebase Agent Skills</code> 扩展，并上线了实验性 <code>Plan Mode</code>。</p>
+</blockquote>
+<p><strong>Gemini CLI</strong> 近日推出 <strong>v0.29.0</strong> 版本更新，新增 <code>Ask User Tool</code>，支持模型交互式暂停并询问用户以获取澄清。官方扩展了生态系统，引入 <strong>Conductor</strong> 扩展用于自动化逻辑审查与合规报告，以及 <strong>Firebase Agent Skills</strong> 扩展以优化开发体验。性能方面，更新优化了对海量工具输出的处理，防止 <code>上下文窗口</code> 过载，从而支持更长时间的高质量推理；同时改进了 <code>Vim</code> 编辑体验（支持 <code>W</code>、<code>B</code>、<code>E</code> 动作）及快捷键可发现性（按 <code>?</code> 唤起）。此外，官方首推实验性 <code>Plan Mode</code>，该只读模式旨在帮助用户在不修改文件的前提下映射代码库并验证假设。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/google-gemini/gemini-cli/discussions/19473">https://github.com/google-gemini/gemini-cli/discussions/19473</a></li>
+</ul>
+<hr />
+<h2><a href="https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/">谷歌、OpenAI 和微软宣布在印计划</a> <code>#9</code></h2>
+<blockquote>
+<p>在新德里 <code>AI Impact Summit</code> 上，<strong>谷歌</strong>、<strong>OpenAI</strong> 和 <strong>微软</strong> 密集公布了它们在印度的最新计划。<strong>谷歌</strong>启动了连接美印的<code>战略光纤倡议</code>；<strong>OpenAI</strong> 联合当地顶尖高校，将 <code>ChatGPT Edu</code> 引入高等教育体系；<strong>微软</strong> 则承诺在印度培训 <strong>2000 万人</strong>。</p>
+</blockquote>
+<p>本周在新德里<strong>AI Impact Summit</strong>期间，<strong>Google</strong>、<strong>OpenAI</strong>和<strong>Microsoft</strong>密集公布在印扩展计划。<strong>Google</strong>启动“<strong>America-India Connect</strong>”光缆基建倡议，连接美印及南半球；<strong>Google.org</strong>投入共<strong>6000万美元</strong>用于科学及政府创新挑战赛，并深化在教育、农业及能源领域的<code>AI模型</code>部署。<strong>OpenAI</strong>通过与印度顶尖高校合作，将<code>ChatGPT Edu</code>整合进高等教育体系，覆盖逾<strong>10万</strong>师生。<strong>Microsoft</strong>宣布到本十年末向“<strong>全球南方</strong>”投资<strong>500亿美元</strong>，其中计划在<strong>2030年</strong>前培训<strong>2000万</strong>印度人。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/">https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/</a></li>
+<li><a href="https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills">https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.ft.com/content/6eec07a5-34a8-4f78-a9ed-93ab4263d43c">Perplexity撤下搜索平台广告</a> <code>#10</code></h2>
+<blockquote>
+<p>据报道，<strong>Perplexity</strong>将撤下平台所有广告，以确保用户信任和搜索准确性。公司战略重心现已转向订阅服务和企业销售，并计划积极扩充销售团队。</p>
+</blockquote>
+<p>据报道，AI 搜索初创公司 <strong>Perplexity</strong> 将从平台撤下广告，以维护用户信任，坚持“准确性企业”定位。该公司高管表示不会在聊天机器人答案中投放广告，未来将专注于订阅服务和企业销售。公司目前正锁定大型企业及财务、医疗等高端用户，企业销售计划积极扩张。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ft.com/content/6eec07a5-34a8-4f78-a9ed-93ab4263d43c">https://www.ft.com/content/6eec07a5-34a8-4f78-a9ed-93ab4263d43c</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.worldlabs.ai/blog/funding-2026">World Labs完成融资并与Autodesk合作</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>李飞飞</strong>创立的 <strong>World Labs</strong> 宣布完成 <strong>10亿美元</strong> 新一轮融资，<strong>AMD</strong> 和 <strong>英伟达</strong> 等巨头参投。与此同时，<strong>Autodesk</strong>向其投入 <strong>2亿美元</strong> 并达成战略合作，计划将 <strong>World Labs</strong> 的 <code>空间智能模型</code> 与自家的 <code>3D 工具</code> 相结合。</p>
+</blockquote>
+<p><strong>李飞飞</strong>创立的AI初创公司<strong>World Labs</strong>近日宣布完成<strong>10亿美元</strong>新一轮融资，本轮融资由<strong>AMD</strong>、<strong>Autodesk</strong>、<strong>NVIDIA</strong>等机构共同参与。<strong>World Labs</strong>致力于通过构建<code>World Models</code>来推进空间智能发展。</p>
+<p>软件设计巨头<strong>Autodesk</strong>在本轮融资中投资了<strong>2亿美元</strong>，并与<strong>World Labs</strong>达成战略合作。双方初期将聚焦于媒体和娱乐领域，探索将<strong>World Labs</strong>的模型与<strong>Autodesk</strong>的<code>3D工具</code>及正在开发的新一代生成式AI模型<code>Neural CAD</code>相结合，旨在为设计、建筑及娱乐行业提供更高级的物理AI解决方案。据<strong>Autodesk</strong>首席科学家<strong>Daron Green</strong>称，合作尚处早期阶段，且双方协议明确不包含数据共享。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.worldlabs.ai/blog/funding-2026">https://www.worldlabs.ai/blog/funding-2026</a></li>
+</ul>
+<hr />
+<h2><a href="https://arxiv.org/abs/2602.15763">智谱AI发布GLM-5技术报告</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>智谱AI</strong>在arXiv发布了<code>GLM-5</code>技术报告。该模型采用<code>DSA架构</code>，并已适配<strong>7种</strong>国产芯片。官方宣称，通过<code>异步Agent RL基础设施</code>及<code>Slime RL工具包</code>等创新， <code>GLM-5</code> 在开源模型中实现了<code>SOTA性能</code>。</p>
+</blockquote>
+<p><strong>智谱AI</strong>近日在<strong>arXiv</strong>上发布<code>GLM-5</code>技术报告，详述其架构与训练细节。该模型采用<code>DSA</code>架构，拥有<strong>750B</strong>总参数与<strong>40B</strong>激活参数，训练数据量达<strong>30T</strong>，并已完成对<strong>7</strong>种国产芯片的适配。</p>
+<p>报告揭示了多项核心创新。<code>DSA</code>架构旨在降低训练推理成本并保持长上下文保真度。模型引入<code>Slime RL</code>工具包与<code>异步Agent RL</code>基础设施，通过解耦生成与训练过程提升后训练效率。技术实现细节上，<code>GLM-5</code>的<code>RL</code>算法使用了带有双向<code>Token级掩码</code>的<code>GRPO</code>。为提升效率，系统采用<code>FP8</code>减少Token间延迟，实施平均接受长度为<strong>2.76</strong>的<code>多Token预测</code>，并利用<code>数据并行感知路由</code>最大化<code>KV-cache</code>复用。此外，<code>Prefill-Decode分离技术</code>可避免处理干扰。其<code>异步Agent RL</code>系统基于样本阈值更新模型，会主动丢弃过旧或崩溃环境的样本，并通过<code>Token-in Token-out</code>机制对齐推理与训练，<code>混合式奖励系统</code>则衡量基础正确性、情商与任务质量。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/73facf84-16ad-4d1b-8f5a-f3decce3eae0/f93b154d-a72b-4e76-8770-06eec166737e/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2602.15763">https://arxiv.org/abs/2602.15763</a></li>
+<li><a href="https://x.com/Zai_org/status/2023951884826849777">https://x.com/Zai_org/status/2023951884826849777</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-19T01:57:42.352010+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
 <h1>AI 早报 2026-02-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
