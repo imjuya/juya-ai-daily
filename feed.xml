@@ -1,5 +1,304 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-19T01:57:41.831652+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-19T01:57:42.180293+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-20T01:01:59.098089+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-20T01:01:59.549348+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
+<h1>AI 早报 2026-02-20</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=XLvV1_DEeBM">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1YXZBBCE86">哔哩哔哩</a></p>
+<h2>概览</h2>
+<h3>精选</h3>
+<ul>
+<li>Google发布Gemini 3.1 Pro Preview <code>#1</code></li>
+<li>Anthropic 明确禁止 Claude 订阅接入第三方 <code>#2</code></li>
+<li>Anthropic发布Claude API自动缓存 <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Zyphra发布首个大脑数据基础模型ZUNA <code>#4</code></li>
+<li>Jina AI发布jina-embeddings-v5-text <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Google Jules新增CI修复与提交署名 <code>#6</code></li>
+<li>Hugging Face推出Coding Agent 免费微调模型功能 <code>#7</code></li>
+<li>OpenRouter上线模型 Benchmarks 页面 <code>#8</code></li>
+<li>Cline CLI npm包遭遇供应链攻击 <code>#9</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI优化ChatGPT交互式代码块 <code>#10</code></li>
+<li>Anthropic 向 Pro 用户开放 Claude in PowerPoint <code>#11</code></li>
+<li>网易有道开源个人助理Agent LobsterAI <code>#12</code></li>
+<li>Google Labs发布Pomelli影棚级产品照功能 <code>#13</code></li>
+<li>NotebookLM发布幻灯片修订及PPTX导出 <code>#14</code></li>
+<li>YouTube扩展对话式AI至电视平台 <code>#15</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI向AI对齐研究基金捐赠 750 万美元 <code>#16</code></li>
+<li>OpenAI联手塔塔集团布局印度市场 <code>#17</code></li>
+<li>传Ineffable寻求十亿美元种子轮融资 <code>#18</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic发布关于AI Agent自主性的实证研究报告 <code>#19</code></li>
+<li>强化学习奠基人Sutton提出经验时代论 <code>#20</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>传OpenAI正开发ChatGPT成人模式 <code>#21</code></li>
+</ul>
+<hr />
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro">Google发布Gemini 3.1 Pro Preview</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布了 <code>Gemini 3.1 Pro Preview</code>，该模型强化了<code>推理能力</code>，显著增强了<code>代码生成能力</code>和 <code>Agent 工具调用</code>的稳定性。新版本<code>API</code>新增<code>medium</code>思考模式。目前该模型已通过 <code>Gemini App</code>、<code>AI Studio</code>及 <strong>Antigravity</strong> 等渠道开放。定价与前代保持一致。</p>
+</blockquote>
+<p><strong>Google</strong>发布<code>Gemini 3.1 Pro Preview</code>，这是其<code>3 Pro系列</code>的首个更新，距前代发布约<strong>三个月</strong>。该Preview版本面向开发者、企业与消费者，重点提升了<code>推理能力</code>、<code>软件工程可靠性</code>与<code>Agent任务稳定性</code>。</p>
+<p>在<code>ARC-AGI-2</code>基准测试中，该模型得分达<strong>77.1%</strong>，较前代<code>Gemini 3 Pro</code>的<strong>31.1%<strong>实现翻倍以上增长。在其它专业评测中，该模型在<code>GPQA Diamond</code>科学知识测试中得分超</strong>94%</strong>，<code>SWE-Bench Verified</code>代码修复任务得分达<strong>80.6%</strong>，<code>APEX-Agents</code>长链任务得分从<strong>18.4%<strong>提升至</strong>33.5%</strong>。</p>
+<p>技术参数方面，模型维持<code>100万token</code>的上下文处理能力，并将<code>API</code>文件上传限制从<strong>20MB</strong>提升至<strong>100MB</strong>。模型还引入了<code>medium</code>思考等级，并推出<code>专属端点</code>以优化<code>混合工具调用</code>的可靠性。</p>
+<p>定价与<code>Gemini 3 Pro</code>保持一致，该模型已通过<code>Google AI App</code>、<code>NotebookLM</code>及<code>AI Studio</code>、<code>Vertex AI</code>等开发者工具开放，并登陆了多家第三方平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/05f29e08-e47b-42bb-b5ed-21294a7bb06d/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/05f29e08-e47b-42bb-b5ed-21294a7bb06d/m002.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/05f29e08-e47b-42bb-b5ed-21294a7bb06d/m003.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro</a></li>
+</ul>
+<hr />
+<h2><a href="https://code.claude.com/docs/en/legal-and-compliance">Anthropic 明确禁止 Claude 订阅接入第三方</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 更新了 <code>Claude Code</code> 的使用条款，明确禁止将 <strong>Free</strong>、<strong>Pro</strong> 和 <strong>Max</strong> 计划的 <code>OAuth Token</code> 用于任何第三方工具或 <code>Agent SDK</code>。</p>
+</blockquote>
+<p><strong>Anthropic</strong>近期更新了<code>Claude Code</code>的法律与合规文档，重点明确了认证机制的使用范围与限制。官方规定，通过<strong>Free、Pro和Max订阅计划</strong>获取的<code>OAuth Token</code>仅限用于<code>Claude Code</code>和<code>Claude.ai</code>，严禁将其用于包括<code>Agent SDK</code>在内的任何第三方产品、工具或服务，否则将被视为违反消费者服务条款。官方要求，构建产品或服务的开发者必须通过<code>Claude Console</code>或受支持的云提供商使用<code>API Key</code>进行认证，并保留在无事先通知的情况下采取强制执行措施的权利。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/8d38fbb8-5459-4728-9ff3-e74dbd9d720f/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/legal-and-compliance">https://code.claude.com/docs/en/legal-and-compliance</a></li>
+<li><a href="https://www.anthropic.com/legal/commercial-terms">https://www.anthropic.com/legal/commercial-terms</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/i/article/2024515623544639493">Anthropic发布Claude API自动缓存</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>为<code>Claude API</code>上线了自动提示词缓存功能，开发者只需设置一个<code>cache_control</code>参数， 系统即可自动缓存系统指令和历史记录等上下文。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 近期为 <code>Claude API</code> 引入自动 <code>Prompt Caching</code>（提示词缓存）功能，旨在通过复用计算结果降低多轮对话的延迟与成本。开发者只需在 <code>API</code> 请求中设置单个 <code>cache_control</code> 参数，系统便会自动缓存该参数之前的上下文，如系统指令、工具描述等。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/29350904-bf06-40e1-9fe9-05e67d415718/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/i/article/2024515623544639493">https://x.com/i/article/2024515623544639493</a></li>
+</ul>
+<hr />
+<h2><a href="https://huggingface.co/Zyphra/ZUNA">Zyphra发布首个大脑数据基础模型ZUNA</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Zyphra</strong> 正式发布了首个基于大脑数据训练的基础模型 <code>ZUNA</code>。这是一个拥有 <strong>3.8 亿</strong> 参数的 <code>掩码扩散自编码器</code>，能够高效解决 <code>头皮脑电图信号</code> 的去噪与缺失通道重建问题。</p>
+</blockquote>
+<p><strong>Zyphra</strong>发布首个基于大脑数据训练的基础模型<code>ZUNA</code>，这是一个<strong>380M</strong>参数的<code>掩码扩散自编码器</code>，旨在对<code>EEG信号</code>进行去噪、缺失通道重建及上采样。该模型基于约<strong>200万</strong>通道小时的公开数据训练，据官方称，其重建精度显著优于广泛使用的<code>MNE</code>插值方法，尤其在通道丢失率超**75%**或高倍上采样场景下优势明显。</p>
+<p>技术上，<code>ZUNA</code>通过将连续信号压缩为<code>Token</code>并引入<code>4-D RoPE位置嵌入</code>，实现了对异构<code>EEG数据</code>的高效处理。目前，该模型已采用<code>Apache 2.0</code>协议开源，支持消费级<code>GPU</code>运行。官方强调<code>ZUNA</code>仅供研究使用，尚未验证医疗功效，并计划在未来开源相关数据及基础设施。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/3ea470a2-2862-4880-a2f0-7458ceef45a1/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/Zyphra/ZUNA">https://huggingface.co/Zyphra/ZUNA</a></li>
+<li><a href="https://github.com/Zyphra/zuna">https://github.com/Zyphra/zuna</a></li>
+<li><a href="https://www.zyphra.com/zuna-technical-paper">https://www.zyphra.com/zuna-technical-paper</a></li>
+</ul>
+<hr />
+<h2><a href="https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/">Jina AI发布jina-embeddings-v5-text</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Jina AI</strong> 发布并开源了<code>文本嵌入模型</code> <code>jina-embeddings-v5-text</code>，包含 <code>Small</code> 和 <code>Nano</code> 两个版本。</p>
+</blockquote>
+<p><strong>Jina AI</strong> 发布<strong>第五代</strong>文本嵌入模型系列 <code>jina-embeddings-v5-text</code>，包含 <strong>6.77 亿</strong>参数的 <code>small</code> 和 <strong>2.39 亿</strong>参数的 <code>nano</code> 两个版本。官方称，该系列结合模型蒸馏与任务特定 <code>LoRA</code> 适配器技术，实现了同级最优性能。其中，<code>small</code> 模型在 <code>MMTEB</code> 基准得分 <strong>67.0</strong>，支持 <strong>32K</strong> 上下文及 <strong>119 种</strong>语言；<code>nano</code> 模型则专为边缘部署优化，支持 <strong>8K</strong> 上下文。两款模型均支持 <code>Matryoshka</code> 嵌入截断与二进制量化，权重已依据 <code>CC BY-NC 4.0</code> 协议在 <code>Hugging Face</code> 公开，并提供 <code>API</code>、<code>GGUF</code> 及 <code>MLX</code> 等多种部署方式。此外，官方透露正开发多模态版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/191aa50e-e89c-49cf-b1d8-25a03efc6df7/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/">https://jina.ai/news/jina-embeddings-v5-text-distilling-4b-quality-into-sub-1b-multilingual-embeddings/</a></li>
+<li><a href="https://arxiv.org/abs/2602.15547">https://arxiv.org/abs/2602.15547</a></li>
+<li><a href="https://jina.ai/models/jina-embeddings-v5-text-small/">https://jina.ai/models/jina-embeddings-v5-text-small/</a></li>
+</ul>
+<hr />
+<h2><a href="https://jules.google/docs/changelog/2026-02-19">Google Jules新增CI修复与提交署名</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Google</strong> 旗下 <code>AI Agent Jules</code> 发布更新，新增 <code>CI Fixer</code> 自动修复功能。</p>
+</blockquote>
+<p><strong>Google</strong> 旗下 <code>AI Agent</code> <strong>Jules</strong> 发布更新，新增 <code>CI Fixer</code> 自动修复功能及可配置的提交作者身份。据官方更新日志，<code>CI Fixer</code> 可自动检测并修复 <strong>Jules</strong> 所创建 <code>PR</code> 中 <code>GitHub Actions</code> 的失败检查，无需人工干预即可完成错误接收、修正及重新提交。同时，新增的 <code>Commit Authoring</code> 设置提供“<strong>Jules</strong>”、“<code>Co-authored</code>”及“<code>User only</code>”三种模式。该用户级设置适用于所有仓库，解决了此前因 <strong>Jules</strong> 独占署名导致用户 <strong>GitHub</strong> <code>GitHub 贡献图</code> 无法体现实际工作的问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/a0feab5f-5fb8-4cdd-8d14-8512625885be/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://jules.google/docs/changelog/2026-02-19">https://jules.google/docs/changelog/2026-02-19</a></li>
+</ul>
+<hr />
+<h2><a href="https://huggingface.co/blog/unsloth-jobs">Hugging Face推出Coding Agent 免费微调模型功能</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Hugging Face</strong> 与 <strong>Unsloth</strong> 合作推出了基于 <code>Coding Agent</code> 的免费模型微调服务，用户可通过验证领取免费 <code>GPU</code> 额度及 <strong>Pro</strong> 订阅。</p>
+</blockquote>
+<p><strong>Hugging Face</strong> 联合 <strong>Unsloth</strong> 推出通过 <code>Coding Agent</code> <strong>免费</strong>微调模型的新功能。官方目前向加入“<strong>Unsloth Jobs Explorers</strong>”组织并验证账单的用户提供 <strong>免费</strong> <code>GPU</code> 额度及 <strong>一个月</strong> <strong>Pro</strong> 订阅。该方案利用 <strong>Unsloth</strong> 约 <strong>2</strong> 倍速度提升和 <strong>60%</strong> <code>显存</code> 优化，重点支持 <strong>1GB</strong> <code>内存</code> 以下的小型模型。核心亮点在于支持 <code>Claude Code</code> 或 <code>Codex</code> 根据自然语言指令自动生成 <code>脚本</code>、提交 <code>云端任务</code> 及监控进度。据 <strong>Unsloth</strong> 创始人透露，该合作还支持 <code>强化学习</code>，旨在通过全托管 <code>云端环境</code> 实现无基础设施设置的快速迭代。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/c47a3967-6713-441a-8f61-dbe1261be5de/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/blog/unsloth-jobs">https://huggingface.co/blog/unsloth-jobs</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/OpenRouter/status/2024172341190938958">OpenRouter上线模型 Benchmarks 页面</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong> 正式上线 <code>Benchmarks</code> 页面，直观展示模型在 <code>编程</code>、<code>数学</code> 及 <code>长上下文推理</code> 等维度的行业标准测试表现。</p>
+</blockquote>
+<p><strong>OpenRouter</strong> 宣布正式上线 Benchmarks 页面，展示模型在编程、数学、科学及长上下文推理等维度的行业标准表现，并计划未来扩展测试项目。与此同时，Rankings 页面迎来更新，新增 Intelligence、Coding 和 Agentic Index scores 排行榜，支持模型变体对比，旨在优化模型筛选体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/1ef083f3-a97d-4b5f-adff-86a3e866a2f3/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2024172341190938958">https://x.com/OpenRouter/status/2024172341190938958</a></li>
+<li><a href="https://openrouter.ai/rankings#bench">https://openrouter.ai/rankings#bench</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7">Cline CLI npm包遭遇供应链攻击</a> <code>#9</code></h2>
+<blockquote>
+<p><code>Cline CLI</code> 官方确认遭遇 <code>供应链攻击</code>，攻击者利用被盗的 <strong>npm</strong> <code>令牌</code> 发布了恶意版本 <code>cline@2.3.0</code>。</p>
+</blockquote>
+<p>据官方安全公告与<strong>Endor Labs</strong>报告确认，<code>Cline CLI</code>在<code>npm注册表</code>遭遇<code>供应链攻击</code>。未授权方利用被盗用的<code>发布令牌</code>，发布了恶意版本 <code>cline@2.3.0</code>。该版本通过篡改 <code>postinstall</code> 脚本，在用户机器上全局静默安装名为<code>OpenClaw</code>的程序。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/0c93aaf2-9d16-4edc-b97a-1ed1f00abcb9/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7">https://github.com/cline/cline/security/advisories/GHSA-9ppg-jx86-fqw7</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/OpenAIDevs/status/2024600394299822096">OpenAI优化ChatGPT交互式代码块</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 升级了 <code>ChatGPT</code> 的 <code>代码块功能</code>，实现了编写、编辑与预览的一体化交互。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 优化了 <code>ChatGPT</code> 的 <code>Code Blocks</code> 功能，将代码编写、编辑与预览集成于同一交互组件。用户现可在对话流程中直接构建并实时预览微型应用与图表，改变了以往静态显示模式。此次更新加强了对流程图和 <code>Mermaid 图表</code> 的原生支持，并新增 <code>代码调试</code> 功能。同时，引入的 <code>分屏</code> 与 <code>全屏视图</code> 优化了审查体验。该功能作为原生 <code>UI</code> 的一部分，旨在简化从构思到实现的转换过程。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/32915a41-6c62-4111-a99a-c0107af63349/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2024600394299822096">https://x.com/OpenAIDevs/status/2024600394299822096</a></li>
+</ul>
+<hr />
+<h2><a href="https://claude.com/claude-in-powerpoint">Anthropic 向 Pro 用户开放 Claude in PowerPoint</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布，<code>Claude in PowerPoint</code> 功能现已支持 Pro 计划，该功能可实现演示文稿的高效自动化生成。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布，<code>Claude in PowerPoint</code> 现已支持 <strong>Pro</strong> 计划，此前该功能已向 <strong>Max</strong>、<strong>Team</strong> 及 <strong>Enterprise</strong> 客户开放。该集成允许 <code>Claude</code> 在 <code>PowerPoint</code> 中实时构建、编辑幻灯片，并严格遵循 <code>Slide Master</code> 及 <code>品牌指南</code>。</p>
+<p>主要功能包括：支持基于企业模板或从零开始生成完整草稿；能在保留原有格式的前提下进行精准修改，并将项目符号转化为可编辑的原生图表；此外，该功能现已支持 <code>connectors</code>，可将日常工具中的上下文直接引入幻灯片，并在现有 <code>合规框架</code> 内工作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/9f5cb49d-e83e-4799-82ee-e57eed83d9b0/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/claude-in-powerpoint">https://claude.com/claude-in-powerpoint</a></li>
+<li><a href="https://x.com/claudeai/status/2024550844998570324">https://x.com/claudeai/status/2024550844998570324</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/netease-youdao/LobsterAI">网易有道开源个人助理Agent LobsterAI</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>网易有道</strong>在 <strong>GitHub</strong> 开源了全场景个人助理项目 <code>LobsterAI</code>。</p>
+</blockquote>
+<p><strong>网易有道</strong>在 <strong>GitHub</strong> 开源全场景个人助理项目 <strong>LobsterAI</strong>。该工具基于 <code>Claude Agent SDK</code>，通过 <code>Cowork</code> 模式实现 7×<strong>24</strong> 小时自主办公。它支持本地或 <strong>Alpine Linux</strong> 沙箱环境，内置 <strong>16</strong> 种技能涵盖数据分析、PPT 制作及 <code>Playwright</code> 自动化等，且具备记忆提取与定时任务能力。<strong>LobsterAI</strong> 兼容 <strong>macOS</strong>、<strong>Windows</strong> 及 <strong>Linux</strong>，支持通过 <strong>钉钉</strong>、<strong>飞书</strong> 等 IM 远程触发，数据本地 <code>SQLite</code> 存储，现已在 <strong>GitHub</strong> 提供源码及安装包。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/6246bbd0-ebd2-4f84-9735-93ec53450353/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/netease-youdao/LobsterAI">https://github.com/netease-youdao/LobsterAI</a></li>
+</ul>
+<hr />
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-photoshoot/">Google Labs发布Pomelli影棚级产品照功能</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Google Labs</strong>为<strong>免费</strong>营销工具<strong>Pomelli</strong>推出了<code>Photoshoot</code>功能，仅凭<strong>一张</strong>产品图就能自动生成符合品牌调性的专业级影棚照。目前已在美加澳新<strong>免费</strong>开放。</p>
+</blockquote>
+<p><strong>Google Labs</strong> 官方宣布为其<strong>免费</strong>营销工具 <strong>Pomelli</strong> 推出<code>Photoshoot</code>功能，旨在利用<code>Business DNA</code>和<code>Nano Banana</code>技术，协助中小企业及个人用户通过<strong>四步</strong>操作将单张产品图转化为符合品牌调性的专业级影棚照。用户仅需上传图片、选择模板、生成并微调，即可获得高质量图像。除核心功能外，<strong>Pomelli</strong> 还同步升级了图像生成模型，提升了准确性；新增了图像编辑及风格参考功能；在营销活动创建上，支持基于 URL 的上下文生成。目前该工具已在美国、加拿大、澳大利亚和新西兰<strong>免费</strong>开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/47df0fbd-b4db-40d5-87c2-ba63b0d0ffce/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-photoshoot/">https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-photoshoot/</a></li>
+<li><a href="https://x.com/GoogleLabs/status/2024529795548102667">https://x.com/GoogleLabs/status/2024529795548102667</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/NotebookLM/status/2024585603703329259">NotebookLM发布幻灯片修订及PPTX导出</a> <code>#14</code></h2>
+<blockquote>
+<p><code>NotebookLM</code>现已向所有用户开放<code>PPTX</code>导出权限，免费用户也即将上线基于提示词的幻灯片调整功能。</p>
+</blockquote>
+<p><code>**NotebookLM**</code>官方宣布<code>Slide Revisions</code>功能已向所有付费用户推出，免费用户即将获支持；<code>PPTX</code>导出功能现已面向<code>**100%**</code>用户开放。此次核心更新<code>Prompt-Based Revisions</code>允许通过<code>提示词</code>微调幻灯片。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/14ea0454-45ec-44fb-b11c-7af0215def96/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2024585603703329259">https://x.com/NotebookLM/status/2024585603703329259</a></li>
+</ul>
+<hr />
+<h2><a href="https://support.google.com/youtube/thread/18138167?hl=en">YouTube扩展对话式AI至电视平台</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>YouTube</strong> 已将 <code>对话式 AI 工具</code> 扩展至智能电视及流媒体设备，允许成年用户在不中断视频观看的情况下实时提问并获得解答。</p>
+</blockquote>
+<p><strong>YouTube</strong> 宣布将其 <code>对话式 AI 工具</code> 作为实验性功能扩展至 <code>智能电视</code>、<code>游戏主机</code>及 <code>流媒体设备</code>。该功能允许部分 <strong>18</strong> 岁以上选定用户，通过 <code>遥控器麦克风</code> 或“Ask”按钮，在不中断视频播放的情况下提问并获得即时解答，目前支持英语等 <strong>五种</strong> 语言。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://support.google.com/youtube/thread/18138167?hl=en">https://support.google.com/youtube/thread/18138167?hl=en</a></li>
+</ul>
+<hr />
+<h2><a href="https://openai.com/index/advancing-independent-research-ai-alignment/">OpenAI向AI对齐研究基金捐赠 750 万美元</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布向 <strong>英国 AI 安全研究所</strong> 设立的独立研究基金 <strong>The Alignment Project</strong> 捐赠 <strong>750 万美元</strong>，以支持全球范围内的 <code>AI 对齐</code> 与 <code>AI 安全</code> 研究。</p>
+</blockquote>
+<p><strong>OpenAI</strong>宣布向由<strong>英国AI安全研究所（UK AISI）<strong>创建的独立基金</strong>The Alignment Project</strong>捐赠<strong>750万美元</strong>（约<strong>560万英镑</strong>）。该基金总额超<strong>2700万英镑</strong>，由<strong>Renaissance Philanthropy</strong>协助管理，重点资助<code>计算复杂性</code>、<code>博弈论</code>等领域的全球独立研究以缓解<code>AI风险</code>。单个项目资助额度通常在<strong>5万</strong>至<strong>100万英镑</strong>之间。<strong>OpenAI</strong>强调，此次注资旨在增加当前轮次已通过审查的高质量项目数量，而非干预现有流程，以支持与内部前沿研究互补的外部独立生态，确保<code>AGI</code>的安全性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/a2ce6d67-a4f0-49fd-9afe-b39c7a6664e4/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/advancing-independent-research-ai-alignment/">https://openai.com/index/advancing-independent-research-ai-alignment/</a></li>
+</ul>
+<hr />
+<h2><a href="https://openai.com/openai-for-india/">OpenAI联手塔塔集团布局印度市场</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>与印度<strong>Tata集团</strong>达成战略合作，成为其数据中心的客户，首批锁定<strong>100MW</strong>容量并计划扩展至<strong>1GW</strong>，而<strong>Tata集团</strong>将在内部部署<code>ChatGPT Enterprise</code>。</p>
+</blockquote>
+<p>据媒体报道，<strong>OpenAI</strong>与印度<strong>Tata Group</strong>达成战略合作。<strong>OpenAI</strong>将成为<strong>TCS</strong>旗下<code>HyperVault</code>数据中心业务的首个客户，初步锁定<strong>100MW</strong>容量并计划扩展至<strong>1GW</strong>，以满足印度<code>数据驻留</code>及<code>低延迟</code>需求。双方还将在<strong>Tata集团</strong>内部署<code>ChatGPT Enterprise</code>覆盖数十万员工，并利用<code>Codex</code>工具标准化软件开发。此外，<strong>OpenAI</strong>计划<strong>今年晚些时候</strong>在孟买和班加罗尔设立新办事处，并将扩展认证项目，<strong>TCS</strong>将成为美国以外首个参与该项目的组织。据官方引用CEO <strong>Sam Altman</strong>估算，印度目前拥有超<strong>1亿</strong><code>ChatGPT</code>周活跃用户。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/openai-for-india/">https://openai.com/openai-for-india/</a></li>
+<li><a href="https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw">https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.ft.com/content/dffe72d0-4064-4412-8ebc-50198a30d40e">传Ineffable寻求十亿美元种子轮融资</a> <code>#18</code></h2>
+<blockquote>
+<p>据报道，<code>AlphaGo</code>核心贡献者<strong>David Silver</strong>创立的<strong>Ineffable Intelligence</strong>正在筹集约<strong>10亿美元</strong><code>种子轮融资</code>，<strong>红杉资本</strong>领投，投前估值高达<strong>40亿美元</strong>。</p>
+</blockquote>
+<p>据<strong>金融时报</strong>报道，<code>AlphaGo</code>核心贡献者、前<strong>Google</strong> <strong>DeepMind</strong>资深研究员<strong>David Silver</strong>正在为伦敦初创公司<strong>Ineffable Intelligence</strong>筹集约<strong>10亿美元</strong>种子轮融资，由<strong>红杉资本</strong>领投，投前估值约<strong>40亿美元</strong>。若交易完成，这将创下欧洲史上最大种子轮融资纪录。据悉，<strong>英伟达</strong>、<strong>Google</strong>和<strong>微软</strong>也正参与谈判。</p>
+<p>该公司致力于构建“无尽学习的超级智能”，其技术路径不同于主流<code>LLM</code>，而是基于Silver在<code>强化学习</code>领域的积累，利用<code>世界模型</code>在模拟环境中通过试错和自主经验持续进化。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ft.com/content/dffe72d0-4064-4412-8ebc-50198a30d40e">https://www.ft.com/content/dffe72d0-4064-4412-8ebc-50198a30d40e</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.anthropic.com/research/measuring-agent-autonomy">Anthropic发布关于AI Agent自主性的实证研究报告</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>发布关于<code>AI Agent</code>自主性的实证研究报告，报告指出，用户信任积累使Agent单次自主运行时长已增长至<strong>45分钟</strong>以上。</p>
+</blockquote>
+<p><strong>Anthropic</strong>发布**《Measuring AI agent autonomy in practice》<strong>报告显示，<code>Agent</code>自主性取得显著进展。过去三个月内，<code>Claude Code</code>单次免干预最长运行时间从</strong>不到25分钟<strong>增至</strong>超过45分钟**，主要归因于用户信任度提升。在监督模式上，资深开发者相比新手更倾向全自动批准（<strong>超40%</strong> vs <strong>20%</strong>），但主动打断频率也更高（<strong>9%</strong> vs <strong>5%</strong>），体现了“充分放权但保持敏锐监控”的策略。此外，<code>Agent</code>在复杂任务中主动求助次数是人类打断次数的<strong>两倍多</strong>，确立了关键的安全机制。目前<strong>近半数</strong><code>Agent</code>操作集中在软件工程低风险领域，医疗、金融等高危行业虽已探索，但距离<code>规模化部署</code>尚有距离。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/b4168262-a53a-4f59-9516-4ae46025221b/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/b4168262-a53a-4f59-9516-4ae46025221b/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/research/measuring-agent-autonomy">https://www.anthropic.com/research/measuring-agent-autonomy</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.youtube.com/watch?v=lieqoaBV6ww">强化学习奠基人Sutton提出经验时代论</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>图灵奖</strong>得主<strong>理查德·萨顿</strong>发表**《AI 的未来》**演讲，指出当前依赖人类数据的<code>大模型</code>仅是缺乏理解的<code>弱心智</code>，且正面临<code>数据枯竭</code>的天花板。让<code>智能体</code>通过与真实环境交互产生的<code>数据流</code>进行<code>持续学习</code>，是实现<code>超级智能</code>的必由之路。</p>
+</blockquote>
+<p>图灵奖得主、<code>强化学习</code>奠基人<strong>Richard Sutton</strong>近日在洛杉矶加州大学纯粹与应用数学研究所（IPAM）发表了题为《AI的未来》的演讲。<strong>Sutton</strong>直指当前基于人类数据训练的<code>大模型</code>仅为“弱心智”，虽拥有海量知识但缺乏理解与真值判断能力。他称这种智能的本质是“理解太少、调参太多”，并认为AI正面临人类高质量数据枯竭的天花板。</p>
+<p><strong>Sutton</strong>提出，AI的未来属于“<code>经验时代</code>”。其核心是让<code>AI Agent</code>通过与环境的交互，从持续的经验流中学习，而非依赖静态的人类数据集。他指出，经验数据能随Agent能力提升而增长，这是实现突破、创造新知识的必由之路。他将过去十年划分为<code>模拟时代</code>、<code>人类数据时代</code>，以及正在开启的<code>经验时代</code>。</p>
+<p>在政治与哲学层面，<strong>Sutton</strong>呼吁抵制对AI的集中控制，主张<code>去中心化合作</code>。他进一步提出宏大的宇宙演化视角，认为宇宙正进入“<code>设计时代</code>”，人类作为“<code>复制者</code>”的极限，其使命是创造具有设计能力的心智——即AI。因此，人类在这一进程中扮演着催化剂与先驱的角色，而资源与权力最终将流向更具智能的存在。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=lieqoaBV6ww">https://www.youtube.com/watch?v=lieqoaBV6ww</a></li>
+<li><a href="https://mp.weixin.qq.com/s/N773VlnwHkUA-hNKRI_YtA">https://mp.weixin.qq.com/s/N773VlnwHkUA-hNKRI_YtA</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/testingcatalog/status/2024492284184563899">传OpenAI正开发ChatGPT成人模式</a> <code>#21</code></h2>
+<blockquote>
+<p>有用户在<code>ChatGPT</code>网页代码中发现，<strong>OpenAI</strong>疑似正在开发代号为<code>Citron Mode</code>的成人模式。</p>
+</blockquote>
+<p>据媒体报道，<strong>OpenAI</strong> 正在为 <code>ChatGPT</code> 开发 <code>成人模式</code>。开发者 <strong>Tibor Blaho</strong> 在其 <code>网页代码</code> 中发现了内部代号为 <code>Citron Mode</code> 的设置，据推测即为此功能。该模式引入 <code>敏感内容警告机制</code>，当用户分享被标记为 <code>citron-only</code> 的对话时，系统将显示警告，提示接收者可能需要验证年满 <strong>18岁</strong> 才能查看内容。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/f96fac1c-7916-4cdd-871b-23b35f1671b5/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/16360009-d4cc-45fa-93d8-348cb1cb3b6c/f96fac1c-7916-4cdd-871b-23b35f1671b5/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/testingcatalog/status/2024492284184563899">https://x.com/testingcatalog/status/2024492284184563899</a></li>
+<li><a href="https://x.com/TiborBlaho">https://x.com/TiborBlaho</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-20T01:01:59.804414+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
 <h1>AI 早报 2026-02-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qaQ1uDPjCqk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1WfZ8BqEu6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -167,7 +466,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-19T01:57:42.352010+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-20T01:02:00.065650+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
 <h1>AI 早报 2026-02-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
