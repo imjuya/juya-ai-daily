@@ -1,5 +1,192 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-20T01:01:59.098089+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-20T01:01:59.549348+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-21T01:34:36.947524+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/4</id><title>2026-02-21</title><updated>2026-02-21T01:34:37.385456+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260221/20260221084518976101edba_cover_46a9.png" alt="" /></p>
+<h1>AI 早报 2026-02-21</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=GddxDudZ_bE">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1XAf7BnEy6">哔哩哔哩</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>Anthropic 员工回应 Claude Agent SDK 及 OAuth 令牌争议 <code>#1</code></li>
+<li>Claude Code 桌面版发布重大更新 <code>#2</code></li>
+<li>Anthropic 发布 Claude Code Security <code>#3</code></li>
+<li>GPT-5.3-Codex-Spark 升级速率超 1200 tokens/s <code>#4</code></li>
+<li>Google CLI 开启 3.1 Pro 访问权限 <code>#5</code></li>
+<li>Ollama 发布新版原生集成 Cline 与 Pi <code>#6</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI 扩充 ChatGPT Thinking 模式上下文窗口 <code>#7</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>智谱 MiniMax 市值接连超越快手京东 <code>#8</code></li>
+<li>GGML 团队加入 Hugging Face <code>#9</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Karpathy 称传统 App Store 模式将过时 <code>#10</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>OpenAI 或将推出 ChatGPT Pro Lite 订阅 <code>#11</code></li>
+<li>Google DeepMind 宣布将发布 Gemma 新模型 <code>#12</code></li>
+<li>传 OpenAI 打造首款摄像头 AI 智能音箱 <code>#13</code></li>
+<li>OpenAI 传获软银领衔百亿注资 <code>#14</code></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/trq212/status/2024212380142752025">Anthropic 员工回应 Claude Agent SDK 及 OAuth 令牌争议</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 员工回应了关于 <code>Claude Agent SDK</code> 及 <code>OAuth</code> 令牌使用的争议，称此前的文档变更仅为措辞调整，鼓励开发者使用 <code>Agent SDK</code> 进行本地实验，但如果基于该 <code>SDK</code> 构建商业产品，则必须通过 <code>API Key</code> 进行调用。</p>
+</blockquote>
+<p>针对<code>Claude Agent SDK</code>及<code>OAuth令牌</code>使用政策的争议，<strong>Anthropic</strong>员工<strong>Thariq</strong>近日澄清，引发混淆的文档变更仅为措辞调整，并未改变<code>Agent SDK</code>及<code>MAX</code>订阅的使用方式。官方立场鼓励使用<code>Agent SDK</code>进行本地开发与实验，但若基于其构建商业产品，则需使用<code>API Key</code>。其表示将优化文档表述以消除误解。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/5f83d37d-0684-4302-9c27-9590d079fb04/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2024212380142752025">https://x.com/trq212/status/2024212380142752025</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/claudeai/status/2024937960572104707">Claude Code 桌面版发布重大更新</a> <code>#2</code></h2>
+<blockquote>
+<p><code>Claude Code</code> 桌面版迎来重大更新，新增 <code>Server Previews</code>、<code>Local Code Review</code>、<code>PR Monitoring</code> 及 <code>Session Mobility</code> <strong>四大</strong>核心功能。<code>Claude</code> 现在能直接在桌面端启动服务器预览应用，自动审查<code>代码</code>中的<code>Bug</code>，并监控<code>CI</code>状态，实现自动修复与合并。</p>
+</blockquote>
+<p><strong>Claude</strong> 官方宣布 <code>Claude Code</code> 桌面版迎来重大更新，新增 <code>Server previews</code>、<code>Local code review</code>、<code>PR monitoring</code> 及 <code>Session mobility</code> 核心功能。更新后，<strong>Claude</strong> 可在桌面端直接启动开发服务器并预览应用，结合日志与截图进行迭代；代码提交前支持行内 Bug 审查；PR 流程中具备 <code>Auto-fix</code> 和 <code>Auto-merge</code> 能力，可自动修复故障并在通过检查后合并代码。此外，<code>Session mobility</code> 实现了 <code>CLI</code> 与桌面、云端及移动端间的会话无缝迁移。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/cd6a6d9a-d92c-4a06-92ea-cb636b11effd/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2024937960572104707">https://x.com/claudeai/status/2024937960572104707</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.anthropic.com/news/claude-code-security">Anthropic 发布 Claude Code Security</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 推出了集成在 <code>Claude Code</code> 中的新功能 <code>Claude Code Security</code>，该功能由 <code>Claude Opus 4.6</code> 驱动，能像人类安全专家一样对代码进行推理，从而发现传统工具难以捕捉的业务逻辑漏洞。<strong>Enterprise</strong> 和 <strong>Team</strong> 客户以及开源项目维护者现可申请试用。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布推出 <code>Claude Code Security</code>，现处于有限研究预览阶段。该功能集成在 <code>Claude Code (Web)</code> 中，由 <code>Claude Opus 4.6</code> 驱动。不同于依赖<code>模式匹配</code>的传统<code>静态分析工具</code>，该工具能像人类一样推理代码，通过理解组件交互和数据流向，发现<code>业务逻辑缺陷</code>等<code>复杂漏洞</code>。官方数据显示，该模型已协助团队在开源代码中发现超过 <strong>500</strong> 个隐藏漏洞。所有发现均经过多阶段验证和评级，修复需经人工批准。目前，<strong>Enterprise</strong> 和 <strong>Team</strong> 客户及开源项目维护者均可申请访问。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/6c68bcc6-1913-48d7-80c1-06f7ac6ad98f/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-code-security">https://www.anthropic.com/news/claude-code-security</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/thsottiaux/status/2024947946849186064">GPT-5.3-Codex-Spark 升级速率超 1200 tokens/s</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布 <code>GPT-5.3-Codex-Spark</code> 模型速度得到提升，突破每秒 <strong>1200</strong> 个 <code>tokens</code>，后续将推出更多全局性速度优化。</p>
+</blockquote>
+<p><code>GPT-5.3-Codex-Spark</code> 官方宣布该模型已完成性能升级，速度提升约 <strong>30%</strong>，当前服务速度已超 <strong>1200</strong> tokens/s。此外，官方预告未来将在全范围内推出更多速度优化计划。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/5391a66f-9c5d-4547-8fb6-a7b502695166/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2024947946849186064">https://x.com/thsottiaux/status/2024947946849186064</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/geminicli/status/2024967271681233356">Google CLI 开启 3.1 Pro 访问权限</a> <code>#5</code></h2>
+<blockquote>
+<p><code>Gemini CLI</code> 目前已向 <strong>AI Ultra</strong> 和 <strong>Workspace Ultra</strong> 账户开放 <code>Gemini 3.1 Pro</code> 访问权限。官方将根据系统容量逐步扩大访问范围。</p>
+</blockquote>
+<p><strong>Gemini CLI</strong> 团队正在逐步推送 <code>Gemini 3.1 Pro</code> 访问权限。目前获权用户包括：通过 <strong>Google</strong> 登录的 <strong>AI Ultra</strong> 和 <strong>Workspace Ultra</strong> 账户、拥有该模型权限的 <strong>AI Studio</strong> 及 <strong>Vertex AI</strong> 项目 <code>API Key</code> 持有者，以及小部分其他登录用户。用户可在 <code>CLI</code> 中输入 <code>/model</code> 命令验证状态。官方表示将根据系统容量逐步扩大范围。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/495b9cf1-b67e-4a5c-b1a9-c04f1a9f63b0/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/geminicli/status/2024967271681233356">https://x.com/geminicli/status/2024967271681233356</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli/discussions/19724">https://github.com/google-gemini/gemini-cli/discussions/19724</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/ollama/status/2024987888870416673">Ollama 发布新版原生集成 Cline 与 Pi</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Ollama</strong> 发布新版，集成了 <code>Cline</code> 和 <code>Pi</code>，用户通过指令 <code>ollama launch cline</code> 或 <code>ollama launch pi</code> 即可开箱即用。</p>
+</blockquote>
+<p><strong>Ollama</strong> 发布 <strong>0.16.3</strong> 版本，新增对 <strong>Cline</strong> 和 <strong>Pi</strong> 的开箱即用集成支持，用户可通过 <code>ollama launch</code> 指令直接启动相应服务。<strong>Cline</strong> 作者 <strong>Saoud Rizwan</strong> 对此表示，尽管目前尚处早期，但未来笔记本电脑运行的开源模型将足以完成大部分工作，很高兴与 <strong>Ollama</strong> 合作推动这一愿景成为现实。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/f33b7761-2fb5-429e-83e9-28f1e22a3e96/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ollama/status/2024987888870416673">https://x.com/ollama/status/2024987888870416673</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/trq212/status/2024212380142752025">OpenAI 扩充 ChatGPT Thinking 模式上下文窗口</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>ChatGPT</strong> 更新日志显示，<strong>ChatGPT</strong> 的 <code>Thinking 模式</code> <code>上下文窗口</code> 已扩容至 <strong>256k</strong> <code>tokens</code>。</p>
+</blockquote>
+<p>根据 <strong>ChatGPT</strong> 更新日志，<strong>ChatGPT</strong> 的 <code>Thinking 模式</code>上下文窗口容量已扩充。当用户手动启用该模式时，其总上下文窗口从此前的 <strong>196k tokens</strong> 提升至 <strong>256k tokens</strong>。新版本的具体配置为 <strong>128k tokens</strong> 的输入限制和 <strong>128k tokens</strong> 的最大输出限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/366a06ca-7075-43cb-991b-9cc0217ac475/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2024212380142752025">https://x.com/trq212/status/2024212380142752025</a></li>
+</ul>
+<hr />
+<h2><a href="https://mp.weixin.qq.com/s/neThU7OwEOM7S_TSSroI4A">智谱 MiniMax 市值接连超越快手京东</a> <code>#8</code></h2>
+<blockquote>
+<p>据报道，<strong>智谱</strong>与 <strong>MiniMax</strong> 港股股价大涨并创新高，市值已连超<strong>携程</strong>、<strong>快手</strong>及<strong>京东</strong>。</p>
+</blockquote>
+<p>据报道，大模型公司<strong>智谱</strong>与 <strong>MiniMax</strong> 近期港股股价大幅上涨，创上市以来新高。两家公司市值已接连超越<strong>携程</strong>、<strong>快手</strong>及<strong>京东</strong>，并逼近<strong>泡泡玛特</strong>与<strong>百度</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/neThU7OwEOM7S_TSSroI4A">https://mp.weixin.qq.com/s/neThU7OwEOM7S_TSSroI4A</a></li>
+</ul>
+<hr />
+<h2><a href="https://huggingface.co/blog/ggml-joins-hf">GGML 团队加入 Hugging Face</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Hugging Face</strong> 宣布 <strong>GGML</strong> 组织及其创始人 <strong>Georgi Gerganov</strong> 团队正式加入 <strong>Hugging Face</strong>，双方将结合 <code>llama.cpp</code> 在本地推理的优势与 <code>Transformers</code> 的模型定义能力，共同推动 <code>Local AI</code> 发展。</p>
+</blockquote>
+<p><strong>Hugging Face</strong> 官方宣布，<strong>GGML</strong> 组织及创始人 <strong>Georgi Gerganov</strong> 团队正式加入。双方将结合 <code>llama.cpp</code> 本地推理优势与 <code>transformers</code> 模型定义能力，推动 Local AI 发展。官方确认，原团队保留对 <code>llama.cpp</code> 的 <strong>100%</strong> 技术决策权与社区领导权，项目维持开源模式。未来将致力于实现“一键式”模型部署与优化 <strong>GGML</strong> 用户体验，使本地推理成为云端的有力替代。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/df4ae420-98e2-4f12-a3ff-b44d303a1917/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/blog/ggml-joins-hf">https://huggingface.co/blog/ggml-joins-hf</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/karpathy/status/2024583544157458452">Karpathy 称传统 App Store 模式将过时</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Andrej Karpathy</strong> 展示了他利用 <code>Claude</code> 仅用 <strong>1 小时</strong>就构建出的定制化心肺训练仪表盘，以此预言传统的 <strong>App Store</strong> 模式将过时，未来将由 <code>LLM Agent</code> 即时生成满足特定长尾需求的软件。</p>
+</blockquote>
+<p><strong>Andrej Karpathy</strong>通过构建定制化心肺训练追踪仪表盘，展示了他对未来“高度定制化软件”的设想。为执行一项为期<strong>8周</strong>的计划，旨在通过<code>Zone 2</code>训练与<code>HIIT</code>将静息心率从<strong>50</strong>降至<strong>45</strong>，他利用<code>Claude</code>在<strong>1小时</strong>内编写了一个约<strong>300行代码</strong>的<code>Web应用</code>。该应用通过<code>逆向工程</code><strong>Woodway</strong>跑步机云端<code>API</code>获取原始数据，尽管过程中出现单位换算和日历匹配错误需人工修复，但他认为这相比于<strong>2年前</strong>完成同样工作所需的<strong>10小时</strong>，效率已大幅提升。</p>
+<p><strong>Karpathy</strong>指出，传统<strong>App Store</strong>模式正变得过时，因为针对高度特定的长尾需求，<code>LLM Agent</code>能够即时生成完全贴合需求的定制应用。他认为当前行业进展缓慢，<strong>99%<strong>的产品本质上作为传感器，却仍只提供人类可读的文档和<code>前端</code>，缺乏<code>AI原生</code>的<code>CLI</code>和<code>API</code>，迫使Agent进行<code>逆向工程</code>。他展望未来，行业应重构为具备<code>Agent原生工效学</code>的传感器与<code>执行器</code>服务，通过“<code>LLM胶水</code>”进行编排，并借助拥有大量个人上下文的<code>AI</code>，最终实现仅需</strong>1分钟</strong>即可构建高度定制、临时化应用程序的目标。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/98e67eea-963d-4845-aff0-23424da380c2/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/karpathy/status/2024583544157458452">https://x.com/karpathy/status/2024583544157458452</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/btibor91/status/2024992285591818329">OpenAI 或将推出 ChatGPT Pro Lite 订阅</a> <code>#11</code></h2>
+<blockquote>
+<p>开发者<strong>Tibor Blaho</strong>在<code>ChatGPT</code>网页代码中发现了名为<code>ChatGPT Pro Lite</code>的新订阅层级，外界推测定价可能在<strong>50</strong>或<strong>100美元</strong>，但目前<strong>OpenAI</strong>官方尚未确认该消息。</p>
+</blockquote>
+<p>据开发者 <strong>Tibor Blaho</strong> 发现， <strong>ChatGPT</strong> 网页应用代码中出现了对“ <code>ChatGPT Pro Lite</code> ”计划的引用。此举引发了社区关于 <strong>OpenAI</strong> 或将推出新订阅层级的猜测，据推测其定价可能在 <strong>50至100美元</strong>。目前，官方尚未对该计划的存在、功能详情或上线时间做出任何确认。所有信息均源自代码线索，相关讨论仅为推测。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/46a9251e-3ea4-4df4-a688-cf90f543a579/43049b7c-9410-4e2c-a9ef-852f5c62f26b/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/btibor91/status/2024992285591818329">https://x.com/btibor91/status/2024992285591818329</a></li>
+</ul>
+<hr />
+<h2>Google DeepMind 宣布将发布 Gemma 新模型 <code>#12</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong>联合创始人<strong>Demis Hassabis</strong>透露，即将发布针对<code>边缘设备</code>进行优化的<code>开源模型``Gemma</code>新版本。</p>
+</blockquote>
+<p>据社交媒体信息，<strong>Google DeepMind</strong>联合创始人<strong>Demis Hassabis</strong>近期在印度透露，公司将“很快”发布开源模型<code>Gemma</code>的新版本。<strong>Hassabis</strong>强调，新版本将针对<code>边缘设备</code>进行优化，具备强大性能，旨在为<code>资源受限环境</code>提供支持，拓展<code>终端</code>及<code>边缘计算</code>场景的能力边界。</p>
+<hr />
+<h2><a href="https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices">传 OpenAI 打造首款摄像头 AI 智能音箱</a> <code>#13</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>正研发一款配备摄像头的智能音箱作为首款<code>AI硬件</code>。该设备能通过<code>视觉感知</code>环境与用户面部，提供主动建议及<code>人脸识别</code>购物功能，预计售价<strong>200至300美元</strong>，最早<strong>2027年初</strong>上市。</p>
+</blockquote>
+<p>据报道，<strong>OpenAI</strong>正与前苹果设计师<strong>Jony Ive</strong>合作，组建一支超<strong>200</strong>人的团队研发<code>AI</code>硬件设备。其首款产品或为一款带摄像头的智能音箱，该设备可通过摄像头感知用户及环境，内置类<code>Face ID</code>的面部识别以支持交互，并能主动提供建议。产品售价预计<strong>200</strong>至<strong>300</strong>美元，最早或于<strong>2027年初</strong>上市。<strong>OpenAI</strong>还在探索智能灯、<code>AI</code>眼镜及耳机等产品，但这些项目尚处早期，存在被取消可能，预计<strong>2028年</strong>或更晚面世。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices">https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices</a></li>
+<li><a href="https://the-decoder.com/openai-is-building-a-200-to-300-smart-speaker-that-tells-you-when-to-go-to-bed/">https://the-decoder.com/openai-is-building-a-200-to-300-smart-speaker-that-tells-you-when-to-go-to-bed/</a></li>
+</ul>
+<hr />
+<h2><a href="https://the-decoder.com/nvidia-reportedly-set-to-invest-30-billion-in-openai/">OpenAI 传获软银领衔百亿注资</a> <code>#14</code></h2>
+<blockquote>
+<p>据多家媒体报道，<strong>OpenAI</strong> 正在推进新一轮巨额融资，<strong>软银</strong>预计注资 <strong>300 亿美元</strong>。此外，<strong>路透社</strong>消息称，<strong>英伟达</strong>也计划投资 <strong>300 亿美元</strong>，<strong>亚马逊</strong>可能参与其中。</p>
+</blockquote>
+<p>据多家媒体报道，<strong>OpenAI</strong>正在推进新一轮融资。<strong>The Information</strong>援引消息称，<strong>软银</strong>预计将作为锚定投资者注资<strong>300亿美元</strong>，<strong>亚马逊</strong>和<strong>英伟达</strong>也可能参与投资，金额或达<strong>数百亿美元</strong>。</p>
+<p>针对<strong>英伟达</strong>的投资动向，<strong>路透社</strong>援引知情人士透露，<strong>英伟达</strong>也计划向<strong>OpenAI</strong>投资<strong>300亿美元</strong>。目前，上述投资计划均属市场传闻，官方尚未发布正式公告。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://the-decoder.com/nvidia-reportedly-set-to-invest-30-billion-in-openai/">https://the-decoder.com/nvidia-reportedly-set-to-invest-30-billion-in-openai/</a></li>
+<li><a href="https://x.com/theinformation/status/2024865405458661503">https://x.com/theinformation/status/2024865405458661503</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/4"/><published>2026-02-21T01:34:11+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-21T01:34:37.658893+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
 <h1>AI 早报 2026-02-20</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=XLvV1_DEeBM">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1YXZBBCE86">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -298,7 +485,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-20T01:01:59.804414+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-21T01:34:37.909957+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
 <h1>AI 早报 2026-02-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qaQ1uDPjCqk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1WfZ8BqEu6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -466,7 +653,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-20T01:02:00.065650+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-21T01:34:38.123004+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
 <h1>AI 早报 2026-02-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
