@@ -1,5 +1,167 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-21T01:34:36.947524+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/4</id><title>2026-02-21</title><updated>2026-02-21T01:34:37.385456+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260221/20260221084518976101edba_cover_46a9.png" alt="" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-22T00:32:51.067930+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/5</id><title>2026-02-22</title><updated>2026-02-22T00:32:51.535274+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260222/2026022208065849501269e9_cover_921f.png" alt="" /></p>
+<h1>AI 早报 2026-02-22</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=RIiVUQnTgqs">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1gLZfB8Ewq">哔哩哔哩</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>智谱为 GLM Coding Plan 规则变动与体验下降致歉并提出补偿方案 <a href="https://mp.weixin.qq.com/s/qgVsa17L5Seqw9yXr1iExQ">↗</a> <code>#1</code></li>
+<li>千问推出 Qwen Coding Plan <a href="https://bailian.console.aliyun.com/">↗</a> <code>#2</code></li>
+<li>Claude Code 引入内置 Git Worktree 支持 <a href="https://t.co/cjOXhUDL0i">↗</a> <code>#3</code></li>
+<li>OpenAI 扩展 Batch API 支持 GPT 图像模型 <a href="https://x.com/OpenAIDevs/status/2025273441826517370">↗</a> <code>#4</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>微软确认 Copilot 默认共享 Bing 与 Edge 数据 <a href="https://www.windowslatest.com/2026/02/19/copilot-quietly-pulls-your-data-from-other-microsoft-products-including-edge-and-msn-but-you-can-opt-out/">↗</a> <code>#5</code></li>
+<li>OpenClaw 发布 v2026.2.21 版本更新 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.21">↗</a> <code>#6</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Taalas 亮相固化模型推理芯片 HC1 <a href="https://chatjimmy.ai/">↗</a> <code>#7</code></li>
+<li>Andrej Karpathy 评析 Claw 技术及安全隐患 <a href="https://x.com/karpathy/status/2024987174077432126">↗</a> <code>#8</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>OpenAI 曾考虑就加拿大疑似枪手的聊天内容向警方报案 <a href="https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62">↗</a> <code>#9</code></li>
+<li>据报 OpenAI 文件上调了五年收入预期 <a href="https://x.com/theinformation/status/2025280618917945476">↗</a> <code>#10</code></li>
+<li>Anthropic 拟推 Claude CLI 工具 <a href="https://github.com/anthropics/anthropic-cli">↗</a> <code>#11</code></li>
+</ul>
+<hr />
+<h2><a href="https://mp.weixin.qq.com/s/qgVsa17L5Seqw9yXr1iExQ">智谱为 GLM Coding Plan 规则变动与体验下降致歉并提出补偿方案</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>智谱</strong>团队就 <code>GLM Coding Plan</code> 规则变动与体验下降致歉，支持受影响用户申请退款，留存用户获赠<strong>15</strong>天时长。还允许在<strong>2月12日至16日</strong>期间误升级的用户，权益升级至无周限额的老套餐，并承诺未来核心权益调整将提前说明。</p>
+</blockquote>
+<p><strong>智谱团队</strong>就 <code>GLM Coding Plan</code> 规则变动与体验下降向用户致歉，承认在 <code>规则透明度</code>、<code>灰度节奏</code> 及 <code>老用户升级机制</code> 上存在失误。</p>
+<p>官方说明 <code>GLM-5</code> 参数规模达 <code>GLM-4.7</code> <strong>两倍</strong>以上，采取高峰期<strong>3倍</strong>、非高峰期<strong>2倍</strong>的消耗策略，看板刷新频率已优化至<strong>10分钟</strong>。因流量激增及遭受攻击，服务按 <code>Max</code>、<code>Pro</code>、<code>Lite</code> 顺序开放，目前 <code>Max</code> 已全面开放，<code>Pro</code> 高峰期限流，<code>Lite</code> 将在之后 <code>灰度开放</code>。</p>
+<p>解决方案包括：支持 <code>Lite</code>/<code>Pro</code> 用户退款；赠送已使用及留存用户<strong>15天</strong>时长；<strong>2月12日至16日</strong>误升级用户可一键升级至 <code>无周限额老套餐</code>。官方承诺未来 <code>核心权益调整</code> 将提前说明。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/f1a4210b-01bc-41a0-a19d-f66876ee58f9/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/qgVsa17L5Seqw9yXr1iExQ">https://mp.weixin.qq.com/s/qgVsa17L5Seqw9yXr1iExQ</a></li>
+</ul>
+<hr />
+<h2><a href="https://bailian.console.aliyun.com/">千问推出 Qwen Coding Plan</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>千问团队</strong>推出 <code>Qwen Coding Plan</code>，支持 <code>Qwen3.5-Plus</code>、<code>Qwen3-Max</code> 等最新模型，新客首月仅需 <strong>7.9 元</strong>。</p>
+</blockquote>
+<p><strong>千问团队</strong>近期推出 <code>Qwen Coding Plan</code>，旨在让开发者低成本体验最新模型，支持 <code>Qwen3.5-Plus</code>、<code>Qwen3-Max</code>，并适配 <code>Cursor</code>、<code>Cline</code> 等主流工具。定价方面，新客首月 <strong>7.9 元</strong>，老客享 <strong>5 折</strong>优惠。用户现可访问<strong>阿里云百炼</strong>官网开通体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/4913669f-1d7e-4e0d-8686-23e6764cb52b/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/4913669f-1d7e-4e0d-8686-23e6764cb52b/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://bailian.console.aliyun.com/">https://bailian.console.aliyun.com/</a></li>
+</ul>
+<hr />
+<h2><a href="https://t.co/cjOXhUDL0i">Claude Code 引入内置 Git Worktree 支持</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Claude Code CLI</strong> 上线了内置 <code>Git Worktree</code> 支持，将此前仅限 <strong>Desktop</strong> 端的隔离能力扩展至 <code>CLI</code>，解决多个 <code>Agent</code> 并行运行时的文件冲突问题。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 官方在 <strong>2.1.50</strong> 版本中引入了内置 <code>Git Worktree</code> 支持，将此前仅限 <code>Desktop</code> 应用的功能扩展至 <code>CLI</code>。此功能通过 <code>Git Worktree</code> 机制，允许多个 <code>Agent</code> 在同一仓库的独立工作目录中并行运行，解决了因共享工作目录导致的文件冲突与覆盖问题。</p>
+<p>目前，<code>CLI</code> 端支持 <code>claude --worktree</code> 参数启动，可自动或手动命名工作树；<code>Desktop</code> 应用增设了 <code>Worktree</code> 模式开关；<code>Subagent</code> 同样支持 <code>Worktree</code> 隔离，便于执行大规模代码迁移等并行任务；用户可通过 <code>Frontmatter</code> 配置 <code>&quot;isolation&quot;: &quot;worktree&quot;</code>，使自定义 <code>Agent</code> 默认在隔离环境中运行；该设计还兼容 <code>Mercurial</code>、<code>Perforce</code> 等非 <code>Git</code> 版本控制系统，用户可通过定义 <code>Hooks</code> 实现同等隔离效果。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/3cdd1d5a-58ed-4168-82b2-b2aefcbc9499/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://t.co/cjOXhUDL0i">https://t.co/cjOXhUDL0i</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/OpenAIDevs/status/2025273441826517370">OpenAI 扩展 Batch API 支持 GPT 图像模型</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布 <code>Batch API</code> 现已支持 <code>GPT 图像模型</code>，该功能覆盖 <code>gpt-image-1.5</code> 等多个模型，拥有独立速率限制并节省 <strong>50%</strong> 调用成本。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 宣布其 <code>Batch API</code> 现已扩展支持 GPT 图像模型，旨在满足开发者对大规模图像生成与编辑的需求。此次更新覆盖 <code>gpt-image-1.5</code>、<code>chatgpt-image-latest</code>、<code>gpt-image-1</code> 及 <code>gpt-image-1-mini</code> <strong>四款</strong>模型。</p>
+<p>开发者现可通过 <code>该 API</code> 提交异步作业，单次任务上限达 <strong>50,000</strong> 个。此外，该服务设有独立速率限制，不占用标准 <code>API</code> 配额，且相比常规调用可节省 <strong>50%</strong> 的成本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/ee18fa85-4cee-4b83-8e7a-ed0ac14e022e/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/ee18fa85-4cee-4b83-8e7a-ed0ac14e022e/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2025273441826517370">https://x.com/OpenAIDevs/status/2025273441826517370</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.windowslatest.com/2026/02/19/copilot-quietly-pulls-your-data-from-other-microsoft-products-including-edge-and-msn-but-you-can-opt-out/">微软确认 Copilot 默认共享 Bing 与 Edge 数据</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>微软</strong>确认<strong>Copilot</strong>现已默认开启数据共享机制，自动提取<strong>Bing</strong>、<strong>MSN</strong>及<strong>Edge</strong>的用户数据以增强个性化记忆。</p>
+</blockquote>
+<p>据 <strong>Windows Latest</strong> 报道，<strong>微软</strong>确认 <code>Copilot</code> 现默认开启数据共享机制，自动从 <strong>Bing</strong>、<strong>MSN</strong> 及 <strong>Edge</strong> 等产品提取数据以增强记忆与个性化功能。用户虽可在设置中关闭 <code>Microsoft usage data</code> 开关，但需额外点击 <code>Delete all memory</code> 方能彻底清除数据。<strong>微软</strong>强调该数据仅用于个性化定制，不用于训练 <code>AI 模型</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/324005c9-c689-42c4-8bac-ac948bcc7945/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.windowslatest.com/2026/02/19/copilot-quietly-pulls-your-data-from-other-microsoft-products-including-edge-and-msn-but-you-can-opt-out/">https://www.windowslatest.com/2026/02/19/copilot-quietly-pulls-your-data-from-other-microsoft-products-including-edge-and-msn-but-you-can-opt-out/</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.21">OpenClaw 发布 v2026.2.21 版本更新</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布 <strong>v2026.2.21</strong> 版本，重点支持 <code>Gemini 3.1</code>，并实施了大规模安全加固。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 官方近日发布 <strong>v2026.2.21</strong> 版本更新。该版本重点引入了对 <code>Gemini 3.1</code> 的支持，并实施了大规模安全加固。在功能方面，新增 <strong>Discord</strong> 流媒体传输与语音频道支持，并引入 <code>Thread-bound subagent sessions</code> 优化会话管理。针对移动端，新版本优化了 <strong>iOS</strong> 及 <strong>Watch</strong> 平台体验，提升了网关稳定性并微调了 <code>Prompt caching</code>。官方表示本次更新包含 <strong>100</strong> 多项修复，详情已发布在 <strong>GitHub</strong> 上。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/45a3e7b9-1ebe-4b01-8321-fa39decbe1dd/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.21">https://github.com/openclaw/openclaw/releases/tag/v2026.2.21</a></li>
+</ul>
+<hr />
+<h2><a href="https://chatjimmy.ai/">Taalas 亮相固化模型推理芯片 HC1</a> <code>#7</code></h2>
+<blockquote>
+<p>AI芯片初创公司<strong>Taalas</strong>近期展示了首款芯片<code>HC1</code>。该产品通过将<code>模型权重</code>“固化”到<code>硅片</code>中，在<code>量化版</code>Llama 3.1-8B上实现了每秒超过<strong>1.5万</strong>个<code>Token</code>的<code>推理速度</code>，用户可在<code>chatjimmy.ai</code>上进行测试。<strong>Taalas</strong>目前已获得超过<strong>2亿美元</strong>融资，并计划在<strong>今年夏季</strong>推出第二款<code>推理芯片</code>。</p>
+</blockquote>
+<p>AI芯片初创公司<strong>Taalas</strong>发布首款产品<code>HC1</code>，采用<code>硬连线</code>技术将模型直接固化在硅片中。<code>HC1</code>基于<strong>台积电</strong><code>6nm</code>工艺，功耗约<strong>250W</strong>。据<strong>EE Times</strong>实测，其运行<code>Llama 3.1-8B</code>的速度超每秒<strong>15,000</strong>个<code>Token</code>，公司内部测试近<strong>17,000</strong>，远超<strong>Nvidia</strong>等现有硬件。该方案虽牺牲灵活性，但仅需修改<strong>两层</strong><code>掩模版</code>即可在<strong>两个月</strong>内完成定制。内部模拟数据显示，其<strong>30</strong>芯集群运行<code>DeepSeek R1</code>吞吐量达每秒<strong>12,000</strong>个<code>Token</code>，总拥有成本显著低于<code>GPU</code>。公司已融资超<strong>2亿美元</strong>，计划<strong>今夏</strong>推出第二款芯片，<strong>年底前</strong>支持前沿模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/b1caced2-6da8-4412-90d7-b6b6eb97a31d/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/b1caced2-6da8-4412-90d7-b6b6eb97a31d/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://chatjimmy.ai/">https://chatjimmy.ai/</a></li>
+<li><a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/karpathy/status/2024987174077432126">Andrej Karpathy 评析 Claw 技术及安全隐患</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Andrej Karpathy</strong> 近期专门购置 <strong>Mac Mini</strong> 测试 <code>Claws</code> 技术，他将 <code>Claws</code> 定义为位于 <code>LLM Agent</code> 之上的新层级，负责任务的编排与调度。</p>
+</blockquote>
+<p><strong>Andrej Karpathy</strong> 近期购买 <code>Mac Mini</code> 以测试 <code>Claws</code> 技术。<strong>Karpathy</strong> 将 <code>Claws</code> 定义为位于 <code>LLM Agent</code> 之上的新层级，负责编排、调度与持久化。</p>
+<p>尽管看好该概念，<strong>Karpathy</strong> 对主流实现 <code>OpenClaw</code> 持保留态度。他称 <code>OpenClaw</code> 是一个由 <code>vibe coding</code> 构成的 <strong>40万行代码</strong> 庞然大物，存在 <code>RCE（远程代码执行）</code> 漏洞和供应链投毒等严重安全隐患，现状堪比“安全噩梦”。</p>
+<p>他更看好 <code>NanoClaw</code> 等轻量级方案。<code>NanoClaw</code> 核心引擎仅约 <strong>4000行代码</strong>，且默认在 <code>容器</code> 中运行。其架构特点是通过 <code>Skills 指令</code> 修改源码来集成功能，而非依赖 <code>配置文件</code>，<strong>Karpathy</strong> 赞赏其为一种防止配置混乱的新范式。与此同时，社区也涌现出 <code>nanobot</code>、<code>nullclaw</code> 等多个同类项目。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/75f00d96-2986-4a0b-9a49-bf4ba0e173b0/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/karpathy/status/2024987174077432126">https://x.com/karpathy/status/2024987174077432126</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62">OpenAI 曾考虑就加拿大疑似枪手的聊天内容向警方报案</a> <code>#9</code></h2>
+<blockquote>
+<p>据**《华尔街日报》<strong>报道，加拿大一名涉嫌杀害</strong>8人**的凶手曾利用<code>ChatGPT</code>探讨枪支暴力，<strong>OpenAI</strong>虽封禁了其账号，但认为未达到举报标准，未在案发前通知警方。</p>
+</blockquote>
+<p>据**《华尔街日报》<strong>报道，涉嫌在加拿大Tumbler Ridge杀害</strong>8人<strong>的</strong>18岁<strong>嫌疑人</strong>Jesse Van Rootselaar**，曾在<strong>OpenAI</strong>的<code>ChatGPT</code>上进行涉及枪支暴力的对话。相关记录于<strong>2025年6月</strong>被<strong>OpenAI</strong>的监控工具标记，其账号亦遭封禁。报道指出，<strong>OpenAI</strong>员工曾就是否向加拿大执法部门举报进行内部辩论，但最终在事发前未采取行动。<strong>OpenAI</strong>发言人回应称，该嫌疑人的活动未达到向执法部门报告的标准，公司是在事件发生后才联系了加拿大当局。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62">https://www.wsj.com/us-news/law/openai-employees-raised-alarms-about-canada-shooting-suspect-months-ago-b585df62</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/theinformation/status/2025280618917945476">据报 OpenAI 文件上调了五年收入预期</a> <code>#10</code></h2>
+<blockquote>
+<p>据 <strong>The Information</strong> 报道，<strong>OpenAI</strong> 大幅上调五年期收入预测，预计今年营收达 <strong>300 亿美元</strong>，目标是 <strong>2030 年</strong>实现 <strong>1500 亿美元</strong>的消费者销售。<code>ChatGPT</code> 周活用户已升至 <strong>9.1 亿</strong>，但高昂的 <code>算力成本</code> 导致毛利率下滑，公司预计到 <strong>2030 年</strong>在基础设施上的投入将高达 <strong>6650 亿美元</strong>，并计划在当年实现 <code>现金流转正</code>。</p>
+</blockquote>
+<p>据媒体 <strong>The Information</strong> 报道，<strong>OpenAI</strong> 在内部文件中大幅上调<strong>五年期</strong>收入预测约 <strong>27%</strong>，但预计到 <strong>2030 年</strong>现金消耗将高达 <strong>1110 亿至 1120 亿美元</strong>。</p>
+<p>文件显示，公司去年收入达 <strong>131 亿美元</strong>，今年和明年的收入目标分别为 <strong>300 亿</strong>和 <strong>620 亿美元</strong>。其中，面向消费者的销售预计今年翻倍至 <strong>170 亿美元</strong>，并计划在 <strong>2030 年</strong>达到 <strong>1500 亿美元</strong>。</p>
+<p>高额的 <code>算力</code> 成本是主要支出。公司预计到 <strong>2030 年</strong>在基础设施和计算资源上的投入将达 <strong>6650 亿美元</strong>，导致 <code>调整后毛利率</code> 从 <strong>40%</strong> 降至 <strong>33%</strong>，未达预期目标。今年的总支出预计为 <strong>250 亿美元</strong>，明年将增至 <strong>570 亿美元</strong>。</p>
+<p>用户增长方面，<strong>ChatGPT</strong> <code>周活跃用户</code>数已达 <strong>9.1 亿</strong>，受益于 <code>GPT-5.1</code> 和 <code>5.2</code> 等更新带来的体验提升，公司长期目标是在 <strong>2030 年</strong>实现 <strong>27.5 亿</strong><code>周活跃用户</code>。尽管面临巨额投入，<strong>OpenAI</strong> 仍预计在 <strong>2030 年</strong>实现 <code>现金流转正</code>，截至去年年底其账面现金约为 <strong>400 亿美元</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/theinformation/status/2025280618917945476">https://x.com/theinformation/status/2025280618917945476</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/anthropics/anthropic-cli">Anthropic 拟推 Claude CLI 工具</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 正在开发一款专门用于 <strong>Claude API</strong> 的 <code>命令行工具</code> <strong>Anthropic CLI</strong>，目前该项目的 <strong>GitHub</strong> <code>仓库</code> 已经上线。</p>
+</blockquote>
+<p>据<strong>Anthropic</strong>成员<strong>Katelyn Lesse</strong>透露，公司正在开发一款针对<code>Claude API</code>的命令行工具<strong>Anthropic CLI</strong>。她表示，团队正在推进该工具的发布，并建议用户“敬请期待”。目前，该项目的<strong>GitHub</strong>代码仓库刚刚创建，开发者可先行关注。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/921fde4c-e9c3-4459-a0bf-b26a9fe41e50/d7cfe691-3514-495f-89bf-a1d04203714f/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/anthropics/anthropic-cli">https://github.com/anthropics/anthropic-cli</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/5"/><published>2026-02-22T00:32:33+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/4</id><title>2026-02-21</title><updated>2026-02-22T00:32:51.759267+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260221/20260221084518976101edba_cover_46a9.png" alt="" /></p>
 <h1>AI 早报 2026-02-21</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=GddxDudZ_bE">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1XAf7BnEy6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -186,7 +348,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/4"/><published>2026-02-21T01:34:11+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-21T01:34:37.658893+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/4"/><published>2026-02-21T01:34:11+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-22T00:32:52.066171+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
 <h1>AI 早报 2026-02-20</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=XLvV1_DEeBM">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1YXZBBCE86">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -485,7 +647,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-21T01:34:37.909957+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-22T00:32:52.302465+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
 <h1>AI 早报 2026-02-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qaQ1uDPjCqk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1WfZ8BqEu6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -653,7 +815,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-21T01:34:38.123004+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-22T00:32:52.675603+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
 <h1>AI 早报 2026-02-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
