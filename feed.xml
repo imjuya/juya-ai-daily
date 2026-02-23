@@ -1,5 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-22T01:00:45.434017+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/5</id><title>2026-02-22</title><updated>2026-02-22T01:00:46.117184+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260222/2026022208065849501269e9_cover_921f.png" alt="" /></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/imjuya/juya-ai-daily</id><title>橘鸦AI早报</title><updated>2026-02-23T00:46:17.232142+00:00</updated><author><name>imjuya</name><email>imjuyaya@gmail.com</email></author><link href="https://github.com/imjuya/juya-ai-daily"/><link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>记录人类完蛋全过程</subtitle><entry><id>https://github.com/imjuya/juya-ai-daily/issues/6</id><title>2026-02-23</title><updated>2026-02-23T00:46:18.048362+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260223/20260223083617182920e239_cover_9417.png" alt="" /></p>
+<h1>AI 早报 2026-02-23</h1>
+<p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=J8O8fGbbAjc">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1z8fKBAEXz">哔哩哔哩</a></p>
+<h2>概览</h2>
+<h3>产品应用</h3>
+<ul>
+<li>Google AI Studio 发布 Build 功能重大更新 <a href="https://aistudio.google.com/">↗</a> <code>#1</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Google DeepMind CEO 提出 AGI 判定标准“爱因斯坦测试” <a href="https://x.com/elonmusk/status/2025570252679967210">↗</a> <code>#2</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>据报OpenAI、甲骨文及软银合资的 Stargate 数据中心项目陷入停滞 <a href="https://thein.fo/4s8K1Ag">↗</a> <code>#3</code></li>
+<li>OpenAI 将推出100美元订阅层 Pro Lite <a href="https://x.com/btibor91/status/2025332472511189059">↗</a> <code>#4</code></li>
+<li>三星 Galaxy AI 集成 Perplexity <a href="https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility">↗</a> <code>#5</code></li>
+</ul>
+<hr />
+<h2><a href="https://aistudio.google.com/">Google AI Studio 发布 Build 功能重大更新</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Google AI Studio</strong> 推出了由 <code>Antigravity</code> 驱动的全新 <code>Build</code> 体验，支持开发者从 <code>单一提示词</code> 快速构建 <code>生产级</code> <code>全栈应用</code>。新功能不仅集成了 <code>Lucide React</code> 和 <code>Framer Motion</code> 以实现专业 <code>UI</code>，还通过新增的 <code>认证层</code> 和 <code>集成标签页</code>，实现了对 <code>OAuth</code>、<code>外部 API</code> 以及 <strong>Twilio</strong> 和 <strong>Slack</strong> 等服务的安全连接。</p>
+</blockquote>
+<p><strong>Google AI Studio</strong> 推出了由 <strong>Antigravity</strong> 驱动的全新 <code>Build</code>体验，标志其从原型设计工具向生产级全栈应用开发平台的重大转变。该更新旨在帮助开发者从单一提示词快速构建应用，核心能力包括支持多人交互应用、集成 <strong>Lucide React</strong> 和 <strong>Framer Motion</strong> 实现精致 UI 与流畅动画，并允许安全存储 <code>API Key</code> 以连接 <strong>Twilio</strong>、<strong>Slack</strong> 及数据库等真实世界服务。</p>
+<p>此次更新引入了全新的认证层和集成标签页，通过支持 <code>OAuth</code> 和外部 API 连接，解决了此前版本无法处理用户账户或第三方服务的核心限制。同时，技术栈支持已扩展至 <strong>React</strong>、<strong>Next.js</strong> 和 <strong>Angular</strong>，大幅提升了开发灵活性，使该平台更接近一个可行的完整开发环境，有利于独立开发者和小型团队交付真实应用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/94173400-4414-4c7c-92be-5053d688db87/1f894bdd-d9cd-444a-9aa3-a648fa6417da/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/94173400-4414-4c7c-92be-5053d688db87/1f894bdd-d9cd-444a-9aa3-a648fa6417da/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://aistudio.google.com/">https://aistudio.google.com/</a></li>
+<li><a href="https://www.testingcatalog.com/google-ai-studio-will-be-able-to-generate-full-stack-applications/">https://www.testingcatalog.com/google-ai-studio-will-be-able-to-generate-full-stack-applications/</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/elonmusk/status/2025570252679967210">Google DeepMind CEO 提出 AGI 判定标准“爱因斯坦测试”</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> CEO <strong>Demis Hassabis</strong> 提出了**“爱因斯坦测试”**作为 <code>AGI</code> 的新标准，即如果将 <code>AI</code> 训练数据截止到 <strong>1911 年</strong>，看其能否像 <strong>爱因斯坦</strong> 一样独立发现 <code>广义相对论</code>。<strong>马斯克</strong> 则认为这一标准描述的其实是 <code>人工超级智能</code> <code>ASI</code>，因为具备这种能力的 <code>AI</code> 集体智能将远超人类。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> CEO <strong>Demis Hassabis</strong>近期提出名为<code>“爱因斯坦测试”</code>的<code>AGI</code>评判标准。该标准设想，若一个仅能接触<strong>1911</strong>年前知识的<code>AI模型</code>，能独立推导出<strong>Einstein</strong>在<strong>1915</strong>年提出的<code>广义相对论</code>，即可被视为<code>AGI</code>。<strong>Hassabis</strong>明确指出，当前<code>AI系统</code>无法通过该测试，因其缺乏真正的<code>创造力</code>、<code>持续学习</code>与<code>长期规划能力</code>，仅表现出通过<code>统计模式匹配</code>解决已知任务的<code>“锯齿状智能”</code>。对此，<strong>Elon Musk</strong>在社交媒体上评论称，这描述的其实是<code>人工超级智能（ASI）</code>，因该能力若被复制<strong>数百万</strong>份，其集体智能将远超人类。同时，社区也存在讨论，一方面质疑测试截止时间（<strong>1911</strong>年）的严谨性，认为<strong>Lorentz</strong>和<strong>Poincaré</strong>已有早期工作；另一方面认为，若以此标准衡量，绝大多数人类也不具备<code>“通用智能”</code>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2025570252679967210">https://x.com/elonmusk/status/2025570252679967210</a></li>
+</ul>
+<hr />
+<h2><a href="https://thein.fo/4s8K1Ag">据报OpenAI、甲骨文及软银合资的 Stargate 数据中心项目陷入停滞</a> <code>#3</code></h2>
+<blockquote>
+<p>据<strong>The Information</strong>报道，<strong>OpenAI</strong>、<strong>甲骨文</strong>和<strong>软银</strong>联合成立的<strong>Stargate</strong>合资企业目前并未真正启动，既无人员配置也未开始建设<code>数据中心</code>。受各方控制权争夺及融资分歧影响，该项目陷入停滞，迫使<strong>OpenAI</strong>调整策略并撤回了自建<code>数据中心</code>的计划。</p>
+</blockquote>
+<p>据媒体 <strong>The Information</strong> 报道，由 <strong>OpenAI</strong>、<strong>Oracle</strong> 与 <strong>软银</strong> 共同组建的 <strong>Stargate</strong> 合资企业项目实质上已陷入停滞。该项目自高调官宣以来，既未完成人员配置，也未启动任何 <code>数据中心</code> 建设工作。</p>
+<p>报道揭示，项目停滞源于内部矛盾，主要体现在对控制权的争夺、融资事项的推诿，以及在东京进行的马拉松式谈判，据称这些谈判需依赖便利店食物维系。这一局面迫使 <strong>OpenAI</strong> 调整策略，已（至少暂时）撤回了自行建设 <code>数据中心</code> 的计划以满足 <code>算力</code> 需求。</p>
+<p>不过，有非官方声音认为该报道或夸大了问题，但也承认其中所披露的谈判细节令人担忧。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/94173400-4414-4c7c-92be-5053d688db87/c9fabd7a-5bf4-4597-89e2-0837520293db/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://thein.fo/4s8K1Ag">https://thein.fo/4s8K1Ag</a></li>
+<li><a href="https://x.com/theinformation/status/2025650558577557661">https://x.com/theinformation/status/2025650558577557661</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/btibor91/status/2025332472511189059">OpenAI 将推出100美元订阅层 Pro Lite</a> <code>#4</code></h2>
+<blockquote>
+<p>据社区发现，<strong>OpenAI</strong>正在网页代码中推进每月<strong>100美元</strong>的<code>ChatGPT Pro Lite</code>订阅计划，意在填补现有<strong>20美元</strong><code>Plus</code>与<strong>200美元</strong><code>Pro</code>之间的空白。</p>
+</blockquote>
+<p>据媒体报道及社区发现，<strong>OpenAI</strong>正在推进<strong>月费100美元</strong>的“<code>ChatGPT Pro Lite</code>”订阅计划。该层级最早由<strong>工程师Tibor Blaho</strong>在网页代码中挖掘发现，且有社区用户称已可订阅。</p>
+<p>分析指出，此举旨在填补现有<strong>Plus（20美元）<strong>与</strong>Pro（200美元）<strong>之间的价格空白，满足经常触及</strong>Plus</strong>限制但又无需<strong>Pro</strong>无限访问权限的重度用户需求，如自由职业者和开发者。此外，该层级也可能为未来算力消耗更大的<code>Agent</code>功能做铺垫。目前<strong>OpenAI</strong>尚未公布官方发布日期及完整权益列表。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/94173400-4414-4c7c-92be-5053d688db87/14c19dba-4aa9-4d17-ae37-959ac9dbca5b/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/btibor91/status/2025332472511189059">https://x.com/btibor91/status/2025332472511189059</a></li>
+<li><a href="https://www.testingcatalog.com/openai-prepares-new-chatgpt-pro-lite-tier-priced-at-100-monthly/">https://www.testingcatalog.com/openai-prepares-new-chatgpt-pro-lite-tier-priced-at-100-monthly/</a></li>
+</ul>
+<hr />
+<h2><a href="https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility">三星 Galaxy AI 集成 Perplexity</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>三星</strong>宣布扩展<code>Galaxy AI</code>以构建<code>多Agent</code>生态系统，并确认将在即将推出的旗舰设备中引入<code>Perplexity</code>。用户只需通过<code>Hey Plex</code>语音指令或长按侧边键，即可无缝调用该AI执行多步骤任务。</p>
+</blockquote>
+<p><strong>三星电子</strong>宣布扩展<strong>Galaxy AI</strong>，致力于构建开放且集成的<code>多Agent</code>生态系统，并确认将在即将推出的旗舰<strong>Galaxy</strong>设备中引入<strong>Perplexity</strong>作为新的<code>AI Agent</code>。根据<strong>三星</strong>内部研究，近<strong>80%<strong>的用户已依赖两种以上<code>AI Agent</code>，为此</strong>Galaxy AI</strong>将通过<code>系统级集成</code>扮演“编排者”角色，减少用户在应用间的切换。用户可通过语音唤醒词“<strong>Hey Plex</strong>”或长按侧边键激活<strong>Perplexity</strong>。该<code>Agent</code>已深度嵌入<strong>Samsung Notes</strong>、<strong>Gallery</strong>等系统应用及部分第三方应用，旨在提供流畅的<code>多步骤工作流</code>。官方同时提醒，使用某些<code>AI功能</code>可能需要登录<strong>三星账户</strong>，且不对AI输出的准确性做保证，功能可用性将受地区、设备及运营商限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/94173400-4414-4c7c-92be-5053d688db87/ac4845f7-1c3c-4697-9841-41d1c2accc25/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility">https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+<p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/6"/><published>2026-02-23T00:45:57+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/5</id><title>2026-02-22</title><updated>2026-02-23T00:46:18.275019+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260222/2026022208065849501269e9_cover_921f.png" alt="" /></p>
 <h1>AI 早报 2026-02-22</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=MslV6QgT3Mw">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1gLZfB8Ewq">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -161,7 +244,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/5"/><published>2026-02-22T00:32:33+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/4</id><title>2026-02-21</title><updated>2026-02-22T01:00:46.349095+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260221/20260221084518976101edba_cover_46a9.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/5"/><published>2026-02-22T00:32:33+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/4</id><title>2026-02-21</title><updated>2026-02-23T00:46:18.522728+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260221/20260221084518976101edba_cover_46a9.png" alt="" /></p>
 <h1>AI 早报 2026-02-21</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=GddxDudZ_bE">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1XAf7BnEy6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -348,7 +431,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/4"/><published>2026-02-21T01:34:11+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-22T01:00:46.593480+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/4"/><published>2026-02-21T01:34:11+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/3</id><title>2026-02-20</title><updated>2026-02-23T00:46:18.737678+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260220/202602200848013165970043_cover_1636.png" alt="" /></p>
 <h1>AI 早报 2026-02-20</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=XLvV1_DEeBM">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1YXZBBCE86">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -647,7 +730,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-22T01:00:46.813824+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/3"/><published>2026-02-20T01:01:35+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/2</id><title>2026-02-19</title><updated>2026-02-23T00:46:18.985251+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260219/20260219090351005487a008_cover_73fa.png" alt="" /></p>
 <h1>AI 早报 2026-02-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=qaQ1uDPjCqk">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1WfZ8BqEu6">哔哩哔哩</a></p>
 <h2>概览</h2>
@@ -815,7 +898,7 @@
 <hr />
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
 <p>作者<code>橘鸦Juya</code>，视频版在同名<strong>哔哩哔哩</strong>。欢迎<strong>点赞、关注、分享</strong>。</p>
-]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-22T01:00:47.030191+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
+]]></content><link href="https://github.com/imjuya/juya-ai-daily/issues/2"/><published>2026-02-19T01:57:23+00:00</published></entry><entry><id>https://github.com/imjuya/juya-ai-daily/issues/1</id><title>2026-02-18</title><updated>2026-02-23T00:46:19.216008+00:00</updated><content type="html"><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260218/202602180850442485579dde_cover_e48a.jpg" alt="" /></p>
 <h1>AI 早报 2026-02-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=8jAigWfpDKU">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1uAZDBiEKF">哔哩哔哩</a></p>
 <h2>概览</h2>
