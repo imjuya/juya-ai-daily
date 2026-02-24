@@ -9,7 +9,7 @@
       <title>橘鸦AI早报</title>
       <link>https://github.com/imjuya/juya-ai-daily</link>
     </image>
-    <atom:link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Tue, 24 Feb 2026 01:03:53 +0000</lastBuildDate>
     <item>
       <title>2026-02-24</title>

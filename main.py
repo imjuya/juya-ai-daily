@@ -9,6 +9,11 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
+PRIMARY_FEED_FILENAME = "rss.xml"
+LEGACY_FEED_FILENAME = "feed.xml"
+FEED_FILENAMES = (PRIMARY_FEED_FILENAME, LEGACY_FEED_FILENAME)
+FEED_ICON_PATH = "static/icon.png"
+
 MD_HEAD = """# 橘鸦AI早报
 
 > 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅，内容可能存在错误，请以信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
@@ -17,8 +22,8 @@ MD_HEAD = """# 橘鸦AI早报
 
 | Platform | Link |
 | :--- | :--- |
-| RSS Feed | [Subscribe](https://raw.githubusercontent.com/{repo_name}/master/feed.xml) |
-| Markdown 备份 | [BACKUP](https://github.com/{repo_name}/tree/master/BACKUP) |
+| RSS Feed | <img src="https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_icon_path}" alt="RSS icon" width="18" /> [Subscribe](https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_filename}) |
+| Markdown 备份 | [BACKUP](https://github.com/{repo_name}/tree/{branch_name}/BACKUP) |
 | GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
 | AI早报 视频版-YouTube | [YouTube](https://www.youtube.com/@imjuya) |
@@ -111,7 +116,7 @@ def get_repo(user: Github, repo: str):
 
 
 def parse_TODO(issue):
-    body = issue.body.splitlines()
+    body = (issue.body or "").splitlines()
     todo_undone = [l for l in body if l.startswith("- [ ] ")]
     todo_done = [l for l in body if l.startswith("- [x] ")]
     # just add info all done
@@ -124,11 +129,11 @@ def parse_TODO(issue):
 
 
 def get_top_issues(repo):
-    return repo.get_issues(labels=TOP_ISSUES_LABELS)
+    return repo.get_issues(labels=TOP_ISSUES_LABELS, state="all")
 
 
 def get_todo_issues(repo):
-    return repo.get_issues(labels=TODO_ISSUES_LABELS)
+    return repo.get_issues(labels=TODO_ISSUES_LABELS, state="open")
 
 
 def get_repo_labels(repo):
@@ -136,7 +141,7 @@ def get_repo_labels(repo):
 
 
 def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
+    return repo.get_issues(labels=(label,), state="all")
 
 
 def add_issue_info(issue, md):
@@ -174,7 +179,7 @@ def add_md_top(repo, md, me):
 def add_md_firends(repo, md, me):
 
     s = FRIENDS_TABLE_HEAD
-    friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
+    friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS, state="all"))
     if not FRIENDS_LABELS or not friends_issues:
         return
     friends_issue_number = friends_issues[0].number
@@ -189,7 +194,7 @@ def add_md_firends(repo, md, me):
     s = markdown.markdown(s, output_format="html", extensions=["extra"])
     with open(md, "a+", encoding="utf-8") as md:
         md.write(
-            f"## [友情链接](https://github.com/{str(me)}/gitblog/issues/{friends_issue_number})\n"
+            f"## [友情链接](https://github.com/{repo.full_name}/issues/{friends_issue_number})\n"
         )
         md.write("<details><summary>显示</summary>\n")
         md.write(s)
@@ -203,7 +208,9 @@ def add_md_recent(repo, md, me, limit=5):
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
-            for issue in repo.get_issues(sort="created", direction="desc"):
+            for issue in repo.get_issues(state="all", sort="created", direction="desc"):
+                if issue.pull_request:
+                    continue
                 if is_me(issue, me):
                     add_issue_info(issue, md)
                     count += 1
@@ -213,9 +220,16 @@ def add_md_recent(repo, md, me, limit=5):
             print(str(e))
 
 
-def add_md_header(md, repo_name):
+def add_md_header(md, repo_name, feed_filename, branch_name):
     with open(md, "w", encoding="utf-8") as md:
-        md.write(MD_HEAD.format(repo_name=repo_name))
+        md.write(
+            MD_HEAD.format(
+                repo_name=repo_name,
+                feed_filename=feed_filename,
+                branch_name=branch_name,
+                feed_icon_path=FEED_ICON_PATH,
+            )
+        )
         md.write("\n")
 
 
@@ -272,22 +286,29 @@ Built with [gitblog](https://github.com/yihong0618/gitblog) by [@yihong0618](htt
         md_file.write(footer)
 
 
-def get_to_generate_issues(repo, dir_name, issue_number=None):
+def get_to_generate_issues(repo, dir_name, me, issue_number=None):
     md_files = os.listdir(dir_name)
     generated_issues_numbers = [
         int(i.split("_")[0]) for i in md_files if i.split("_")[0].isdigit()
     ]
     to_generate_issues = [
         i
-        for i in list(repo.get_issues())
+        for i in list(repo.get_issues(state="all", sort="created", direction="desc"))
         if int(i.number) not in generated_issues_numbers
+        and i.body
+        and is_me(i, me)
+        and not i.pull_request
     ]
     if issue_number:
-        to_generate_issues.append(repo.get_issue(int(issue_number)))
+        issue = repo.get_issue(int(issue_number))
+        issue_numbers = {i.number for i in to_generate_issues}
+        if issue.number not in issue_numbers and issue.body and is_me(issue, me) and not issue.pull_request:
+            to_generate_issues.append(issue)
     return to_generate_issues
 
 
 def generate_rss_feed(repo, filename, me):
+    default_branch = repo.default_branch or "master"
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title("橘鸦AI早报")
@@ -297,10 +318,16 @@ def generate_rss_feed(repo, filename, me):
     )
     generator.link(href=repo.html_url)
     generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/master/{filename}",
+        href=f"https://raw.githubusercontent.com/{repo.full_name}/{default_branch}/{filename}",
         rel="self",
     )
-    for issue in repo.get_issues():
+    if os.path.exists(FEED_ICON_PATH):
+        generator.image(
+            url=f"https://raw.githubusercontent.com/{repo.full_name}/{default_branch}/{FEED_ICON_PATH}",
+            title="橘鸦AI早报",
+            link=repo.html_url,
+        )
+    for issue in repo.get_issues(state="all", sort="created", direction="desc"):
         if not issue.body or not is_me(issue, me) or issue.pull_request:
             continue
         item = generator.add_entry(order="append")
@@ -320,16 +347,18 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
     me = get_me(user)
     repo = get_repo(user, repo_name)
+    default_branch = repo.default_branch or "master"
     # add to readme one by one, change order here
-    add_md_header("README.md", repo_name)
+    add_md_header("README.md", repo_name, PRIMARY_FEED_FILENAME, default_branch)
     for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
 
     # add footer with credits
     add_md_footer("README.md")
 
-    generate_rss_feed(repo, "feed.xml", me)
-    to_generate_issues = get_to_generate_issues(repo, dir_name, issue_number)
+    for feed_filename in FEED_FILENAMES:
+        generate_rss_feed(repo, feed_filename, me)
+    to_generate_issues = get_to_generate_issues(repo, dir_name, me, issue_number)
 
     # save md files to backup folder
     for issue in to_generate_issues:
@@ -340,7 +369,7 @@ def save_issue(issue, me, dir_name=BACKUP_DIR):
     md_name = os.path.join(
         dir_name, f"{issue.number}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
     )
-    with open(md_name, "w") as f:
+    with open(md_name, "w", encoding="utf-8") as f:
         f.write(f"# [{issue.title}]({issue.html_url})\n\n")
         f.write(issue.body or "")
         if issue.comments:

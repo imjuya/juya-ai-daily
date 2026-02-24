@@ -6,7 +6,7 @@
 
 | Platform | Link |
 | :--- | :--- |
-| RSS Feed | [Subscribe](https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/feed.xml) |
+| RSS Feed | <img src="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/static/icon.png" alt="RSS icon" width="18" /> [Subscribe](https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml) |
 | Markdown 备份 | [BACKUP](https://github.com/imjuya/juya-ai-daily/tree/master/BACKUP) |
 | GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
