@@ -291,9 +291,9 @@ def generate_rss_feed(repo, filename, me):
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title("橘鸦AI早报")
-    generator.subtitle("本仓库将AI早报备份为Markdown存档并自动生成RSS订阅，内容可能存在错误，请以信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。")
+    generator.description("请以信息出处和官方信息为准。")
     generator.author(
-        {"name": "imjuya", "email": "imjuyaya@gmail.com"}
+        {"name": "Juya", "email": "imjuyaya@gmail.com"}
     )
     generator.link(href=repo.html_url)
     generator.link(
@@ -307,12 +307,13 @@ def generate_rss_feed(repo, filename, me):
         item.id(issue.html_url)
         item.link(href=issue.html_url)
         item.title(issue.title)
+        item.author({"name": "Juya"})
         item.published(issue.created_at.strftime("%Y-%m-%dT%H:%M:%SZ"))
         for label in issue.labels:
             item.category({"term": label.name})
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
         item.content(CDATA(marko.convert(body)), type="html")
-    generator.atom_file(filename)
+    generator.rss_file(filename)
 
 
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
