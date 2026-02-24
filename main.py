@@ -22,7 +22,7 @@ MD_HEAD = """# 橘鸦AI早报
 
 | Platform | Link |
 | :--- | :--- |
-| RSS Feed | <img src="https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_icon_path}" alt="RSS icon" width="18" /> [Subscribe](https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_filename}) |
+| RSS Feed | [Subscribe](https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_filename}) |
 | Markdown 备份 | [BACKUP](https://github.com/{repo_name}/tree/{branch_name}/BACKUP) |
 | GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
@@ -227,7 +227,6 @@ def add_md_header(md, repo_name, feed_filename, branch_name):
                 repo_name=repo_name,
                 feed_filename=feed_filename,
                 branch_name=branch_name,
-                feed_icon_path=FEED_ICON_PATH,
             )
         )
         md.write("\n")
