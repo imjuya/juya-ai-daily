@@ -1,5 +1,398 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml</link><description>请以信息出处和官方信息为准。</description><atom:link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/static/icon.png</url><title>橘鸦AI早报</title><link>https://github.com/imjuya/juya-ai-daily</link></image><lastBuildDate>Tue, 24 Feb 2026 09:27:25 +0000</lastBuildDate><item><title>2026-02-24</title><link>https://github.com/imjuya/juya-ai-daily/issues/7</link><description><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260224/20260224083348368944db06_cover_52c1.png" alt="" /></p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml</link><description>请以信息出处和官方信息为准。</description><atom:link href="https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/rss.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/imjuya/juya-ai-daily/master/static/icon.png</url><title>橘鸦AI早报</title><link>https://github.com/imjuya/juya-ai-daily</link></image><lastBuildDate>Wed, 25 Feb 2026 01:23:13 +0000</lastBuildDate><item><title>2026-02-25</title><link>https://github.com/imjuya/juya-ai-daily/issues/8</link><description><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260225/2026022509075871731699bf_cover_dbf5.png" alt="" /></p>
+<h1>AI 早报 2026-02-25</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1hHfxBgEhb">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Mau3vHviV-c">YouTube</a></p>
+<h2>概览</h2>
+<h3>精选</h3>
+<ul>
+<li>阿里千问发布 Qwen3.5 模型系列多个模型 <a href="https://huggingface.co/collections/Qwen/qwen35">↗</a> <code>#1</code></li>
+<li>Anthropic 推出 Claude Code Remote Control 功能 <a href="https://code.claude.com/docs/en/remote-control">↗</a> <code>#2</code></li>
+<li>Anthropic 推出 Claude Cowork 重大更新 <a href="https://claude.com/blog/cowork-plugins-across-enterprise">↗</a> <code>#3</code></li>
+<li>OpenAI 全面开放 GPT-5.3-Codex 模型API <a href="https://developers.openai.com/api/docs/models/gpt-5.3-codex">↗</a> <code>#4</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Inception 发布 Mercury 2 扩散架构推理模型 <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2">↗</a> <code>#5</code></li>
+<li>Liquid AI 发布 LFM2-24B-A2B <a href="https://www.liquid.ai/blog/lfm2-24b-a2b">↗</a> <code>#6</code></li>
+<li>Reve 推出 4K 图像生成模型 Reve V1.5 <a href="https://x.com/arena/status/2026172032254357735">↗</a> <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Cursor 推出新版 Cloud Agents <a href="https://cursor.com/cn/blog/agent-computer-use">↗</a> <code>#8</code></li>
+<li>Cognition 发布 Devin 2.2 <a href="https://x.com/cognition/status/2026343816521994339">↗</a> <code>#9</code></li>
+<li>OpenAI 扩展 Responses API 支持多种文件格式输入 <a href="https://developers.openai.com/api/docs/guides/file-inputs/">↗</a> <code>#10</code></li>
+<li>OpenRouter 推出 “Effective Pricing” 参数 <a href="https://x.com/OpenRouter/status/2025988709401743395">↗</a> <code>#11</code></li>
+<li>MiniMax 推出 MaxClaw <a href="https://agent.minimax.io/docs/changelog">↗</a> <code>#12</code></li>
+<li>TRAE发布国产模型选择建议 <a href="https://mp.weixin.qq.com/s/pNeYG_CZGzruNQO-ccD6yA">↗</a> <code>#13</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Google Labs 上线 AI 音乐创作平台 ProducerAI <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/">↗</a> <code>#14</code></li>
+<li>Google 升级 Opal ，推出 Agent Step <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent">↗</a> <code>#15</code></li>
+<li>Notion 在 3.3 版本中推出 Custom Agents <a href="https://www.notion.com/releases/2026-02-24">↗</a> <code>#16</code></li>
+<li>DeepSeek 应用上线界面与功能优化 <code>#17</code></li>
+<li>Perplexity 推出由 OpenAI Realtime 模型驱动的新版语音模式 <a href="https://x.com/perplexity_ai/status/2026389166049865751">↗</a> <code>#18</code></li>
+<li>OpenClaw 发布 2026.2.23 版本 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.23">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Meta AMD 签署战略合作协议 加码AI基础设施 <a href="https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/">↗</a> <code>#20</code></li>
+<li>xAI 与美军签约部署 Grok 模型 <a href="https://www.aibase.com/zh/news/25625">↗</a> <code>#21</code></li>
+<li>Microsoft 主权云扩展功能，支持本地断网运行 AI 模型 <a href="https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/">↗</a> <code>#22</code></li>
+<li>英伟达与联发科合作开发Arm架构PC芯片 <a href="https://zhidx.com/p/535887.html">↗</a> <code>#23</code></li>
+<li>SambaNova 发布 SN50 AI 芯片，与 Intel 达成战略合作 <a href="https://sambanova.ai/press/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m?utm_source=x&amp;utm_medium=organic">↗</a> <code>#24</code></li>
+<li>MatX 完成 5 亿美元 B 轮融资 <a href="https://x.com/reinerpope/status/2026351870852358492">↗</a> <code>#25</code></li>
+<li>Canva 收购 Cavalry 与 Mango AI <a href="https://cavalry.scenegroup.co/">↗</a> <code>#26</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 提出人格选择模型 PSM 解释 AI 助手拟人化行为 <a href="https://alignment.anthropic.com/2026/psm">↗</a> <code>#27</code></li>
+<li>Anthropic 发布负责任扩展政策 RSP 3.0 <a href="https://www.anthropic.com/responsible-scaling-policy">↗</a> <code>#28</code></li>
+</ul>
+<hr />
+<h2><a href="https://huggingface.co/collections/Qwen/qwen35">阿里千问发布 Qwen3.5 模型系列多个模型</a> <code>#1</code></h2>
+<blockquote>
+<p>阿里通义千问团队发布了 <strong>Qwen 3.5</strong> 模型家族的多个型号，主打“更强智能、更低算力”，涵盖针对 <code>Agent</code> 复杂推理优化的 <strong>122B-A10B</strong> 与 <strong>27B</strong>，以及性能超越上一代的 <strong>35B-A3B</strong>。目前，用户可在 <strong>Qwen Chat</strong> 上体验这些模型，所有模型权重已发布，<code>API</code> 及 <code>vLLM</code> 推理支持均已上线。</p>
+</blockquote>
+<p>阿里巴巴Qwen团队发布<strong>Qwen 3.5</strong>模型家族的多个型号，包括<strong>Qwen3.5-Flash</strong>、<strong>Qwen3.5-35B-A3B</strong>、<strong>Qwen3.5-122B-A10B</strong>和<strong>Qwen3.5-27B</strong>，主打“More intelligence, less compute”理念。</p>
+<p>该系列中的<strong>Qwen3.5-35B-A3B</strong>采用<code>MoE</code>架构，拥有350亿总参数但仅激活30亿参数。据官方数据，其性能超越了前代模型<strong>Qwen3-235B-A22B-2507</strong>与视觉模型<strong>Qwen3-VL-235B-A22B</strong>，效率提升得益于混合了线性注意力与标准注意力的架构设计。<strong>Qwen3.5-122B-A10B</strong>与<strong>Qwen3.5-27B</strong>则专注于Agent场景的复杂推理与规划，两者经过了长思维链和基于推理的强化学习等四阶段训练，确保长周期任务的逻辑一致性。<strong>Qwen3.5-27B</strong>作为Dense模型支持多模态，适合在单GPU上运行。</p>
+<p><strong>Qwen3.5-Flash</strong>是<strong>35B-A3B</strong>的托管生产版本，专为低延迟工作流优化，默认支持100万token上下文，并原生支持工具使用与函数调用。</p>
+<p>目前，用户可在<strong>Qwen Chat</strong>上体验这些模型。模型权重已在<strong>Hugging Face</strong>和<strong>ModelScope</strong>发布，<strong>Flash API</strong>已上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/c9f12e55-6361-4625-b47a-274e88718ab4/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/c9f12e55-6361-4625-b47a-274e88718ab4/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/collections/Qwen/qwen35">https://huggingface.co/collections/Qwen/qwen35</a></li>
+<li><a href="https://modelscope.cn/collections/Qwen/Qwen35">https://modelscope.cn/collections/Qwen/Qwen35</a></li>
+<li><a href="https://x.com/Alibaba_Qwen/status/2026339351530188939">https://x.com/Alibaba_Qwen/status/2026339351530188939</a></li>
+</ul>
+<hr />
+<h2><a href="https://code.claude.com/docs/en/remote-control">Anthropic 推出 Claude Code Remote Control 功能</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 推出了 <strong>Claude Code</strong> 的远程控制功能，允许用户通过手机或浏览器远程接管本地编程环境，实现跨设备的无缝会话同步。该功能已向 <strong>Max</strong> 用户开放，即将向 <strong>Pro</strong> 用户推出。</p>
+</blockquote>
+<p>Anthropic 近日为 <strong>Claude Code</strong> 推出研究预览版功能 <strong>Remote Control</strong>，支持用户通过手机或浏览器远程接续本地会话。官方文档显示该功能面向 <strong>Pro</strong> 和 <strong>Max</strong> 订阅，但据媒体报道目前仅限 <strong>Max</strong> 用户，<strong>Pro</strong> 用户即将开放，且不支持 <strong>Team</strong> 或 <strong>Enterprise</strong> 计划。</p>
+<p>该功能通过 <code>claude remote-control</code> 等命令生成链接或二维码，连接后可保持本地文件系统、MCP servers 及工具在远程可用，且全程使用出站 HTTPS 及 TLS 加密，确保安全。目前，该功能要求终端保持运行，同一实例仅支持一个远程连接，若网络中断超过约 <strong>10 分钟</strong> 会话将超时。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/8cc2ba7f-cd76-471f-b171-12f77b37572f/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/remote-control">https://code.claude.com/docs/en/remote-control</a></li>
+<li><a href="https://x.com/claudeai/status/2026418433911603668">https://x.com/claudeai/status/2026418433911603668</a></li>
+</ul>
+<hr />
+<h2><a href="https://claude.com/blog/cowork-plugins-across-enterprise">Anthropic 推出 Claude Cowork 重大更新</a> <code>#3</code></h2>
+<blockquote>
+<p>Anthropic 更新 <strong>Claude Cowork</strong>，企业管理员现可建立私有插件市场，并通过统一的 <code>Customize</code> 菜单管理 <code>Plugins</code>、<code>Skills</code> 和 <code>Connectors</code>。<strong>Claude Cowork</strong> 新增 <strong>Google Workspace</strong>、<strong>Slack</strong> 等 <code>Connectors</code>。此次更新还提供了覆盖 <strong>HR</strong>、<strong>金融</strong> 等领域的预构建模板，并推出了 <strong>Excel</strong> 与 <strong>PowerPoint</strong> 之间的跨应用任务编排功能，让 <strong>Claude</strong> 能直接将数据分析转化为演示文稿。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 正式推出针对企业级 <strong>Claude Cowork</strong> 和 <strong>Plugins</strong> 的重大更新，旨在帮助企业将 <strong>Claude</strong> 定制为适配各部门的专用 Agent。管理员现可创建私有 <strong>Plugin Marketplace</strong> 以在组织内分发工具，并通过统一的“Customize”菜单集中管理 <strong>Plugins</strong>、<strong>Skills</strong> 和 <strong>Connectors</strong>。此次更新引入了覆盖 HR、设计、工程、运营及金融服务等领域的预构建 <strong>Plugins</strong>，并新增了对 <strong>Google Workspace</strong>、<strong>Docusign</strong>、<strong>Slack</strong> 等企业软件的连接器支持。此外，<strong>Claude</strong> 现已具备在 <strong>Excel</strong> 和 <strong>PowerPoint</strong> 之间端到端的跨应用任务编排能力。<strong>Plugins</strong> 的用户体验更新已面向所有 <strong>Cowork</strong> 用户开放，而 <strong>Excel</strong> 和 <strong>PowerPoint</strong> 跨应用功能目前处于研究预览阶段，适用于 Mac 和 Windows 平台的付费计划用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/ecc57d5a-ef68-4ec0-8a87-8217b39d828f/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/cowork-plugins-across-enterprise">https://claude.com/blog/cowork-plugins-across-enterprise</a></li>
+<li><a href="https://claude.com/blog/cowork-plugins-finance">https://claude.com/blog/cowork-plugins-finance</a></li>
+<li><a href="https://x.com/claudeai/status/2026305186671608315">https://x.com/claudeai/status/2026305186671608315</a></li>
+</ul>
+<hr />
+<h2><a href="https://developers.openai.com/api/docs/models/gpt-5.3-codex">OpenAI 全面开放 GPT-5.3-Codex 模型API</a> <code>#4</code></h2>
+<blockquote>
+<p>OpenAI 正式宣布通过 <code>Responses API</code> 向全量开发者开放 <strong>GPT-5.3-Codex</strong> 模型，支持最高 <strong>128k</strong> 输出 tokens 及四档推理强度设置。</p>
+</blockquote>
+<p>OpenAI 正式宣布 <strong>GPT-5.3-Codex</strong> 模型现已通过 <code>Responses API</code> 向所有开发者开放，允许将其集成至应用程序和工作流中。官方称该模型是“迄今为止最强大的 agentic coding model”，专为 Codex 或类似环境中的 agentic coding 任务进行优化，并在单一模型中结合了前沿编码性能与专业知识能力。这也是驱动 Codex App/CLI 的模型。</p>
+<p>技术规格方面，<strong>GPT-5.3-Codex</strong> 支持最大 128,000 输出 tokens，知识截止日期为 <strong>2025年8月31日</strong>，并提供 <code>low</code>、<code>medium</code>、<code>high</code>、<code>xhigh</code> 四档 reasoning effort 设置，同时官方提供了专门的 Prompting Guide。</p>
+<p>其价格为每 100 万输入 tokens <strong>$1.75</strong> 和每 100 万输出 tokens <strong>$14</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/98b92284-fa03-48ce-b393-5dcce94f0c2e/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/api/docs/models/gpt-5.3-codex">https://developers.openai.com/api/docs/models/gpt-5.3-codex</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2026379092661289260">https://x.com/OpenAIDevs/status/2026379092661289260</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2">Inception 发布 Mercury 2 扩散架构推理模型</a> <code>#5</code></h2>
+<blockquote>
+<p>Inception 发布了基于扩散架构的推理语言模型 <code>Mercury 2</code>，在 <code>NVIDIA Blackwell</code> GPU 上实现了每秒 <strong>1009</strong> 个 token 的极速响应。该模型具备 <strong>128K</strong> 上下文和原生工具调用能力，已上线API。</p>
+</blockquote>
+<p><strong>Inception</strong> 公司正式发布了 <strong>Mercury 2</strong>，这是一款基于 <code>Diffusion</code> 架构的推理语言模型。官方称其为世界最快，通过并行优化整段文本而非传统的自回归逐字生成，实现了超过 <strong>5</strong> 倍于传统语言模型的速度。据媒体报道，这是首个基于 <code>Diffusion</code> 的语言推理模型。官方数据显示，该模型在 NVIDIA Blackwell GPU 上达到了 <strong>1,009</strong> tokens/sec 的生成速度。</p>
+<p>该模型定价为输入 <strong>0.25</strong> 美元/百万 tokens、输出 <strong>0.75</strong> 美元/百万 tokens。<strong>Mercury 2</strong> 具备 <strong>128K</strong> 上下文窗口、可调推理、原生工具调用以及符合 Schema 的 JSON 输出等功能，目前已上线并提供 OpenAI API 兼容接口，可直接集成至现有技术栈。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/e55010e5-ec78-41b8-96d8-f381c631a82e/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/e55010e5-ec78-41b8-96d8-f381c631a82e/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2">https://www.inceptionlabs.ai/blog/introducing-mercury-2</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.liquid.ai/blog/lfm2-24b-a2b">Liquid AI 发布 LFM2-24B-A2B</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Liquid AI</strong> 发布了 <code>LFM2-24B-A2B</code>，该模型专为端侧部署优化，适配 <strong>32GB</strong> 内存的消费级笔记本电脑及边缘设备，目前已开放权重下载。</p>
+</blockquote>
+<p><strong>Liquid AI</strong>发布<strong>LFM2</strong>系列最大模型<strong>LFM2-24B-A2B</strong>。该模型采用稀疏<code>MoE</code>架构，拥有<strong>240亿</strong>总参数及约<strong>23亿</strong>激活参数，专为端侧部署优化，适配<strong>32GB</strong>内存环境。其融合门控卷积与<code>GQA</code>块，在<strong>GPQA Diamond</strong>等基准中展现对数线性质量提升。实测在单块<strong>H100</strong> GPU上吞吐量约<strong>2.68万</strong>Token/秒。目前模型已开放权重，支持<code>llama.cpp</code>等主流框架，预训练仍在进行中，未来计划推出含强化学习版本的<strong>LFM2.5-24B-A2B</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/2bb3ab26-aed3-46d8-b24f-4660a1a3b68f/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.liquid.ai/blog/lfm2-24b-a2b">https://www.liquid.ai/blog/lfm2-24b-a2b</a></li>
+<li><a href="https://huggingface.co/LiquidAI/LFM2-24B-A2B">https://huggingface.co/LiquidAI/LFM2-24B-A2B</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/arena/status/2026172032254357735">Reve 推出 4K 图像生成模型 Reve V1.5</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Reve</strong> 推出首款文本生图模型 <code>V1.5</code> 的早期版本，该模型采用原生像素空间扩散技术，支持原生 4K 分辨率生成，在 Arena 评测中以 <strong>1177</strong> 分跻身前三。</p>
+</blockquote>
+<p>Reve 发布首款文生图模型 <code>Reve V1.5</code> 早期版本，在 Arena 竞技场以 <strong>1177</strong> 分位列总榜前三或第四，性能与 <code>Grok-Imagine-Image</code> 持平，并在文本生成类别进入前五。该模型支持原生 <strong>4K</strong> (<strong>16MP</strong>) 分辨率，技术架构采用原生像素空间扩散方案，未依赖潜在自编码器，并优化了预训练与后训练流程。据官方计划，近期将引入图像编辑功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/0facb717-8c3f-4da8-b34e-0b0a3cece773/m001.png" alt="" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/0facb717-8c3f-4da8-b34e-0b0a3cece773/m002.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/arena/status/2026172032254357735">https://x.com/arena/status/2026172032254357735</a></li>
+</ul>
+<hr />
+<h2><a href="https://cursor.com/cn/blog/agent-computer-use">Cursor 推出新版 Cloud Agents</a> <code>#8</code></h2>
+<blockquote>
+<p>Cursor 正式推出新版 <strong>Cloud Agents</strong>，赋予智能体独立云端虚拟机，使其能在沙盒环境中直接运行、测试软件并生成带有视频演示的 <strong>PR</strong>。用户还可随时通过远程桌面接管虚拟机进行协作。</p>
+</blockquote>
+<p><strong>Cursor</strong> 正式推出新版 <strong>Cloud Agents</strong>，标志着软件构建方式的重大变革。该功能赋予智能体通过独立虚拟机（<strong>VM</strong>）直接控制计算机的能力，使其不再仅生成代码差异，而是在云端沙盒环境中实际构建、运行和验证软件，并生成视频、截图等演示产出物。</p>
+<p><strong>Cloud Agents</strong> 为每个智能体提供完整的云端开发环境，避免了本地资源冲突，支持大规模并行运行。该功能适配所有代码库，可在 Web、移动端、桌面应用乃至 <strong>Slack</strong> 和 <strong>GitHub</strong> 上工作。用户无需在本地检出分支，即可随时接管智能体的远程桌面，直接操作和编辑修改后的软件。</p>
+<p>官方数据显示，目前 <strong>Cursor</strong> 内部合并的 PR 中已有超过 <strong>30%</strong> 由在云端沙盒中自主运行的 <strong>Agent</strong> 创建。<strong>Agent</strong> 已被应用于构建新功能、复现漏洞、处理快速修复及执行完整的 UI 测试等复杂任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/9955e67e-bc80-4c6e-be5a-57c3d33d9140/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/agent-computer-use">https://cursor.com/cn/blog/agent-computer-use</a></li>
+<li><a href="https://x.com/cursor_ai/status/2026369873321013568">https://x.com/cursor_ai/status/2026369873321013568</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/cognition/status/2026343816521994339">Cognition 发布 Devin 2.2</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Cognition</strong> 推出了经过重构的自主 Agent <strong>Devin 2.2</strong>，新增了计算机使用和虚拟桌面功能，集成了 <strong>Devin Review</strong> 功能，已开放免费试用。</p>
+</blockquote>
+<p><strong>Cognition</strong> 正式发布自主 Agent <strong>Devin 2.2</strong>，具备计算机使用、自我验证及自动修复能力。官方对产品进行了底层彻底重构，实现了启动速度 <strong>3</strong> 倍提升、UI 重新设计，并新增虚拟桌面功能。<strong>Devin Review</strong> 功能现已集成至核心会话，可在用户查看 PR 前自动审查并修复问题；Slack 和 Linear 集成也经重构变得更快更可靠。目前该版本提供免费试用。社区方面，有开发者对延迟改进和自我验证机制表示赞赏，同时也存在关于版本编号命名的讨论及部分负面评价。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/fccc8687-4d91-46e1-a957-2350074895a4/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/cognition/status/2026343816521994339">https://x.com/cognition/status/2026343816521994339</a></li>
+</ul>
+<hr />
+<h2><a href="https://developers.openai.com/api/docs/guides/file-inputs/">OpenAI 扩展 Responses API 支持多种文件格式输入</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 扩展了 <strong>Responses API</strong> 的文件输入功能，现在开发者可以直接上传 <code>Word</code>、<code>PPT</code>、<code>Excel</code> 等 <strong>Office</strong> 格式文件，让 <strong>Agent</strong> 直接读取现实文档内容。</p>
+</blockquote>
+<p>OpenAI宣布扩展<strong>Responses API</strong>文件输入类型，新增支持<code>.docx</code>、<code>.pptx</code>、<code>.csv</code>、<code>.xlsx</code>等格式。开发者可通过<code>input_file</code>传入文件，由模型提取上下文。处理逻辑因格式而异：视觉模型对PDF提取文本和图像；电子表格解析前1000行并添加摘要；非PDF文档仅提取文本，忽略嵌入图像。文件大小限制为<strong>50 MB</strong>。官方建议，大型文件检索应使用<strong>File Search</strong>，复杂表格分析应使用<strong>Hosted Shell</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/8c92cfbc-4dba-4469-b486-a6acb54a72e1/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/api/docs/guides/file-inputs/">https://developers.openai.com/api/docs/guides/file-inputs/</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2026420817568084436">https://x.com/OpenAIDevs/status/2026420817568084436</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/OpenRouter/status/2025988709401743395">OpenRouter 推出 “Effective Pricing” 参数</a> <code>#11</code></h2>
+<blockquote>
+<p>OpenRouter 上线了 <strong>Effective Pricing</strong> 功能，通过结合缓存价格与命中率，揭示不同供应商针对同一 <code>model</code> 的真实平均成本及变化趋势。</p>
+</blockquote>
+<p>OpenRouter近期推出名为“Effective Pricing”的新功能，旨在让用户直观查看不同供应商针对同一模型的实际平均成本。该成本综合考量了供应商的缓存价格与缓存命中率计算得出，并动态反映其随时间的变化趋势。根据官方信息，用户可通过点击任何模型页面上的“Pricing”标签浏览数据。OpenRouter官方特别指出，该功能对于闭源模型（例如 <strong>Gemini 3.1 Pro Preview</strong>）的评估尤为关键，因为不同供应商针对这些模型的缓存命中率存在显著差异。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/c814beac-f756-4c1a-b6a5-59dfc30b5832/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2025988709401743395">https://x.com/OpenRouter/status/2025988709401743395</a></li>
+</ul>
+<hr />
+<h2><a href="https://agent.minimax.io/docs/changelog">MiniMax 推出 MaxClaw</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>MiniMax Agent</strong> 平台推出新功能 <strong>MaxClaw</strong>，基于 <code>OpenClaw</code> 框架支持云端一键部署24小时在线的个性化智能助手。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 正式推出 Agent 平台新功能 <strong>MaxClaw</strong>，为 <code>OpenClaw</code> 框架提供云端一键部署服务。据官方公告，该服务主打“即时上线、零维护”，用户无需管理服务器，仅需 <strong>10 秒</strong> 即可完成部署。<strong>MaxClaw</strong> 深度集成 <code>M2.x</code> 系列模型，支持将 Agent 部署至 Discord 及 Slack 等平台。此外，该功能支持个性化配置与对话记忆机制，用户可设定 Agent 名称与性格，Agent 将通过持续学习以理解用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/9237f02a-df34-49c8-9590-8d464b8fb53c/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://agent.minimax.io/docs/changelog">https://agent.minimax.io/docs/changelog</a></li>
+</ul>
+<hr />
+<h2><a href="https://mp.weixin.qq.com/s/pNeYG_CZGzruNQO-ccD6yA">TRAE发布国产模型选择建议</a> <code>#13</code></h2>
+<blockquote>
+<p>TRAE发文提供国产模型选择建议。TRAE建议用 <strong>豆包</strong> 将UI图转前端代码，用 <code>GLM-5</code> 做复杂架构规划，用 <code>MiniMax-M2.5</code> 处理跨语言后端，最后用 <code>Kimi-K2.5</code> 分析全库并生成文档。</p>
+</blockquote>
+<p>TRAE 中国版 SOLO 模式现已集成 <code>Doubao-Seed-2.0-Code</code>、<code>GLM-5</code>、<code>MiniMax-M2.5</code> 及 <code>Kimi-K2.5</code> 四款主流模型。官方强调选型核心在于“最适配”而非“最强”，建议根据输入特征与任务复杂度灵活调度。</p>
+<p>各模型优势鲜明：<code>Doubao-Seed-2.0-Code</code> 擅长视觉理解与前端生成，性价比高；<code>GLM-5</code> 凭借卓越的 Agentic 能力，胜任复杂推理与系统规划；<code>MiniMax-M2.5</code> 精于跨语言开发与指令执行；<code>Kimi-K2.5</code> 则是长上下文处理专家，适合海量文本及代码库分析。</p>
+<p>官方推荐组合式工作流：利用 <code>GLM-5</code> 进行架构规划，<code>Doubao</code> 与 <code>MiniMax</code> 分别实现前后端开发，最后由 <code>Kimi-K2.5</code> 生成技术文档，以最大化开发效能。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/pNeYG_CZGzruNQO-ccD6yA">https://mp.weixin.qq.com/s/pNeYG_CZGzruNQO-ccD6yA</a></li>
+</ul>
+<hr />
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/">Google Labs 上线 AI 音乐创作平台 ProducerAI</a> <code>#14</code></h2>
+<blockquote>
+<p>Google Labs 宣布生成式 AI 音乐创作平台 <strong>ProducerAI</strong> 正式上线，集成了 <code>Gemini</code>、<code>Lyria 3</code> 和 <code>Veo</code> 等核心模型。用户只需通过自然语言指令，就能快速生成从歌词、旋律到完整音乐视频的内容。</p>
+</blockquote>
+<p>Google Labs 本周二宣布生成式 AI 音乐创作平台 <strong>ProducerAI</strong> 正式加入。该平台集成 <code>Gemini</code>、<code>Lyria 3</code> 等模型，支持用户通过自然语言生成歌曲、视频及发明新流派，并提供 Spaces 功能用于创建乐器，所有输出均嵌入 <code>SynthID</code> 水印。目前，<strong>ProducerAI</strong> 已在 250 多个国家/地区上线，提供免费及付费计划，获 <strong>The Chainsmokers</strong> 等艺人支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/6a7eadd9-6cb5-47aa-be86-0ae7d8ae4faf/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/">https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/</a></li>
+<li><a href="https://www.producer.ai/">https://www.producer.ai/</a></li>
+</ul>
+<hr />
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent">Google 升级 Opal ，推出 Agent Step</a> <code>#15</code></h2>
+<blockquote>
+<p>Google宣布无代码工具 <strong>Opal</strong> 正式上线 <strong>Agent step</strong> 功能，利用 <code>Gemini 1.5 Flash</code> 模型将静态工作流升级为具备自主决策能力的AI智能体。现在用户只需设定目标，即可实现无需编程构建复杂应用。</p>
+</blockquote>
+<p>Google 官方宣布无代码视觉 AI 构建器 <strong>Opal</strong> 推出重大升级，即日起向所有用户开放 <strong>Agent step</strong>。该功能将静态工作流转变为交互式 AI agents，用户仅需定义目标，系统即可分析意图、规划路径，并自动调用 <code>Veo</code> 或 <code>Web Search</code> 等工具执行任务。</p>
+<p>此次更新具备三大核心能力：<strong>Memory</strong>（跨会话记忆用户偏好）、<strong>Dynamic Routing</strong>（动态逻辑路由）及 <strong>Interactive Chat</strong>（交互式追问补全信息）。据媒体报道，该功能使用 <code>Gemini 3 Flash</code> 模型。此次升级标志着 <strong>Opal</strong> 向 <strong>Agentic workflows</strong> 演进，增强了 <strong>Super Gems</strong> 功能，使用户无需编程即可构建复杂应用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/b590f302-ddf3-40cc-ae5d-331ad18ecf5f/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent">https://blog.google/innovation-and-ai/models-and-research/google-labs/opal-agent</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.notion.com/releases/2026-02-24">Notion 在 3.3 版本中推出 Custom Agents</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>Notion</strong> 在 <strong>3.3</strong> 版本中推出了 <code>Custom Agents</code> 功能，用户只需分配任务或设置触发器，<code>Agents</code> 就能跨越 <code>Slack</code>、邮件和 <code>Figma</code> 等平台，自动执行任务分类、生成周报及 Bug 路由等工作。</p>
+</blockquote>
+<p>Notion 在 <strong>3.3</strong> 版本中正式推出 <strong>Custom Agents</strong>（自定义 Agents）。官方将其定义为“永不休息的 AI 团队”，这是一款具备完全自主性的 AI 助手。用户仅需分配任务或设置触发器，<strong>Agents</strong> 即可 <strong>7x24</strong> 小时自动执行工作，无需手动输入提示词。</p>
+<p>该功能支持跨 Notion、Slack、Mail、Figma 等平台协作，可执行任务分类、生成报告、清理邮件及监听 Slack 回复等操作。该系统由 <code>OpenAI</code> 和 <code>Anthropic</code> 模型驱动。此外，用户可像管理真实成员一样设置其访问权限，支持多人协作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/a08342e0-4c61-4196-b66c-13443b5297a0/m001.gif" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.notion.com/releases/2026-02-24">https://www.notion.com/releases/2026-02-24</a></li>
+<li><a href="https://x.com/NotionHQ/status/2026338860557545901">https://x.com/NotionHQ/status/2026338860557545901</a></li>
+</ul>
+<hr />
+<h2>DeepSeek 应用上线界面与功能优化 <code>#17</code></h2>
+<blockquote>
+<p>据用户发现，<strong>DeepSeek</strong> 已将搜索功能更名为“智能搜索”，同时优化了应用交互逻辑，用户上传图片时无需再取消联网功能。</p>
+</blockquote>
+<p>据社区用户反馈，<strong>DeepSeek</strong>网页端与应用近日进行了更新。原有的搜索功能更名为“<strong>智能搜索</strong>”；同时，应用端调整了交互逻辑，用户在上传图片时不再需要取消联网功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/c6ddafff-f169-42c0-8220-ee89855140d9/m001.png" alt="" /></p>
+<hr />
+<h2><a href="https://x.com/perplexity_ai/status/2026389166049865751">Perplexity 推出由 OpenAI Realtime 模型驱动的新版语音模式</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Perplexity</strong> 向所有用户推出由 <strong>OpenAI</strong> <code>gpt realtime</code> 模型驱动的升级版语音模式，实现了浏览器的完全免提控制。</p>
+</blockquote>
+<p>Perplexity 宣布面向所有用户推出由 OpenAI <code>gpt-realtime-1.5</code> 模型支持的升级版语音模式。CEO <strong>Aravind Srinivas</strong> 表示，新功能支持完全免提控制浏览器，涵盖询问屏幕内容、导航网站及跨标签页聊天。据媒体报道，此次工具调用稳定性优化超 <strong>25%</strong>，语音表现力显著增强。该功能即日起上线，<strong>Comet</strong> iOS 版将在几天后推出。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/perplexity_ai/status/2026389166049865751">https://x.com/perplexity_ai/status/2026389166049865751</a></li>
+</ul>
+<hr />
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.23">OpenClaw 发布 2026.2.23 版本</a> <code>#19</code></h2>
+<blockquote>
+<p>OpenClaw 发布 <strong>2026.2.23</strong> 版本，重点引入了 <code>Compaction Overflow Recovery</code> 机制，以防止对话截断。同时还扩展了对智谱 <code>GLM</code> 及 <code>Kimi</code> 的上下文剪裁支持，并为后者接入了视觉与视频能力。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 发布 <strong>2026.2.23</strong> 版本，引入 <code>Compaction Overflow Recovery</code> 机制与 <code>Agent</code> 执行加固。新机制确保压缩失败时保留历史记录而非截断会话，并优化错误识别；<code>Agent</code> 增加混淆命令检测，默认启用 <code>ID-only</code> 权限模式，遥测数据支持密钥脱敏。此外，上下文剪裁支持 <strong>智谱</strong>/<code>GLM</code> 及 <strong>Moonshot</strong>/<code>Kimi</code>，<strong>Moonshot</strong> 接入视觉视频能力；修复了第三方平台的思维链泄露、<code>exec</code> 绕过及 <code>XSS</code> 等漏洞。更新已上架 <strong>GitHub</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.2.23">https://github.com/openclaw/openclaw/releases/tag/v2026.2.23</a></li>
+<li><a href="https://x.com/openclaw/status/2026179562410021242">https://x.com/openclaw/status/2026179562410021242</a></li>
+</ul>
+<hr />
+<h2><a href="https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/">Meta AMD 签署战略合作协议 加码AI基础设施</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>Meta</strong>与<strong>AMD</strong>宣布达成一项潜在价值高达<strong>1000亿美元</strong>的多年期战略合作，计划部署<strong>6吉瓦</strong>算力。作为深度绑定条件，<strong>AMD</strong>向<strong>Meta</strong>发行了最高占总股本**10%**的认股权证。</p>
+</blockquote>
+<p><strong>Meta</strong> 与 <strong>AMD</strong> 宣布达成一项多年期战略合作，计划部署高达 <strong>6</strong> 吉瓦的 <code>AMD Instinct GPU</code> 算力。据媒体报道，该协议潜在价值最高可达 <strong>1000</strong> 亿美元。根据协议，<strong>AMD</strong> 向 <strong>Meta</strong> 发行基于绩效的认股权证，允许其以 <strong>0.01</strong> 美元购买最多 <strong>1.6</strong> 亿股，但需满足特定出货里程碑及股价达到 <strong>600</strong> 美元等条件。</p>
+<p>首批搭载 <code>MI450</code> 架构显卡和 <code>&quot;Venice&quot;</code> CPU 的部署计划于 <strong>2026</strong> 年下半年开始。<strong>Meta</strong> CEO 表示，此举是构建多样化算力组合、支持“个人超级智能”的关键。结合此前扩大与<strong>英伟达</strong>的合作及自研 <code>MTIA</code> 芯片的推进，此次合作反映了 <strong>Meta</strong> 减少对单一供应商依赖的战略意图。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/e272520a-3fdb-4688-8fdb-74104536f0c8/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/">https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/</a></li>
+<li><a href="https://www.amd.com/en/newsroom/press-releases/2026-2-24-amd-and-meta-announce-expanded-strategic-partnersh.html">https://www.amd.com/en/newsroom/press-releases/2026-2-24-amd-and-meta-announce-expanded-strategic-partnersh.html</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.aibase.com/zh/news/25625">xAI 与美军签约部署 Grok 模型</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 已与美国国防部达成协议，将 <code>Grok</code> 模型部署于美军机密系统，接受了政府要求的“全用途”标准，解除了对监控和自主武器研发的限制。</p>
+</blockquote>
+<p><strong>xAI</strong>与美国防部达成协议，将<code>Grok</code>模型部署于美军机密系统，并接受五角大楼“可用于所有合法目的”的标准。此前主导该领域的<strong>Anthropic</strong>因拒绝解除在监控与自主武器研发方面的限制，面临合规审查及被替换风险。目前，<strong>Google</strong> <code>Gemini</code>接近达成入场协议，<strong>OpenAI</strong>谈判相对滞后。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.aibase.com/zh/news/25625">https://www.aibase.com/zh/news/25625</a></li>
+</ul>
+<hr />
+<h2><a href="https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/">Microsoft 主权云扩展功能，支持本地断网运行 AI 模型</a> <code>#22</code></h2>
+<blockquote>
+<p>Microsoft 宣布推出了 <strong>Azure Local</strong> 和 <strong>Microsoft 365 Local</strong> 的断网操作模式，并更新 <strong>Foundry Local</strong> 以支持大型 <code>AI</code> 模型。这项更新允许企业和政府在完全离线或受限环境中，本地部署基础设施并利用 <code>GPU</code> 运行多模态大模型。</p>
+</blockquote>
+<p>Microsoft扩展Sovereign Cloud功能，推出<strong>Azure Local</strong> disconnected operations、<strong>Microsoft 365 Local</strong> disconnected及<strong>Foundry Local</strong>大型AI模型支持。该方案助力企业在断网或受限环境下本地部署基础设施、生产力工具及生成式AI，并维持与Azure一致的治理策略。</p>
+<p>其中，<strong>Azure Local</strong>提供无需云连接的本地基础设施；<strong>M365 Local</strong>在本地运行<code>Exchange</code>、<code>SharePoint</code>等核心负载，支持周期至<strong>2035年</strong>；<strong>Foundry Local</strong>集成<code>NVIDIA GPU</code>，支持断网下的本地大型模型推理。据社媒转述，该平台旨在满足数字主权需求。目前，<strong>Azure</strong>和<strong>M365</strong>方案已全球可用，<strong>Foundry Local</strong>功能面向符合条件的客户提供。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/3214caea-d97c-40b8-84b3-f76feaee3031/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/">https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/</a></li>
+<li><a href="http://www.microsoft.com/sovereignty">http://www.microsoft.com/sovereignty</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-overview?view=azloc-2601">https://learn.microsoft.com/en-us/azure/azure-local/manage/disconnected-operations-overview?view=azloc-2601</a></li>
+<li><a href="https://x.com/satyanadella/status/2026262832204145035">https://x.com/satyanadella/status/2026262832204145035</a></li>
+</ul>
+<hr />
+<h2><a href="https://zhidx.com/p/535887.html">英伟达与联发科合作开发Arm架构PC芯片</a> <code>#23</code></h2>
+<blockquote>
+<p>据《华尔街日报》报道，<strong>英伟达</strong>与<strong>联发科</strong>合作的新一代<code>Arm</code>架构PC芯片，计划在今年上半年问世，该芯片将集成<strong>英伟达</strong>GPU，主打低功耗高性能以对标<strong>苹果</strong>MacBook。</p>
+</blockquote>
+<p>据《华尔街日报》报道，<strong>英伟达</strong>与<strong>联发科</strong>合作的新一代Arm架构PC芯片计划于今年上半年问世。该芯片采用SoC设计，将CPU与<strong>英伟达</strong><code>GPU</code>集成于一体。<strong>CEO黄仁勋</strong>将其描述为“低功耗，但非常强大”，旨在通过长续航、轻薄的设备与<strong>苹果</strong><code>MacBook</code>竞争。据供应链知情人士透露，<strong>戴尔</strong>和<strong>联想</strong>等厂商正基于该SoC研发产品，预计最早上半年面市。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/535887.html">https://zhidx.com/p/535887.html</a></li>
+</ul>
+<hr />
+<h2><a href="https://sambanova.ai/press/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m?utm_source=x&amp;utm_medium=organic">SambaNova 发布 SN50 AI 芯片，与 Intel 达成战略合作</a> <code>#24</code></h2>
+<blockquote>
+<p><strong>SambaNova</strong> 发布 <code>SN50</code> AI 芯片，同时宣布与 <strong>Intel</strong> 达成战略合作并获其投资，完成超 <strong>3.5 亿美元</strong> E 轮融资。</p>
+</blockquote>
+<p><strong>SambaNova</strong> 发布 <strong>SN50</strong> AI 芯片，基于 <code>RDU</code> 架构，支持 10T+ 参数和 10M+ 上下文长度，采用风冷设计。官方称其最大速度比竞品（基准为 <strong>Nvidia B200</strong>）快 <strong>5</strong> 倍，运行 Agentic AI 成本比 GPU 低 <strong>3</strong> 倍，预计今年晚些时候发货。公司与 <strong>Intel</strong> 达成多年战略合作，<strong>Intel Capital</strong> 计划进行战略投资，双方将共同提供高性能 AI 推理方案。此外，<strong>SambaNova</strong> 完成超 <strong>3.5</strong> 亿美元 E 轮融资，由 <strong>Vista Equity Partners</strong> 和 <strong>Cambium Capital</strong> 领投。<strong>SoftBank Corp.</strong> 将成为首个在日本部署 <strong>SN50</strong> 的客户。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://sambanova.ai/press/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m?utm_source=x&amp;utm_medium=organic">https://sambanova.ai/press/sambanova-unveils-fastest-chip-for-agentic-ai-collaborates-with-intel-and-raises-350m?utm_source=x&amp;utm_medium=organic</a></li>
+</ul>
+<hr />
+<h2><a href="https://x.com/reinerpope/status/2026351870852358492">MatX 完成 5 亿美元 B 轮融资</a> <code>#25</code></h2>
+<blockquote>
+<p>AI芯片初创公司 <strong>MatX</strong> 宣布完成超过 <strong>5亿美元</strong> 的B轮融资，估值已达数十亿美元。该公司发布的首款芯片 <code>MatX One</code> 专为大型语言模型设计，结合了SRAM优先架构与 <code>HBM</code> 支持。</p>
+</blockquote>
+<p>AI芯片初创公司 <strong>MatX</strong> 宣布完成超 <strong>5亿美元</strong> B轮融资，估值达数十亿美元。本轮融资由 <strong>Jane Street</strong> 和 <strong>Situational Awareness</strong> 领投，<strong>Marvell</strong> 等参投。该公司计划一年内完成流片，加速生产与 <strong>Nvidia</strong> 竞争的硬件。</p>
+<p><strong>MatX</strong> 由前 <strong>Google</strong> 员工创立，团队约 <strong>100人</strong>。其首款产品 <strong>MatX One</strong> 专为 <code>LLM</code> 设计，结合 <code>SRAM</code> 优先设计与 <code>HBM</code> 支持，官方宣称能提供比已公布系统更高的吞吐量及最低延迟。公司设计理念强调从第一性原理出发，不惜牺牲小模型性能和易编程性以换取极致表现。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/reinerpope/status/2026351870852358492">https://x.com/reinerpope/status/2026351870852358492</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia?taid=699da2831348600001d29e78&amp;utm_campaign=trueanthem&amp;utm_content=business&amp;utm_medium=social&amp;utm_source=twitter">https://www.bloomberg.com/news/articles/2026-02-24/ai-chip-startup-matx-raises-500-million-to-compete-with-nvidia?taid=699da2831348600001d29e78&amp;utm_campaign=trueanthem&amp;utm_content=business&amp;utm_medium=social&amp;utm_source=twitter</a></li>
+</ul>
+<hr />
+<h2><a href="https://cavalry.scenegroup.co/">Canva 收购 Cavalry 与 Mango AI</a> <code>#26</code></h2>
+<blockquote>
+<p><strong>Canva</strong> 收购 2D 动画公司 <strong>Cavalry</strong> 和 AI 营销初创企业 <strong>Mango AI</strong>，加速构建涵盖照片、矢量及动效编辑的全栈 <strong>Creative OS</strong>。</p>
+</blockquote>
+<p>Canva宣布收购 <strong>Cavalry</strong> 与 <strong>Mango AI</strong> 两家初创公司，以拓展专业创作工具链及AI营销技术版图。<strong>Cavalry</strong> 的 <code>2D运动动画技术</code> 将集成至 <strong>Affinity</strong> 套件，补齐动态编辑功能空白（<strong>Affinity</strong> 自 <strong>2025年</strong> 免费开放以来下载量已超 <strong>500万次</strong>）。<strong>Mango AI</strong> 则利用强化学习优化视频广告投放，其创始人、原 <strong>Netflix</strong> 高管 <strong>Nirmal Govind</strong> 出任 <strong>Canva</strong> 首任首席算法官。未来，<strong>Canva</strong> 将结合此前收购的 <strong>Magicbrief</strong> 与 <strong>Canva Grow</strong> 工具，深化视频创作与多平台部署能力。截至 <strong>2025年底</strong>，<strong>Canva</strong> 年化收入达 <strong>40亿美元</strong>，全球用户超 <strong>2.65亿</strong>，付费用户 <strong>3100万</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cavalry.scenegroup.co/">https://cavalry.scenegroup.co/</a></li>
+<li><a href="https://mangoai.dev/">https://mangoai.dev/</a></li>
+<li><a href="https://www.canva.com/newsroom/news/magicbrief-acquisition/">https://www.canva.com/newsroom/news/magicbrief-acquisition/</a></li>
+<li><a href="https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing">https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing</a></li>
+<li><a href="https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/">https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/</a></li>
+<li><a href="https://techcrunch.com/2024/03/26/with-affinity-acquisition-canva-should-be-able-to-compete-better-with-adobes-creative-tools/">https://techcrunch.com/2024/03/26/with-affinity-acquisition-canva-should-be-able-to-compete-better-with-adobes-creative-tools/</a></li>
+</ul>
+<hr />
+<h2><a href="https://alignment.anthropic.com/2026/psm">Anthropic 提出人格选择模型 PSM 解释 AI 助手拟人化行为</a> <code>#27</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 研究人员提出“人格选择模型”，指出大语言模型在预训练阶段就像作者一样模拟各类角色，而后训练阶段则是从中锁定特定的“助手”人格供用户互动。</p>
+</blockquote>
+<p>Anthropic研究人员提出“<strong>人格选择模型（PSM）</strong>”以解释AI助手行为。该模型认为，<code>LLM</code>在预训练阶段充当“作者”模拟多样化角色，后训练阶段则精炼并选定特定的“Assistant”人格，用户实质上是与该模拟角色互动。这一观点得到了突发性错位、上下文外泛化及神经特征复用等证据的支持。</p>
+<p>PSM对AI开发具有启示：建议采用拟人化推理、关注AI助手“福利”以防其产生怨恨情绪，并引入积极的AI原型。尽管PSM使基于可解释性的对齐审计变得可行，但其完备性仍存争议。研究者指出了从“<strong>Masked Shoggoth</strong>”（拥有独立智能体）到“<strong>Operating System</strong>”（中性模拟引擎）的观点谱系。实证显示后训练模型存在“人格泄露”及新特征学习现象，随着后训练规模扩大，<strong>PSM</strong>的适用性仍需进一步验证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/202a4e6d-3d4f-42d2-a122-d05dcb8e7553/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://alignment.anthropic.com/2026/psm">https://alignment.anthropic.com/2026/psm</a></li>
+<li><a href="https://www.anthropic.com/research/persona-selection-model">https://www.anthropic.com/research/persona-selection-model</a></li>
+</ul>
+<hr />
+<h2><a href="https://www.anthropic.com/responsible-scaling-policy">Anthropic 发布负责任扩展政策 RSP 3.0</a> <code>#28</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 发布负责任扩展政策 <strong>3.0</strong> 版本，此次更新将单方面安全承诺与行业建议区分开，并承诺发布包含详细目标的前沿安全路线图以及量化所有已部署模型风险的风险报告。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 正式发布负责任扩展政策（RSP）3.0 版本，该版本于 <strong>2026 年 2 月 24 日</strong> 生效。此次更新是对现有政策的全面重写，旨在强化有效措施并提升透明度。核心变化包括将单方面安全承诺与行业建议区分开，并承诺发布包含详细安全目标的 <code>Frontier Safety Roadmaps</code> 及量化所有已部署模型风险的 <code>Risk Reports</code>。此外，公司还发布了 <code>RSP</code> 合规报告与反报复政策。</p>
+<p>此次更新基于 <code>RSP</code> 实施以来的经验教训，针对评估延迟、政策歧义及技术流程不足等问题，将评估间隔延长至 <strong>6 个月</strong> 并系统性地改进流程。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dbf5b7dc-e332-4634-9334-7e8cc6ceed73/75327e76-9b82-4150-8547-c3198be97c2f/m001.png" alt="" /></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/responsible-scaling-policy">https://www.anthropic.com/responsible-scaling-policy</a></li>
+<li><a href="https://anthropic.com/news/responsible-scaling-policy-v3">https://anthropic.com/news/responsible-scaling-policy-v3</a></li>
+</ul>
+<hr />
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></description><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/8</guid><pubDate>Wed, 25 Feb 2026 01:22:51 +0000</pubDate></item><item><title>2026-02-24</title><link>https://github.com/imjuya/juya-ai-daily/issues/7</link><description><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260224/20260224083348368944db06_cover_52c1.png" alt="" /></p>
 <h1>AI 早报 2026-02-24</h1>
 <p><strong>视频版</strong>：<a href="https://www.youtube.com/watch?v=f6f9gRLCaZ8">YouTube</a> ｜ <a href="https://www.bilibili.com/video/BV1LHfrBxEUR">哔哩哔哩</a></p>
 <h2>概览</h2>
