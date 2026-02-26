@@ -374,12 +374,12 @@ def generate_rss_feed(repo, filename, me):
         type="application/rss+xml",
     )
     generator.link(href=pages_site_url)
-    default_branch = repo.default_branch or "master"
+    feed_icon_url = f"{pages_site_url}icon.png"
     if os.path.exists(FEED_ICON_PATH):
         generator.image(
-            url=f"https://raw.githubusercontent.com/{repo.full_name}/{default_branch}/{FEED_ICON_PATH}",
+            url=feed_icon_url,
             title="橘鸦AI早报",
-            link=repo.html_url,
+            link=pages_site_url,
         )
     for issue in repo.get_issues(state="all", sort="created", direction="desc"):
         if not issue.body or not is_me(issue, me) or issue.pull_request:

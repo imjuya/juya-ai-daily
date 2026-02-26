@@ -684,6 +684,12 @@ li.post {
   margin: 0 !important;
 }
 
+/* 关闭主题默认的顶部菜单下划线动画，仅保留颜色高亮 */
+#header .menu ul li::before {
+  content: none !important;
+  display: none !important;
+}
+
 #header .menu ul li a {
   font-size: 14px !important;
   padding: 4px 12px !important;
