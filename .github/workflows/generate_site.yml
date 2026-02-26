@@ -62,8 +62,11 @@ jobs:
           tar zxf zola.tar.gz && mv zola /usr/local/bin
           cp config.toml output/config.toml
           # Copy custom static files
-          cp -r static/* output/static/ 2>/dev/null || true
+          mkdir -p output/static
+          cp -r static/. output/static/
+          test -f output/static/custom.css
           cd output && zola build --base-url $BASE_URL
+          test -f public/custom.css
           # Inject custom CSS into all HTML files
           CSS_HREF="${BASE_URL%/}/custom.css"
           find public -name "*.html" -exec sed -i "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" {} \;
