@@ -16,7 +16,7 @@ FEED_ICON_PATH = "static/icon.png"
 
 MD_HEAD = """# 橘鸦AI早报
 
-> 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅，内容可能存在错误，请以信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
+> 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅，资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
 
 ## Links
 
@@ -311,7 +311,7 @@ def generate_rss_feed(repo, filename, me):
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title("橘鸦AI早报")
-    generator.description("请以信息出处和官方信息为准。")
+    generator.description("资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。")
     generator.author(
         {"name": "Juya", "email": "imjuyaya@gmail.com"}
     )
