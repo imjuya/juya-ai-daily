@@ -27,6 +27,7 @@ on:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
+  issues: read
   pages: write
   id-token: write
 
@@ -41,6 +42,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     permissions:
+      contents: read
+      issues: read
       id-token: write
       pages: write
     env:
@@ -53,8 +56,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.13
+          cache: pip
+          cache-dependency-path: "requirements.txt"
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
       - name: Generate markdown
         run: |
+          python main.py ${{ github.token }} ${{ github.repository }}
           gh release download $ISITE_VERSION --repo kemingy/isite -p '*linux_amd64*' --output isite.tar.gz
           tar zxf isite.tar.gz && mv isite /usr/local/bin
           isite generate --user $USER --repo $REPO
@@ -65,11 +78,15 @@ jobs:
           mkdir -p output/static
           cp -r static/. output/static/
           test -f output/static/custom.css
-          cd output && zola build --base-url $BASE_URL
-          test -f public/custom.css
+          (cd output && zola build --base-url $BASE_URL)
+          test -f output/public/custom.css
           # Inject custom CSS into all HTML files
           CSS_HREF="${BASE_URL%/}/custom.css"
-          find public -name "*.html" -exec sed -i "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" {} \;
+          find output/public -name "*.html" -exec sed -i "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" {} \;
+          # Overwrite zola-generated feed with repository feed from main.py
+          cp rss.xml output/public/rss.xml
+          cp feed.xml output/public/feed.xml
+          test -f output/public/rss.xml
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
