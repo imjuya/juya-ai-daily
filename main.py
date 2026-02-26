@@ -1,18 +1,21 @@
 # -*- coding: utf-8 -*-
 import argparse
+import html
 import os
 import re
 
 import markdown
 from feedgen.feed import FeedGenerator
 from github import Github
-from lxml.etree import CDATA
+from lxml import html as lxml_html
+from lxml.etree import CDATA, tostring
 from marko.ext.gfm import gfm as marko
 
 PRIMARY_FEED_FILENAME = "rss.xml"
 LEGACY_FEED_FILENAME = "feed.xml"
 FEED_FILENAMES = (PRIMARY_FEED_FILENAME, LEGACY_FEED_FILENAME)
 FEED_ICON_PATH = "static/icon.png"
+RSS_SUMMARY_MAX_CHARS = 360
 
 MD_HEAD = """# 橘鸦AI早报
 
@@ -22,7 +25,7 @@ MD_HEAD = """# 橘鸦AI早报
 
 | Platform | Link |
 | :--- | :--- |
-| RSS Feed | [Subscribe](https://raw.githubusercontent.com/{repo_name}/{branch_name}/{feed_filename}) |
+| RSS Feed | [Subscribe]({feed_subscribe_url}) |
 | Markdown 备份 | [BACKUP](https://github.com/{repo_name}/tree/{branch_name}/BACKUP) |
 | GitHub Pages | [View](https://imjuya.github.io/juya-ai-daily/) |
 | AI早报 视频版-Bilibili | [Bilibili](https://space.bilibili.com/285286947) |
@@ -105,6 +108,19 @@ def _valid_xml_char_ordinal(c):
 
 def format_time(time):
     return str(time)[:10]
+
+
+def get_pages_base_url(repo_name):
+    owner, repo = repo_name.split("/", 1)
+    return f"https://{owner}.github.io/{repo}"
+
+
+def get_pages_feed_url(repo_name, feed_filename):
+    return f"{get_pages_base_url(repo_name)}/{feed_filename}"
+
+
+def get_repo_pages_feed_url(repo, feed_filename):
+    return f"https://{repo.owner.login}.github.io/{repo.name}/{feed_filename}"
 
 
 def login(token):
@@ -225,8 +241,8 @@ def add_md_header(md, repo_name, feed_filename, branch_name):
         md.write(
             MD_HEAD.format(
                 repo_name=repo_name,
-                feed_filename=feed_filename,
                 branch_name=branch_name,
+                feed_subscribe_url=get_pages_feed_url(repo_name, feed_filename),
             )
         )
         md.write("\n")
@@ -306,20 +322,55 @@ def get_to_generate_issues(repo, dir_name, me, issue_number=None):
     return to_generate_issues
 
 
+def normalize_rss_html(content):
+    try:
+        fragments = lxml_html.fragments_fromstring(content)
+        normalized = []
+        for fragment in fragments:
+            if isinstance(fragment, str):
+                normalized.append(fragment)
+            else:
+                normalized.append(tostring(fragment, encoding="unicode", method="html"))
+        return "".join(normalized)
+    except Exception:
+        return content
+
+
+def html_to_plain_text(content):
+    try:
+        fragment = lxml_html.fragment_fromstring(content, create_parent="div")
+        text = fragment.text_content()
+    except Exception:
+        text = re.sub(r"<[^>]+>", " ", content)
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def make_rss_summary(content, max_chars=RSS_SUMMARY_MAX_CHARS):
+    summary = html_to_plain_text(content)
+    if len(summary) <= max_chars:
+        return summary
+    return summary[: max_chars - 1].rstrip() + "…"
+
+
 def generate_rss_feed(repo, filename, me):
-    default_branch = repo.default_branch or "master"
+    pages_site_url = f"{get_pages_base_url(repo.full_name)}/"
+    feed_self_url = get_repo_pages_feed_url(repo, filename)
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title("橘鸦AI早报")
     generator.description("资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。")
+    generator.language("zh-CN")
     generator.author(
         {"name": "Juya", "email": "imjuyaya@gmail.com"}
     )
-    generator.link(href=repo.html_url)
     generator.link(
-        href=f"https://raw.githubusercontent.com/{repo.full_name}/{default_branch}/{filename}",
+        href=feed_self_url,
         rel="self",
+        type="application/rss+xml",
     )
+    generator.link(href=pages_site_url)
+    default_branch = repo.default_branch or "master"
     if os.path.exists(FEED_ICON_PATH):
         generator.image(
             url=f"https://raw.githubusercontent.com/{repo.full_name}/{default_branch}/{FEED_ICON_PATH}",
@@ -338,7 +389,10 @@ def generate_rss_feed(repo, filename, me):
         for label in issue.labels:
             item.category({"term": label.name})
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
-        item.content(CDATA(marko.convert(body)), type="html")
+        full_content = normalize_rss_html(marko.convert(body))
+        summary = make_rss_summary(full_content) or issue.title
+        item.description(summary)
+        item.content(CDATA(full_content), type="CDATA")
     generator.rss_file(filename)
 
 
