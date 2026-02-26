@@ -427,8 +427,8 @@ def generate_rss_feed(repo, filename, me):
             url=feed_icon_url,
             title="橘鸦AI早报",
             link=pages_site_url,
-            width=FEED_ICON_SIZE,
-            height=FEED_ICON_SIZE,
+            width=str(FEED_ICON_SIZE),
+            height=str(FEED_ICON_SIZE),
             description="橘鸦AI早报 RSS 图标",
         )
     for issue in repo.get_issues(state="all", sort="created", direction="desc"):
