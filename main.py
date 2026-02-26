@@ -8,7 +8,7 @@ import markdown
 from feedgen.feed import FeedGenerator
 from github import Github
 from lxml import html as lxml_html
-from lxml.etree import CDATA, tostring
+from lxml.etree import tostring
 from marko.ext.gfm import gfm as marko
 
 PRIMARY_FEED_FILENAME = "rss.xml"
@@ -392,7 +392,7 @@ def generate_rss_feed(repo, filename, me):
         full_content = normalize_rss_html(marko.convert(body))
         summary = make_rss_summary(full_content) or issue.title
         item.description(summary)
-        item.content(CDATA(full_content), type="CDATA")
+        item.content(full_content, type="CDATA")
     generator.rss_file(filename)
 
 
