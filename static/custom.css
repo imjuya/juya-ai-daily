@@ -41,7 +41,8 @@
    全局基础样式
    ======================================== */
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   background: var(--bg-cream);
@@ -59,10 +60,18 @@ html, body {
 }
 
 /* 内容容器 */
-.content, .post-content, article, main {
+.content,
+.post-content,
+article,
+main {
   margin: 0;
-  padding: 20px 0;
+  padding: 5px 0;
   background: var(--bg-cream);
+}
+
+/* 段落中直接包含的图片（Markdown 会把独立图片包在 <p> 中） */
+p>img {
+  margin: 5px auto;
 }
 
 /* ========================================
@@ -83,70 +92,61 @@ a:hover {
    H1 标题样式
    ======================================== */
 
-h1 {
-  margin: 30px 0 15px;
-  padding: 0;
+h1,
+.post__title,
+.post__title a {
+  margin: 30px 0px 15px;
   background: transparent;
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-  display: flex;
-  flex-direction: unset;
-  height: auto;
+  display: flex !important;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   line-height: 1.5em;
-  overflow: visible;
+  padding: 0px;
   text-align: center;
-  text-shadow: none;
-  transform: none;
-  width: auto;
+  color: var(--juya-orange) !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+  text-decoration: none !important;
 }
 
 h1 span,
 h1 a,
 h1 em,
 .site-name,
-.blog-title {
-  font-size: 18px;
-  color: var(--juya-orange);
-  background: transparent;
+.blog-title,
+.post__title a {
+  color: var(--juya-orange) !important;
+  font-size: 18px !important;
+  background: none 0% 0% / auto no-repeat scroll padding-box border-box rgba(252, 140, 50, 0);
   line-height: 1.5em;
   letter-spacing: 0.06em;
   padding: 2px 10px;
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-  display: inline-block;
-  font-weight: bold;
+  display: block;
+  font-weight: bold !important;
   font-style: normal;
-  margin: 0;
+  margin: 0px;
   text-align: center;
-  text-indent: 0;
-  text-shadow: none;
-  transform: none;
-  width: auto;
 }
 
 /* ========================================
-   H2 标题样式（带绿色底边）
+   H2 标题样式
    ======================================== */
 
 h2 {
-  margin: 30px 10px 15px;
-  padding: 0;
-  border-style: none;
-  border-width: 1px 1px 4px;
-  border-color: transparent transparent var(--juya-green) transparent;
-  background-color: var(--bg-section);
-  background-image: none;
-  width: auto;
-  height: auto;
-  box-shadow: none;
+  margin: 30px 10px 15px !important;
+  padding: 12px 18px !important;
+  border: none !important;
+  background-color: var(--bg-section) !important;
+  box-shadow: none !important;
   display: block;
-  line-height: 1.5em;
-  text-align: left;
-  text-shadow: none;
-  border-radius: 12px;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  color: var(--text-dark) !important;
+  line-height: 1.5em !important;
+  letter-spacing: 0.06em;
+  text-align: left !important;
+  border-radius: 12px !important;
   word-break: break-all;
   overflow: hidden;
 }
@@ -154,37 +154,39 @@ h2 {
 h2 span,
 h2 a,
 h2 em {
-  font-size: 16px;
-  color: var(--text-dark);
-  line-height: 1.5em;
+  font-size: inherit;
+  color: inherit;
+  line-height: inherit;
   letter-spacing: 0.06em;
-  padding: 12px 12px 12px 18px;
+  padding: 0;
   background: transparent;
   border: none;
   border-radius: 0;
   box-shadow: none;
-  display: block;
-  font-weight: bold;
+  display: inline;
+  font-weight: inherit;
   font-style: normal;
   margin: 0;
-  text-align: left;
-  text-indent: 0;
-  text-shadow: none;
-  width: auto;
+  text-decoration: none;
 }
 
-/* H2 内的小标签 */
+/* H2 内的小标签 (匹配 inlineCode 的参数) */
 h2 code,
 h2 .tag {
-  font-size: 0.8em;
-  font-family: var(--font-mono);
-  padding: 2px 4px;
-  vertical-align: 1px;
-  background-color: var(--bg-card);
-  color: var(--juya-orange);
-  border: 0.5px solid var(--border-light);
-  border-radius: 6px;
-  font-weight: normal;
+  color: var(--juya-orange) !important;
+  font-size: 0.9em !important;
+  line-height: 1.8em !important;
+  letter-spacing: 0;
+  background-color: var(--bg-card) !important;
+  font-family: var(--font-mono) !important;
+  word-break: break-all;
+  border: 0.5px solid var(--border-light) !important;
+  border-radius: 6px !important;
+  padding: 2px 4px !important;
+  margin: 0 2px !important;
+  vertical-align: baseline !important;
+  transform: translateY(-4px) !important;
+  font-weight: normal !important;
 }
 
 /* ========================================
@@ -192,22 +194,50 @@ h2 .tag {
    ======================================== */
 
 h3 {
-  margin: 25px 10px 10px;
-  padding: 8px 12px;
+  margin: 16px auto 10px auto;
+  align-items: unset;
+  background: none 0% 0% / auto no-repeat scroll padding-box border-box transparent;
+  border: none;
+  border-bottom: 2px solid var(--juya-orange);
+  border-radius: 0px;
+  box-shadow: none;
+  display: block;
+  width: fit-content;
+  flex-direction: unset;
+  float: unset;
+  height: auto;
+  justify-content: unset;
+  line-height: 1.5em;
+  overflow: unset;
+  padding: 0px 5px;
+  text-align: center;
+  text-shadow: none;
+  transform: none;
+}
+
+h3 span,
+h3 a,
+h3 em,
+h3 strong {
   font-size: 15px;
-  font-weight: bold;
   color: var(--text-dark);
   line-height: 1.5em;
   letter-spacing: 0.06em;
-  border-left: 3px solid var(--juya-orange);
-  background: transparent;
+  padding: 2px 0px;
+  background: none 0% 0% / auto no-repeat scroll padding-box border-box rgba(252, 140, 50, 0);
+  display: inline-block;
+  font-weight: bold;
+  margin: 0px;
+  text-align: center;
 }
 
 /* ========================================
    H4-H6 标题样式
    ======================================== */
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   margin: 20px 10px 10px;
   padding: 5px 10px;
   font-size: 14px;
@@ -263,57 +293,60 @@ li {
 /* 列表项中的代码标签 */
 li code,
 li .tag {
-  background-attachment: scroll;
-  background-clip: border-box;
-  background-image: none;
-  background-origin: padding-box;
-  background-position: left top;
-  background-repeat: no-repeat;
-  background-size: auto;
-  width: auto;
-  margin: 0 2px;
-  overflow-wrap: break-word;
-  word-break: break-all;
-  font-size: 0.9em;
-  font-family: var(--font-mono);
-  padding: 2px 4px;
-  vertical-align: baseline;
-  transform: translateY(-2px);
-  display: inline-block;
-  background-color: var(--bg-card);
-  color: var(--juya-orange);
-  border: 0.5px solid var(--border-light);
-  border-radius: 6px;
+  background-attachment: scroll !important;
+  background-clip: border-box !important;
+  background-image: none !important;
+  background-origin: padding-box !important;
+  background-position: left top !important;
+  background-repeat: no-repeat !important;
+  background-size: auto !important;
+  width: auto !important;
+  margin: 0 2px !important;
+  overflow-wrap: break-word !important;
+  word-break: break-all !important;
+  font-size: 0.9em !important;
+  font-family: var(--font-mono) !important;
+  padding: 2px 4px !important;
+  vertical-align: baseline !important;
+  transform: translateY(-2px) !important;
+  background-color: var(--bg-card) !important;
+  color: var(--juya-orange) !important;
+  border: 0.5px solid var(--border-light) !important;
+  border-radius: 6px !important;
 }
 
 /* ========================================
    引用块样式
    ======================================== */
 
+main .post blockquote,
 blockquote {
-  margin: 20px 10px 10px;
-  padding: 4px 12px 4px;
-  background-color: var(--bg-card);
-  background-image: none;
+  margin: 20px 10px 10px !important;
+  padding: 12px 16px !important;
+  background-color: var(--bg-card) !important;
+  background-image: none !important;
   width: auto;
   height: auto;
-  box-shadow: none;
+  box-shadow: none !important;
   display: block;
   overflow: auto;
-  border: 0.8px solid var(--border-medium);
-  border-radius: 12px;
+  border: 0.8px solid var(--border-medium) !important;
+  border-left: 0.8px solid var(--border-medium) !important;
+  border-radius: 12px !important;
+  color: var(--text-dark) !important;
 }
 
+main .post blockquote p,
 blockquote p {
   text-indent: 0;
-  padding: 5px 0;
-  color: var(--text-dark);
-  font-size: 15px;
-  line-height: 1.8em;
+  padding: 0 !important;
+  color: var(--text-dark) !important;
+  font-size: 15px !important;
+  line-height: 1.8em !important;
   letter-spacing: 0.06em;
   text-align: left;
   font-weight: normal;
-  margin: 0;
+  margin: 0 !important;
 }
 
 /* ========================================
@@ -352,48 +385,36 @@ pre code {
    行内代码样式
    ======================================== */
 
-/* 普通行内代码（概览列表中） */
+/* 对抗 site.css 默认的 p code 或者 generic code 大小跟颜色 (完全恢复参考样式 inlineCode) */
+main .post :not(pre)>code,
 code {
-  color: var(--juya-orange);
-  font-size: 0.9em;
-  line-height: 1.8em;
+  color: var(--juya-orange) !important;
+  font-size: 0.9em !important;
+  line-height: 1.8em !important;
   letter-spacing: 0;
-  background-color: var(--bg-card);
-  font-family: var(--font-mono);
+  background-color: var(--bg-card) !important;
+  font-family: var(--font-mono) !important;
   word-break: break-all;
-  border: 0.5px solid var(--border-light);
-  border-radius: 6px;
-  padding: 2px 4px;
-  margin: 0 2px;
-  vertical-align: baseline;
-  transform: translateY(-4px);
-  display: inline-block;
+  border: 0.5px solid var(--border-light) !important;
+  border-radius: 6px !important;
+  padding: 2px 4px !important;
+  margin: 0 2px !important;
+  vertical-align: baseline !important;
+  transform: translateY(-4px) !important;
 }
 
-/* 段落中的代码 */
+/* 段落中的代码如果需要特殊区分则可以在这里覆盖，否则就按上面保持一致 (完全恢复参考样式 inlineCodePlain) */
+main .post p code,
 p code {
-  color: var(--text-code);
-  font-size: 14px;
-  line-height: 1.8em;
-  letter-spacing: 0;
-  background-attachment: scroll;
-  background-clip: border-box;
-  background-color: var(--bg-section);
-  background-image: none;
-  background-origin: padding-box;
-  background-position: left top;
-  background-repeat: no-repeat;
-  background-size: auto;
-  width: auto;
-  height: auto;
-  overflow-wrap: break-word;
-  font-family: var(--font-mono);
-  word-break: break-all;
-  border: 0.5px solid var(--border-light);
-  border-radius: 8px;
-  padding: 2px 4px;
-  margin: 0 2px;
-  transform: none;
+  color: var(--text-code) !important;
+  font-size: 14px !important;
+  line-height: 1.8em !important;
+  background-color: var(--bg-section) !important;
+  border: 0.5px solid var(--border-light) !important;
+  border-radius: 8px !important;
+  padding: 2px 4px !important;
+  margin: 0 2px !important;
+  transform: none !important;
 }
 
 /* ========================================
@@ -401,7 +422,7 @@ p code {
    ======================================== */
 
 figure {
-  margin: 30px 10px;
+  margin: 15px 10px;
   padding: 0;
   display: flex;
   flex-direction: column;
@@ -424,7 +445,7 @@ figure img {
 
 img {
   display: block;
-  margin: 30px auto;
+  margin: 15px auto;
   max-width: 100%;
   border-style: none;
   border-width: 3px;
@@ -460,7 +481,8 @@ hr {
    强调文本样式
    ======================================== */
 
-strong, b {
+strong,
+b {
   color: var(--text-strong);
   font-weight: bold;
   background-attachment: scroll;
@@ -479,7 +501,8 @@ strong, b {
   border-radius: 0;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
   color: var(--text-dark);
 }
@@ -637,25 +660,124 @@ li.post {
   font-weight: normal;
 }
 
-/* 导航菜单 */
+/* 顶部导航栏 - 紧凑化 */
+#header {
+  padding: 8px 20px !important;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header .logo {
+  display: none !important;
+}
+
+#header .menu ul {
+  display: inline-flex !important;
+  gap: 5px;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+#header .menu ul li {
+  display: inline-block;
+  margin: 0 !important;
+}
+
+#header .menu ul li a {
+  font-size: 14px !important;
+  padding: 4px 12px !important;
+  color: var(--text-dark);
+}
+
+/* 通用导航 */
 nav {
   background: var(--bg-section);
-  padding: 10px 15px;
+  padding: 6px 12px;
   border-radius: 12px;
-  margin: 10px;
+  margin: 5px 10px;
 }
 
 nav a {
   color: var(--text-dark);
-  padding: 8px 12px;
+  padding: 4px 10px;
   border-radius: 8px;
   transition: all 0.2s ease;
   display: inline-block;
+  font-size: 14px;
 }
 
 nav a:hover {
   background-color: var(--bg-card);
   color: var(--juya-orange);
+}
+
+/* TOC 侧边栏 - 左侧固定、独立滚动 */
+.post-toc {
+  width: 350px !important;
+  margin-left: 0 !important;
+  left: 10px !important;
+  right: auto !important;
+  padding: 10px 15px !important;
+  border-radius: 8px;
+  background: transparent !important;
+  box-shadow: none !important;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  position: fixed !important;
+  top: 20px !important;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+}
+
+/* TOC 滚动条美化 */
+.post-toc::-webkit-scrollbar {
+  width: 4px;
+}
+
+.post-toc::-webkit-scrollbar-thumb {
+  background: var(--border-light);
+  border-radius: 4px;
+}
+
+.post-toc .post-toc-title {
+  margin: 0 10px !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+}
+
+.post-toc .post-toc-content {
+  font-size: 13px !important;
+}
+
+.post-toc .post-toc-content ul {
+  padding-left: 15px !important;
+  list-style: disc !important;
+}
+
+.post-toc .post-toc-content ul ul {
+  padding-left: 12px !important;
+}
+
+.post-toc .post-toc-content .toc-link {
+  color: var(--text-dark) !important;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.4em;
+  display: block;
+  padding: 2px 0;
+}
+
+.post-toc .post-toc-content .toc-link:hover,
+.post-toc .post-toc-content .toc-link.active {
+  color: var(--juya-orange) !important;
+}
+
+/* 页面宽度不够时隐藏 TOC 避免遮挡正文 */
+@media screen and (max-width: 1200px) {
+  .post-toc {
+    display: none !important;
+  }
 }
 
 /* 页脚 */
@@ -684,21 +806,18 @@ footer {
 
   h2 {
     margin: 20px 5px 10px;
+    padding: 10px 10px 10px 14px !important;
     border-radius: 10px;
   }
 
   h2 span,
   h2 a {
-    padding: 10px 10px 10px 14px;
+    padding: 0;
     font-size: 15px;
   }
 
-  h3 {
-    margin: 15px 5px 8px;
-    padding: 6px 10px;
-  }
-
-  ul, ol {
+  ul,
+  ol {
     margin: 8px 10px;
     padding-left: 15px;
   }
@@ -713,7 +832,8 @@ footer {
     border-radius: 10px;
   }
 
-  th, td {
+  th,
+  td {
     padding: 4px 8px;
     font-size: 13px;
   }
@@ -730,7 +850,8 @@ footer {
     border-radius: 10px;
   }
 
-  img, figure {
+  img,
+  figure {
     margin: 20px 5px;
     border-radius: 10px;
   }
