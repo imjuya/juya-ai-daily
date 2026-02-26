@@ -63,6 +63,10 @@ def get_me(user):
     return user.get_user().login
 
 
+def get_me_from_repo(repo):
+    return repo.owner.login
+
+
 def is_me(issue, me):
     return issue.user.login == me
 
@@ -398,8 +402,8 @@ def generate_rss_feed(repo, filename, me):
 
 def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     user = login(token)
-    me = get_me(user)
     repo = get_repo(user, repo_name)
+    me = get_me_from_repo(repo)
     default_branch = repo.default_branch or "master"
     # add to readme one by one, change order here
     add_md_header("README.md", repo_name, PRIMARY_FEED_FILENAME, default_branch)
