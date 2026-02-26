@@ -5,21 +5,25 @@ import os
 import re
 
 import markdown
+from feedgen.ext.base import BaseExtension
 from feedgen.feed import FeedGenerator
 from github import Github
 from lxml import html as lxml_html
+from lxml import etree as lxml_etree
 from lxml.etree import tostring
 from marko.ext.gfm import gfm as marko
 
 PRIMARY_FEED_FILENAME = "rss.xml"
-LEGACY_FEED_FILENAME = "feed.xml"
-FEED_FILENAMES = (PRIMARY_FEED_FILENAME, LEGACY_FEED_FILENAME)
 FEED_ICON_PATH = "static/icon.png"
+FEED_ICON_SIZE = 144
 RSS_SUMMARY_MAX_CHARS = 360
+WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
 
 MD_HEAD = """# 橘鸦AI早报
 
 > 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅。资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
+
+正式订阅地址：https://imjuya.github.io/juya-ai-daily/rss.xml
 
 ## Links
 
@@ -125,6 +129,10 @@ def get_pages_feed_url(repo_name, feed_filename):
 
 def get_repo_pages_feed_url(repo, feed_filename):
     return f"https://{repo.owner.login}.github.io/{repo.name}/{feed_filename}"
+
+
+def get_repo_pages_issue_url(repo, issue_number):
+    return f"https://{repo.owner.login}.github.io/{repo.name}/issue-{issue_number}/"
 
 
 def login(token):
@@ -357,6 +365,35 @@ def make_rss_summary(content, max_chars=RSS_SUMMARY_MAX_CHARS):
     return summary[: max_chars - 1].rstrip() + "…"
 
 
+class WebfeedsExtension(BaseExtension):
+    def __init__(self):
+        self._icon = None
+        self._logo = None
+
+    def extend_ns(self):
+        return {"webfeeds": WEBFEEDS_NS}
+
+    def extend_rss(self, rss_feed):
+        channel = rss_feed[0]
+        if self._icon:
+            icon = lxml_etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}icon")
+            icon.text = self._icon
+        if self._logo:
+            logo = lxml_etree.SubElement(channel, f"{{{WEBFEEDS_NS}}}logo")
+            logo.text = self._logo
+        return rss_feed
+
+    def icon(self, value=None):
+        if value is not None:
+            self._icon = value
+        return self._icon
+
+    def logo(self, value=None):
+        if value is not None:
+            self._logo = value
+        return self._logo
+
+
 def generate_rss_feed(repo, filename, me):
     pages_site_url = f"{get_pages_base_url(repo.full_name)}/"
     feed_self_url = get_repo_pages_feed_url(repo, filename)
@@ -376,17 +413,31 @@ def generate_rss_feed(repo, filename, me):
     generator.link(href=pages_site_url)
     feed_icon_url = f"{pages_site_url}icon.png"
     if os.path.exists(FEED_ICON_PATH):
+        generator.load_extension("podcast")
+        generator.podcast.itunes_image(feed_icon_url)
+        generator.register_extension(
+            "webfeeds",
+            extension_class_feed=WebfeedsExtension,
+            atom=False,
+            rss=True,
+        )
+        generator.webfeeds.icon(feed_icon_url)
+        generator.webfeeds.logo(feed_icon_url)
         generator.image(
             url=feed_icon_url,
             title="橘鸦AI早报",
             link=pages_site_url,
+            width=FEED_ICON_SIZE,
+            height=FEED_ICON_SIZE,
+            description="橘鸦AI早报 RSS 图标",
         )
     for issue in repo.get_issues(state="all", sort="created", direction="desc"):
         if not issue.body or not is_me(issue, me) or issue.pull_request:
             continue
+        issue_pages_url = get_repo_pages_issue_url(repo, issue.number)
         item = generator.add_entry(order="append")
         item.id(issue.html_url)
-        item.link(href=issue.html_url)
+        item.link(href=issue_pages_url)
         item.title(issue.title)
         item.author({"name": "Juya"})
         item.published(issue.created_at.strftime("%Y-%m-%dT%H:%M:%SZ"))
@@ -413,8 +464,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     # add footer with credits
     add_md_footer("README.md")
 
-    for feed_filename in FEED_FILENAMES:
-        generate_rss_feed(repo, feed_filename, me)
+    generate_rss_feed(repo, PRIMARY_FEED_FILENAME, me)
     to_generate_issues = get_to_generate_issues(repo, dir_name, me, issue_number)
 
     # save md files to backup folder

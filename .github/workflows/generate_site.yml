@@ -5,6 +5,8 @@ on:
     branches:
       - master
     paths:
+      - main.py
+      - requirements.txt
       - config.toml
       - static/**
       - templates/**
@@ -88,7 +90,6 @@ jobs:
           find output/public -name "*.html" -exec sed -i "s|</head>|<link rel=\"icon\" type=\"image/png\" href=\"${ICON_HREF}\"><link rel=\"shortcut icon\" href=\"${ICON_HREF}\"></head>|g" {} \;
           # Overwrite zola-generated feed with repository feed from main.py
           cp rss.xml output/public/rss.xml
-          cp feed.xml output/public/feed.xml
           test -f output/public/rss.xml
       - name: Setup Pages
         uses: actions/configure-pages@v5
