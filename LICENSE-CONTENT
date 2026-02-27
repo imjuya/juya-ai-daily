@@ -1,0 +1,24 @@
+Creative Commons Attribution-NonCommercial 4.0 International
+
+Copyright (c) 2026 Juya
+
+This file applies ONLY to content in this repository, including:
+- BACKUP/**
+- rss.xml
+- Article text and editorial content generated from the repository owner's issues
+- The corresponding rendered pages published at https://imjuya.github.io/juya-ai-daily/
+
+License: CC BY-NC 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to:
+- Share and adapt the content for non-commercial purposes.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+- Third-party materials are excluded and remain subject to their original rights
+  statements.
+
+Software code in this repository remains under the MIT License in ./LICENSE.

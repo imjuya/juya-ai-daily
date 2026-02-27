@@ -26,6 +26,15 @@
 
 ---
 
+## License
+
+- 代码（脚本与站点生成逻辑，基于 [yihong0618/gitblog](https://github.com/yihong0618/gitblog)）：[MIT](./LICENSE)
+- 文章内容（`BACKUP/`、`rss.xml`）：[CC BY-NC 4.0](./LICENSE-CONTENT)
+- 转载要求：署名，禁止商用
+- 第三方素材除外，按原权利声明
+
+---
+
 ## Credits
 
 Built with [gitblog](https://github.com/yihong0618/gitblog) by [@yihong0618](https://github.com/yihong0618)
