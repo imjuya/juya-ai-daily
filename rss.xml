@@ -1,5 +1,351 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 26 Feb 2026 12:19:51 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-02-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-9/</link><description>AI 早报 2026-02-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 NVIDIA公布创纪录财报，营收展望超出预期 ↗ #1 Claude Cowork引入定时任务功能 ↗ #2 Google AI创作工具Flow转型为图影一体化平台 ↗ #3 Google 在部分品牌手机上推出 Gemini 自动化功能 ↗ #4 模型发布 Multiverse Computing发布HyperNova 60B模型 ↗ #5 开发生态 Gemini CLI向付费层级全面开放Gemini 3.1 Pro ↗ #6 阿里云百炼Coding Plan上线第三方开源旗舰模型 ↗ #7 GitHub Copilot CLI正式发布并新增研究功能 ↗ #8 Opencode推出OpenCode Go订阅服务 ↗ #9 No…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260226/20260226091449101122895c_cover_8545.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 27 Feb 2026 01:49:51 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-02-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-10/</link><description>AI 早报 2026-02-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google发布Nano Banana 2图像生成模型 ↗ #1 Claude Code推出跨会话记忆功能 ↗ #2 Google Translate 正式接入 Genimi ↗ #3 模型发布 QuiverAI推出SVG AI模型Arrow 1.0 ↗ #4 Perplexity开源pplx-embed系列文本嵌入模型 ↗ #5 纽约大学Solaris团队开源多人游戏世界模型 ↗ #6 开发生态 OpenAI推出Codex CLI 0.105.0更新 ↗ #7 Figma与Codex合作打通双向设计代码工作流 ↗ #8 Gemini CLI推出 v0.30.0更新 ↗ #9 Cursor 正式发布 Bugbot Autofi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260227/2026022708545369299532fb_cover_dca7.png" alt=""></p>
+<h1>AI 早报 2026-02-27</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1KcA1zcEGQ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=dNxKkc2A8O8">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Google发布Nano Banana 2图像生成模型 <a href="https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/">↗</a> <code>#1</code></li>
+<li>Claude Code推出跨会话记忆功能 <a href="https://x.com/trq212/status/2027109375765356723?s=61">↗</a> <code>#2</code></li>
+<li>Google Translate 正式接入 Genimi <a href="https://blog.google/products-and-platforms/products/translate/translation-context-ai-update">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>QuiverAI推出SVG AI模型Arrow 1.0 <a href="https://app.quiver.ai">↗</a> <code>#4</code></li>
+<li>Perplexity开源pplx-embed系列文本嵌入模型 <a href="https://research.perplexity.ai/articles/pplx-embed-state-of-the-art-embedding-models-for-web-scale-retrieval">↗</a> <code>#5</code></li>
+<li>纽约大学Solaris团队开源多人游戏世界模型 <a href="https://github.com/solaris-wm/solaris">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI推出Codex CLI 0.105.0更新 <a href="https://developers.openai.com/codex/changelog">↗</a> <code>#7</code></li>
+<li>Figma与Codex合作打通双向设计代码工作流 <a href="https://www.figma.com/blog/introducing-codex-to-figma/">↗</a> <code>#8</code></li>
+<li>Gemini CLI推出 v0.30.0更新 <a href="https://x.com/geminicli/status/2027137538545045876">↗</a> <code>#9</code></li>
+<li>Cursor 正式发布 Bugbot Autofix <a href="https://cursor.com/cn/blog/bugbot-autofix">↗</a> <code>#10</code></li>
+<li>Anthropic 推出开源开发者支持计划 <a href="https://claude.com/contact-sales/claude-for-oss">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI为ChatGPT推出文件保存功能Library <a href="https://help.openai.com/en/articles/20001052-library-for-chatgpt">↗</a> <code>#12</code></li>
+<li>Claude免费用户获享Connectors功能 <a href="https://x.com/claudeai/status/2027082240833052741">↗</a> <code>#13</code></li>
+<li>微软推出Copilot Tasks研究预览版 <a href="https://x.com/mustafasuleyman/status/2027111503003107377">↗</a> <code>#14</code></li>
+<li>Google Stitch官方上线Direct Edits功能 <a href="https://x.com/stitchbygoogle/status/2027082165490794824">↗</a> <code>#15</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>DeepSeek携手清北发布DualPath推理系统 <a href="https://arxiv.org/abs/2602.21548">↗</a> <code>#16</code></li>
+<li>Andrej Karpathy称AI编程Agent已实现颠覆性突破 <a href="https://x.com/karpathy/status/2026731645169185220">↗</a> <code>#17</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>AMD投资25亿美元与Nutanix共建全栈AI平台 <a href="https://www.amd.com/en/newsroom/press-releases/2026-2-25-amd-and-nutanix-announce-strategic-partnership-to.html">↗</a> <code>#18</code></li>
+<li>Intrinsic并入Google加速Physical AI发展 <a href="https://blog.google/alphabet/intrinsic-joins-google/">↗</a> <code>#19</code></li>
+<li>OpenAI接连挖走Meta两位核心技术高管 <a href="https://zhidx.com/p/536431.html">↗</a> <code>#20</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>DeepSeek据传正测试V4新模型并向华为授权 <code>#21</code></li>
+<li>亚马逊据传将向OpenAI投资高达500亿美元 <a href="https://thein.fo/3OLENvI">↗</a> <code>#22</code></li>
+<li>据传谷歌与Meta签署数十亿美元AI芯片协议 <a href="https://thein.fo/4r4VIqL">↗</a> <code>#23</code></li>
+<li>GPT-5.3被曝或已上线Arena <a href="https://x.com/synthwavedd/status/2026800988401574068">↗</a> <code>#24</code></li>
+<li>传Meta两款AI模型亮相测试平台 <a href="https://x.com/AILeaksAndNews/status/2027041400718848315">↗</a> <code>#25</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/">Google发布Nano Banana 2图像生成模型</a> <code>#1</code></h2>
+<blockquote>
+<p>Google正式发布图像生成模型<strong>Nano Banana 2</strong>，该模型结合了Pro版的高智能与Flash版的高速度，目前以<strong>1279分</strong>位列<strong>Image Arena</strong>榜首。它具备精准的文本渲染及多角色一致性生成能力，现已全面集成至<strong>Gemini</strong>应用、<strong>Google</strong>搜索及<strong>Vertex AI</strong>等产品中，并成为默认图像生成模型。开发者可立即通过API接入使用，其成本相比Pro版下降约<strong>50%</strong>。在<strong>Gemini</strong>应用中，<strong>Nano Banana 2</strong>接入了所有模型选项，付费订阅用户可以通过菜单重新生成图像，使用 <strong>Nano Banana Pro</strong> 进行生成。</p>
+</blockquote>
+<p>Google正式发布最新图像生成与编辑模型<strong>Nano Banana 2</strong>（<code>Gemini 3.1 Flash Image</code>）。该模型融合了<strong>Nano Banana Pro</strong>的高级智能与<code>Gemini Flash</code>的处理速度，旨在兼顾高质量与高效率。它集成了<code>Gemini</code>的真实世界知识库，支持通过实时网络搜索优化生成结果。其核心升级包括更精准的文本渲染与翻译能力，以及显著提升的主体一致性，支持在单次生成中维持最多5个角色和14个物体的特征。</p>
+<p>在性能表现上，据Arena.ai数据显示，<strong>Nano Banana 2</strong>以<strong>1279分</strong>在Image Arena排名中位列第一。官方基准测试也显示其大幅优于<strong>GPT-Image 1.5</strong>、<strong>Seedream 5.0 Lite</strong>等模型。</p>
+<p>在可用性与定价方面，<strong>Nano Banana 2</strong>现已集成至<strong>Gemini App</strong>、<strong>Google搜索</strong>、<strong>Vertex AI</strong>等全线产品，同时，其API成本相比<strong>Pro</strong>版显著降低，其中1K图像价格降幅约为<strong>50%</strong>。在<strong>Gemini</strong>应用中，<strong>Nano Banana 2</strong>成为了所有选项的默认图像生成模型，付费订阅用户可以通过菜单重新生成图像，使用 <strong>Nano Banana Pro</strong> 进行生成。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/f9d54594-02ce-45a9-a9dd-c702b9ea4882/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/f9d54594-02ce-45a9-a9dd-c702b9ea4882/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/f9d54594-02ce-45a9-a9dd-c702b9ea4882/m003.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/f9d54594-02ce-45a9-a9dd-c702b9ea4882/m004.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/f9d54594-02ce-45a9-a9dd-c702b9ea4882/m005.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/">https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2027109375765356723?s=61">Claude Code推出跨会话记忆功能</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 已全面推出 <strong>Auto memory</strong> 功能，允许模型跨会话自动记忆项目上下文和用户偏好，并通过 <code>MEMORY.md</code> 文件实现持久化。该系统建立了包含组织、项目及用户级的层级化管理架构，用户可直接使用 <code>memory</code> 斜杠命令交互式管理记忆。</p>
+</blockquote>
+<p><strong>Claude Code</strong>现已全面推出<strong>Auto memory</strong>功能，旨在跨会话自动记忆项目上下文及用户偏好。该功能默认开启，通过在特定目录生成<code>MEMORY.md</code>作为<strong>Claude</strong>维护的持久化笔记，启动时自动加载前200行。系统构建了包含组织级、项目级、用户级及本地设置的分层记忆管理体系，并支持通过<code>.claude/rules/</code>目录及<code>@path</code>语法实现模块化规则配置。用户可利用<code>/memory</code>命令交互管理，或通过配置文件及环境变量精确控制功能启用状态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/09ea6e64-5ded-4cbb-8a72-aa6d927edf62/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2027109375765356723?s=61">https://x.com/trq212/status/2027109375765356723?s=61</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/translate/translation-context-ai-update">Google Translate 正式接入 Genimi</a> <code>#3</code></h2>
+<blockquote>
+<p>Google Translate 正式接入 <code>Gemini</code> 大模型，推出了“替代选项”、“Understand”和“Ask”三项新功能，旨在帮助用户在从日常闲聊到专业会议的各种场景中精准把握语气与语境。目前该功能已在美国和印度地区的移动端应用上线，即将支持网页版。</p>
+</blockquote>
+<p>Google 官方宣布 <strong>Google Translate</strong> 引入由 <code>Gemini</code> 驱动的全新 AI 功能，旨在帮助用户在各类场景中精准把握语气与语境。此次更新新增三项核心功能：为习语和口语提供多样化表达变体的“替代选项”、展示翻译概览的“Understand”按钮，以及允许针对特定国家及方言进行交互式提问的“Ask”按钮。</p>
+<p>目前，该新体验已在<strong>美国</strong>和<strong>印度</strong>地区的 <strong>Translate</strong> 应用（Android 和 iOS）上线，并即将支持 Web 端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/b0094b0c-6e67-47be-9583-1faf8548a900/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/translate/translation-context-ai-update">https://blog.google/products-and-platforms/products/translate/translation-context-ai-update</a></li>
+</ul>
+<hr>
+<h2><a href="https://app.quiver.ai">QuiverAI推出SVG AI模型Arrow 1.0</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>QuiverAI</strong>发布了首款SVG AI模型<code>Arrow 1.0</code>并开启公测，它能将文本或图像转化为高细节的矢量图，效果十分惊艳。该公司同步宣布完成了<strong>830万美元</strong>的种子轮融资，由<strong>a16z</strong>领投。</p>
+</blockquote>
+<p><strong>QuiverAI</strong> 宣布推出 <code>Arrow 1.0</code> 模型测试版，官方称其为“首款 SVG AI 模型”，支持从图像和文本输入生成 SVG，旨在将用户创意转化为图形。公司创始人 <strong>Joan Rodriguez</strong> 同时透露，这家专注于前沿矢量设计的公司已完成 <strong>830 万美元</strong> 种子轮融资，本轮融资由 <strong>a16z</strong> 领投。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/ea7301a4-6934-4eab-9183-1e381a6cb9e4/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/ea7301a4-6934-4eab-9183-1e381a6cb9e4/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/ea7301a4-6934-4eab-9183-1e381a6cb9e4/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://app.quiver.ai">https://app.quiver.ai</a></li>
+<li><a href="https://x.com/QuiverAI/status/2026792057893708072">https://x.com/QuiverAI/status/2026792057893708072</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.perplexity.ai/articles/pplx-embed-state-of-the-art-embedding-models-for-web-scale-retrieval">Perplexity开源pplx-embed系列文本嵌入模型</a> <code>#5</code></h2>
+<blockquote>
+<p>Perplexity发布并开源了基于 <code>Qwen3</code> 的 <code>pplx-embed</code> 系列SOTA文本Embedding模型，包含针对独立文本和RAG上下文优化的两个版本。</p>
+</blockquote>
+<p>Perplexity 正式发布了 <strong>pplx-embed</strong> 系列文本 Embedding 模型，旨在优化网络级检索任务。该系列包含针对独立文本优化的 <code>pplx-embed-v1</code>，以及专为RAG系统中上下文文档块设计的 <code>pplx-embed-context-v1</code>。两款模型均基于 <strong>Qwen3</strong> 架构并采用扩散预训练技术，提供 <strong>0.6B</strong>（1024维）和 <strong>4B</strong>（2560维）两种参数规格，支持 <strong>32K</strong> 上下文长度及MRL。据官方介绍，这些模型已在千万级文档的真实搜索场景中得到验证，并以MIT协议在Hugging Face开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/c7ebf9f3-3cfb-4505-b1eb-7926f3855a09/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.perplexity.ai/articles/pplx-embed-state-of-the-art-embedding-models-for-web-scale-retrieval">https://research.perplexity.ai/articles/pplx-embed-state-of-the-art-embedding-models-for-web-scale-retrieval</a></li>
+<li><a href="https://huggingface.co/collections/perplexity-ai/pplx-embed">https://huggingface.co/collections/perplexity-ai/pplx-embed</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/solaris-wm/solaris">纽约大学Solaris团队开源多人游戏世界模型</a> <code>#6</code></h2>
+<blockquote>
+<p>纽约大学团队发布了首个针对《我的世界》的多人视频世界模型 <code>Solaris</code>，它能基于共享全局状态，同时为两名玩家生成视角一致的第一人称视频。</p>
+</blockquote>
+<p>纽约大学团队发布首个《我的世界》多人视频世界模型 <strong>Solaris</strong>，能基于全局状态生成双玩家视角一致的第一人称视频。发布包含自研数据引擎 <strong>SolarisEngine</strong>、基于 <code>DiT</code> 架构经 <strong>1260万帧</strong> 数据训练的模型及 <strong>Solaris Eval</strong> 评估基准。为解决长视野生成中的显存瓶颈，团队引入了“Checkpointed Self Forcing”技术。实验显示其在一致性与复杂任务上优于基线。项目已在 <strong>GitHub</strong> 和 <strong>Hugging Face</strong> 开源，代码基于 <code>JAX</code> 实现。推理需显存至少 <strong>48GB</strong> 的 GPU。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/e265c5d5-b524-46c6-a555-ca022db13597/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/solaris-wm/solaris">https://github.com/solaris-wm/solaris</a></li>
+<li><a href="https://solaris-wm.github.io/">https://solaris-wm.github.io/</a></li>
+<li><a href="https://huggingface.co/nyu-visionx/solaris">https://huggingface.co/nyu-visionx/solaris</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.openai.com/codex/changelog">OpenAI推出Codex CLI 0.105.0更新</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 发布了 <code>Codex CLI</code> 更新，重点升级了终端交互体验与多智能体协作能力。用户现在可以在终端内按住空格键直接进行语音指令输入，并能通过 <code>CSV</code> 文件批量生成子代理来执行大规模任务。此外，新版本还新增了代码语法高亮、实时主题切换以及更灵活的审批控制机制，显著提升了开发效率。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 发布 <strong>Codex CLI</strong> <code>0.105.0</code> 版本，重点优化终端界面、多代理工作流及系统稳定性。<strong>TUI</strong> 新增代码块与 diff 语法高亮、<code>/theme</code> 主题选择器及实验性语音听写功能；多代理工作流支持从 CSV 批量生成子代理并显示进度。新增 <code>/copy</code> 命令，改进审批控制与沙箱权限，修复 WebSocket、Linux 沙箱及 <code>js_repl</code> 等底层问题。部分社区用户将此称为 <strong>Codex</strong> 迄今最大更新，并讨论了子代理深度定制等能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/7e407f9a-aa65-46a3-af44-9d3e2088ffc2/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260227/20260227083920_3a4cf3dcc8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/codex/changelog">https://developers.openai.com/codex/changelog</a></li>
+<li><a href="https://github.com/openai/codex/releases">https://github.com/openai/codex/releases</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.figma.com/blog/introducing-codex-to-figma/">Figma与Codex合作打通双向设计代码工作流</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Figma</strong> 宣布与 <strong>OpenAI</strong> <strong>Codex</strong> 深度集成，通过 <code>Figma MCP server</code> 打通了设计画布与代码环境的双向工作流。</p>
+</blockquote>
+<p><strong>Figma</strong> 官方宣布，即日起通过 <strong>Figma MCP server</strong> 与 <strong>OpenAI Codex</strong> 深度集成，打通代码与设计画布的双向工作流。开发者现可在 Codex 桌面应用中利用 <code>get_design_context</code> 工具提取 Figma 文件的布局与样式信息生成代码；同时可通过 <code>generate_figma_design</code> 工具，将实时运行的应用界面自动转换为可编辑的 Figma Design 文件。此次集成实现了“代码-画布-代码”的完整闭环，支持设计变更无损同步回代码环境，用户可在 Codex 中直接安装该服务器以实现无缝迭代与协作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/d559f68e-d8ee-4649-b68b-212bb290f58d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.figma.com/blog/introducing-codex-to-figma/">https://www.figma.com/blog/introducing-codex-to-figma/</a></li>
+<li><a href="https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma">https://developers.openai.com/blog/building-frontend-uis-with-codex-and-figma</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/geminicli/status/2027137538545045876">Gemini CLI推出 v0.30.0更新</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Gemini CLI</strong> 发布 <code>v0.30.0</code> 版本，已向所有使用 <strong>Gemini 3</strong> 的用户推送最新的 <code>3.1 Pro</code> 模型。此次更新实现了跨平台及工作区外的文件拖拽上传等交互体验优化功能。</p>
+</blockquote>
+<p>Gemini CLI 发布 <strong>v0.30.0</strong> 版本更新，核心模型升级至 <code>Gemini 3.1 Pro</code>，并将 <code>Gemini 3</code> 设为默认家族，预计未来几天向所有用户完成推送。此次更新优化了交互体验，支持跨平台及工作区外文件拖拽上传，增设权限确认，并为 Posix 用户提供了挂起与恢复功能，同时允许开启模型思考气泡完整模式。</p>
+<p>生态扩展方面，新增 <code>Neo4J</code> 和 <code>Atlassian MCP</code> 扩展，支持自然语言查询与自动化。系统配置上，聊天会话默认保留期设为 <strong>30</strong> 天，实验性 Plan Mode 引入了 <strong>5</strong> 阶段顺序规划工作流。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/geminicli/status/2027137538545045876">https://x.com/geminicli/status/2027137538545045876</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/cn/blog/bugbot-autofix">Cursor 正式发布 Bugbot Autofix</a> <code>#10</code></h2>
+<blockquote>
+<p>Cursor 宣布正式向所有用户开放代码评审 Agent <strong>“Bugbot”</strong> 的 <strong>“Autofix”</strong> 功能。该功能可实现在 <code>Pull Request</code> 中自动发现并修复问题的闭环。</p>
+</blockquote>
+<p>Cursor 官方宣布，其代码评审 Agent “<strong>Bugbot</strong>” 的 “<strong>Bugbot Autofix</strong>” 功能已结束 beta 测试，正式向所有用户开放。该功能通过在独立虚拟机中启动云端 Agent 运行测试，实现了在 Pull Request 中自动发现并修复问题的闭环。</p>
+<p>据官方数据，<strong>Bugbot</strong> 解决率已从 <strong>52%</strong> 提升至 <strong>76%</strong>，单次运行识别问题数量几乎翻倍，超 <strong>35%</strong> 的 <strong>Autofix</strong> 修改被合并。Cursor 团队未来将致力于实现自定义自动化工作流及持续代码库扫描。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/6613126a-e761-485f-8ff2-fbbf318fea70/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/bugbot-autofix">https://cursor.com/cn/blog/bugbot-autofix</a></li>
+<li><a href="https://x.com/ericzakariasson/status/2027083181300830222">https://x.com/ericzakariasson/status/2027083181300830222</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/contact-sales/claude-for-oss">Anthropic 推出开源开发者支持计划</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 启动“<strong>Claude for Open Source</strong>”计划，向符合资格的开源项目维护者及核心贡献者提供为期<strong>6个月</strong>的免费<strong>Claude Max</strong> <strong>20x</strong>使用权。名额上限为<strong>一万人</strong>。</p>
+</blockquote>
+<p>Anthropic正式推出**“Claude for Open Source”<strong>计划，旨在支持开源社区。该计划向符合资格的项目维护者及核心贡献者提供为期6个月的免费</strong>Claude Max** 20x使用权。申请标准主要面向拥有<strong>5,000</strong>以上<strong>GitHub Stars</strong>或月<strong>NPM</strong>下载量超<strong>100万</strong>的公共仓库活跃维护者；维护关键生态依赖但未达标者亦可申请。名额上限为<strong>10,000</strong>人，官方将滚动审核并通过邮件发送激活链接。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/d2742ef4-7954-437e-b634-e46199ff4946/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/contact-sales/claude-for-oss">https://claude.com/contact-sales/claude-for-oss</a></li>
+<li><a href="https://x.com/lydiahallie/status/2027129030571634721">https://x.com/lydiahallie/status/2027129030571634721</a></li>
+</ul>
+<hr>
+<h2><a href="https://help.openai.com/en/articles/20001052-library-for-chatgpt">OpenAI为ChatGPT推出文件保存功能Library</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正在为 <strong>ChatGPT</strong> 推出“Library”功能，可自动保存用户上传的文档、表格和图像等文件，并支持在不同对话间复用。</p>
+</blockquote>
+<p>OpenAI正在为 <strong>ChatGPT</strong> 推出“Library”功能，旨在自动保存用户上传的文档、图像等文件以便复用。用户可通过侧边栏或描述查找文件，并在新对话中通过“Add from library”选项添加。该功能支持手动管理，删除对话不连带删除文件，但不适用于 <strong>Temporary Chat</strong> 及 <strong>Health</strong> 模式。存储限制方面，通用文件上限 <strong>512MB</strong>，个人和组织用户分别享有 <strong>10GB</strong> 与 <strong>100GB</strong> 配额。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/8fc8f9f1-e740-4d0a-8d8f-f6cae147dc9a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://help.openai.com/en/articles/20001052-library-for-chatgpt">https://help.openai.com/en/articles/20001052-library-for-chatgpt</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2027082240833052741">Claude免费用户获享Connectors功能</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Claude</strong>官方宣布，<strong>Connectors</strong>功能现已面向免费用户开放，可连接涵盖编程、设计及财务等领域的<strong>150多个</strong>第三方工具。</p>
+</blockquote>
+<p>Claude官方宣布，<strong>Connectors</strong>功能现已正式向免费计划用户开放。该功能支持接入涵盖编程、数据、设计、财务及销售等多个领域的<strong>150多个工具</strong>，旨在实现<strong>Claude</strong>与外部工作环境的交互。具体应用包括起草<code>Slack</code>消息、生成<code>Figma</code>图表及管理<code>Asana</code>时间线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/8896d7e6-553f-415e-af2c-7a715e3a7eb4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2027082240833052741">https://x.com/claudeai/status/2027082240833052741</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/mustafasuleyman/status/2027111503003107377">微软推出Copilot Tasks研究预览版</a> <code>#14</code></h2>
+<blockquote>
+<p>微软 <strong>Copilot</strong> 公布了新功能 <strong>Copilot Tasks</strong>，旨在推动 <strong>AI</strong> 从“对话”转向“执行”。用户无需编程，只需描述需求，系统即可自动处理任务。已开放候补名单。</p>
+</blockquote>
+<p>微软 <strong>Copilot</strong> 公布了新功能 <strong>Copilot Tasks</strong>，旨在推动 <strong>AI</strong> 从“对话”转向“执行”，核心理念为“少说话、多做事”。用户无需复杂设置或编程技能，仅通过描述任务，<strong>Copilot</strong> 即可自动处理。官方列举了三大应用场景：能将教学大纲转化为含模拟考试的学习计划；每周追踪房源并预约看房；每晚筛选紧急邮件并起草回复，同时自动退订促销邮件。目前，可申请加入候补名单等待体验该功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/bf172ce0-2fa5-4afd-a595-2ef6d00fda18/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/mustafasuleyman/status/2027111503003107377">https://x.com/mustafasuleyman/status/2027111503003107377</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/stitchbygoogle/status/2027082165490794824">Google Stitch官方上线Direct Edits功能</a> <code>#15</code></h2>
+<blockquote>
+<p>Google设计工具 <strong>Stitch</strong> 正式上线 <strong>Direct Edits</strong> 功能，用户现可直接在工具内部手动修改文本或图片，也能选中组件提示 <code>Gemini</code> 进行迭代更新，无需切换环境即可高效完成设计成品的最终润色。</p>
+</blockquote>
+<p>Google 旗下设计工具 <strong>Stitch</strong> 官方宣布上线 <strong>“Direct Edits”</strong> 功能，旨在解决设计生成后的细节微调痛点。针对现有 <strong>“Vibe Design”</strong> 模式虽能快速探索创意但难以进行修正错别字或替换图片等细微操作的问题，新功能支持用户直接在 <strong>Stitch</strong> 内部手动编辑，或选中特定组件指示 <code>Gemini</code> 生成更新版本。这种结合手动微调与 AI 辅助的方式，实现了从创意生成到细节完善的高效闭环。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/fdec840a-a8c4-4be4-9300-8c84780d8d36/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/stitchbygoogle/status/2027082165490794824">https://x.com/stitchbygoogle/status/2027082165490794824</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/abs/2602.21548">DeepSeek携手清北发布DualPath推理系统</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>DeepSeek</strong> 联合<strong>清华</strong>、<strong>北大</strong>发布论文，介绍了 <code>DualPath</code> 推理系统。该系统创新性地引入双路径 KV-Cache 加载机制，利用闲置的 Decode 引擎带宽，解决了 Agentic LLM 在多轮长上下文推理中的存储 I/O 瓶颈。在生产测试中，该系统吞吐量获得接近<strong>2倍</strong>的提升。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 联合<strong>清华大学</strong>与<strong>北京大学</strong>推出 <strong>DualPath</strong> 推理系统，旨在解决 Agentic <code>LLM</code> 多轮长上下文推理中的存储 I/O 瓶颈。该系统创新采用双路径 KV-Cache 加载机制，在保留传统存储路径的同时，利用闲置 Decode 引擎带宽经 <code>RDMA</code> 回传数据，并配合以网卡为中心的流量管理及全局动态调度策略。实验数据显示，在 <strong>DeepSeek-V3.2</strong> 等模型的生产负载测试中，<strong>DualPath</strong> 将离线推理吞吐量最高提升 <strong>1.87</strong> 倍，在线服务吞吐量平均提升 <strong>1.96</strong> 倍，且未违反 SLO，在千卡规模下具备近线性扩展能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/cf8fb0c0-8e18-413f-bdef-e84c7d9e8f94/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2602.21548">https://arxiv.org/abs/2602.21548</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/karpathy/status/2026731645169185220">Andrej Karpathy称AI编程Agent已实现颠覆性突破</a> <code>#17</code></h2>
+<blockquote>
+<p>AI 专家 <strong>Andrej Karpathy</strong> 指出，自去年 <strong>12月</strong> 起，<code>Coding Agent</code> 的能力迎来拐点，已能自主解决复杂的长时任务，编程形态已发生根本改变，开发者需转向“Agentic Engineering”，将核心工作从代码执行转变为用英语管理 <code>Agent</code> 并验证结果。</p>
+</blockquote>
+<p>AI专家 <strong>Andrej Karpathy</strong> 指出，自去年 <strong>12月</strong> 起，<strong>Coding Agent</strong> 因模型质量与韧性提升迎来拐点，已具备处理复杂长时任务的能力。他以实战为例，仅通过英语指令，<strong>Agent</strong> 在约 <strong>30分钟</strong> 内自主完成了部署 <code>vLLM</code>、测试 <code>Qwen3-VL</code> 及构建 Web UI 等任务，将原本需耗费整个周末的工作自动化。</p>
+<p>Karpathy 强调，编程正从“键入代码”转变为“管理 Agent”，未来核心在于通过 <code>Agentic Engineering</code> 构建 Orchestrator 管理并行实例。尽管技术尚不完美，仍需人工指导，但开发者核心任务已从“执行”转向“验证”，理解能力无法被外包。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/karpathy/status/2026731645169185220">https://x.com/karpathy/status/2026731645169185220</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.amd.com/en/newsroom/press-releases/2026-2-25-amd-and-nutanix-announce-strategic-partnership-to.html">AMD投资25亿美元与Nutanix共建全栈AI平台</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>AMD</strong> 与云计算公司 <strong>Nutanix</strong> 达成多年战略合作，<strong>AMD</strong> 将总计投入 <strong>2.5 亿美元</strong>，于今年第二季度完成对 <strong>Nutanix</strong> 的股权投资，结合双方软硬件优势共同打造支持智能体 <code>AI</code> 的全栈式开放基础设施平台。</p>
+</blockquote>
+<p><strong>AMD</strong>与云计算公司<strong>Nutanix</strong>宣布达成多年战略合作，共同开发开放全栈<strong>AI</strong>基础设施平台。<strong>AMD</strong>将总计投资<strong>2.5亿美元</strong>，含以每股<strong>36.26美元</strong>收购<strong>1.5亿美元****Nutanix</strong>普通股（预计<strong>2026年Q2</strong>完成）及最高<strong>1亿美元</strong>研发推广资金。双方将整合<strong>AMD</strong>软硬件技术与<strong>Nutanix</strong>云平台，首批智能体<strong>AI</strong>平台预计<strong>2026年底</strong>上市。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/40426080-4bd1-4aaa-9080-1653d92da5eb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.amd.com/en/newsroom/press-releases/2026-2-25-amd-and-nutanix-announce-strategic-partnership-to.html">https://www.amd.com/en/newsroom/press-releases/2026-2-25-amd-and-nutanix-announce-strategic-partnership-to.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/alphabet/intrinsic-joins-google/">Intrinsic并入Google加速Physical AI发展</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Alphabet</strong> 旗下的机器人软件子公司 <strong>Intrinsic</strong> 正式并入 <strong>Google</strong>，将依托 <code>Gemini</code> 模型与 <strong>DeepMind</strong> 资源加速物理 AI 的发展。</p>
+</blockquote>
+<p><strong>Alphabet</strong> 旗下 <strong>Intrinsic</strong> 正式并入 <strong>Google</strong>，旨在利用其前沿 <strong>AI</strong> 资源加速 <code>Physical AI</code>（物理 AI）发展。<strong>Intrinsic</strong> 成立于 <strong>2021</strong> 年，致力于通过 <code>Flowstate</code> 平台降低工业机器人应用的开发门槛，执行如组装服务器、搬运 <strong>EV</strong> 电池等现实任务。</p>
+<p>据媒体报道，<strong>Intrinsic</strong> 加入后将保持独立运营，并接入 <code>Gemini</code> 模型与 <strong>Google DeepMind</strong> 深度协作。其客户涵盖小型车间至 <strong>Foxconn</strong> 等巨头，计划于 <strong>2025</strong> 年底发布 <code>Vision AI</code> 模型。行业观察认为，此举是 <strong>Google</strong> 应对具身智能领域竞争的关键布局。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/bf0adeb5-0950-419c-b974-79419329463f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/alphabet/intrinsic-joins-google/">https://blog.google/alphabet/intrinsic-joins-google/</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhidx.com/p/536431.html">OpenAI接连挖走Meta两位核心技术高管</a> <code>#20</code></h2>
+<blockquote>
+<p>OpenAI证实已从<strong>Meta</strong>超级智能实验室挖走两位核心大将，分别是前苹果基础模型负责人<strong>庞若鸣</strong>与<code>SAM 3</code>模型主导者<strong>张鹏川</strong>。</p>
+</blockquote>
+<p>OpenAI近期接连从<strong>Meta</strong>挖走两位核心华人AI研究员。据外媒报道，<strong>OpenAI</strong>证实前苹果AI负责人<strong>庞若鸣</strong>已于上周入职。<strong>庞若鸣</strong>于<strong>2025年7月</strong>以约<strong>2亿美元</strong>年薪加入<strong>Meta</strong>超级智能实验室负责基础设施。同时，<strong>Meta</strong>研究科学家<strong>张鹏川</strong>宣布将加入<strong>OpenAI</strong>，从事世界模型及机器人研究。<strong>张鹏川</strong>曾主导<code>SAM 3</code>及<code>Llama</code>视觉模块开发。两人均来自<strong>Meta</strong> <strong>2025年7月</strong>成立的超级智能实验室，该实验室近期面临人才流失，另有多名高管离职。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/536431.html">https://zhidx.com/p/536431.html</a></li>
+</ul>
+<hr>
+<h2>DeepSeek据传正测试V4新模型并向华为授权 <code>#21</code></h2>
+<blockquote>
+<p>据报道，<strong>DeepSeek</strong>正在内测代号为<code>V4 Lite</code>的新模型，并已向<strong>华为</strong>提供提前访问权以优化硬件适配，而<strong>英伟达</strong>和<strong>AMD</strong>目前未获授权。社交媒体爆料称，该模型支持<code>1M</code>上下文窗口及原生多模态，<code>SVG</code>生成效果在细节和准确性上均优于前代。</p>
+</blockquote>
+<p>据路透社及多家信源报道，<strong>DeepSeek</strong>正在测试未发布的<strong>V4</strong>模型，并向<strong>华为</strong>等国内供应商提供提前访问权以优化处理器软件，<strong>英伟达</strong>和<strong>AMD</strong>暂未获权。社交媒体爆料称，代号为“sealion-lite”的<code>V4 Lite</code>支持<code>1M</code>上下文窗口及原生多模态推理。流出的SVG示例显示，其在非思考模式下的表现优于上一代<code>V3.2</code>的思考模式。社区讨论认为，若该模型实现低成本长上下文推理，或将改变行业格局。目前<strong>DeepSeek</strong>官方尚未对此做出回应。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/725d7efa-2039-43a8-8489-c7178c75a865/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/725d7efa-2039-43a8-8489-c7178c75a865/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/725d7efa-2039-43a8-8489-c7178c75a865/m003.png" alt=""></p>
+<hr>
+<h2><a href="https://thein.fo/3OLENvI">亚马逊据传将向OpenAI投资高达500亿美元</a> <code>#22</code></h2>
+<blockquote>
+<p>据报道，亚马逊正洽谈向 <strong>OpenAI</strong> 投资最高达 <strong>500亿美元</strong>，其中 <strong>350亿美元</strong> 资金将取决于 <strong>OpenAI</strong> 是否实现 <strong>AGI</strong> 或完成 <strong>IPO</strong>。作为合作条件，<strong>OpenAI</strong> 将扩大使用亚马逊 <code>Trainium</code> 芯片，并为 <strong>Alexa</strong> 开发定制模型。</p>
+</blockquote>
+<p>据 The Information 报道，<strong>亚马逊</strong>正洽谈向 <strong>OpenAI</strong> 投资高达 <strong>500 亿美元</strong>。交易拟分两阶段：初期投入 <strong>150 亿美元</strong>，剩余 <strong>350 亿美元</strong>视 <strong>OpenAI</strong> 实现 AGI 或完成 IPO 而定。此举源于 <strong>OpenAI</strong> 预计未来五年算力成本将达 <strong>6650 亿美元</strong>，需深化云合作，包括扩大使用 <strong>亚马逊 Trainium</strong> 芯片及为 <strong>Alexa</strong> 开发模型。此外报道指出，<strong>软银</strong>和<strong>英伟达</strong>计划各投资 <strong>300 亿美元</strong>，<strong>微软</strong>尚未决定是否跟投。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/2fe13718-5a0c-4f23-9e35-0bc321d445e4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://thein.fo/3OLENvI">https://thein.fo/3OLENvI</a></li>
+<li><a href="https://x.com/theinformation/status/2027146093616669040">https://x.com/theinformation/status/2027146093616669040</a></li>
+</ul>
+<hr>
+<h2><a href="https://thein.fo/4r4VIqL">据传谷歌与Meta签署数十亿美元AI芯片协议</a> <code>#23</code></h2>
+<blockquote>
+<p>据 The Information 报道，<strong>Google</strong> 与 <strong>Meta</strong> 签署了价值数十亿美元的 AI 芯片协议；与此同时，<strong>Meta</strong> 因设计困境已废弃其最先进的内部 AI 训练芯片项目 <code>Metis</code>。</p>
+</blockquote>
+<p>据 The Information 独家报道，<strong>Google</strong> 已与 <strong>Meta</strong> 达成一项价值数十亿美元的 <strong>AI</strong> 芯片交易，此举进一步加剧了 <strong>Google</strong> 与 <strong>Nvidia</strong> 的市场竞争。同时，<strong>Meta</strong> 因设计困境已废弃其最先进的内部 <strong>AI</strong> 训练芯片项目。这一挫折凸显了科技巨头试图在硬件领域挑战 <strong>Nvidia</strong> 主导地位所面临的极高难度。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://thein.fo/4r4VIqL">https://thein.fo/4r4VIqL</a></li>
+<li><a href="https://thein.fo/4chhFPC">https://thein.fo/4chhFPC</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/synthwavedd/status/2026800988401574068">GPT-5.3被曝或已上线Arena</a> <code>#24</code></h2>
+<blockquote>
+<p>X 平台消息称 <strong>GPT-5.3</strong> 已上线 <code>LM Arena</code>，代号为 <code>vortex</code> 和 <code>zephyr</code>。</p>
+</blockquote>
+<p>据X用户leo 🐾称，<strong>GPT-5.3</strong>已登陆<strong>LM Arena</strong>，代号为“<strong>vortex</strong>”和“<strong>zephyr</strong>”。社区反馈显示，目前Battle模式极难匹配到这两个模型，且列表中未见显示。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/94b7092c-0954-4a6d-b511-440e3effd3c2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/synthwavedd/status/2026800988401574068">https://x.com/synthwavedd/status/2026800988401574068</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/AILeaksAndNews/status/2027041400718848315">传Meta两款AI模型亮相测试平台</a> <code>#25</code></h2>
+<blockquote>
+<p>代号为 <strong>Mint</strong> 和 <strong>Chocolate</strong> 的 <code>AI 模型</code> 现身 <strong>Design Arena</strong> 平台，外界猜测其与 <strong>Meta</strong> 的 <code>Avocado</code> 模型有关。</p>
+</blockquote>
+<p>据社交媒体消息披露，两款代号为“Mint”和“Chocolate”的新<code>AI模型</code>近期现身Design Arena平台，其测试页面信息显示创建者为 <strong>Meta AI</strong>。针对模型背景，社区讨论推测其可能与 <strong>Meta</strong> 超智能团队的 <code>Avocado</code> 模型有关，但该说法尚未得到确切证实。目前， <strong>Meta</strong> 官方尚未对此发布正式声明。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/dca7ff26-c262-4345-a268-41166e77e510/e29816f9-5dc7-46b0-b9f1-778e37a14fd5/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/AILeaksAndNews/status/2027041400718848315">https://x.com/AILeaksAndNews/status/2027041400718848315</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/10</guid><pubDate>Fri, 27 Feb 2026 01:49:31 +0000</pubDate></item><item><title>2026-02-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-9/</link><description>AI 早报 2026-02-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 NVIDIA公布创纪录财报，营收展望超出预期 ↗ #1 Claude Cowork引入定时任务功能 ↗ #2 Google AI创作工具Flow转型为图影一体化平台 ↗ #3 Google 在部分品牌手机上推出 Gemini 自动化功能 ↗ #4 模型发布 Multiverse Computing发布HyperNova 60B模型 ↗ #5 开发生态 Gemini CLI向付费层级全面开放Gemini 3.1 Pro ↗ #6 阿里云百炼Coding Plan上线第三方开源旗舰模型 ↗ #7 GitHub Copilot CLI正式发布并新增研究功能 ↗ #8 Opencode推出OpenCode Go订阅服务 ↗ #9 No…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260226/20260226091449101122895c_cover_8545.png" alt=""></p>
 <h1>AI 早报 2026-02-26</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1frfYBzEW4">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=NahFSuUKPvE">YouTube</a></p>
 <h2>概览</h2>
