@@ -1,5 +1,126 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 27 Feb 2026 07:34:12 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-02-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-10/</link><description>AI 早报 2026-02-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google发布Nano Banana 2图像生成模型 ↗ #1 Claude Code推出跨会话记忆功能 ↗ #2 Google Translate 正式接入 Genimi ↗ #3 模型发布 QuiverAI推出SVG AI模型Arrow 1.0 ↗ #4 Perplexity开源pplx-embed系列文本嵌入模型 ↗ #5 纽约大学Solaris团队开源多人游戏世界模型 ↗ #6 开发生态 OpenAI推出Codex CLI 0.105.0更新 ↗ #7 Figma与Codex合作打通双向设计代码工作流 ↗ #8 Gemini CLI推出 v0.30.0更新 ↗ #9 Cursor 正式发布 Bugbot Autofi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260227/2026022708545369299532fb_cover_dca7.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 28 Feb 2026 01:00:18 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-02-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-11/</link><description>AI 早报 2026-02-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 ↗ #1 开发生态 Google Antigravity 恢复部分账户但重申禁用第三方工具 ↗ #2 Anthropic重置Claude Code用户速率限制 ↗ #3 谷歌将终止Gemini 3 Pro Preview服务 ↗ #4 行业动态 Anthropic与美国战争部因AI安全限制爆发冲突。 ↗ #5 OpenAI发布心理健康功能更新并回应诉讼合并 ↗ #6 七家科技巨头将签署AI数据中心用电协议 ↗ #7 前瞻与传闻 阿里千问AI眼镜将于MWC亮相并开启预约 #8 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 #1 OpenAI完成总额1100亿美…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260228/202602280838126724411110_cover_fe2e.png" alt=""></p>
+<h1>AI 早报 2026-02-28</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1UPA4zLENA">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=b9y6XDxIGDk">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI完成1100亿美元融资并与亚马逊达成战略合作 <a href="https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Google Antigravity 恢复部分账户但重申禁用第三方工具 <a href="https://x.com/antigravity/status/2027435365275967591">↗</a> <code>#2</code></li>
+<li>Anthropic重置Claude Code用户速率限制 <a href="https://x.com/trq212/status/2027232172810416493">↗</a> <code>#3</code></li>
+<li>谷歌将终止Gemini 3 Pro Preview服务 <a href="https://discuss.ai.google.dev/t/migrate-from-gemini-3-pro-preview-to-gemini-3-1-pro-preview-before-march-9-2026/127062">↗</a> <code>#4</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Anthropic与美国战争部因AI安全限制爆发冲突。 <a href="https://www.anthropic.com/news/statement-department-of-war">↗</a> <code>#5</code></li>
+<li>OpenAI发布心理健康功能更新并回应诉讼合并 <a href="https://openai.com/index/update-on-mental-health-related-work/">↗</a> <code>#6</code></li>
+<li>七家科技巨头将签署AI数据中心用电协议 <a href="https://www.foxnews.com/politics/scoop-trump-brings-big-tech-white-house-curb-power-costs-amid-ai-boom">↗</a> <code>#7</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>阿里千问AI眼镜将于MWC亮相并开启预约 <code>#8</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/">OpenAI完成1100亿美元融资并与亚马逊达成战略合作</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>完成总额<strong>1100亿美元</strong>的新一轮融资，投前估值达<strong>7300亿美元</strong>，其中<strong>亚马逊</strong>注资<strong>500亿</strong>，<strong>英伟达</strong>与<strong>软银</strong>各注资<strong>300亿</strong>。伴随融资，<strong>OpenAI</strong>与<strong>亚马逊</strong>建立多年期战略合作伙伴关系，将<strong>OpenAI Frontier</strong>平台引入<strong>AWS</strong>，同时，<strong>OpenAI</strong>与<strong>AWS</strong>的算力协议扩大至<strong>1000亿美元</strong>，并在<strong>Amazon Bedrock</strong>上共同构建“有状态运行时环境”，帮助企业无需管理底层设施即可处理多步工作流和持久化记忆。而<strong>微软Azure</strong>继续保持对<strong>OpenAI</strong>无状态API的独家云服务权。此外，<strong>OpenAI</strong>深化了与<strong>英伟达</strong>的合作，将在<code>Vera Rubin</code>系统上使用共<strong>5吉瓦</strong>的专用推理与训练算力。</p>
+</blockquote>
+<p><strong>OpenAI</strong>完成总额<strong>1100亿美元</strong>的新一轮融资，投前估值达<strong>7300亿美元</strong>。本轮融资由<strong>亚马逊</strong>注资<strong>500亿美元</strong>，<strong>英伟达</strong>与<strong>软银</strong>各注资<strong>300亿美元</strong>。目前，<strong>ChatGPT</strong>周活跃用户已突破<strong>9亿</strong>，付费用户超<strong>5000万</strong>。本轮融资使<strong>OpenAI</strong>基金会在集团中所持股份价值增至<strong>1800亿美元</strong>以上。</p>
+<p>伴随融资，<strong>OpenAI</strong>与<strong>亚马逊</strong>建立多年期战略合作，将<strong>OpenAI Frontier</strong>平台引入<strong>AWS</strong>，并共同开发“有状态运行时环境”。该环境将在<strong>Amazon Bedrock</strong>原生提供，专为持续性多步工作流设计，能建立持久化工作上下文，预计未来数月内上线。作为合作的一部分，<strong>AWS</strong>成为<strong>OpenAI Frontier</strong>的独家第三方云分发渠道。</p>
+<p>双方同时将现有的<strong>380亿美元</strong>多年期算力协议扩大至<strong>1000亿美元</strong>，期限为8年。<strong>OpenAI</strong>承诺通过<strong>AWS</strong>基础设施消耗约<strong>2GW</strong>的<code>Trainium</code>算力，此协议涵盖至2027年交付的下一代<code>Trainium4</code>芯片。</p>
+<p>此外，<strong>OpenAI</strong>深化了与<strong>英伟达</strong>的合作，将在<strong>Vera Rubin</strong>系统上使用共<strong>5GW</strong>的专用推理与训练算力。</p>
+<p>值得注意的是，<strong>OpenAI</strong>与<strong>微软</strong>的合作伙伴关系保持不变，<strong>Azure</strong>仍是<strong>OpenAI</strong>无状态API的独家云服务商，所有相关调用（包括通过第三方）均托管于<strong>Azure</strong>，<strong>OpenAI</strong>的第一方产品也继续托管在<strong>Azure</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/d12dd1ca-4c29-4fd8-a5d6-2c96a61df41e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/">https://openai.com/zh-Hans-CN/index/scaling-ai-for-everyone/</a></li>
+<li><a href="https://openai.com/zh-Hans-CN/index/amazon-partnership/">https://openai.com/zh-Hans-CN/index/amazon-partnership/</a></li>
+<li><a href="https://www.aboutamazon.com/news/aws/amazon-open-ai-strategic-partnership-investment">https://www.aboutamazon.com/news/aws/amazon-open-ai-strategic-partnership-investment</a></li>
+<li><a href="https://openai.com/zh-Hans-CN/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/">https://openai.com/zh-Hans-CN/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/</a></li>
+<li><a href="https://openai.com/zh-Hans-CN/index/continuing-microsoft-partnership/">https://openai.com/zh-Hans-CN/index/continuing-microsoft-partnership/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/antigravity/status/2027435365275967591">Google Antigravity 恢复部分账户但重申禁用第三方工具</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Google Antigravity</strong> 宣布正在恢复因使用第三方工具受限的账户权限，但明确指出使用第三方工具登录仍违反服务条款。官方建议，若需配合 <strong>Gemini</strong> 使用第三方编码 <code>Agent</code>，应转而使用 <code>Vertex</code> 或 <code>AI Studio</code> API 密钥。</p>
+</blockquote>
+<p>Google Antigravity 官方宣布，正在恢复此前因使用第三方工具受限的账户权限。官方重申，使用 <code>Claude Code</code>、<code>OpenClaw</code> 或 <code>OpenCode</code> 等第三方软件登录仍违反服务条款，可能导致账户被暂停或终止。对于有第三方编码 Agent 需求的用户，官方建议转用 <code>Vertex</code> 或 <code>AI Studio</code> API 密钥，并承诺未来将提供明确的恢复指导。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/59df8400-dc8b-4fd3-bb7c-cdf50f58054a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/antigravity/status/2027435365275967591">https://x.com/antigravity/status/2027435365275967591</a></li>
+<li><a href="https://antigravity.google/docs/faq#why-can%27t-i-use-third-party-software-eg-claude-code-openclaw-opencode-with-my-antigravity-login">https://antigravity.google/docs/faq#why-can't-i-use-third-party-software-eg-claude-code-openclaw-opencode-with-my-antigravity-login</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2027232172810416493">Anthropic重置Claude Code用户速率限制</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 修复导致 <code>Claude Code</code> 额度异常消耗的 <code>Prompt Caching</code> Bug，并重置了所有用户的速率限制。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方已重置所有 <strong>Claude Code</strong> 用户的 Rate Limits，以修复因 <code>Prompt Caching</code> 功能 Bug 导致的额度消耗过快问题。该故障已在 <code>2.1.62</code> 版本中通过热修复解决，官方建议用户立即执行 <code>claude update</code> 命令升级至最新版本，确保额度计算恢复正常。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/4542e1c0-3c02-4f2e-bb59-43e9821ba527/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2027232172810416493">https://x.com/trq212/status/2027232172810416493</a></li>
+</ul>
+<hr>
+<h2><a href="https://discuss.ai.google.dev/t/migrate-from-gemini-3-pro-preview-to-gemini-3-1-pro-preview-before-march-9-2026/127062">谷歌将终止Gemini 3 Pro Preview服务</a> <code>#4</code></h2>
+<blockquote>
+<p>Google宣布将于 <strong>2026年3月9日</strong> 正式停用 <strong>Gemini API</strong> 和 <strong>Google AI Studio</strong> 上的 <code>Gemini 3 Pro Preview</code> 模型。</p>
+</blockquote>
+<p>Google官方宣布，将于 <strong>2026年3月9日</strong> 正式停止 <code>Gemini API</code> 和 <code>Google AI Studio</code> 上的 <code>Gemini 3 Pro Preview</code> 模型服务，并建议开发者尽快迁移至 <code>Gemini 3.1 Pro Preview</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/dc115d83-9b8b-4ca3-bcca-fca8615757c4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://discuss.ai.google.dev/t/migrate-from-gemini-3-pro-preview-to-gemini-3-1-pro-preview-before-march-9-2026/127062">https://discuss.ai.google.dev/t/migrate-from-gemini-3-pro-preview-to-gemini-3-1-pro-preview-before-march-9-2026/127062</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/statement-department-of-war">Anthropic与美国战争部因AI安全限制爆发冲突。</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 因拒绝战争部关于解除大规模国内监控和完全自主武器的限制，被正式列为国家安全供应链风险。特朗普下令联邦机构将停用 <code>Anthropic</code> 相关技术。美战争部长发文称，禁止美军承包商与其合作。</p>
+</blockquote>
+<p><strong>Anthropic</strong>因拒绝解除针对“大规模国内监控”和“完全自主武器”的AI安全限制，与美国战争部爆发冲突。CEO <strong>Amodei</strong>声明，即便面临被列为供应链风险等威胁，公司绝不妥协。</p>
+<p>战争部长<strong>Hegseth</strong>随后宣布，依据特朗普指令，正式将<strong>Anthropic</strong>列为国家安全供应链风险，禁止美军承包商与其合作，设<code>6个月</code>过渡期切换供应商。联邦机构将停用<strong>Anthropic</strong>相关技术。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/c9707e58-dcd0-4a8e-af2a-320e17e75896/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/c9707e58-dcd0-4a8e-af2a-320e17e75896/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/statement-department-of-war">https://www.anthropic.com/news/statement-department-of-war</a></li>
+<li><a href="https://x.com/SecWar/status/2027507717469049070">https://x.com/SecWar/status/2027507717469049070</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/update-on-mental-health-related-work/">OpenAI发布心理健康功能更新并回应诉讼合并</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 公布 <strong>ChatGPT</strong> 周活用户已超 <strong>9 亿</strong>，并即将推出“可信联系人”功能，允许成年用户指定联系人在其需额外支持时接收通知，同时正通过模拟长期对话的新评估方法增强 <code>model</code> 对情绪困扰的检测能力。</p>
+</blockquote>
+<p>OpenAI近期更新心理健康工作，官方数据显示 <strong>ChatGPT</strong> 周活用户已超 <strong>9亿</strong>。在 <strong>2025年9月</strong> 家长控制功能见效基础上，公司正与专家合作即将推出“可信联系人”功能，允许成年用户指定联系人在需支持时获通知；同时通过模拟长期对话的新评估方法，增强模型检测情绪困扰能力。针对加州法院合并审理多起相关诉讼，<strong>OpenAI</strong> 声明将秉持事实与尊重隐私原则应对，承诺在法律程序外继续改进技术，引导用户获取现实支持。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/update-on-mental-health-related-work/">https://openai.com/index/update-on-mental-health-related-work/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.foxnews.com/politics/scoop-trump-brings-big-tech-white-house-curb-power-costs-amid-ai-boom">七家科技巨头将签署AI数据中心用电协议</a> <code>#7</code></h2>
+<blockquote>
+<p>据报道，<strong>Amazon</strong>、<strong>Google</strong>、<strong>Microsoft</strong>以及<strong>OpenAI</strong>等七家科技巨头将于下月初齐聚白宫，签署“纳税人保护承诺”。这些企业将承诺为新建的<code>AI数据中心</code>自行建设、引进或购买电力，确保<code>AI</code>产业发展不会影响美国老旧电网运行，也不会推高普通民众的电费账单。</p>
+</blockquote>
+<p>据报道，<strong>Amazon</strong>、<strong>Google</strong>、<strong>Meta</strong>、<strong>Microsoft</strong>、<strong>xAI</strong>、<strong>Oracle</strong> 及 <strong>OpenAI</strong> 将于 <strong>3月4日</strong> 齐聚白宫，签署“纳税人保护承诺”。为应对老旧电网无法满足 <strong>AI</strong> 巨大电力需求的挑战，上述科技巨头承诺将为新建数据中心“建设、带来或购买”独立电力供应。此举旨在确保随着 <strong>AI</strong> 产业发展，美国普通民众的电费账单不会上涨，通过能源自主策略消除公众抵触情绪，解决基础设施瓶颈。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fe2e0c0c-3a73-4341-bce6-78045719b005/0ebe132e-1671-4ad4-a3f9-472f2d725ca6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.foxnews.com/politics/scoop-trump-brings-big-tech-white-house-curb-power-costs-amid-ai-boom">https://www.foxnews.com/politics/scoop-trump-brings-big-tech-white-house-curb-power-costs-amid-ai-boom</a></li>
+<li><a href="https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html">https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html</a></li>
+</ul>
+<hr>
+<h2>阿里千问AI眼镜将于MWC亮相并开启预约 <code>#8</code></h2>
+<blockquote>
+<p>阿里**“千问”<strong>宣布进军AI硬件领域，首款</strong>AI眼镜<strong>将在巴塞罗那</strong>MWC<strong>亮相并于</strong>3月初**开启全渠道预约，年内还将推出指环和耳机。</p>
+</blockquote>
+<p>阿里巴巴旗下<strong>千问</strong>宣布进军AI硬件，开启“软硬一体”战略。首款AI眼镜将于今年<strong>MWC</strong>亮相，<strong>3月初</strong>开启全渠道预约；年内还计划全球推出<strong>AI指环</strong>及<strong>AI耳机</strong>。此举旨在推动生成式AI进入“空间交互”阶段，利用传感器感知物理世界，将外卖、打车等服务无缝接入穿戴设备，构建AI时代第一入口。数据显示，<strong>千问App</strong>日活已突破<strong>7300万</strong>，春节期间单句指令下单量近<strong>2亿次</strong>。</p>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/11</guid><pubDate>Sat, 28 Feb 2026 00:59:56 +0000</pubDate></item><item><title>2026-02-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-10/</link><description>AI 早报 2026-02-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google发布Nano Banana 2图像生成模型 ↗ #1 Claude Code推出跨会话记忆功能 ↗ #2 Google Translate 正式接入 Genimi ↗ #3 模型发布 QuiverAI推出SVG AI模型Arrow 1.0 ↗ #4 Perplexity开源pplx-embed系列文本嵌入模型 ↗ #5 纽约大学Solaris团队开源多人游戏世界模型 ↗ #6 开发生态 OpenAI推出Codex CLI 0.105.0更新 ↗ #7 Figma与Codex合作打通双向设计代码工作流 ↗ #8 Gemini CLI推出 v0.30.0更新 ↗ #9 Cursor 正式发布 Bugbot Autofi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260227/2026022708545369299532fb_cover_dca7.png" alt=""></p>
 <h1>AI 早报 2026-02-27</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1KcA1zcEGQ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=dNxKkc2A8O8">YouTube</a></p>
 <h2>概览</h2>
