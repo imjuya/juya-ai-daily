@@ -1,5 +1,157 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 28 Feb 2026 01:00:18 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-02-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-11/</link><description>AI 早报 2026-02-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 ↗ #1 开发生态 Google Antigravity 恢复部分账户但重申禁用第三方工具 ↗ #2 Anthropic重置Claude Code用户速率限制 ↗ #3 谷歌将终止Gemini 3 Pro Preview服务 ↗ #4 行业动态 Anthropic与美国战争部因AI安全限制爆发冲突。 ↗ #5 OpenAI发布心理健康功能更新并回应诉讼合并 ↗ #6 七家科技巨头将签署AI数据中心用电协议 ↗ #7 前瞻与传闻 阿里千问AI眼镜将于MWC亮相并开启预约 #8 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 #1 OpenAI完成总额1100亿美…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260228/202602280838126724411110_cover_fe2e.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 01 Mar 2026 01:16:36 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-12/</link><description>AI 早报 2026-03-01 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi宣布Kimi Code Plan免费升级3倍额度 ↗ #1 Claude Code 向 Pro 用户开放 Remote Control 功能 ↗ #2 Gemini CLI 恢复 Antigravity 封禁用户权限 ↗ #3 Google密钥设计缺陷或致Gemini API密钥泄露 ↗ #4 产品应用 Obsidian 1.12 版本集成官方 CLI ↗ #5 阿里通义实验室开源AI助手CoPaw ↗ #6 行业动态 Anthropic回应遭美国政府制裁宣布将起诉 ↗ #7 OpenAI与美国战争部达成AI部署协议 ↗ #8 前瞻与传闻 NVIDIA拟整合Groq技术发布AI专用推理处理器 ↗ #9 面壁智能获得…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260301/2026030108410850481244db_cover_e92c.png" alt=""></p>
+<h1>AI 早报 2026-03-01</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1yuABzrE9N">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=bRHT8oxNR-U">YouTube</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>Kimi宣布Kimi Code Plan免费升级3倍额度 <a href="https://mp.weixin.qq.com/s/Um7wjEq8iC1utQpsxjpXZg">↗</a> <code>#1</code></li>
+<li>Claude Code 向 Pro 用户开放 Remote Control 功能 <a href="https://x.com/_catwu/status/2027828584652722367">↗</a> <code>#2</code></li>
+<li>Gemini CLI 恢复 Antigravity 封禁用户权限 <a href="https://x.com/ntaylormullen/status/2027588967261213040">↗</a> <code>#3</code></li>
+<li>Google密钥设计缺陷或致Gemini API密钥泄露 <a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">↗</a> <code>#4</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Obsidian 1.12 版本集成官方 CLI <a href="https://help.obsidian.md/cli">↗</a> <code>#5</code></li>
+<li>阿里通义实验室开源AI助手CoPaw <a href="https://copaw.agentscope.io/">↗</a> <code>#6</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Anthropic回应遭美国政府制裁宣布将起诉 <a href="https://anthropic.com/news/statement-comments-secretary-war">↗</a> <code>#7</code></li>
+<li>OpenAI与美国战争部达成AI部署协议 <a href="https://openai.com/index/our-agreement-with-the-department-of-war/">↗</a> <code>#8</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>NVIDIA拟整合Groq技术发布AI专用推理处理器 <a href="https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e">↗</a> <code>#9</code></li>
+<li>面壁智能获得中国电信战略投资 <a href="https://modelbest.cn/">↗</a> <code>#10</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/Um7wjEq8iC1utQpsxjpXZg">Kimi宣布Kimi Code Plan免费升级3倍额度</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 官方宣布 <strong>Kimi Code Plan</strong> 正式升级，将限时“3倍额度”转为长期标配权益，即日起所有订阅用户均可免费享受该权益升级。</p>
+</blockquote>
+<p>官方宣布 <strong>Kimi Code Plan</strong> 正式升级，将此前限时活动的<strong>3倍额度</strong>转为长期标配权益。即日起，所有订阅用户均可免费“升舱”并持续享受该待遇，且无限速及购买限制。此次升级旨在让开发者告别 Token 焦虑，全速体验 <code>Kimi K2.5</code> 多模态模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/a55784ec-0e6d-4101-af53-4c96830d53f1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Um7wjEq8iC1utQpsxjpXZg">https://mp.weixin.qq.com/s/Um7wjEq8iC1utQpsxjpXZg</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/_catwu/status/2027828584652722367">Claude Code 向 Pro 用户开放 Remote Control 功能</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 宣布向所有 <strong>Pro</strong> 用户开放 <strong>Remote Control</strong> 功能，支持通过指令将终端会话无缝转移至手机端。此外，其下个版本将引入 <code>/simplify</code> 和 <code>/batch</code> 两项新技能，组合使用可自动化完成 PR 推送生产环境及代码迁移任务。</p>
+</blockquote>
+<p><strong>Claude Code</strong>面向<strong>Pro</strong>用户推出"Remote Control"功能，该功能允许用户通过 <code>/remote-control</code> 指令启动终端会话，并无缝转移至手机端继续操作。</p>
+<p>此外，<strong>Claude Code</strong>预告了未来更新。据<strong>Boris Cherny</strong>透露，下一版本将引入 <code>/simplify</code> 和 <code>/batch</code> 两项新技能。组合使用后，这两项技能能够自动化处理将Pull Request推送至生产环境的工作流程，并能执行简单且可并行化的代码迁移任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/cf8d1d2a-fc27-4124-8652-2e6a49fb5819/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/cf8d1d2a-fc27-4124-8652-2e6a49fb5819/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/_catwu/status/2027828584652722367">https://x.com/_catwu/status/2027828584652722367</a></li>
+<li><a href="https://x.com/altryne/status/2027566207642006012">https://x.com/altryne/status/2027566207642006012</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ntaylormullen/status/2027588967261213040">Gemini CLI 恢复 Antigravity 封禁用户权限</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Gemini CLI</strong> 官方确认，已与 <strong>Antigravity</strong> 协调，受 <strong>Antigravity</strong> 封禁影响的用户账户全部恢复访问。</p>
+</blockquote>
+<p><strong>Gemini CLI</strong> 官方确认，因 <code>Antigravity</code> 封禁受影响的 <strong>Gemini CLI</strong> 用户已全部恢复访问。团队已解决此次服务中断故障，并基于用户反馈优化了系统体验，通过更新文档和提供更清晰的错误提示，确保后续操作指引明确且具备可执行性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/b3b1595b-8956-4f29-9e0e-9b12493487bf/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ntaylormullen/status/2027588967261213040">https://x.com/ntaylormullen/status/2027588967261213040</a></li>
+</ul>
+<hr>
+<h2><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google密钥设计缺陷或致Gemini API密钥泄露</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Truffle Security</strong> 披露 <strong>Google Cloud</strong> 存在隐患：开发者在项目中启用 <code>Gemini</code> 后，原本用于 <code>Maps</code> 等服务且被视为可公开的旧版 API 密钥，会自动获得访问 <code>Gemini</code> 的权限。<strong>Google</strong> 已针对新密钥实施默认权限限制，并阻断已泄露密钥。</p>
+</blockquote>
+<p>据第三方安全研究机构 <strong>Truffle Security</strong> 的报告，<strong>Google Cloud</strong> 存在一项安全风险。该风险源于 <strong>Google</strong> 对 API key 的处理方式：长期以来，用于 <code>Maps</code> 等服务的 API key 被视为可公开的标识符，但随着 <code>Gemini API</code> 的推出，<strong>Google</strong> 沿用单一密钥格式。当开发者为现有项目启用 <code>Gemini API</code> 时，项目中所有旧密钥会自动获得访问私有数据、调用模型及产生费用的权限。</p>
+<p>针对该问题，<strong>Google</strong> 官方已采取措施。通过 <strong>Google AI Studio</strong> 创建的新密钥将默认限制为仅访问 <code>Gemini API</code>，防止跨服务滥用；系统将默认阻断被发现已泄露且用于 <code>Gemini API</code> 的密钥；并计划在识别到密钥泄露时主动通知用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/e25eb62c-9495-4aeb-b5f4-8b5618a510c6/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/e25eb62c-9495-4aeb-b5f4-8b5618a510c6/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/troubleshooting#googles_security_measures_for_leaked_keys">https://ai.google.dev/gemini-api/docs/troubleshooting#googles_security_measures_for_leaked_keys</a></li>
+</ul>
+<hr>
+<h2><a href="https://help.obsidian.md/cli">Obsidian 1.12 版本集成官方 CLI</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Obsidian</strong> 官方在 1.12 版本更新中正式集成了命令行工具 <code>Obsidian CLI</code>，允许用户通过终端全面控制软件并实现自动化操作。</p>
+</blockquote>
+<p><strong>Obsidian</strong> 官方在 <strong>1.12</strong> 版本中正式集成命令行工具 <code>Obsidian CLI</code>，允许用户通过终端实现全面控制与自动化操作。该工具涵盖文件管理、插件配置、同步发布及开发者调试等核心功能，支持单行命令与交互式终端（TUI）两种模式。</p>
+<p>启用该功能需将 <strong>Obsidian</strong> 更新至 <strong>1.12</strong> 版本，并在设置中手动开启，且通常需保持应用后台运行。<code>Obsidian CLI</code> 兼容 Windows、macOS 及 Linux 多平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/215066fd-fb0d-4e66-a889-d249f66b4782/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://help.obsidian.md/cli">https://help.obsidian.md/cli</a></li>
+</ul>
+<hr>
+<h2><a href="https://copaw.agentscope.io/">阿里通义实验室开源AI助手CoPaw</a> <code>#6</code></h2>
+<blockquote>
+<p>阿里通义实验室正式开源了个人AI助手 <strong>CoPaw</strong>，该项目主打本地优先与模型自由，具备无需复杂数据库的长期记忆功能，支持定时任务，可满足自动化办公需求。</p>
+</blockquote>
+<p>阿里通义实验室正式开源个人AI助手 <strong>CoPaw</strong>。该工具主打“模型自由”与“本地优先”，原生支持 <code>Ollama</code>、<code>llama.cpp</code> 及 <code>MLX</code> 框架，允许接入自定义模型。<strong>CoPaw</strong> 具备长期记忆与本地向量搜索功能，Windows端可开箱即用。其架构支持 <code>MCP</code> 热插拔及一键导入技能。在连接性上，官方支持钉钉、飞书、Discord 及 iMessage。此外，<strong>CoPaw</strong> 支持定时任务，可满足热点推送及邮件汇总等自动化办公需求。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/a7f8f3c4-3a35-4acb-8406-42a7e5153c48/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/a7f8f3c4-3a35-4acb-8406-42a7e5153c48/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://copaw.agentscope.io/">https://copaw.agentscope.io/</a></li>
+<li><a href="https://github.com/agentscope-ai/CoPaw">https://github.com/agentscope-ai/CoPaw</a></li>
+</ul>
+<hr>
+<h2><a href="https://anthropic.com/news/statement-comments-secretary-war">Anthropic回应遭美国政府制裁宣布将起诉</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 因拒绝将AI技术用于美国国内监控和美军全自动武器，遭美国政府制裁并被列为“供应链风险”。该公司宣布将起诉挑战这一认定。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 因拒绝将 AI 用于美国“大规模国内监控”和美军的“全自主武器”，遭美国政府制裁及白宫指责。<strong>Anthropic</strong> 随即发布声明，称未收到直接沟通，认为将其列为“供应链风险”缺乏法律依据，并将诉诸法院挑战这一认定。公司特别澄清，该认定仅限制战争部对 <code>Claude</code> 的使用，商业及个人用户不受影响。此事引发行业震动，<strong>OpenAI</strong> CEO <strong>Sam Altman</strong> 及前首席科学家 <strong>Ilya Sutskever</strong> 均对 <strong>Anthropic</strong> 的立场表示支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/7424e3f6-9532-40c7-b27c-6674cf66237a/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/7424e3f6-9532-40c7-b27c-6674cf66237a/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://anthropic.com/news/statement-comments-secretary-war">https://anthropic.com/news/statement-comments-secretary-war</a></li>
+<li><a href="https://x.com/WhiteHouse/status/2027497719678255148">https://x.com/WhiteHouse/status/2027497719678255148</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/our-agreement-with-the-department-of-war/">OpenAI与美国战争部达成AI部署协议</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>已与美国战争部达成协议，将其先进AI模型部署于军方机密网络，但明确划定了禁止美国国内大规模监控、开发完全自主武器及高风险自动化决策这三条红线。这一事件发生在<strong>Anthropic</strong>因坚持类似红线而遭政府封禁的数小时后，引发了各种猜测。</p>
+</blockquote>
+<p>OpenAI宣布与<strong>美战争部</strong>达成协议，在其机密网络部署先进AI系统。协议确立三条红线：禁止<strong>美国</strong>国内大规模监控、开发完全自主武器及高风险自动化决策。OpenAI采用云端部署，保留安全栈控制权并派员监督，确保使用符合现行法律。</p>
+<p><strong>Anthropic</strong>此前因坚持类似原则谈判破裂，被列为“供应链风险”。<strong>OpenAI CEO Altman</strong>称此举旨在支持国家安全，并要求<strong>战争部</strong>向所有公司开放同等条款。社区有讨论质疑合同可执行性及对两公司态度差异存在的偏袒。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/c5bdc6c7-c65b-493a-a6b7-b245c3867921/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/our-agreement-with-the-department-of-war/">https://openai.com/index/our-agreement-with-the-department-of-war/</a></li>
+<li><a href="https://x.com/sama/status/2027578508042723599">https://x.com/sama/status/2027578508042723599</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e">NVIDIA拟整合Groq技术发布AI专用推理处理器</a> <code>#9</code></h2>
+<blockquote>
+<p>据报道，<strong>英伟达</strong>计划在下个月的<strong>GTC</strong>大会上发布一款整合<code>Groq</code>技术的AI专用推理处理器，<strong>OpenAI</strong>将成为该产品的首批大客户之一。</p>
+</blockquote>
+<p>据《华尔街日报》报道，<strong>NVIDIA</strong>计划在下月于圣何塞举办的<strong>GTC</strong>开发者大会上，发布一款专为AI“推理”计算设计的新型处理器平台。该平台将整合初创公司<strong>Groq</strong>的芯片技术，其<code>LPU</code>（语言处理单元）技术以提升大模型推理速度见长，旨在打造响应更快、能效更高的AI工具。此举被视为<strong>NVIDIA</strong>商业模式的重大战略转型，即从通用GPU供应商向深度定制化系统架构商演进。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e92ce00e-1030-4849-a2e3-5c37f4f226c8/12bba426-ece8-4e46-b950-ceb63c9688de/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e">https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e</a></li>
+<li><a href="https://www.investing.com/news/technology-news/beyond-the-gpu-nvidia-taps-groq-tech-to-power-nextgen-ai-agents-4533209">https://www.investing.com/news/technology-news/beyond-the-gpu-nvidia-taps-groq-tech-to-power-nextgen-ai-agents-4533209</a></li>
+</ul>
+<hr>
+<h2><a href="https://modelbest.cn/">面壁智能获得中国电信战略投资</a> <code>#10</code></h2>
+<blockquote>
+<p>据报道，<strong>面壁智能</strong>完成由中国电信领投的数亿元战略融资，双方将整合云网资源与算法优势，共建<strong>AI原生基础设施</strong>并赋能政企及智能终端。</p>
+</blockquote>
+<p>面壁智能近日完成数亿元人民币新一轮融资，由中国电信领投，中信金石与中信私募跟投。此轮系战略投资，双方将结合中国电信云网端优势与面壁智能算法经验，共建天翼云“AI原生”基础设施，推动政企服务及智能终端应用落地。</p>
+<p>面壁智能成立于<strong>2022年8月</strong>，源自清华NLP实验室，CEO兼CTO为<strong>李大海</strong>。公司主推<code>MiniCPM</code>系列“高效大模型”。团队表示，将继续以提高模型知识密度为核心，坚持开源与轻量化路线，目前技术已在智能终端、政务办公及金融等领域实现规模化应用。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://modelbest.cn/">https://modelbest.cn/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/12</guid><pubDate>Sun, 01 Mar 2026 01:16:07 +0000</pubDate></item><item><title>2026-02-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-11/</link><description>AI 早报 2026-02-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 ↗ #1 开发生态 Google Antigravity 恢复部分账户但重申禁用第三方工具 ↗ #2 Anthropic重置Claude Code用户速率限制 ↗ #3 谷歌将终止Gemini 3 Pro Preview服务 ↗ #4 行业动态 Anthropic与美国战争部因AI安全限制爆发冲突。 ↗ #5 OpenAI发布心理健康功能更新并回应诉讼合并 ↗ #6 七家科技巨头将签署AI数据中心用电协议 ↗ #7 前瞻与传闻 阿里千问AI眼镜将于MWC亮相并开启预约 #8 OpenAI完成1100亿美元融资并与亚马逊达成战略合作 #1 OpenAI完成总额1100亿美…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260228/202602280838126724411110_cover_fe2e.png" alt=""></p>
 <h1>AI 早报 2026-02-28</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1UPA4zLENA">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=b9y6XDxIGDk">YouTube</a></p>
 <h2>概览</h2>
