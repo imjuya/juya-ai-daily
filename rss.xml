@@ -1,5 +1,105 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 01 Mar 2026 01:16:36 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-12/</link><description>AI 早报 2026-03-01 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi宣布Kimi Code Plan免费升级3倍额度 ↗ #1 Claude Code 向 Pro 用户开放 Remote Control 功能 ↗ #2 Gemini CLI 恢复 Antigravity 封禁用户权限 ↗ #3 Google密钥设计缺陷或致Gemini API密钥泄露 ↗ #4 产品应用 Obsidian 1.12 版本集成官方 CLI ↗ #5 阿里通义实验室开源AI助手CoPaw ↗ #6 行业动态 Anthropic回应遭美国政府制裁宣布将起诉 ↗ #7 OpenAI与美国战争部达成AI部署协议 ↗ #8 前瞻与传闻 NVIDIA拟整合Groq技术发布AI专用推理处理器 ↗ #9 面壁智能获得…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260301/2026030108410850481244db_cover_e92c.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 02 Mar 2026 00:58:01 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-13/</link><description>AI 早报 2026-03-02 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cognition发布SWE-1.6早期预览版 ↗ #1 产品应用 Claude登顶App Store；上线记忆导入功能 ↗ #2 技术与洞察 Anthropic研究揭示LLM低成本去匿名化威胁 ↗ #3 Anthropic分享构建Claude Code工具经验 ↗ #4 行业动态 美军在空袭伊朗行动中使用了 Claude ↗ #5 前瞻与传闻 Qwen 3.5传即将推出四款小型稠密开源模型 ↗ #6 Cognition发布SWE-1.6早期预览版 #1 Cognition 发布了 SWE-1.6 模型的早期预览版，该模型在 SWE-Bench Pro 上的得分比前代高出 11%，并超越了顶尖开源模型。团队正面向 Wind…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260302/202603020833583484082738_cover_60c6.png" alt=""></p>
+<h1>AI 早报 2026-03-02</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1FAPVzYEEX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=BlNSANYPQxw">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>Cognition发布SWE-1.6早期预览版 <a href="https://cognition.ai/blog/swe-1-6-preview">↗</a> <code>#1</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude登顶App Store；上线记忆导入功能 <a href="https://claude.com/import-memory">↗</a> <code>#2</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic研究揭示LLM低成本去匿名化威胁 <a href="https://arxiv.org/abs/2602.16800">↗</a> <code>#3</code></li>
+<li>Anthropic分享构建Claude Code工具经验 <a href="https://x.com/trq212/status/2027463795355095314">↗</a> <code>#4</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>美军在空袭伊朗行动中使用了 Claude <a href="https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2">↗</a> <code>#5</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Qwen 3.5传即将推出四款小型稠密开源模型 <a href="https://x.com/JustinLin610/status/2028072650619380067">↗</a> <code>#6</code></li>
+</ul>
+<hr>
+<h2><a href="https://cognition.ai/blog/swe-1-6-preview">Cognition发布SWE-1.6早期预览版</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Cognition</strong> 发布了 <code>SWE-1.6</code> 模型的早期预览版，该模型在 <code>SWE-Bench Pro</code> 上的得分比前代高出 <strong>11%</strong>，并超越了顶尖开源模型。团队正面向 <strong>Windsurf</strong> 的部分用户开放早期访问，以收集反馈并修复缺陷。</p>
+</blockquote>
+<p>Cognition发布<strong>SWE-1.6</strong>模型早期预览版。该模型在<strong>SWE-Bench Pro</strong>基准测试中得分较<strong>SWE-1.5</strong>提升<strong>11%</strong>，超越顶尖开源模型，并保持<strong>950 tok/s</strong>的运行速度。官方通过改进<strong>RL</strong>配方及扩展基础设施，使计算投入增加两个数量级，利用<strong>GB200</strong>芯片及<code>NVFP4</code>精度优化训练。尽管智能提升，模型目前仍存在过度思考和过度自检等行为。团队正面向<strong>Windsurf</strong>部分用户推出早期访问，旨在收集反馈以修复缺陷。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/da94d8e9-7fb6-431a-b23c-f870753a45ce/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cognition.ai/blog/swe-1-6-preview">https://cognition.ai/blog/swe-1-6-preview</a></li>
+<li><a href="https://x.com/cognition/status/2028224340484129033">https://x.com/cognition/status/2028224340484129033</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/import-memory">Claude登顶App Store；上线记忆导入功能</a> <code>#2</code></h2>
+<blockquote>
+<p>受争议影响，<strong>Anthropic</strong> 旗下 <strong>Claude</strong> 应用逆势登顶美国 App Store 免费榜。与此同时，<strong>Claude</strong> 上线了记忆导入功能，付费用户可使用特定提示词从原 <code>AI</code> 导出记忆，再一键导入 <strong>Claude</strong> 。</p>
+</blockquote>
+<p>据媒体报道，受与美国政府的争议影响，<strong>Claude</strong>排名逆势飙升，近期在美区App Store超越<strong>ChatGPT</strong>登顶。<br>
+与此同时，<strong>Anthropic</strong>正式上线“记忆导入”功能。该功能允许付费用户通过特定<code>Prompt</code>，从其他AI服务商导出偏好、项目背景及个性化指令等上下文，一键导入<strong>Claude</strong>记忆库。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/59f6f1ba-c3ae-477d-a0e0-85866935534f/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/59f6f1ba-c3ae-477d-a0e0-85866935534f/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/import-memory">https://claude.com/import-memory</a></li>
+<li><a href="https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute">https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/abs/2602.16800">Anthropic研究揭示LLM低成本去匿名化威胁</a> <code>#3</code></h2>
+<blockquote>
+<p>苏黎世联邦理工学院联合 <strong>Anthropic</strong> 发布研究，证实商用大模型仅需 <strong>1 至 4 美元</strong> 成本，便能在数分钟内通过分析非结构化文本，将网络匿名账户与真实身份精准关联。</p>
+</blockquote>
+<p>苏黎世联邦理工学院与 <strong>Anthropic</strong> 研究人员发表研究，揭示商用大模型（<code>LLM</code>）能以极低成本（每用户 <strong>1至4美元</strong>）在数分钟内实现网络去匿名化。该自动化 <code>Pipeline</code> 无需依赖传统结构化数据，直接通过分析非结构化文本提取身份特征并进行匹配。实验显示，在 <strong>Hacker News</strong> 用户测试中，AI以 <strong>90%</strong> 的精确度成功识别了约 <strong>67%</strong> 的目标；在 <strong>Reddit</strong> 跨社区及时间分割测试中，表现远超传统方法。即便面对百万级候选池，推算成功率仍达 <strong>35%至45%</strong>。研究人员警告，由于该流程由看似合法的“总结、搜索、排序”步骤构成，防御极具难度，网络匿名的“实际模糊性”保护已失效，用户发布的微观数据均可能被用于身份关联。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/ab18e5ca-df7c-4c07-a375-c811ba6ab10f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2602.16800">https://arxiv.org/abs/2602.16800</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2027463795355095314">Anthropic分享构建Claude Code工具经验</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 团队分享了构建 <strong>Claude Code</strong> 的关键经验，强调设计 Agent 的行动空间必须与模型能力动态匹配。随着模型能力提升，开发者需不断重新评估并优化工具设计，学会像 Agent 一样观察。</p>
+</blockquote>
+<p>Anthropic 团队近日分享构建 <strong>Claude Code</strong> 的经验，指出设计 <strong>Agent</strong> 行动空间需适配模型能力。在工具演变上，团队开发了 <code>AskUserQuestion</code> 工具以实现结构化提问；随模型能力提升，将 <code>TodoWrite</code> 升级为更利于 <code>Subagent</code> 协作的 <code>Task Tool</code>。在上下文构建方面，团队从依赖 <code>RAG</code> 转向赋予模型 <code>Grep</code> 工具和 <code>Agent Skills</code>，使其通过“渐进式披露”自主发现上下文。此外，通过引入 <strong>Claude Code Guide</strong> subagent 解决模型对自身功能认知不足的问题。这些经验表明，工具设计既是科学也是艺术，需要开发者不断实验并学会“像 <strong>Agent</strong> 一样观察”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/921b05e4-285f-4d4f-8c6b-ffbea2f85bae/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/921b05e4-285f-4d4f-8c6b-ffbea2f85bae/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/921b05e4-285f-4d4f-8c6b-ffbea2f85bae/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2027463795355095314">https://x.com/trq212/status/2027463795355095314</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2">美军在空袭伊朗行动中使用了 Claude</a> <code>#5</code></h2>
+<blockquote>
+<p>据媒体报道，美军在对伊朗的大规模空袭中使用 <code>Claude</code> 模型进行情报评估和目标识别。</p>
+</blockquote>
+<p>据媒体报道，在特朗普宣布联邦政府禁用 <strong>Anthropic</strong> 数小时后，美军在对伊朗的大规模空袭中仍使用了 <code>Claude</code>。知情人士证实，美中央司令部利用该工具进行了情报评估与目标识别。特朗普虽下令禁用，但鉴于技术已嵌入军事平台，国防部有 <strong>6个月</strong> 的淘汰过渡期。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2">https://www.wsj.com/livecoverage/iran-strikes-2026/card/u-s-strikes-in-middle-east-use-anthropic-hours-after-trump-ban-ozNO0iClZpfpL7K7ElJ2</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/JustinLin610/status/2028072650619380067">Qwen 3.5传即将推出四款小型稠密开源模型</a> <code>#6</code></h2>
+<blockquote>
+<p>Qwen团队暗示即将发布 <strong>Qwen 3.5</strong> 系列小参数量的多款模型。据社交媒体上的传闻，可能包括四款模型，参数量分别为 <code>0.8B</code>、<code>2B</code>、<code>4B</code>、<code>9B</code>。</p>
+</blockquote>
+<p>据 <strong>Qwen</strong> 团队负责人暗示，<strong>Qwen 3.5</strong> 系列即将推出小参数量的多个模型。根据社交媒体上流传的消息，可能会有 <code>0.8B</code>、<code>2B</code>、<code>4B</code> 及 <code>9B</code> 四款 <strong>Small Dense</strong> 开源模型，旨在完善端侧及消费级显卡生态。该系列预计同步推出 <strong>Base</strong> 和 <strong>Instruct</strong> 版本，或支持 <code>256K</code> 上下文及原生 <strong>VL</strong> 能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/ab049217-c823-43c9-9b5f-18f9da39a311/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/60c62b6d-c1dc-496b-acab-aaa2f15959eb/ab049217-c823-43c9-9b5f-18f9da39a311/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/JustinLin610/status/2028072650619380067">https://x.com/JustinLin610/status/2028072650619380067</a></li>
+<li><a href="https://x.com/casper_hansen_/status/2028146268229579074">https://x.com/casper_hansen_/status/2028146268229579074</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/13</guid><pubDate>Mon, 02 Mar 2026 00:57:44 +0000</pubDate></item><item><title>2026-03-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-12/</link><description>AI 早报 2026-03-01 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi宣布Kimi Code Plan免费升级3倍额度 ↗ #1 Claude Code 向 Pro 用户开放 Remote Control 功能 ↗ #2 Gemini CLI 恢复 Antigravity 封禁用户权限 ↗ #3 Google密钥设计缺陷或致Gemini API密钥泄露 ↗ #4 产品应用 Obsidian 1.12 版本集成官方 CLI ↗ #5 阿里通义实验室开源AI助手CoPaw ↗ #6 行业动态 Anthropic回应遭美国政府制裁宣布将起诉 ↗ #7 OpenAI与美国战争部达成AI部署协议 ↗ #8 前瞻与传闻 NVIDIA拟整合Groq技术发布AI专用推理处理器 ↗ #9 面壁智能获得…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260301/2026030108410850481244db_cover_e92c.png" alt=""></p>
 <h1>AI 早报 2026-03-01</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1yuABzrE9N">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=bRHT8oxNR-U">YouTube</a></p>
 <h2>概览</h2>
