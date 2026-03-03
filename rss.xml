@@ -1,5 +1,294 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 02 Mar 2026 00:58:01 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-13/</link><description>AI 早报 2026-03-02 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cognition发布SWE-1.6早期预览版 ↗ #1 产品应用 Claude登顶App Store；上线记忆导入功能 ↗ #2 技术与洞察 Anthropic研究揭示LLM低成本去匿名化威胁 ↗ #3 Anthropic分享构建Claude Code工具经验 ↗ #4 行业动态 美军在空袭伊朗行动中使用了 Claude ↗ #5 前瞻与传闻 Qwen 3.5传即将推出四款小型稠密开源模型 ↗ #6 Cognition发布SWE-1.6早期预览版 #1 Cognition 发布了 SWE-1.6 模型的早期预览版，该模型在 SWE-Bench Pro 上的得分比前代高出 11%，并超越了顶尖开源模型。团队正面向 Wind…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260302/202603020833583484082738_cover_60c6.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 03 Mar 2026 01:50:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-14/</link><description>AI 早报 2026-03-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问团队开源Qwen3.5小尺寸模型系列 ↗ #1 智谱 GLM Coding Plan 套餐开启退款通道 #2 模型发布 阶跃星辰开源Step 3.5 Flash模型及训练框架 ↗ #3 IQuestLab开源IQuest-Coder-V1系列代码模型权重 ↗ #4 小红书开源FireRed-OCR模型 ↗ #5 通义实验室发布Fun-CosyVoice 3.5 与 Fun-AudioGen-VD 两款语音模型 ↗ #6 Jan团队发布 Jan-Code-4B 模型 ↗ #7 开发生态 OpenClaw发布2026.3.1版本 ↗ #8 agent-browse上线Electron技能 ↗ #9 Anthropic推出免费A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260303/20260303091713415620bea8_cover_12ff.png" alt=""></p>
+<h1>AI 早报 2026-03-03</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1AHA9zUEaV">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=03lLL4yn6Fg">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>千问团队开源Qwen3.5小尺寸模型系列 <a href="https://mp.weixin.qq.com/s/n8TbEYzklxg4kKh6_dDVlg">↗</a> <code>#1</code></li>
+<li>智谱 GLM Coding Plan 套餐开启退款通道 <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>阶跃星辰开源Step 3.5 Flash模型及训练框架 <a href="https://github.com/stepfun-ai/SteptronOss">↗</a> <code>#3</code></li>
+<li>IQuestLab开源IQuest-Coder-V1系列代码模型权重 <a href="https://iquestlab.github.io/release-1.0-2603/index.html">↗</a> <code>#4</code></li>
+<li>小红书开源FireRed-OCR模型 <a href="https://github.com/FireRedTeam/FireRed-OCR">↗</a> <code>#5</code></li>
+<li>通义实验室发布Fun-CosyVoice 3.5 与 Fun-AudioGen-VD 两款语音模型 <a href="https://mp.weixin.qq.com/s/sTNC7bVphs9zofly3lBoUQ">↗</a> <code>#6</code></li>
+<li>Jan团队发布 Jan-Code-4B 模型 <a href="https://huggingface.co/janhq/Jan-code-4b">↗</a> <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenClaw发布2026.3.1版本 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.1">↗</a> <code>#8</code></li>
+<li>agent-browse上线Electron技能 <a href="https://x.com/ctatedev/status/2028128730132922760">↗</a> <code>#9</code></li>
+<li>Anthropic推出免费AI课程 <a href="http://anthropic.skilljar.com">↗</a> <code>#10</code></li>
+<li>Kimi开放平台推出限时充值返券活动 <a href="https://mp.weixin.qq.com/s/aVF9bf8Wc44lwZY_zF0w5g">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>美团推出Tabbit浏览器并陷开源抄袭争议 <a href="https://mp.weixin.qq.com/s/C8Mdb34apUsv-coN2yGx1A">↗</a> <code>#12</code></li>
+<li>Anthropic向免费用户开放Claude记忆功能 <a href="https://x.com/claudeai/status/2028559427167834314">↗</a> <code>#13</code></li>
+<li>MiniMax推出移动端MaxClaw <a href="https://x.com/MiniMaxAgent/status/2028445211593208230">↗</a> <code>#14</code></li>
+<li>千问发布AI眼镜AI硬件，售价低至1997元 <a href="https://www.ithome.com/0/924/929.htm">↗</a> <code>#15</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>字节跳动联合清华发布CUDA Agent强化学习系统 <a href="https://cuda-agent.github.io/">↗</a> <code>#16</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>MiniMax发布2025财年全年业绩报告 <a href="https://minimaxi.com/news/minimax%E5%8F%91%E5%B8%83-2025-%E5%B9%B4%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9">↗</a> <code>#17</code></li>
+<li>阿里巴巴统一AI品牌为千问 <a href="https://mp.weixin.qq.com/s/ZNt7WYcKoydV04Weu1p0qQ">↗</a> <code>#18</code></li>
+<li>智谱Z.ai启动面向AI创业者的扶持计划 <a href="http://startup.z.ai">↗</a> <code>#19</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>马斯克确认将于今日发布Grok 4.20 Beta 2 <a href="https://x.com/elonmusk/status/2028491891562660329">↗</a> <code>#20</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/n8TbEYzklxg4kKh6_dDVlg">千问团队开源Qwen3.5小尺寸模型系列</a> <code>#1</code></h2>
+<blockquote>
+<p>Qwen 团队正式发布了 <strong>Qwen 3.5</strong> 小模型系列，涵盖 <code>0.8B</code>、<code>2B</code>、<code>4B</code> 和 <code>9B</code> 四款模型，该系列模型在多项评测中创下同等尺寸性能新高。其中，<code>0.8B</code> 和 <code>2B</code> 模型体积小巧、速度快，适合边缘设备计算。<code>4B</code> 模型被定位为轻量级 Agent 的强力多模态底座。<code>9B</code> 模型则在紧凑体积下大幅缩小了与更大参数模型的能力差距。</p>
+</blockquote>
+<p>千问团队正式开源 <strong>Qwen3.5</strong> 小尺寸模型系列，涵盖 <strong>0.8B</strong>、<strong>2B</strong>、<strong>4B</strong> 和 <strong>9B</strong> 四款模型，家族矩阵扩至8款。新模型基于原生多模态基座，融合 <code>Gated Delta Networks</code> 与稀疏 <code>MoE</code> 架构，原生支持 <strong>262K</strong> 上下文并可扩展至 <strong>1M+</strong>。系列采用 <code>Apache 2.0</code> 协议，同步开源基座与对话模型。其中 <strong>0.8B</strong>/<strong>2B</strong> 主打端侧部署，默认非思考模式；<strong>4B</strong> 定位轻量 <code>Agent</code>；<strong>9B</strong> 宣称具备越级性能。目前模型已登陆 <code>HF</code>、魔搭及 <code>Ollama</code>，官方数据显示其在多模态及 <code>Agent</code> 基准测试中表现优异。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/2b671820-01b6-4722-a9bd-ee2be822ef0b/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/2b671820-01b6-4722-a9bd-ee2be822ef0b/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/n8TbEYzklxg4kKh6_dDVlg">https://mp.weixin.qq.com/s/n8TbEYzklxg4kKh6_dDVlg</a></li>
+<li><a href="https://huggingface.co/collections/Qwen/qwen35">https://huggingface.co/collections/Qwen/qwen35</a></li>
+</ul>
+<hr>
+<h2>智谱 GLM Coding Plan 套餐开启退款通道 <code>#2</code></h2>
+<blockquote>
+<p>智谱 <strong>GLM Coding Plan</strong> 套餐现已开启退款通道，<strong>2025年12月19日</strong>前购买的用户需手动提交工单办理。</p>
+</blockquote>
+<p>据社区用户反馈，<strong>智谱</strong>GLM Coding Plan退款通道开启，2025年12月19日前购买需手动提交工单。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/b188d818-29db-41dd-8a71-0aa45e2509bb/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/b188d818-29db-41dd-8a71-0aa45e2509bb/m002.png" alt=""></p>
+<hr>
+<h2><a href="https://github.com/stepfun-ai/SteptronOss">阶跃星辰开源Step 3.5 Flash模型及训练框架</a> <code>#3</code></h2>
+<blockquote>
+<p>阶跃星辰正式开源 <strong>Step 3.5 Flash</strong> 基础及中间训练版模型，同步公开了仅需 <code>PyTorch</code> 依赖的 <code>SteptronOSS</code> 训练框架，两者均遵循 Apache 2.0 协议。</p>
+</blockquote>
+<p>阶跃星辰 <strong>StepFun</strong> 宣布开源 <strong>Step 3.5 Flash</strong> 模型基础版与中间训练版，同步公开训练代码库 <code>SteptronOSS</code>。该模型采用稀疏 <code>MoE</code> 架构，总参数 <strong>196B</strong>，激活 <strong>11B</strong>，支持 <strong>256K</strong> 上下文。引入多Token预测技术，生成吞吐量峰值达 <strong>350 tok/s</strong>。官方数据显示，其在 <strong>SWE-bench Verified</strong> 和 <strong>Terminal-Bench 2.0</strong> 上分别达 <strong>74.4%</strong> 和 <strong>51.0%</strong>。<code>SteptronOSS</code> 框架支持 <code>SFT</code>、<code>RLVR</code> 及评估，仅需 <code>PyTorch</code> 运行。模型权重已上线 Hugging Face，采用 <code>Apache 2.0</code> 协议，<code>SFT</code> 数据集后续发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/9a1ca130-1088-4573-90c3-f01a9e9bcfad/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/stepfun-ai/SteptronOss">https://github.com/stepfun-ai/SteptronOss</a></li>
+<li><a href="https://huggingface.co/stepfun-ai/Step-3.5-Flash-Base">https://huggingface.co/stepfun-ai/Step-3.5-Flash-Base</a></li>
+<li><a href="https://huggingface.co/stepfun-ai/Step-3.5-Flash-Base-Midtrain">https://huggingface.co/stepfun-ai/Step-3.5-Flash-Base-Midtrain</a></li>
+</ul>
+<hr>
+<h2><a href="https://iquestlab.github.io/release-1.0-2603/index.html">IQuestLab开源IQuest-Coder-V1系列代码模型权重</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>IQuestLab</strong> 已正式在 Hugging Face 上开源 <strong>IQuest-Coder-V1</strong> 全系列模型权重，涵盖 <code>7B</code> 至 <code>40B</code> 的 <code>Thinking</code> 等多个版本。</p>
+</blockquote>
+<p><strong>IQuestLab</strong> 正式开源并上传 <strong>IQuest-Coder-V1</strong> 系列模型权重至 Hugging Face，涵盖 <strong>7B</strong>、<strong>14B</strong>（Base、Instruct、Thinking 变体）及 <strong>40B</strong> Thinking、<strong>40B-Loop-Thinking</strong> 实验变体，面向自主软件工程与代码智能领域。</p>
+<p>该系列模型采用浅层架构设计，据官方说明，其在 <strong>7B</strong> 和 <strong>14B</strong> 规模下可实现 3-5 倍的推理加速。训练方面，模型应用 <code>Code-Flow</code> 训练范式，从代码仓库的演化模式、Commit 迁移中学习。在后训练阶段，通过分叉式策略衍生出专精模型：<code>Thinking</code> 版本基于推理驱动的强化学习解决复杂编程问题；<code>Instruct</code> 版本侧重通用代码协作。作为实验性原型，<code>40B-Loop-Thinking</code> 采用循环 Transformer 设计，旨在探索嵌套式推理机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/31dc4846-deaa-4c5d-b920-98e744301475/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://iquestlab.github.io/release-1.0-2603/index.html">https://iquestlab.github.io/release-1.0-2603/index.html</a></li>
+<li><a href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Thinking">https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Thinking</a></li>
+<li><a href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Thinking">https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Thinking</a></li>
+<li><a href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-14B-Instruct">https://huggingface.co/IQuestLab/IQuest-Coder-V1-14B-Instruct</a></li>
+<li><a href="https://huggingface.co/IQuestLab/IQuest-Coder-V1-7B-Instruct">https://huggingface.co/IQuestLab/IQuest-Coder-V1-7B-Instruct</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/FireRedTeam/FireRed-OCR">小红书开源FireRed-OCR模型</a> <code>#5</code></h2>
+<blockquote>
+<p>小红书 <strong>REDtech</strong> 团队开源了 <code>FireRed-OCR</code> 模型，该模型基于 <code>Qwen3-VL-2B</code> 架构，在文本识别、公式解析及表格重构等关键指标上全面领先。</p>
+</blockquote>
+<p>小红书 <strong>REDtech</strong> 团队近日宣布开源基于 <code>Qwen3-VL-2B</code> 架构的智能文档处理模型 <strong>FireRed-OCR</strong>，旨在解决视觉语言模型在复杂文档处理中的“结构性幻觉”问题。该模型首创“三阶段渐进优化”策略与“几何+语义”数据工厂，显著提升了结构化解析能力。</p>
+<p>官方数据显示，在 <strong>OmniDocBench v1.5</strong> 评测中，<strong>FireRed-OCR</strong> 以 <strong>92.94%</strong> 的综合准确率刷新纪录，成为首个突破 <strong>92%</strong> 阈值的端到端模型。其在文本识别、公式解析、表格重构及阅读顺序等细分指标上均表现优异。目前，该模型已在 <strong>GitHub</strong>、<strong>Hugging Face</strong> 及 <strong>ModelScope</strong> 等平台全面开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/5f2ab929-7f59-4333-ab1e-571291dbc3ee/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/FireRedTeam/FireRed-OCR">https://github.com/FireRedTeam/FireRed-OCR</a></li>
+<li><a href="https://huggingface.co/FireRedTeam/FireRed-OCR">https://huggingface.co/FireRedTeam/FireRed-OCR</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/sTNC7bVphs9zofly3lBoUQ">通义实验室发布Fun-CosyVoice 3.5 与 Fun-AudioGen-VD 两款语音模型</a> <code>#6</code></h2>
+<blockquote>
+<p>阿里通义实验室发布了 <strong>Fun-CosyVoice 3.5</strong> 与 <strong>Fun-AudioGen-VD</strong> 两款语音模型。前者专注多语种复刻与精细化控制，后者定位全场景声音设计，支持通过自然语言生成包含性别、情绪及空间声学效果的“人物+场景”音频。目前，两款模型均已开放 <code>API</code> 调用。</p>
+</blockquote>
+<p>阿里通义实验室发布 <strong>Fun-CosyVoice3.5</strong> 与 <strong>Fun-AudioGen-VD</strong> 两款语音模型，支持 <code>FreeStyle</code> 指令生成。<strong>Fun-CosyVoice3.5</strong> 专注多语种复刻与精细化控制，引入 <code>DiffRO</code> 与 <code>GRPO</code> 技术，使生僻字读错率从 <strong>15.2%</strong> 降至 <strong>5.3%</strong>，首包延迟降低 <strong>35%</strong>，新增泰语等四个语种。<strong>Fun-AudioGen-VD</strong> 定位全场景声音设计，支持通过自然语言生成包含性别、情绪及空间声学效果的“人物+场景”音频。目前两模型均已提供 <code>API</code> 调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/4a157d8a-0cdb-49e3-8003-999a284e746e/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/4a157d8a-0cdb-49e3-8003-999a284e746e/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/sTNC7bVphs9zofly3lBoUQ">https://mp.weixin.qq.com/s/sTNC7bVphs9zofly3lBoUQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/janhq/Jan-code-4b">Jan团队发布 Jan-Code-4B 模型</a> <code>#7</code></h2>
+<blockquote>
+<p>Jan团队发布了基于 <code>Qwen3</code> 架构的40亿参数代码模型 <strong>Jan-Code-4B</strong>，该模型主打本地低延迟运行。</p>
+</blockquote>
+<p>Jan团队近日发布40亿参数代码调优模型 <strong>Jan-Code-4B</strong>，底层架构源自 <code>Qwen3-4B-Instruct-2507</code>。该模型专为本地低延迟迭代设计，旨在作为轻量级编程助手或Agent工作流中的快速Worker，替代Claude Code设置中的 <strong>Haiku</strong> 模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/15a286ca-b452-4f37-ac2c-607930ab9311/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/janhq/Jan-code-4b">https://huggingface.co/janhq/Jan-code-4b</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.1">OpenClaw发布2026.3.1版本</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布 <strong>2026.3.1</strong> 版本。此次更新重点引入了 <code>OpenAI WebSocket</code> 与 <code>Claude 4.6</code> 自适应思考，显著改善了容器化部署支持，并推出了 Agent 驱动的可视化差异插件。同时，其 GitHub Star 数已超过 <strong>React</strong>。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 正式发布 <strong>2026.3.1</strong> 版本，新版本引入 <code>OpenAI WebSocket streaming</code>，支持 <code>Claude 4.6 adaptive thinking</code>，并显著优化了 <code>Docker</code> 及 Native <code>K8s</code> 体验。生态集成上，新增 <code>Discord threads</code> 支持，修复 <code>Feishu</code> 相关问题，并推出 Agent 驱动的 visual diffs plugin。此外，其 GitHub Star 数已超越 <code>React</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/ed317041-03db-4692-b366-bd6a388a814d/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/ed317041-03db-4692-b366-bd6a388a814d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.1">https://github.com/openclaw/openclaw/releases/tag/v2026.3.1</a></li>
+<li><a href="https://x.com/openclaw/status/2028340185902006404">https://x.com/openclaw/status/2028340185902006404</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ctatedev/status/2028128730132922760">agent-browse上线Electron技能</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>agent-browser</strong> 上线了 <strong>Electron</strong> 新技能，允许 <strong>Agent</strong> 绕过视觉识别，通过直接读取 HTML 来控制 <strong>Discord</strong>、<strong>Figma</strong> 及 <strong>VS Code</strong> 等桌面应用。开发者现可通过一条 <code>npx</code> 命令将该技能集成至任意编程 <strong>Agent</strong> 中，即刻实现桌面应用的自动化控制与调试。</p>
+</blockquote>
+<p>agent-browser 发布了 Electron 新技能，允许 Agent 直接控制 <strong>Discord</strong>、<strong>Figma</strong>、<strong>Notion</strong>、<strong>Spotify</strong> 及 <strong>VS Code</strong> 等桌面应用。该功能不依赖视觉识别，而是将 Electron 应用视为浏览器，通过读取渲染的 HTML 进行交互，适用于自动化控制及应用调试。开发者可通过 <code>npx skills add vercel-labs/agent-browser --skill electron</code> 命令集成该技能。此外，agent-browser 也支持通过相应命令控制 <strong>Slack</strong> 客户端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/658b60dc-601a-4e76-abe6-502e02e701a2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ctatedev/status/2028128730132922760">https://x.com/ctatedev/status/2028128730132922760</a></li>
+<li><a href="https://github.com/vercel-labs/agent-browser">https://github.com/vercel-labs/agent-browser</a></li>
+</ul>
+<hr>
+<h2><a href="http://anthropic.skilljar.com">Anthropic推出免费AI课程</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 上线了一套完全免费且无需注册的 AI 课程，内容涵盖 <code>Claude Code</code> 实战、<code>Agent Skill</code> 构建等前沿技术。</p>
+</blockquote>
+<p>Anthropic近日上线一套免费AI课程，无需账号即可通过官网访问并获取证书。课程核心涵盖<strong>Claude Code</strong>实战、<strong>Claude API</strong>构建及模型上下文协议<code>MCP</code>全栈开发，包含Agent Skill构建与<strong>Amazon Bedrock</strong>、<strong>Google Vertex AI</strong>云平台整合内容。此外，该系列还提供基础AI流利度培训，并专为教育工作者、学生及非营利组织提供定制化课程，旨在帮助不同群体高效、安全地将AI能力融入工作与教学。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/bb78f408-5e2b-4d8a-9aa8-94a7cfda226f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://anthropic.skilljar.com">http://anthropic.skilljar.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/aVF9bf8Wc44lwZY_zF0w5g">Kimi开放平台推出限时充值返券活动</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 开放平台即日起至 <strong>3 月 8 日</strong> 推出限时充值活动，最高可获赠 <strong>40%</strong> 代金券。</p>
+</blockquote>
+<p>Kimi开放平台宣布即日起至<strong>3月8日</strong>推出限时充值活动，用户充值达到不同档位数额可获赠对应<strong>20%<strong>至</strong>40%<strong>代金券，券于次日发放且有效期</strong>90天</strong>。活动重点推广<strong>Kimi K2.5</strong>多模态模型，得益于<code>Mooncake</code>架构，该模型缓存命中率约<strong>90%</strong>，使API实际输入价格仅为原定价的<strong>25%</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/7a9bca04-8096-4bb3-8ea5-fbc5250ecce0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/aVF9bf8Wc44lwZY_zF0w5g">https://mp.weixin.qq.com/s/aVF9bf8Wc44lwZY_zF0w5g</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/C8Mdb34apUsv-coN2yGx1A">美团推出Tabbit浏览器并陷开源抄袭争议</a> <code>#12</code></h2>
+<blockquote>
+<p>美团旗下<strong>光年之外</strong>团队发布AI原生浏览器 <strong>Tabbit</strong> 并开启公测，该产品基于Chrome内核，用户可通过“全能输入框”调用<code>Agent</code>自主执行网页任务，国际版内置<code>GPT-5.2</code>、<code>Claude-Sonnet-4.6</code>等多款主流大模型。但产品发布即遭遇争议，被开发者指控违反GPL协议抄袭开源项目<code>陪读蛙</code>。</p>
+</blockquote>
+<p>近日，美团旗下<strong>光年之外</strong>团队与<strong>北京酷讯</strong>联合发布AI原生浏览器 <code>Tabbit</code> 并开启公测。该产品基于Chrome内核，集成了智能代理模式与“全能输入框”，支持自主执行网页任务及无代码扩展，国际版内置 <code>GPT-5.2</code>、<code>Claude-Sonnet-4.6</code> 等多款主流大模型。与此同时，开源开发者 <strong>mengxi-ream</strong> 公开指控 <code>Tabbit</code> 涉嫌抄袭其开源项目“陪读蛙”，称其违反GPL协议使用代码但未开源，目前该事件已在社区引发关于开源合规性的热议。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/26b5f6c9-f4fb-49ef-a99e-f6a56cd6c682/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/26b5f6c9-f4fb-49ef-a99e-f6a56cd6c682/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/26b5f6c9-f4fb-49ef-a99e-f6a56cd6c682/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/C8Mdb34apUsv-coN2yGx1A">https://mp.weixin.qq.com/s/C8Mdb34apUsv-coN2yGx1A</a></li>
+<li><a href="https://tabbitbrowser.com">https://tabbitbrowser.com</a></li>
+<li><a href="https://github.com/mengxi-ream/read-frog">https://github.com/mengxi-ream/read-frog</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2028559427167834314">Anthropic向免费用户开放Claude记忆功能</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 正式向免费用户开放了 <strong>Claude</strong> 的记忆功能，同时支持用户导出记忆，或从其他 AI 聊天机器人导入记忆。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布，<strong>Claude</strong> 的 <strong>Memory</strong> 功能现已正式向免费计划用户开放。免费用户现可利用该功能记住用户偏好及历史交互，从而获得更个性化的体验。此次更新重点优化了数据迁移与便携性。官方表示，已简化将保存的 <strong>Memory</strong> 导入 <strong>Claude</strong> 的流程。此外，用户拥有完全的数据控制权，可随时导出已保存的内容，确保数据的跨平台可用性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/075315ce-b2ec-4bd6-8da9-0b6ff2df93b4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2028559427167834314">https://x.com/claudeai/status/2028559427167834314</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/MiniMaxAgent/status/2028445211593208230">MiniMax推出移动端MaxClaw</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 移动端 App 正式上线 <strong>MaxClaw</strong> 功能，实现了与 Web 端的消息同步，用户可在手机端直接与 <code>Agent</code> 交互。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 官方宣布移动端 App 上线 <strong>MaxClaw</strong> 功能，支持 Web 端消息同步，用户可直接与 <code>Agent</code> 交互，无需依赖即时通讯软件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/567a1908-96e3-43d0-8d98-3c2c6bd96014/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/MiniMaxAgent/status/2028445211593208230">https://x.com/MiniMaxAgent/status/2028445211593208230</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.ithome.com/0/924/929.htm">千问发布AI眼镜AI硬件，售价低至1997元</a> <code>#15</code></h2>
+<blockquote>
+<p>千问首款AI眼镜开启预约，将于<strong>3月8日</strong>现货发售，G1系列叠加优惠后到手价低至<strong>1997元</strong>。该产品整机仅重<strong>40克</strong>，搭载最新<code>千问大模型</code>，支持<strong>3K</strong>视频录制、实时翻译及会议记录。</p>
+</blockquote>
+<p>千问正式发布首款 AI 硬件“<strong>千问 AI 眼镜</strong>”，首发 S1 与 G1 系列。产品现已开启全渠道“0 元预约”，定于 <strong>3 月 8 日</strong>在中国现货发售，计划年内登陆全球市场。其中 G1 系列标价 <strong>2899 元</strong>，叠加优惠后低至 <strong>1997 元</strong>。</p>
+<p>该眼镜搭载最新<code>千问大模型</code>，整机重约 <strong>40g</strong>，支持换电及“手机级”影像技术，具备 <strong>3K</strong> 视频录制与 <code>AI 4K</code> 输出能力。功能上支持多模态交互、翻译及会议记录。此外，产品将接入<code>千问 App</code>，首批“办事”功能预计 <strong>3 月底</strong>开放，并计划适配 Spotify、PayPal 等国际生态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/aeb16b96-a76d-4925-b738-275fe9715552/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ithome.com/0/924/929.htm">https://www.ithome.com/0/924/929.htm</a></li>
+<li><a href="https://www.aibase.com/zh/news/25825">https://www.aibase.com/zh/news/25825</a></li>
+</ul>
+<hr>
+<h2><a href="https://cuda-agent.github.io/">字节跳动联合清华发布CUDA Agent强化学习系统</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>ByteDance Seed</strong> 联合<strong>清华大学智能产业研究院</strong>推出了名为 <code>CUDA Agent</code> 的大规模强化学习系统，旨在通过真实硬件数据反馈自动生成高性能的 <code>CUDA Kernel</code>。</p>
+</blockquote>
+<p><strong>ByteDance Seed</strong> 联合清华大学 <strong>AIR</strong> 及 <strong>SIA-Lab</strong> 发布“<strong>CUDA Agent</strong>”项目及论文。该系统系大规模 Agentic RL 架构，通过利用真实 GPU Profiling 数据作为奖励信号，生成高性能 <code>CUDA Kernel</code>。项目构建了三阶段数据流水线，产出了含 <strong>6000</strong> 样本的 <strong>CUDA-Agent-Ops-6K</strong> 数据集，并采用 <code>ReAct</code> 工作流及分阶段训练策略。官方 <strong>KernelBench</strong> 数据显示，<strong>CUDA Agent</strong> 几何平均加速比为 <strong>2.11</strong> 倍；在 Level-1 和 Level-2 任务中相比 <code>torch.compile</code> 达 <strong>100%</strong> 加速率，Level-3 任务中达 <strong>90%</strong>。其表现击败 <strong>Claude Opus 4.5</strong> 等闭源模型约 <strong>40</strong> 个百分点。目前代码库与数据集已分别在 <strong>GitHub</strong> 和 <strong>Hugging Face</strong> 上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/b62e55f2-ef4e-4abd-aed5-1b9437fb7cbb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cuda-agent.github.io/">https://cuda-agent.github.io/</a></li>
+<li><a href="https://github.com/BytedTsinghua-SIA/CUDA-Agent">https://github.com/BytedTsinghua-SIA/CUDA-Agent</a></li>
+</ul>
+<hr>
+<h2><a href="https://minimaxi.com/news/minimax%E5%8F%91%E5%B8%83-2025-%E5%B9%B4%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9">MiniMax发布2025财年全年业绩报告</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong>发布2025财年业绩，总营收<strong>7903.8万美元</strong>，同比增长<strong>158.9%</strong>，其中海外市场贡献约<strong>73%</strong>。期内毛利率提升至<strong>25.4%</strong>，经调整净亏损为<strong>2.509亿美元</strong>，亏损率收窄，现金储备<strong>10.5亿美元</strong>。</p>
+</blockquote>
+<p><strong>MiniMax</strong>（00100.HK）发布上市后首份年报，2025年总收入<strong>7903.8万美元</strong>，同比增长<strong>158.9%</strong>，超70%收入源自国际市场。公司毛利增至<strong>2010万美元</strong>，毛利率提升至<strong>25.4%</strong>，经调整净亏损<strong>2.509亿美元</strong>，亏损率同比显著收窄。官方称已完成全模态布局，累计服务用户超<strong>2.36亿</strong>，最新发布的<code>M2.5</code>模型编程效率提升<strong>37%<strong>且成本大幅降低。CEO</strong>闫俊杰</strong>透露截至2026年2月公司ARR已超<strong>1.5亿美元</strong>，Notion已集成其模型。未来<strong>MiniMax</strong>将向AI平台型公司迈进。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/416d3d50-27fe-4e6c-b3c9-3d385c792ad0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://minimaxi.com/news/minimax%E5%8F%91%E5%B8%83-2025-%E5%B9%B4%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9">https://minimaxi.com/news/minimax%E5%8F%91%E5%B8%83-2025-%E5%B9%B4%E5%85%A8%E5%B9%B4%E4%B8%9A%E7%BB%A9</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/ZNt7WYcKoydV04Weu1p0qQ">阿里巴巴统一AI品牌为千问</a> <code>#18</code></h2>
+<blockquote>
+<p>阿里巴巴宣布将大模型B端品牌和C端应用品牌统一为<strong>千问</strong>。统一名称之后，阿里巴巴大模型品牌中文为“<strong>千问大模型</strong>”，英文为“<strong>Qwen</strong>”。<code>通义干问</code>的名称将不再使用。</p>
+</blockquote>
+<p>阿里巴巴近日宣布将旗下AI业务品牌矩阵全面统一更名为<strong>千问</strong>（Qwen），此举标志着其AI战略进入新阶段。据官方公告，原“通义千问”系列更名为<strong>千问大模型</strong>，C端旗舰应用更名为<strong>千问 APP</strong>，而“通义实验室”将继续作为AI研发机构专注技术突破。</p>
+<p>品牌重塑紧随其后强劲的技术表现。阿里巴巴于除夕开源了<code>Qwen 3.5</code>系列模型，官方显示该系列多款模型包揽了Hugging Face全球开源大模型榜单前四名，已成为全球开发者社区活跃度最高的开源模型之一。</p>
+<p>市场应用层面，<strong>千问APP</strong>表现突出。官方数据显示，其在春节期间处理了近<strong>2亿次</strong>“一句话下单”指令。根据第三方机构QuestMobile统计，该应用日活跃用户达到<strong>7352万</strong>，增幅高达<strong>940%</strong>，位居国内AI类应用前列，显示出强大的用户粘性与市场吸引力。</p>
+<p>此外，有行业分析认为，阿里巴巴此次统一品牌旨在通过品牌降维与认知聚合，强化其在开源生态与C端市场的领导地位。随着<code>Qwen 3.5</code>体系的完善，这种从技术领先向品牌生态化的转型，或将重塑国内大模型行业的竞争格局。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/0c30baed-0dda-452e-898a-f3f5fad29428/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/ZNt7WYcKoydV04Weu1p0qQ">https://mp.weixin.qq.com/s/ZNt7WYcKoydV04Weu1p0qQ</a></li>
+</ul>
+<hr>
+<h2><a href="http://startup.z.ai">智谱Z.ai启动面向AI创业者的扶持计划</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>智谱 Z.ai</strong> 宣布 <strong>Startup Program</strong> 正式开放申请，入选团队将获得 <strong>Free API credits</strong>、<strong>Priority rate limits</strong> 以及 <strong>Early API Access</strong> 等核心权益。</p>
+</blockquote>
+<p><strong>智谱Z.ai</strong> 宣布 <strong>Startup Program</strong> 现已开放申请，旨在支持 <strong>AI-native</strong> 初创企业、<strong>Agent</strong> 构建者、集成 <strong>LLM infra</strong> 的 <strong>SaaS</strong> 创始人及构建现实世界规模应用的全球团队。入选团队将获得 <strong>Free API credits</strong>、<strong>Priority rate limits</strong>、<strong>Exclusive Community</strong> 访问权以及 <strong>Early API Access</strong> 等权益。官方建议正在构建重要产品的团队立即通过 <code>startup.z.ai</code> 提交申请，如有疑问可联系 <code>@ZaiforStartups</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/1150ec37-2503-4921-bcbb-9ab5a5685ff6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://startup.z.ai">http://startup.z.ai</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/elonmusk/status/2028491891562660329">马斯克确认将于今日发布Grok 4.20 Beta 2</a> <code>#20</code></h2>
+<blockquote>
+<p>xAI 首席执行官 <strong>Elon Musk</strong> 确认 <code>Grok 4.20 Beta 2</code> 将于今日发布，并将同步公开详细的版本说明。</p>
+</blockquote>
+<p><strong>xAI</strong> 首席执行官 <strong>Elon Musk</strong> 确认，<code>Grok 4.20 Beta 2</code> 将于今日发布，并同步公开详细版本说明。此次更新回应了社区对模型迭代的期待，用户重点关注代码能力提升及不同规格模型的发布计划。另据非官方反馈，巴西地区 <code>Grok</code> 服务疑似中断；部分 <code>SuperGrok Heavy</code> 订阅用户在 <code>Grok Build</code> 抢先体验网站提交邮箱时遭遇 <code>HTTP 405</code> 错误，导致无法获取优先访问权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/12ff61fa-fc76-495d-941c-b43569d8cd9f/f6b0b027-6943-47cb-bdc3-5f61db6dbb80/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2028491891562660329">https://x.com/elonmusk/status/2028491891562660329</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/14</guid><pubDate>Tue, 03 Mar 2026 01:50:21 +0000</pubDate></item><item><title>2026-03-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-13/</link><description>AI 早报 2026-03-02 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 Cognition发布SWE-1.6早期预览版 ↗ #1 产品应用 Claude登顶App Store；上线记忆导入功能 ↗ #2 技术与洞察 Anthropic研究揭示LLM低成本去匿名化威胁 ↗ #3 Anthropic分享构建Claude Code工具经验 ↗ #4 行业动态 美军在空袭伊朗行动中使用了 Claude ↗ #5 前瞻与传闻 Qwen 3.5传即将推出四款小型稠密开源模型 ↗ #6 Cognition发布SWE-1.6早期预览版 #1 Cognition 发布了 SWE-1.6 模型的早期预览版，该模型在 SWE-Bench Pro 上的得分比前代高出 11%，并超越了顶尖开源模型。团队正面向 Wind…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260302/202603020833583484082738_cover_60c6.png" alt=""></p>
 <h1>AI 早报 2026-03-02</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1FAPVzYEEX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=BlNSANYPQxw">YouTube</a></p>
 <h2>概览</h2>
