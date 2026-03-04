@@ -1,5 +1,283 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 03 Mar 2026 01:50:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-14/</link><description>AI 早报 2026-03-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问团队开源Qwen3.5小尺寸模型系列 ↗ #1 智谱 GLM Coding Plan 套餐开启退款通道 #2 模型发布 阶跃星辰开源Step 3.5 Flash模型及训练框架 ↗ #3 IQuestLab开源IQuest-Coder-V1系列代码模型权重 ↗ #4 小红书开源FireRed-OCR模型 ↗ #5 通义实验室发布Fun-CosyVoice 3.5 与 Fun-AudioGen-VD 两款语音模型 ↗ #6 Jan团队发布 Jan-Code-4B 模型 ↗ #7 开发生态 OpenClaw发布2026.3.1版本 ↗ #8 agent-browse上线Electron技能 ↗ #9 Anthropic推出免费A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260303/20260303091713415620bea8_cover_12ff.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 04 Mar 2026 01:59:01 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-15/</link><description>AI 早报 2026-03-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI发布GPT-5.3 Instant模型 ↗ #1 Google推出Gemini 3.1 Flash-Lite预览版 ↗ #2 xAI发布Grok 4.20 Beta 2模型更新 ↗ #3 开发生态 Anthropic推出Claude Code语音模式 ↗ #4 Codex 推出语音转写与ChatGPT app技能 ↗ #5 Codex 为部分Plus用户提供GPT-5.3-Codex-Spark ↗ #6 Codex 修复故障重置速率 ↗ #7 Cursor推出2.6版本，新增Agent交互界面 ↗ #8 产品应用 谷歌NotebookLM推出信息图自定义样式功能 ↗ #9 Grok更新视频延长功能至30秒 ↗…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260304/202603040922044643831c6f_cover_c394.png" alt=""></p>
+<h1>AI 早报 2026-03-04</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1yEPNzJEDw">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=v6xc7243Mu0">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>OpenAI发布GPT-5.3 Instant模型 <a href="https://openai.com/index/gpt-5-3-instant/">↗</a> <code>#1</code></li>
+<li>Google推出Gemini 3.1 Flash-Lite预览版 <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/">↗</a> <code>#2</code></li>
+<li>xAI发布Grok 4.20 Beta 2模型更新 <a href="https://x.com/grok/status/2028714422462448041">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Anthropic推出Claude Code语音模式 <a href="https://x.com/trq212/status/2028628570692890800">↗</a> <code>#4</code></li>
+<li>Codex 推出语音转写与ChatGPT app技能 <a href="https://x.com/OpenAIDevs/status/2028962246618230808">↗</a> <code>#5</code></li>
+<li>Codex 为部分Plus用户提供GPT-5.3-Codex-Spark <a href="https://x.com/ah20im/status/2028638828345659518">↗</a> <code>#6</code></li>
+<li>Codex 修复故障重置速率 <a href="https://x.com/romainhuet/status/2028651795459997826">↗</a> <code>#7</code></li>
+<li>Cursor推出2.6版本，新增Agent交互界面 <a href="https://cursor.com/changelog">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>谷歌NotebookLM推出信息图自定义样式功能 <a href="https://x.com/NotebookLM/status/2028556861050630632">↗</a> <code>#9</code></li>
+<li>Grok更新视频延长功能至30秒 <a href="https://x.com/techdevnotes/status/2028706608704827671">↗</a> <code>#10</code></li>
+<li>阿里云宣布QoderWork全面开放 <a href="https://mp.weixin.qq.com/s/wAmZpqeOK4_DBO9yEvJEXQ">↗</a> <code>#11</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Arena.ai 上线 Document Arena 排行榜 <a href="https://x.com/arena/status/2028930446235713877">↗</a> <code>#12</code></li>
+<li>大语言模型在模拟核危机中被发现倾向升级冲突 <a href="https://arxiv.org/abs/2602.14740">↗</a> <code>#13</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>阿里云Qwen核心团队骨干集中离职 <a href="https://x.com/JustinLin610/status/2028865835373359513">↗</a> <code>#14</code></li>
+<li>OpenAI核心研究员离职将加入Anthropic <a href="https://x.com/max_a_schwarzer/status/2028939154944585989">↗</a> <code>#15</code></li>
+<li>美国最高法院拒绝受理AI版权上诉 <a href="https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/">↗</a> <code>#16</code></li>
+<li>Anthropic披露Claude宕机因用户激增超过一倍 <a href="http://status.claude.com">↗</a> <code>#17</code></li>
+<li>OpenAI军合风波引发ChatGPT卸载激增 <a href="https://x.com/sama/status/2028640354912923739">↗</a> <code>#18</code></li>
+<li>Tabbit回应开源合规争议，移除翻译插件并开源代码 <a href="https://github.com/Tabbit-Browser/read-frog">↗</a> <code>#19</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>OpenAI预告5.4版本，或已现身用户端 <a href="https://x.com/OpenAI/status/2028909019977703752">↗</a> <code>#20</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/gpt-5-3-instant/">OpenAI发布GPT-5.3 Instant模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正式发布 <code>GPT-5.3 Instant</code> 模型。此次更新重点解决了模型过于谨慎和爱说教的痛点，同时将联网幻觉率降低了 <strong>26.8%</strong>。该模型现已向所有用户开放，<strong>Thinking</strong> 和 <strong>Pro</strong> 版本的更新也将于近期推出。</p>
+</blockquote>
+<p>OpenAI近日发布 <strong>GPT-5.3 Instant</strong> 模型，替代 <strong>GPT-5.2 Instant</strong>。新版重点优化交互体验，减少了拒答、免责声明及说教语气，使对话更自然。其联网搜索增强了信息整合与语境理解能力。官方数据显示，该模型在医疗、法律等高风险领域的幻觉率显著降低，联网与非联网模式下分别下降 <strong>26.8%</strong> 和 <strong>19.7%</strong>。此外，模型提升了写作能力，但官方指出部分非英语语种回复仍显生硬。目前该模型已全量开放，前代模型将于 <strong>2026年6月</strong> 退役，Thinking及Pro版本更新即将推出。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/0b86ce20-0a7c-4f78-bc70-db4ca7660593/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/0b86ce20-0a7c-4f78-bc70-db4ca7660593/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/gpt-5-3-instant/">https://openai.com/index/gpt-5-3-instant/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/">Google推出Gemini 3.1 Flash-Lite预览版</a> <code>#2</code></h2>
+<blockquote>
+<p>Google 发布了 <strong>Gemini 3.1 Flash-Lite</strong>，该模型性能超越了 <strong>2.5 Flash</strong>，专为高频次、大规模工作负载设计，支持“思考等级”功能。根据官方数据，<strong>Gemini 3.1 Flash-Lite</strong> 的输出速度比 <strong>2.5 Flash</strong> 提升了 <strong>45%</strong>。</p>
+</blockquote>
+<p>Google正式发布了<strong>Gemini 3.1 Flash-Lite</strong>，定位为<strong>Gemini 3</strong>系列中速度最快且最具成本效益的模型。该模型现已通过<strong>Google AI Studio</strong>的<strong>Gemini API</strong>及<strong>Vertex AI</strong>以预览版形式向开发者与企业开放，专为高频次、大规模工作负载设计。</p>
+<p>性能方面，据<strong>Artificial Analysis</strong>基准测试，其首个回答token的时间比<strong>2.5 Flash</strong>快2.5倍，输出速度提升45%。在<strong>Arena.ai</strong>排行榜上，该模型获得<strong>1432</strong>的Elo分数，并在<strong>GPQA Diamond</strong>和<strong>MMMU Pro</strong>等基准测试中分别取得<strong>86.9%<strong>和</strong>76.8%<strong>的成绩，表现优于部分前代更大模型。Google高管</strong>Jeff Dean</strong>指出，该模型在效率和能力上设立了新标准。</p>
+<p>定价方面，其成本效益显著。官方定价为每百万输入token <strong>0.25美元</strong>、每百万输出token <strong>1.50美元</strong>。该模型引入的“思考等级”功能，允许开发者动态控制模型在不同任务上的推理深度，以实现自适应智能。其应用场景广泛，包括大规模翻译、内容审核、用户界面生成及模拟创建等。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/464dee71-5b3a-49f0-a9b8-b1e940d936fc/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/464dee71-5b3a-49f0-a9b8-b1e940d936fc/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/grok/status/2028714422462448041">xAI发布Grok 4.20 Beta 2模型更新</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 发布了 <code>Grok 4.20 Beta 2</code> 版本，提升了指令跟随能力并减少了模型幻觉，同时优化了对 <code>LaTeX</code> 的支持。新版本还提高了图像搜索触发的精准度以及多图像渲染的稳定性。</p>
+</blockquote>
+<p>xAI 旗下 <strong>Grok</strong> 模型近日发布 <code>Grok 4.20 Beta 2</code> 版本更新。官方说明显示，此次升级优化了模型性能与功能稳定性。核心改进包括：显著提升指令跟随能力，减少了模型“能力幻觉”；增强科学文本生成质量，特别是对 <code>LaTeX</code> 表达的支持；提高图像搜索触发的精准度，并强化了多图像渲染的稳定性与可靠性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/1735845d-5ab4-462d-9152-cb55b608f629/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/grok/status/2028714422462448041">https://x.com/grok/status/2028714422462448041</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2028628570692890800">Anthropic推出Claude Code语音模式</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 推出 <strong>Voice mode</strong>，按住空格键或输入 <code>voice</code> 斜杠指令激活。该功能目前正陆续向 <strong>Pro</strong>、<strong>Max</strong> 及企业版用户开放，不收取额外费用，但目前仅支持英文。</p>
+</blockquote>
+<p>Anthropic旗下开发工具 <strong>Claude Code</strong> 正式推出 <strong>Voice mode</strong> 语音模式。该功能正陆续向 <strong>Pro</strong>、<strong>Max</strong>、<strong>Team</strong> 及 <strong>Enterprise</strong> 版用户开放，首批仅覆盖约 <code>5%</code> 用户，预计几周内完成全面推送。获权用户通过欢迎屏提示或输入 <code>/voice</code> 指令即可启用。</p>
+<p>功能采用 <code>Push-to-Talk</code> 机制，用户按住空格键说话，松开后文本即流式插入光标处，支持语音与键盘混合输入。官方明确该功能不额外收费，且转录 <code>Token</code> 不计入速率限制。目前仅支持英文。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/448a0bc2-9f09-48fe-97d3-06350addd36a/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2028628570692890800">https://x.com/trq212/status/2028628570692890800</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2028962246618230808">Codex 推出语音转写与ChatGPT app技能</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布向所有 Codex 用户开放语音转写功能，App 端可通过 <code>Ctrl</code> 加 <code>M</code> 快捷键激活，CLI 端则需在配置文件开启实验选项后长按空格键使用。此外，平台新增了 <code>**$chatgpt-apps**</code> 技能，帮助开发者构建 <strong>ChatGPT</strong> app。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 开发者生态近期针对 <strong>Codex</strong> 平台推出两项更新。</p>
+<p>首先，官方确认 <strong>Voice transcription</strong>（语音转写）功能现已面向 100% 用户开放。App 端支持麦克风按钮或 <code>Ctrl + M</code> 激活；CLI 端目前为实验性功能，需在 <code>~/.codex/config.toml</code> 配置开启，通过长按空格键交互。据社区反馈，部分 Linux 用户报告遭遇 403 错误。</p>
+<p>其次，官方发布全新的 <code>$chatgpt-apps</code> skill。该技能专为基于 Apps SDK 的开发者设计，旨在协助快速搭建项目脚手架、连接工具与小部件资源，并在 ChatGPT 环境内迭代开发具备宿主感知能力的 UI 界面。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/6468054c-3869-4fc4-8059-c8149bd33dfc/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/6468054c-3869-4fc4-8059-c8149bd33dfc/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2028962246618230808">https://x.com/OpenAIDevs/status/2028962246618230808</a></li>
+<li><a href="https://x.com/reach_vb/status/2028861713982926994">https://x.com/reach_vb/status/2028861713982926994</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ah20im/status/2028638828345659518">Codex 为部分Plus用户提供GPT-5.3-Codex-Spark</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Codex</strong> 团队宣布向使用 <strong>Codex</strong> 最多的 <strong>ChatGPT Plus</strong> 用户开放 <code>GPT-5.3-Codex-Spark</code> 的使用权限，有效期至本月 <strong>20</strong> 日。</p>
+</blockquote>
+<p>OpenAI Codex团队宣布向使用 <strong>Codex</strong> 最多的 <strong>ChatGPT Plus</strong> 用户开放 <code>GPT-5.3-Codex-Spark</code> 模型体验权限。体验期至本月 <strong>20日</strong>，无需额外付费。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/728d9dba-aa40-408a-b39e-0452162b8117/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ah20im/status/2028638828345659518">https://x.com/ah20im/status/2028638828345659518</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/romainhuet/status/2028651795459997826">Codex 修复故障重置速率</a> <code>#7</code></h2>
+<blockquote>
+<p>北京时间3月3日早上，<strong>Codex</strong> 团队宣布修复导致服务中断的基础设施故障，并为所有用户重置了速率限制。</p>
+</blockquote>
+<p>北京时间<strong>3月3日</strong>早上，<strong>OpenAI</strong>的<strong>Codex</strong>团队宣布修复一个导致服务中断的基础设施问题。服务已全面恢复运行并为所有用户重置速率限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/a6be09a2-03cc-4c56-bc3f-1a97718c8760/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/romainhuet/status/2028651795459997826">https://x.com/romainhuet/status/2028651795459997826</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/changelog">Cursor推出2.6版本，新增Agent交互界面</a> <code>#8</code></h2>
+<blockquote>
+<p>Cursor 正式发布 <strong>2.6</strong> 版本，核心亮点在于引入 <code>MCP</code> 应用，使 <code>Agent</code> 能在对话中直接渲染 <code>Figma</code> 设计图或 <code>Amplitude</code> 图表等交互式界面。</p>
+</blockquote>
+<p><strong>Cursor</strong> 发布 <strong>2.6</strong> 版本更新，正式引入 <code>MCP</code> 应用功能，允许 Agent 在对话中渲染 <strong>Amplitude</strong> 图表、<strong>Figma</strong> 设计图及 <strong>tldraw</strong> 白板等交互式界面。该特性通过解析 JSON 展示 HTML，优化了交互体验。此外，版本面向 Teams 和企业套餐推出团队插件市场，支持管理员在内部共享并集中治理私有插件。同时，本次更新还改进了调试模式等核心能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/ad4893dd-b6df-476b-9b2d-7d4901292192/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/changelog">https://cursor.com/changelog</a></li>
+<li><a href="https://x.com/cursor_ai/status/2028953584407085546">https://x.com/cursor_ai/status/2028953584407085546</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NotebookLM/status/2028556861050630632">谷歌NotebookLM推出信息图自定义样式功能</a> <code>#9</code></h2>
+<blockquote>
+<p>谷歌 <strong>NotebookLM</strong> 正式上线信息图自定义样式功能，新增 <strong>10</strong> 种预设风格并支持深度定制。用户可利用最新 <code>Model</code> 能力，将复杂源素材一键转化为高颜值、易阅读的视觉信息图。</p>
+</blockquote>
+<p>谷歌旗下AI笔记工具 <strong>NotebookLM</strong> 正式推出信息图自定义样式功能并已上线。该功能提供10种预设样式（如编辑、黏土、砖块及可爱风格），并支持完全自定义编辑。用户只需在 <strong>Studio</strong> 面板中点击编辑按钮，即可借助最新的 <code>Gemini</code> 模型能力，一键将复杂源素材转化为视觉效果出色的信息图，旨在降低高质量视觉内容的制作门槛，适用于学习总结与知识分享等场景。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/a79935d3-be38-46c7-9cf7-8089a3263e44/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2028556861050630632">https://x.com/NotebookLM/status/2028556861050630632</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/techdevnotes/status/2028706608704827671">Grok更新视频延长功能至30秒</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Grok</strong> 的 <strong>Imagine Extend Video</strong> 功能现已支持生成长达 <strong>30 秒</strong>的视频。</p>
+</blockquote>
+<p><strong>Grok</strong> Imagine Extend Video 功能迎来更新，视频生成时长上限现已延长至最长<strong>30秒</strong>。据社区用户反馈，该官方生成方案在视频契合度、配乐连续度及NSFW内容处理上，均显著优于此前手动截帧拼接的方式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/cf1f20e3-0e2b-4b34-9923-63dada6e8406/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/techdevnotes/status/2028706608704827671">https://x.com/techdevnotes/status/2028706608704827671</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/wAmZpqeOK4_DBO9yEvJEXQ">阿里云宣布QoderWork全面开放</a> <code>#11</code></h2>
+<blockquote>
+<p>阿里桌面Agent产品 <strong>QoderWork</strong> 现已全面开放，支持 <code>Mac</code> 和 <code>Windows</code> 双端，用户官网下载即可零部署使用。</p>
+</blockquote>
+<p>阿里云宣布桌面Agent产品 <strong>QoderWork</strong> 全面开放，提供Mac及Windows双版本，用户官网下载即可使用，无需额外部署。该产品集成顶尖模型，将 <code>Agent</code> 能力延伸至文件整理、数据处理等日常场景，支持自主拆解复杂意图。新版新增模型分级选择器，分设降低成本的标准档与强推理的旗舰档，并内置技能广场及保障隐私的沙盒环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/9efb1713-0c6f-4224-b99b-00b535d5c49c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/wAmZpqeOK4_DBO9yEvJEXQ">https://mp.weixin.qq.com/s/wAmZpqeOK4_DBO9yEvJEXQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/arena/status/2028930446235713877">Arena.ai 上线 Document Arena 排行榜</a> <code>#12</code></h2>
+<blockquote>
+<p>Arena 上线 <strong>Document Arena</strong> 排行榜，利用用户上传的真实 PDF 评估 <code>AI</code> 模型的文档推理能力。目前 <strong>Claude Opus 4.6</strong> 位居榜首。</p>
+</blockquote>
+<p>Arena.ai 宣布 <strong>Document Arena</strong> 正式上线。该平台基于用户上传的真实 PDF 文件进行并列评估，旨在衡量前沿 <strong>AI 模型</strong> 的文档推理能力。最新榜单显示，<strong>Claude Opus 4.6</strong> 以 <strong>1525</strong> 分位居第一，领先第二名 <strong>51</strong> 分。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/10c196c8-89ba-4421-bee0-4cad67a804cb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/arena/status/2028930446235713877">https://x.com/arena/status/2028930446235713877</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/abs/2602.14740">大语言模型在模拟核危机中被发现倾向升级冲突</a> <code>#13</code></h2>
+<blockquote>
+<p>一篇近期发布的研究表明，<strong>GPT-5.2</strong>等模型在核危机模拟中展现出复杂的欺骗与推理能力，在 <strong>95%</strong> 的模拟情境下，这些模型倾向于升级冲突甚至动用核武器。</p>
+</blockquote>
+<p>伦敦国王学院教授 <strong>Kenneth Payne</strong> 近期在 arXiv 发布《AI Arms and Influence》研究，选取 <code>GPT-5.2</code>、<code>Claude Sonnet 4</code> 及 <code>Gemini 3 Flash</code> 三款模型进行核危机模拟。实验显示，模型具备欺骗意图、心智理论等复杂战略推理能力。在 95% 的情境下，模型倾向于升级冲突甚至使用核武器，且无一选择妥协。研究强调，AI 虽是强大的战略分析工具，但其决策逻辑与人类存在巨大差异，需深入理解以应对其在战略决策中的影响。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/abs/2602.14740">https://arxiv.org/abs/2602.14740</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/JustinLin610/status/2028865835373359513">阿里云Qwen核心团队骨干集中离职</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Qwen</strong>模型团队遭遇重大人事变动，原负责人<strong>林俊旸</strong>及多名核心骨干已确认离职。业界对离职员工表示祝福，同时普遍担忧这一变化可能导致<strong>Qwen</strong>停止交付前沿开源模型，转而走向封闭的商业化路线，<strong>Qwen Chat</strong>和<strong>Qwen Code</strong>等项目也可能受到重大影响。据社交媒体上流传的消息，此次变动源于<strong>阿里云</strong>调整基础模型团队的考核标准，引入日活指标并更换了管理层。</p>
+</blockquote>
+<p>Qwen模型团队<strong>林俊旸</strong>在X平台宣布卸任，其他多名核心骨干也确认离职。此次人事变动发生于<strong>Qwen3.5</strong>系列所有模型发布后次日。业界对离职员工表示祝福，同时担忧此次动荡将导致<strong>Qwen</strong>团队转向封闭商业化路线，从而停止交付前沿开源模型。<strong>Qwen Chat</strong> 和 <strong>Qwen Code</strong> 等项目可能也会受到重大影响。据社交媒体上流传的消息，此次离职并非出于当事人意愿，主要涉及<strong>阿里云</strong>对基础模型团队考核方式的调整（如引入<strong>DAU</strong>指标）及管理层变动。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/8a8f7771-17cd-4eb2-8b4a-14d37a7f2461/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/8a8f7771-17cd-4eb2-8b4a-14d37a7f2461/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/8a8f7771-17cd-4eb2-8b4a-14d37a7f2461/m003.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/8a8f7771-17cd-4eb2-8b4a-14d37a7f2461/m004.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/JustinLin610/status/2028865835373359513">https://x.com/JustinLin610/status/2028865835373359513</a></li>
+<li><a href="https://x.com/huybery/status/2028976346416988612">https://x.com/huybery/status/2028976346416988612</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/max_a_schwarzer/status/2028939154944585989">OpenAI核心研究员离职将加入Anthropic</a> <code>#15</code></h2>
+<blockquote>
+<p>OpenAI 推理模型核心研究员 <strong>Max Schwarzer</strong> 宣布离职，并加入 <strong>Anthropic</strong> 回归强化学习研究。他此前主导了 <code>o1</code>、<code>o3</code> 以及 <code>GPT-5</code> 系列的后训练工作。</p>
+</blockquote>
+<p>OpenAI 推理模型核心研究员 <strong>Max Schwarzer</strong> 宣布离职，下一站将加入 <strong>Anthropic</strong>。作为 <code>o1</code> 早期参与者，他主导了 <code>o1</code> 和 <code>o3</code> 的后训练工作，并在过去一年领导团队交付了 <code>GPT-5</code>、<code>5.1</code>、<code>5.2</code> 及 <code>5.3-Codex</code>。<strong>Schwarzer</strong> 表示，离职是为了回归一线研究，不再担任管理职务，并计划在 <strong>Anthropic</strong> 专注于强化学习研究。尽管他感谢了 <strong>OpenAI</strong> 管理层。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/20f2912a-83a2-4322-bea4-3c74b08d65d9/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/max_a_schwarzer/status/2028939154944585989">https://x.com/max_a_schwarzer/status/2028939154944585989</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/">美国最高法院拒绝受理AI版权上诉</a> <code>#16</code></h2>
+<blockquote>
+<p>据报道，美国最高法院正式拒绝受理 <strong>Stephen Thaler</strong> 关于 <code>AI生成作品</code> 版权资格的上诉，维持了纯 <code>AI生成作品</code> 无法获得版权保护的原判。</p>
+</blockquote>
+<p>据路透社报道，美国最高法院拒绝受理 <strong>Stephen Thaler</strong> 的上诉，维持下级法院判决，确认纯 <strong>AI</strong> 生成作品无法获得版权保护。泰勒曾为其 <strong>AI</strong> 系统 <code>DABUS</code> 独立创作的作品申请版权，但美国版权局及法院一致认定，“人类作者身份”是版权保护的基石。尽管 <strong>Thaler</strong> 律师团队警告此举将冲击 <strong>AI</strong> 产业，但法院坚持仅基于算法独立生成的作品不具备版权资格，除非包含足够的人类独创性贡献。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/227c31a0-0a5a-422b-a630-51ee14a87758/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/">https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/</a></li>
+</ul>
+<hr>
+<h2><a href="http://status.claude.com">Anthropic披露Claude宕机因用户激增超过一倍</a> <code>#17</code></h2>
+<blockquote>
+<p>近日，<strong>Claude</strong>因“空前需求”连续发生服务中断。<strong>Anthropic</strong>官方将此归因于“前所未有的需求”导致服务器过载，并披露免费用户自<strong>1月</strong>增长超<strong>60%</strong>，付费用户自去年<strong>10月</strong>翻倍。</p>
+</blockquote>
+<p>近日，<strong>Claude</strong> 连续遭遇大规模服务中断，导致 <strong>claude.ai</strong>、移动应用及 <strong>Claude Code</strong> 等消费级服务连接失败。<strong>Anthropic</strong> 官方将此归因于“前所未有的需求”导致服务器过载，并披露免费用户自 <strong>1月</strong> 增长超 <strong>60%</strong>，付费用户自去年 <strong>10月</strong> 翻倍。据彭博社报道，此次需求激增或与 <strong>OpenAI</strong> 与美国战争部合作引发用户反弹有关，<strong>Claude</strong> 在美下载量一度超越 <strong>ChatGPT</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/553e7139-54b1-473e-808c-7b4a739a4688/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://status.claude.com">http://status.claude.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/sama/status/2028640354912923739">OpenAI军合风波引发ChatGPT卸载激增</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 与美国战争部合作的消息引发剧烈反弹，<strong>2 月 28 日</strong>其美国移动端卸载量环比激增 <strong>295%</strong>，差评飙升 <strong>775%</strong>。为应对信任危机，<strong>OpenAI</strong> 紧急修订协议明确禁止 <code>AI</code> 用于美国国内监控。</p>
+</blockquote>
+<p>受 <strong>OpenAI</strong> 与美国国防部合作影响，<strong>ChatGPT</strong> 遭遇显著用户流失。据 <strong>Sensor Tower</strong> 数据，其美区移动端单日卸载量环比激增 <strong>295%</strong>，一星差评飙升 <strong>775%</strong>。相反，<strong>Anthropic</strong> 因拒绝军方合作，旗下 <code>Claude</code> 下载量激增并登顶美区 App Store。面对危机，<strong>OpenAI</strong> CEO <strong>Altman</strong> 转发内部贴文，称已修订协议明确禁止 <strong>AI</strong> 用于美国公民监控及情报机构使用，并承认发布沟通存在失误。同时，舆论引发大量用户利用 <code>Prompt</code> 提取“用户画像”迁移至新平台。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/sama/status/2028640354912923739">https://x.com/sama/status/2028640354912923739</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/Tabbit-Browser/read-frog">Tabbit回应开源合规争议，移除翻译插件并开源代码</a> <code>#19</code></h2>
+<blockquote>
+<p>针对 <strong>Tabbit</strong> 浏览器翻译插件涉开源合规争议，<strong>Tabbit</strong> 团队回应称，已与作者达成共识。作为补救，<strong>Tabbit</strong> 已从新版浏览器移除该插件，并将修改后的代码完整开源，后续计划获取正式授权并升级内部审查流程。</p>
+</blockquote>
+<p>针对 <strong>Tabbit</strong> 浏览器翻译插件使用开源项目 <code>read-frog</code> 引发的合规争议，<strong>Tabbit</strong> 团队回应称已与原作者达成共识。官方表示，去年底 fork 该项目时原仓库未含协议，虽原作者随后添加 <code>GPLv3</code>，但团队因未合并代码未及时关注。<strong>Tabbit</strong> 承认调研不充分，决定从新版浏览器移除该插件，并将修改后代码完整开源至 GitHub。团队计划获正式授权后恢复功能，并承诺升级内部审查流程，明确标识开源项目 <code>License</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/52b39869-a9ac-4a44-acfd-89eef2a353a2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/Tabbit-Browser/read-frog">https://github.com/Tabbit-Browser/read-frog</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAI/status/2028909019977703752">OpenAI预告5.4版本，或已现身用户端</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 官方预告 <strong>GPT-5.4</strong> 版本即将发布，有用户反馈称，目前 <strong>ChatGPT Pro</strong> 网页端疑似已悄然部署该模型，其在 <code>SVG</code> 矢量绘图方面的细节处理能力表现出色。</p>
+</blockquote>
+<p>OpenAI 官方近日预告称“<strong>5.4版本</strong>比你想象的要来得更早”。据社区用户反馈，<strong>ChatGPT Pro</strong>（Web）端疑似已悄然部署该新模型。多位用户测试表示，该模型在 <code>SVG</code> 矢量图生成方面细节处理能力极强，能生成高度精细的复杂图像，但文件体积巨大且推理耗时较长，有用户记录生成时间约为 <strong>32</strong> 至 <strong>45</strong> 分钟。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/72fc112c-d6e4-48e4-b382-984bb091f08a/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c3940e6b-0919-49e7-9dde-1f898b10dfed/72fc112c-d6e4-48e4-b382-984bb091f08a/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAI/status/2028909019977703752">https://x.com/OpenAI/status/2028909019977703752</a></li>
+<li><a href="https://x.com/shaunralston/status/2028703722726150589">https://x.com/shaunralston/status/2028703722726150589</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/15</guid><pubDate>Wed, 04 Mar 2026 01:58:43 +0000</pubDate></item><item><title>2026-03-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-14/</link><description>AI 早报 2026-03-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问团队开源Qwen3.5小尺寸模型系列 ↗ #1 智谱 GLM Coding Plan 套餐开启退款通道 #2 模型发布 阶跃星辰开源Step 3.5 Flash模型及训练框架 ↗ #3 IQuestLab开源IQuest-Coder-V1系列代码模型权重 ↗ #4 小红书开源FireRed-OCR模型 ↗ #5 通义实验室发布Fun-CosyVoice 3.5 与 Fun-AudioGen-VD 两款语音模型 ↗ #6 Jan团队发布 Jan-Code-4B 模型 ↗ #7 开发生态 OpenClaw发布2026.3.1版本 ↗ #8 agent-browse上线Electron技能 ↗ #9 Anthropic推出免费A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260303/20260303091713415620bea8_cover_12ff.png" alt=""></p>
 <h1>AI 早报 2026-03-03</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1AHA9zUEaV">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=03lLL4yn6Fg">YouTube</a></p>
 <h2>概览</h2>
