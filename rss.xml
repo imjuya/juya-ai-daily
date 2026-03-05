@@ -1,5 +1,258 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 04 Mar 2026 01:59:01 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-15/</link><description>AI 早报 2026-03-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI发布GPT-5.3 Instant模型 ↗ #1 Google推出Gemini 3.1 Flash-Lite预览版 ↗ #2 xAI发布Grok 4.20 Beta 2模型更新 ↗ #3 开发生态 Anthropic推出Claude Code语音模式 ↗ #4 Codex 推出语音转写与ChatGPT app技能 ↗ #5 Codex 为部分Plus用户提供GPT-5.3-Codex-Spark ↗ #6 Codex 修复故障重置速率 ↗ #7 Cursor推出2.6版本，新增Agent交互界面 ↗ #8 产品应用 谷歌NotebookLM推出信息图自定义样式功能 ↗ #9 Grok更新视频延长功能至30秒 ↗…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260304/202603040922044643831c6f_cover_c394.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 05 Mar 2026 01:23:12 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-16/</link><description>AI 早报 2026-03-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI面向Windows正式发布Codex应用并开源原生Agent沙盒 ↗ #1 模型发布 MiniMax发布Music 2.5+纯音乐创作模型 ↗ #2 北大字节Canva联合团队发布14B视频生成模型Helios ↗ #3 YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra ↗ #4 开发生态 Cursor正式登陆JetBrains IDE ↗ #5 Antigravity 提升非高峰期用户配额 ↗ #6 Mistral发布Vibe 2.3.0版 新增网络搜索等功能 ↗ #7 OpenAI上线Symphony开源项目 ↗ #8 产品应用 Google AI Mode 上线 Canvas 功能 ↗ #…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260305/202603050858236952104837_cover_d705.png" alt=""></p>
+<h1>AI 早报 2026-03-05</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1jJP6ziEaQ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=vuX7j20ifhA">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI面向Windows正式发布Codex应用并开源原生Agent沙盒 <a href="https://developers.openai.com/wendows">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>MiniMax发布Music 2.5+纯音乐创作模型 <a href="https://minimaxi.com/news/music-25-%E8%A7%A3%E9%94%81%E7%BA%AF%E9%9F%B3%E4%B9%90%E7%AA%81%E7%A0%B4%E9%A3%8E%E6%A0%BC%E8%BE%B9%E7%95%8C">↗</a> <code>#2</code></li>
+<li>北大字节Canva联合团队发布14B视频生成模型Helios <a href="https://pku-yuangroup.github.io/Helios-Page/">↗</a> <code>#3</code></li>
+<li>YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra <a href="https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra">↗</a> <code>#4</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Cursor正式登陆JetBrains IDE <a href="https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/">↗</a> <code>#5</code></li>
+<li>Antigravity 提升非高峰期用户配额 <a href="https://x.com/antigravity/status/2029316448351625692">↗</a> <code>#6</code></li>
+<li>Mistral发布Vibe 2.3.0版 新增网络搜索等功能 <a href="https://x.com/MistralDevs/status/2029237076965597567">↗</a> <code>#7</code></li>
+<li>OpenAI上线Symphony开源项目 <a href="https://github.com/openai/symphony">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Google AI Mode 上线 Canvas 功能 <a href="https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/">↗</a> <code>#9</code></li>
+<li>NotebookLM发布Cinematic Video Overviews视频生成更新 <a href="https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/">↗</a> <code>#10</code></li>
+<li>OpenAI 集成 Codex 升级 Prism 平台 <a href="https://x.com/OpenAI/status/2029273685388083489">↗</a> <code>#11</code></li>
+<li>Raycast发布AI对话构建桌面应用工具Glaze <a href="https://www.raycast.com/blog/introducing-glaze">↗</a> <code>#12</code></li>
+<li>Grok推出定制智能体功能 <a href="https://x.com/techdevnotes/status/2029334905176330667">↗</a> <code>#13</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>高德纳验证 Claude 攻克图论难题 <a href="https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf">↗</a> <code>#14</code></li>
+<li>Black Forest Labs联合MIT研究人员发布多模态生成模型Self-Flow研究 <a href="https://bfl.ai/research/self-flow">↗</a> <code>#15</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>火山引擎公布Seedance2.0视频生成服务定价 <code>#16</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Claude Code 即将推出 Auto Mode 权限模式 <a href="https://x.com/altryne/status/2029260964655411412">↗</a> <code>#17</code></li>
+<li>据称OpenAI研发代码托管平台以替代GitHub <a href="https://www.theinformation.com/articles/openai-developing-alternative-microsofts-github">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2><a href="https://developers.openai.com/wendows">OpenAI面向Windows正式发布Codex应用并开源原生Agent沙盒</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正式发布 Windows 版 Codex 应用，用户可通过 <strong>Microsoft Store</strong> 下载。该应用支持原生运行及 <code>WSL</code> 环境，并集成了 <code>PowerShell</code> 等多种终端。此次更新构建了首个 Windows 原生 Agent 沙盒，并已在 <strong>GitHub</strong> 开源。同时，Windows 版本新增了 <code>WinUI</code> 和 <code>ASP.NET</code> 专属技能。此外，官方修复了 <strong>Plus</strong> 和 <strong>Pro</strong> 用户 Rate Limit 未正确生效的问题，并重置了所有 <strong>Plus</strong> 和 <strong>Pro</strong> 用户的速率限制。</p>
+</blockquote>
+<p>OpenAI正式发布Windows版<strong>Codex</strong>应用，用户现可通过<strong>Microsoft Store</strong>获取。该应用支持原生运行及<code>WSL</code>环境，并集成了<code>PowerShell</code>、<code>Git Bash</code>等主流终端。此次更新引入了首个Windows原生Agent沙盒，利用系统级控制严格限制AI仅能在指定目录写入且默认阻断对外网络，该沙盒代码已在<strong>GitHub</strong>开源。<br>
+同时，新版本新增<strong>Handoff</strong>工作流，Windows版新增专属<code>WinUI</code>和<code>ASP.NET</code>技能。<br>
+此外，官方今天早上修复了 <strong>Plus</strong> 和 <strong>Pro</strong> 用户 <strong>Rate Limit</strong> 未正确生效的问题，并重置了所有 <strong>Plus</strong> 和 <strong>Pro</strong> 用户的速率限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/bf204566-6b95-43e6-ac62-1c19ae895a50/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/bf204566-6b95-43e6-ac62-1c19ae895a50/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/bf204566-6b95-43e6-ac62-1c19ae895a50/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/wendows">https://developers.openai.com/wendows</a></li>
+<li><a href="https://github.com/openai/codex/tree/main/codex-rs/windows-sandbox-rs">https://github.com/openai/codex/tree/main/codex-rs/windows-sandbox-rs</a></li>
+<li><a href="https://x.com/embirico/status/2029328374171308273">https://x.com/embirico/status/2029328374171308273</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2028995695425011949">https://x.com/OpenAIDevs/status/2028995695425011949</a></li>
+</ul>
+<hr>
+<h2><a href="https://minimaxi.com/news/music-25-%E8%A7%A3%E9%94%81%E7%BA%AF%E9%9F%B3%E4%B9%90%E7%AA%81%E7%A0%B4%E9%A3%8E%E6%A0%BC%E8%BE%B9%E7%95%8C">MiniMax发布Music 2.5+纯音乐创作模型</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 正式宣布其 <code>Music 2.5+</code> 模型上线纯音乐创作能力，支持从古典管弦到现代电子等多元风格，并针对笛子、古筝等中国乐器进行了深度优化。</p>
+</blockquote>
+<p>MiniMax宣布其 <strong>Music 2.5+</strong> 模型正式上线纯音乐创作功能，将业务从歌曲生成延展至无需人声的纯音乐领域。该模型采用单一架构，支持从自然声景到复杂多轨编排的处理，涵盖古典、电子等多元风格，适配冥想、影视配乐等场景。官方称，模型具备跨风格融合能力，且对中国传统乐器如笛子、琵琶、古筝有深度优化，生成音乐具备丰富的和声层次。目前，该功能已通过官网及<code>API</code>接口向用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/dc390a3c-d9ac-4686-8054-83c219c19ffb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://minimaxi.com/news/music-25-%E8%A7%A3%E9%94%81%E7%BA%AF%E9%9F%B3%E4%B9%90%E7%AA%81%E7%A0%B4%E9%A3%8E%E6%A0%BC%E8%BE%B9%E7%95%8C">https://minimaxi.com/news/music-25-%E8%A7%A3%E9%94%81%E7%BA%AF%E9%9F%B3%E4%B9%90%E7%AA%81%E7%A0%B4%E9%A3%8E%E6%A0%BC%E8%BE%B9%E7%95%8C</a></li>
+</ul>
+<hr>
+<h2><a href="https://pku-yuangroup.github.io/Helios-Page/">北大字节Canva联合团队发布14B视频生成模型Helios</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>北京大学</strong>、<strong>字节跳动</strong>与<strong>Canva</strong>联合团队发布了14B参数视频生成模型<code>Helios</code>，支持分钟级长视频生成。目前，<code>Helios</code>的代码及模型权重已开源。</p>
+</blockquote>
+<p><strong>北京大学</strong>、<strong>字节跳动</strong>与 <strong>Canva</strong> 联合团队发布 14B 参数自回归扩散视频模型 <strong>Helios</strong>。官方数据显示，该模型在单张 <strong>H100</strong> GPU 上实现 <strong>19.5</strong> FPS 实时推理，支持分钟级长视频生成。<strong>Helios</strong> 架构效率极高，不依赖 <code>KV-cache</code> 等加速技术，计算成本相当于甚至低于 <strong>1.3B</strong> 模型。通过训练阶段显式模拟漂移现象，模型有效解决了长视频画面漂移问题。其原生支持 <code>T2V</code>、<code>I2V</code> 和 <code>V2V</code> 任务，目前代码、基础及蒸馏模型已全面开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/206c2455-a941-4741-9408-56d78bcb1935/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://pku-yuangroup.github.io/Helios-Page/">https://pku-yuangroup.github.io/Helios-Page/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra">YuanLab.ai开源万亿参数多模态模型Yuan3.0 Ultra</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>浪潮信息</strong> <strong>YuanLab.ai</strong> 团队开源发布 <strong>Yuan 3.0 Ultra</strong> 万亿参数多模态大模型，该模型具备强大的复杂表格理解与智能体工具调用能力，目前模型权重已发布，并全面支持商用。</p>
+</blockquote>
+<p><strong>浪潮信息</strong> <strong>YuanLab.ai</strong> 正式开源 <strong>Yuan3.0 Ultra</strong> 万亿参数多模态大模型，使其成为全球仅有的三个同级开源模型之一。该模型采用混合专家架构，通过创新的 <code>LAEP</code> 算法将训练参数优化至 <strong>1010B</strong>（激活 <strong>68.8B</strong>），预训练效率提升 <strong>49%</strong>；引入 <code>LFA</code> 机制与改进的反思抑制奖励机制，有效缓解“过度思考”，训练准确率提升 <strong>16.33%</strong>。</p>
+<p>官方数据显示，该模型在 <strong>DocMatix</strong>、<strong>ChatRAG</strong> 等多项企业级基准测试中表现优于 <strong>GPT-4o</strong>，具备强大的复杂文档理解及智能体调用能力。目前，该模型已在 <strong>HuggingFace</strong> 等平台上线，提供 <code>16bit</code> 及 <code>int4</code> 版本，支持 <strong>64K</strong> 上下文及商用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/f8defa4a-84fd-4e02-b40e-2bf5fb47454e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra">https://github.com/Yuan-lab-LLM/Yuan3.0-Ultra</a></li>
+<li><a href="https://huggingface.co/YuanLabAI/Yuan3.0-Ultra">https://huggingface.co/YuanLabAI/Yuan3.0-Ultra</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/">Cursor正式登陆JetBrains IDE</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 现已通过 <code>ACP</code> 协议正式登陆 <strong>JetBrains</strong> IDE，开发者可在 <strong>IntelliJ IDEA</strong> 和 <strong>PyCharm</strong> 等环境中直接调用 <strong>Cursor</strong> 的 AI 智能体工作流。</p>
+</blockquote>
+<p>Cursor 官方宣布通过 <code>Agent Client Protocol (ACP)</code> 正式登陆 JetBrains IDE，支持 <strong>IntelliJ IDEA</strong>、<strong>PyCharm</strong> 等环境。此次集成将 <strong>Cursor</strong> 的 AI 智能体工作流与 JetBrains 代码智能结合，支持多前沿模型及安全代码库索引。</p>
+<p>用户需将 IDE 更新至 <strong>2025.3.2</strong> 或更高版本，通过 <code>ACP Registry</code> 安装并使用现有 <strong>Cursor</strong> 付费账户认证即可使用，无需 JetBrains AI 订阅。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/">https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/</a></li>
+<li><a href="https://cursor.com/blog/jetbrains-acp">https://cursor.com/blog/jetbrains-acp</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/antigravity/status/2029316448351625692">Antigravity 提升非高峰期用户配额</a> <code>#6</code></h2>
+<blockquote>
+<p>Google Antigravity宣布利用闲置算力提升用户体验，在<strong>太平洋标准时间</strong>午后的非高峰时段，开发者可自动享受更多请求次数。官方表示将持续动态调整该时间窗口。</p>
+</blockquote>
+<p>Google Antigravity 官方宣布一项算力共享举措，旨在利用系统闲置资源提升用户体验。在特定的非高峰时段（目前主要为太平洋标准时间午后晚些时候，约为北京时间早晨到上午时段），用户基准配额将得到延伸。开发者无需升级订阅即可获得更多请求次数。官方表示，未来将随全球需求变化动态调整可用时间窗口，致力于确保开发者拥有充足的算力资源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/08e7fa08-777d-4c13-be02-382ad7515d93/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/antigravity/status/2029316448351625692">https://x.com/antigravity/status/2029316448351625692</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/MistralDevs/status/2029237076965597567">Mistral发布Vibe 2.3.0版 新增网络搜索等功能</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Mistral</strong> 发布 <strong>Vibe 2.3.0</strong> 版本，新增联网搜索、Ping 通知及会话恢复功能。用户现在能在对话中途直接抓取网络内容，并随时恢复历史会话。</p>
+</blockquote>
+<p><strong>Mistral</strong> 正式发布 <strong>Vibe 2.3.0</strong> 版本，重点引入 <code>Web Search</code>、<code>Ping</code> 通知及会话恢复功能。此次更新支持用户在会话中途直接查询抓取网络内容，并可接收 <code>Ping</code> 通知及恢复任意历史会话。官方表示该工具将持续快速迭代，后续将上线更多新特性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/74cd9766-169c-49f4-992e-2935198c858c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/MistralDevs/status/2029237076965597567">https://x.com/MistralDevs/status/2029237076965597567</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openai/symphony">OpenAI上线Symphony开源项目</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 在 GitHub 上开源了 Agent 编排系统 <strong>Symphony</strong>，该系统能够监控 <code>Linear</code> 等看板的变动，自动调度 Agent 完成从编码、测试到合并 PR 的全流程。</p>
+</blockquote>
+<p>OpenAI在GitHub上发布了开源项目<strong>Symphony</strong>，这是一个旨在将项目工作转化为隔离且自主运行的系统。作为编排层，<strong>Symphony</strong>允许团队通过管理任务替代对编码<code>Agent</code>的直接监督。官方演示显示，该系统可监控<code>Linear</code>看板变化，自动生成<code>Agent</code>处理任务，并提供包含<code>CI</code>状态、<code>PR</code>审查反馈及演示视频在内的完整工作证明，最终在获准后安全合并<code>PR</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/f3d46c12-c15a-412d-b4da-ed7492bfe69d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openai/symphony">https://github.com/openai/symphony</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/">Google AI Mode 上线 Canvas 功能</a> <code>#9</code></h2>
+<blockquote>
+<p>Google 向所有美国用户开放 AI Mode 中的 <code>Canvas</code> 功能，这是一个集成在搜索侧边栏的动态工作空间。</p>
+</blockquote>
+<p>Google正式向所有美国英语用户开放AI Mode中的<strong>Canvas</strong>功能。该功能现已集成于<strong>Google Search</strong>侧边栏，支持结合<strong>Knowledge Graph</strong>进行深度研究、文档起草及代码编写，并能将创意转化为可交互应用。用户可通过与<strong>Gemini</strong>对话实时优化项目，或利用其将报告转化为网页及音频。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/1b7e2ebe-43e0-46b8-ac3d-2a909d6271a8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/">https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/">NotebookLM发布Cinematic Video Overviews视频生成更新</a> <code>#10</code></h2>
+<blockquote>
+<p>NotebookLM 正式上线 <strong>Cinematic Video Overviews</strong> 功能，能根据用户素材自动生成叙事连贯、视觉丰富的沉浸式视频。目前该功能已向 <strong>Google AI Ultra</strong> 订阅用户完成全量推送，<strong>Pro</strong> 用户上线时间尚未确定。</p>
+</blockquote>
+<p>NotebookLM 正式推出 <strong>“Cinematic Video Overviews”</strong> 功能，将 AI 视频生成从简单的幻灯片升级为定制化沉浸式大片。该功能整合 <code>Gemini 3</code>、<code>Nano Banana Pro</code> 和 <code>Veo 3</code> 等模型，由 <code>Gemini</code> 担任“创意总监”，负责脚本撰写与视觉指导，根据用户素材自动生成叙事连贯的精致视频。目前，该功能已向 <strong>Google AI Ultra</strong> 订阅用户（需年满 <strong>18</strong> 岁）完成 <strong>100%</strong> 推送，支持 Web 端和移动端，暂仅支持英语。官方表示 <strong>Pro</strong> 用户已在路线图中，但尚未承诺具体上线时间。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/55580066-2070-4a5b-b1d9-46364820fc4d/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/">https://blog.google/innovation-and-ai/products/notebooklm/generate-your-own-cinematic-video-overviews-in-notebooklm/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAI/status/2029273685388083489">OpenAI 集成 Codex 升级 Prism 平台</a> <code>#11</code></h2>
+<blockquote>
+<p>OpenAI 宣布将基于 <strong>GPT-5.3</strong> 的 <code>Codex harness</code> 集成至科学写作平台 <strong>Prism</strong>，使用户能在 <code>LaTeX</code> 环境中直接进行计算、分析与迭代，打造“可执行手稿”。</p>
+</blockquote>
+<p>OpenAI 宣布已将基于 <code>GPT-5.3</code> 模型的 <code>Codex harness</code> 集成至科学写作平台 <code>Prism</code>，旨在打造集写作、计算与分析于一体的“可执行手稿”环境。此次更新增强了上下文处理能力，并新增了版本管理功能。未来团队计划增加更多研究工作流连接器。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/febd336f-cc94-4c1e-bb0f-b2ea01bd608f/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAI/status/2029273685388083489">https://x.com/OpenAI/status/2029273685388083489</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.raycast.com/blog/introducing-glaze">Raycast发布AI对话构建桌面应用工具Glaze</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Raycast</strong> 发布新品 <strong>Glaze</strong>，这是一款通过 <code>AI</code> 对话在数分钟内构建 Mac 桌面应用的工具，生成的原生应用支持离线运行及系统级权限调用。</p>
+</blockquote>
+<p><strong>Raycast</strong> 正式发布新产品 <strong>Glaze</strong>，这是一款支持通过 <strong>AI</strong> 对话在数分钟内创建桌面应用的工具。目前 <strong>Glaze</strong> 处于私密测试阶段，初期仅支持 <strong>Mac</strong> 平台。官方强调，<strong>Glaze</strong> 生成的是运行在本地的“真正的桌面应用”，具备离线工作、即时启动、文件系统访问及菜单栏集成等原生特性，而非基于 Web 的封装。此外，该产品提供公共商店与团队私有商店，允许用户安装并微调现有应用。官方透露，<strong>Glaze</strong> 未来将与 <strong>4</strong> 月发布的新版 <strong>Raycast</strong> 深度集成，现有用户将很快获得优先访问权。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/9a149054-c61b-4f85-a696-b00fcaafcf09/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.raycast.com/blog/introducing-glaze">https://www.raycast.com/blog/introducing-glaze</a></li>
+<li><a href="https://glazeapp.com/">https://glazeapp.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/techdevnotes/status/2029334905176330667">Grok推出定制智能体功能</a> <code>#13</code></h2>
+<blockquote>
+<p>Grok Web 平台新增开关即可在 <strong>Expert mode</strong> 中启用 <strong>Grok 4.20 Beta</strong>。同时，平台还上线了 <strong>Custom Agents</strong> 功能，允许基于 <code>Grok 4.20</code> 构建定制化智能体。</p>
+</blockquote>
+<p>Grok Web 平台近期更新，界面新增 <strong>Grok 4.20 Beta</strong> 切换开关。启用该选项后，Expert mode 将调用 <code>Grok 4.20</code> 模型运行。此外，平台 Agent 定制能力增强，现已支持创建基于 <code>Grok 4.20</code> 的 Custom Agents，允许用户利用该版本构建个性化智能体。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/85448d1f-3e69-4088-893d-f49cfd0d9bc9/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/85448d1f-3e69-4088-893d-f49cfd0d9bc9/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/techdevnotes/status/2029334905176330667">https://x.com/techdevnotes/status/2029334905176330667</a></li>
+<li><a href="https://x.com/techdevnotes/status/2029250328307077454">https://x.com/techdevnotes/status/2029250328307077454</a></li>
+</ul>
+<hr>
+<h2><a href="https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf">高德纳验证 Claude 攻克图论难题</a> <code>#14</code></h2>
+<blockquote>
+<p>计算机科学泰斗 <strong>Donald Knuth</strong> 发布论文《Claude's Cycles》，证实 <strong>Claude Opus 4.6</strong> 成功攻克了一道困扰其数周的三维网格图论难题。Knuth 直言这代表生成式 AI 在自动推理与创造性问题求解能力上的戏剧性跃升</p>
+</blockquote>
+<p>计算机泰斗<strong>高德纳</strong>发表论文《Claude's Cycles》，记录了<strong>Anthropic</strong>模型<code>Claude Opus 4.6</code>攻克一道三维网格图论难题的经过。该问题旨在寻找互不相交的哈密顿环，<code>Claude Opus 4.6</code>历经<strong>31</strong>次试错，利用“纤维分解”及“bump”规则发现了适用于奇数m的通用解法。<strong>高德纳</strong>验证了该解法的正确性，并指出存在<strong>760</strong>种变体。<strong>高德纳</strong>对AI展现出的推理能力表示震惊，认为这标志着AI在数学创造性求解领域的重大进步，预示着“人类提问、AI探索、人类证明”的新研究模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/7a258a84-ffd3-43b9-aade-55b8f14770f7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf">https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</a></li>
+</ul>
+<hr>
+<h2><a href="https://bfl.ai/research/self-flow">Black Forest Labs联合MIT研究人员发布多模态生成模型Self-Flow研究</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Black Forest Labs</strong> 联合 <strong>MIT</strong> 发布 <strong>Self-Flow</strong> 研究预览，这是一种利用自监督流匹配技术、无需依赖外部模型即可端到端训练的多模态生成架构。</p>
+</blockquote>
+<p><strong>Black Forest Labs</strong> 联合 <strong>MIT</strong> 发布 <strong>Self-Flow</strong> 研究预览，这是一种基于自监督流匹配技术的多模态生成架构。该架构支持图像、视频、音频和文本的端到端学习，旨在摆脱对外部表示学习模型的依赖。性能方面，其跨模态收敛速度提升高达 <strong>2.8</strong> 倍，显著改善了视频时间一致性及图像文本渲染精度。<strong>Self-Flow</strong> 计划进一步整合视觉扩展能力与语义抽象，以推进世界模型的开发。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/8fffe944-2ad5-487f-8f98-d2c70ed97b36/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://bfl.ai/research/self-flow">https://bfl.ai/research/self-flow</a></li>
+</ul>
+<hr>
+<h2>火山引擎公布Seedance2.0视频生成服务定价 <code>#16</code></h2>
+<blockquote>
+<p>火山引擎正式公布 <strong>Seedance 2.0</strong> 视频生成服务 API 定价，依据是否包含视频输入分为两档，纯生视频服务因算力消耗较高，定价为 <strong>46元</strong> 每百万 <code>tokens</code>，视频编辑服务则为 <strong>28元</strong> 每百万 <code>tokens</code>。</p>
+</blockquote>
+<p>据火山引擎官网信息，<strong>Seedance2.0</strong>生成视频服务定价正式公布。依据应用场景分为两档：包含视频输入的视频编辑服务为 <strong>28元/百万tokens</strong>；不含视频输入的纯生视频服务因算力消耗更高，定价为 <strong>46元/百万tokens</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/f581215f-9e89-4f49-9a2d-8a2b7a6a5e10/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/altryne/status/2029260964655411412">Claude Code 即将推出 Auto Mode 权限模式</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 计划于 <strong>3 月 11 日</strong>后推出研究预览版的 <code>auto mode</code> 权限模式。该功能允许 <strong>Claude</strong> 在编程中自主处理权限决策，被视为 <code>yolo</code> 模式的更安全替代方案。</p>
+</blockquote>
+<p><strong>Claude Team</strong> 宣布 <strong>Claude Code</strong> 即将推出“auto mode”研究预览版（官方邮件显示不早于 <strong>3月11日</strong>）。该模式允许 <strong>Claude</strong> 自主处理权限决策，以支持无需频繁手动审批的长时段任务，被视为 <code>--dangerously-skip-permissions</code> 参数的更安全替代方案。</p>
+<p>官方强调，该模式虽内置针对提示词注入的防护，但无法捕捉所有风险，建议仅在隔离环境中使用。此外，启用该功能将导致 <code>Token</code> 消耗、成本及延迟轻微增加。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d7051e67-f482-4449-b2bd-2d55668614a9/89d81b95-290c-49a7-ae7c-2d421fe8daed/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/altryne/status/2029260964655411412">https://x.com/altryne/status/2029260964655411412</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/articles/openai-developing-alternative-microsofts-github">据称OpenAI研发代码托管平台以替代GitHub</a> <code>#18</code></h2>
+<blockquote>
+<p>据 The Information 报道，<strong>OpenAI</strong> 正在开发一款代码托管平台以替代 <strong>GitHub</strong>，起因是 <strong>GitHub</strong> 频繁的服务中断严重干扰了开发效率。<strong>OpenAI</strong> 内部已在讨论将其商业化。</p>
+</blockquote>
+<p>据 The Information 援引知情人士消息，<strong>OpenAI</strong> 正在开发一款代码托管平台以替代 <strong>GitHub</strong>。此举直接源于近期 <strong>GitHub</strong> 服务频繁中断，可用性一度跌破 <strong>90%</strong>，严重干扰 <strong>OpenAI</strong> 开发效率。目前该项目处于早期阶段，预计需数月完成。虽初衷为减少外部依赖，但内部正讨论将其商业化的可能性。若推出，该平台将深度集成 <code>Codex</code> 等编程代理，升级为“超级 AI 开发环境”。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/openai-developing-alternative-microsofts-github">https://www.theinformation.com/articles/openai-developing-alternative-microsofts-github</a></li>
+<li><a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-developing-alternative-to-microsofts-github-the-information/articleshow/129000369.cms">https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-is-developing-alternative-to-microsofts-github-the-information/articleshow/129000369.cms</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/16</guid><pubDate>Thu, 05 Mar 2026 01:22:54 +0000</pubDate></item><item><title>2026-03-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-15/</link><description>AI 早报 2026-03-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI发布GPT-5.3 Instant模型 ↗ #1 Google推出Gemini 3.1 Flash-Lite预览版 ↗ #2 xAI发布Grok 4.20 Beta 2模型更新 ↗ #3 开发生态 Anthropic推出Claude Code语音模式 ↗ #4 Codex 推出语音转写与ChatGPT app技能 ↗ #5 Codex 为部分Plus用户提供GPT-5.3-Codex-Spark ↗ #6 Codex 修复故障重置速率 ↗ #7 Cursor推出2.6版本，新增Agent交互界面 ↗ #8 产品应用 谷歌NotebookLM推出信息图自定义样式功能 ↗ #9 Grok更新视频延长功能至30秒 ↗…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260304/202603040922044643831c6f_cover_c394.png" alt=""></p>
 <h1>AI 早报 2026-03-04</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1yEPNzJEDw">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=v6xc7243Mu0">YouTube</a></p>
 <h2>概览</h2>
