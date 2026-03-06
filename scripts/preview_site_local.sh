@@ -23,6 +23,9 @@ usage() {
   cat <<'EOF'
 Usage: scripts/preview_site_local.sh [options]
 
+Default behavior:
+  generate and serve a local preview
+
 Options:
   --owner <owner>       GitHub owner for isite generate (default: imjuya)
   --repo <repo>         GitHub repo for isite generate (default: juya-ai-daily)
@@ -249,6 +252,7 @@ case "${BUILD_MODE}" in
     mkdir -p "${OUTPUT_DIR}/static"
     cp -r static/. "${OUTPUT_DIR}/static/"
     test -f "${OUTPUT_DIR}/static/custom.css"
+    test -f "${OUTPUT_DIR}/static/custom.js"
 
     (
       cd "${OUTPUT_DIR}"
@@ -257,7 +261,7 @@ case "${BUILD_MODE}" in
     ;;
   skip)
     if [[ ! -d "${OUTPUT_DIR}/public" ]]; then
-      echo "output/public not found. Run with --snapshot-live or without --skip-generate first." >&2
+      echo "output/public not found. Run with --snapshot-live or set BUILD_MODE=generate first." >&2
       exit 1
     fi
     ;;
@@ -273,18 +277,25 @@ esac
 mkdir -p "${OUTPUT_DIR}/public"
 cp static/custom.css "${OUTPUT_DIR}/public/custom.css"
 test -f "${OUTPUT_DIR}/public/custom.css"
+cp static/custom.js "${OUTPUT_DIR}/public/custom.js"
+test -f "${OUTPUT_DIR}/public/custom.js"
 
 CSS_HREF="${BASE_URL%/}/custom.css"
-# 改进的 JS 热重载代码：后台拉取 CSS 内容，对比有没有变化，只有发生变化时才更新 href，防止屏幕一直闪烁
-LIVERELOAD_SCRIPT='<script id="css-live-reload">let lastCss="";setInterval(async()=>{try{const link=Array.from(document.querySelectorAll("link[rel=stylesheet]")).find(l=>l.href.includes("custom.css"));if(!link)return;const res=await fetch(link.href.split("?")[0]+"?t="+Date.now());const text=await res.text();if(lastCss&&lastCss!==text){link.href=link.href.split("?")[0]+"?t="+Date.now();}lastCss=text;}catch(e){}},1000);</script>'
+JS_SRC="${BASE_URL%/}/custom.js"
+# 轮询静态资源：CSS 变更时热替换，JS 变更时自动刷新页面
+LIVERELOAD_SCRIPT='<script id="css-live-reload">let lastCss="";let lastJs="";const bust=u=>u.split("?")[0]+"?t="+Date.now();setInterval(async()=>{try{const cssLink=Array.from(document.querySelectorAll("link[rel=stylesheet]")).find(l=>l.href.includes("custom.css"));const jsScript=Array.from(document.querySelectorAll("script[src]")).find(s=>s.src.includes("custom.js"));if(cssLink){const res=await fetch(bust(cssLink.href));const text=await res.text();if(lastCss&&lastCss!==text){cssLink.href=bust(cssLink.href);}lastCss=text;}if(jsScript){const res=await fetch(bust(jsScript.src));const text=await res.text();if(lastJs&&lastJs!==text){location.reload();return;}lastJs=text;}}catch(e){}},1000);</script>'
 
 while IFS= read -r html_file; do
-  if ! rg -q 'href="[^"]*custom\.css"' "${html_file}"; then
+  if ! grep -qE 'href="[^"]*custom\.css"' "${html_file}"; then
     sed_inplace "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" "${html_file}"
   fi
   
-  if ! rg -q 'id="css-live-reload"' "${html_file}"; then
+  if ! grep -qE 'id="css-live-reload"' "${html_file}"; then
     sed_inplace "s|</body>|${LIVERELOAD_SCRIPT}</body>|g" "${html_file}"
+  fi
+
+  if ! grep -qE 'src="[^"]*custom\.js"' "${html_file}"; then
+    sed_inplace "s|</head>|<script defer src=\"${JS_SRC}\"></script></head>|g" "${html_file}"
   fi
 done < <(find "${OUTPUT_DIR}/public" -name "*.html")
 
@@ -293,8 +304,9 @@ rm -rf "${PREVIEW_ROOT:?}/${SITE_SUBPATH:?}"/*
 cp -r "${OUTPUT_DIR}/public/." "${PREVIEW_ROOT}/${SITE_SUBPATH}/"
 
 # 将 custom.css 替换为软链接，指向代码库中的源文件
-# 这样你只修改 static/custom.css 就可以在浏览器里刷新看到生效，无须杀掉重启这个脚本
+# 这样你修改 static/custom.css / static/custom.js 就可以在浏览器里刷新看到生效，无须杀掉重启这个脚本
 ln -sf "${ROOT_DIR}/static/custom.css" "${PREVIEW_ROOT}/${SITE_SUBPATH}/custom.css"
+ln -sf "${ROOT_DIR}/static/custom.js" "${PREVIEW_ROOT}/${SITE_SUBPATH}/custom.js"
 
 echo "Build complete:"
 echo "  ${OUTPUT_DIR}/public"
@@ -302,6 +314,8 @@ echo "Preview root:"
 echo "  ${PREVIEW_ROOT}/${SITE_SUBPATH}"
 echo "Check CSS:"
 echo "  ${PREVIEW_ROOT}/${SITE_SUBPATH}/custom.css"
+echo "Check JS:"
+echo "  ${PREVIEW_ROOT}/${SITE_SUBPATH}/custom.js"
 
 if [[ "${SERVE}" == "1" ]]; then
   echo

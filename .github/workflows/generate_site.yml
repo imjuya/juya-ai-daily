@@ -80,13 +80,17 @@ jobs:
           mkdir -p output/static
           cp -r static/. output/static/
           test -f output/static/custom.css
+          test -f output/static/custom.js
           (cd output && zola build --base-url $BASE_URL)
           test -f output/public/custom.css
+          test -f output/public/custom.js
           test -f output/public/icon.png
           # Inject custom CSS and favicon links into all HTML files
           CSS_HREF="${BASE_URL%/}/custom.css"
           ICON_HREF="${BASE_URL%/}/icon.png"
+          JS_HREF="${BASE_URL%/}/custom.js"
           find output/public -name "*.html" -exec sed -i "s|</head>|<link rel=\"stylesheet\" href=\"${CSS_HREF}\"></head>|g" {} \;
+          find output/public -name "*.html" -exec sed -i "s|</head>|<script defer src=\"${JS_HREF}\"></script></head>|g" {} \;
           find output/public -name "*.html" -exec sed -i "s|</head>|<link rel=\"icon\" type=\"image/png\" href=\"${ICON_HREF}\"><link rel=\"shortcut icon\" href=\"${ICON_HREF}\"></head>|g" {} \;
           # Overwrite zola-generated feed with repository feed from main.py
           cp rss.xml output/public/rss.xml
