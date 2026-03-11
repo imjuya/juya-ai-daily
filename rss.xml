@@ -1,5 +1,386 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 10 Mar 2026 01:23:06 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-21/</link><description>AI 早报 2026-03-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 为 Claude Code 推出 Code Review 自动化审查功能 ↗ #1 模型发布 小红书开源 FireRed-Image-Edit-1.1 图像编辑模型 ↗ #2 小红书 REDtech 发布 REDSearcher 开源深度搜索框架 ↗ #3 开发生态 JetBrains 宣布 Junie CLI 编码助手正式进入 Beta 测试 ↗ #4 吴恩达发布 Context Hub 解决编码 Agent 文档滞后问题 ↗ #5 OpenRouter 推出应用与智能体排名功能引入请求数统计 ↗ #6 Gemini CLI 推出极简模式并将优化工具调用显示机制 ↗ #7 讯飞星辰 MaaS 平台上线 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260310/202603100906419356349b3c_cover_f372.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 11 Mar 2026 01:36:47 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-11</title><link>https://imjuya.github.io/juya-ai-daily/issue-22/</link><description>AI 早报 2026-03-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌发布 Gemini Embedding 2 原生多模态嵌入模型 ↗ #1 Google 升级 Workspace Gemini 功能 ↗ #2 模型发布 Tencent AI Lab 开源 LeVo 2 音乐模型，支持 4 分半全曲生成 ↗ #3 Fish Audio 开源 S2 文本转语音模型 ↗ #4 Hume AI 开源 TADA，基于 Llama 3.2 实现语音语言统一模型 ↗ #5 开发生态 OpenAI 调整 Codex 服务，免费层级移除 gpt-5.4 模型权限 ↗ #6 Claude Code 引入 /btw 命令支持后台任务对话 ↗ #7 JetBrains 上线 Air，支持多 Agent 并行执行…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260311/20260311091150490710e4e4_cover_249e.png" alt=""></p>
+<h1>AI 早报 2026-03-11</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1VacZz6EJ6">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Po8fywml53c">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>谷歌发布 Gemini Embedding 2 原生多模态嵌入模型 <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/">↗</a> <code>#1</code></li>
+<li>Google 升级 Workspace Gemini 功能 <a href="https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Tencent AI Lab 开源 LeVo 2 音乐模型，支持 4 分半全曲生成 <a href="https://github.com/tencent-ailab/SongGeneration">↗</a> <code>#3</code></li>
+<li>Fish Audio 开源 S2 文本转语音模型 <a href="https://huggingface.co/fishaudio/s2-pro">↗</a> <code>#4</code></li>
+<li>Hume AI 开源 TADA，基于 Llama 3.2 实现语音语言统一模型 <a href="https://github.com/HumeAI/tada">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI 调整 Codex 服务，免费层级移除 gpt-5.4 模型权限 <a href="https://x.com/thsottiaux/status/2031216405266481489">↗</a> <code>#6</code></li>
+<li>Claude Code 引入 /btw 命令支持后台任务对话 <a href="https://x.com/trq212/status/2031506296697131352">↗</a> <code>#7</code></li>
+<li>JetBrains 上线 Air，支持多 Agent 并行执行与任务隔离 <a href="https://air.dev/">↗</a> <code>#8</code></li>
+<li>Kilo 发布预发布版 VS Code 扩展，基于 OpenCode 核心重构 <a href="https://blog.kilo.ai/p/we-completely-rebuilt-the-kilo-vs-code-extension">↗</a> <code>#9</code></li>
+<li>Zed 推出高校教育计划，启动 2026 校园大使项目 <a href="https://zed.dev/education">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI 上线 ChatGPT 动态视觉解释功能，覆盖 70 概念 <a href="https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/">↗</a> <code>#11</code></li>
+<li>Claude 移动端应用更新，优化语音模式与大型 Prompt 性能表现 <a href="https://x.com/RobertJBye/status/2031508037161120045">↗</a> <code>#12</code></li>
+<li>Adobe 开放 Photoshop AI 助手 Beta，支持 Web 与移动端应用 <a href="https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop">↗</a> <code>#13</code></li>
+<li>MiroThinker 发布重大更新，会员收费正式全量开放 <code>#14</code></li>
+<li>alphaXiv 上线 SKILL.md，优化 Claude Code 论文读取效率 <a href="https://x.com/askalphaxiv/status/2031120122619060445">↗</a> <code>#15</code></li>
+<li>智谱正式上线 AutoClaw 客户端 <a href="https://mp.weixin.qq.com/s/2cGxfku76z-7SF6FTU7hdA">↗</a> <code>#16</code></li>
+<li>腾讯云 Lighthouse 团队上线 SkillHub 镜像社区 <a href="https://skillhub.tencent.com">↗</a> <code>#17</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>图灵奖得主杨立昆创立 AMI Labs 获 10.3 亿美元融资 <a href="https://amilabs.xyz">↗</a> <code>#18</code></li>
+<li>Thinking Machines Lab 获 Nvidia 投资 <a href="https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/">↗</a> <code>#19</code></li>
+<li>Meta 完成收购 Moltbook 团队并入超级智能实验室 <a href="https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network">↗</a> <code>#20</code></li>
+<li>Dify 完成 3000 万美元 Pre-A 轮融资 <a href="https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents">↗</a> <code>#21</code></li>
+<li>亚马逊电商部门收紧 AI 代码管控，新增人工签字审批 <a href="https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages">↗</a> <code>#22</code></li>
+<li>小红书发布治理公告 打击 AI 托管运营账号行为 <code>#23</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>微信开发内嵌式 AI Agent ，据称计划年中灰度三季度上线 <a href="https://thein.fo/4s2vwy4">↗</a> <code>#24</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/">谷歌发布 Gemini Embedding 2 原生多模态嵌入模型</a> <code>#1</code></h2>
+<blockquote>
+<p>Google发布了首个基于<strong>Gemini</strong>架构的原生多模态Embedding模型<strong>Gemini Embedding 2</strong>，现已通过<strong>Gemini API</strong>和<strong>Vertex AI</strong>开放公开预览。</p>
+<p>该模型支持将文本、图像、音视频等五种模态统一映射至同一向量空间，官方称其在多模态任务中达 SOTA 水平，可实现高效的跨媒体信息检索。</p>
+</blockquote>
+<p>Google 发布首个基于 <strong>Gemini</strong> 架构的原生多模态 Embedding 模型 <strong>Gemini Embedding 2</strong>，现通过 <strong>Gemini API</strong> 与 <strong>Vertex AI</strong> 以 Public Preview 状态开放。该模型将文本、图像、视频、音频及文档统一映射至单一向量空间，支持 100 余种语言，适用于 RAG 及语义搜索等任务。</p>
+<p>技术规格上，模型文本输入上限为 <strong>8192 tokens</strong>，视频支持 <strong>120 秒</strong>，音频无需中间转录。输出维度默认 <strong>3072 维</strong>，可利用 <code>MRL</code> 技术缩放以平衡成本。官方称其在多模态任务中达 SOTA 水平。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/81f5fddc-e840-43c8-922b-ce8e0211f97e/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/81f5fddc-e840-43c8-922b-ce8e0211f97e/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/81f5fddc-e840-43c8-922b-ce8e0211f97e/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-embedding-2/</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/embeddings">https://ai.google.dev/gemini-api/docs/embeddings</a></li>
+<li><a href="https://docs.cloud.google.com/vertex-ai/generative-ai/docs/embeddings/get-multimodal-embeddings">https://docs.cloud.google.com/vertex-ai/generative-ai/docs/embeddings/get-multimodal-embeddings</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026">Google 升级 Workspace Gemini 功能</a> <code>#2</code></h2>
+<blockquote>
+<p>Google 于 <strong>2026 年 3 月 10 日</strong>向 AI Ultra 和 Pro 订阅用户推送了 Workspace 套件的 <code>Gemini</code> 新一轮 Beta 功能。</p>
+<p>此次更新重点强化了办公自动化能力。用户在 <code>Docs</code> 中可直接调用 <code>Gmail</code> 和 <code>Drive</code> 数据生成初稿并统一格式。</p>
+<p>在 <code>Sheets</code> 中，用户可通过自然语言指令创建工作簿并自动填充内容。</p>
+<p>在 <code>Drive</code> 中，则能实现跨文档的智能问答与摘要。</p>
+<p>目前，<code>Docs</code>、<code>Sheets</code> 和 <code>Slides</code> 功能支持全球英语用户，<code>Drive</code> 增强搜索仅限美国地区。</p>
+</blockquote>
+<p>Google 宣布为 <strong>Google Workspace</strong> 推出一系列由 <code>Gemini</code> 驱动的重大更新，旨在让 <strong>Docs</strong>、<strong>Sheets</strong>、<strong>Slides</strong> 和 <strong>Drive</strong> 变得更加个性化、智能且具备协作能力。此次更新以 Beta 形式推出，优先面向 <strong>Google AI Ultra</strong> 和 <strong>Pro</strong> 订阅者开放。</p>
+<p>在 <strong>Google Sheets</strong> 方面，<code>Gemini</code> 在 <code>SpreadsheetBench</code> 数据集上达到了 <strong>70.48%</strong> 的成功率，官方称其表现接近人类专家水平，并引入了“Fill with Gemini”功能以加速数据填充。据 <strong>Google CEO Sundar Pichai</strong> 称，构建复杂表格的速度提升了 <strong>9</strong> 倍。</p>
+<p><strong>Google Docs</strong> 新增了“Help me create”功能，允许用户从 <strong>Drive</strong>、<strong>Gmail</strong> 和网络中选择来源以生成草稿，同时提供了“Match writing style”和“Match doc format”功能以统一文风和格式。</p>
+<p><strong>Google Slides</strong> 增强了幻灯片生成能力，支持生成完全可编辑的布局，并预告了未来通过单一提示词生成整套幻灯片的功能。</p>
+<p>此外，<strong>Google Drive</strong> 变身为主动协作助手，引入“AI Overview”和“Ask Gemini”功能，使用户能通过自然语言搜索并跨文档、邮件及日历获取综合洞察。</p>
+<p>目前，<strong>Docs</strong>、<strong>Sheets</strong> 和 <strong>Slides</strong> 的更新支持全球英语用户，而 <strong>Drive</strong> 的更新仅限于美国地区。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/ab087559-e259-4120-beae-1ee0562db36e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026">https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/tencent-ailab/SongGeneration">Tencent AI Lab 开源 LeVo 2 音乐模型，支持 4 分半全曲生成</a> <code>#3</code></h2>
+<blockquote>
+<p>腾讯 AI Lab 在 GitHub 开源了商业级音乐生成模型 <strong>LeVo 2</strong>，该模型支持最长 <strong>4 分半钟</strong> 的中英西日多语言全曲生成。官方宣称其主观听感已对标头部闭源模型，且歌词准确率优于 <code>Suno v5</code>。</p>
+</blockquote>
+<p><strong>Tencent AI Lab</strong> 在 GitHub 开源 <strong>LeVo 2</strong>（<code>SongGeneration 2</code>）音乐生成模型，定位为面向商业级质量的开源音乐基础模型。  </p>
+<p>当前已开放 <strong>4B</strong> 参数规模的 <code>SongGeneration-v2-large</code> 权重下载，并在 Hugging Face Space 提供在线 Demo。  </p>
+<p>该版本支持最长 <strong>4 分 30 秒</strong> 的全曲生成，覆盖中、英、西、日等多语言歌词。  </p>
+<p>官方宣称其主观听感质量已可对标 <strong>MiniMax Music 2.5</strong> 等头部闭源商业系统。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/69db4fe3-4484-462d-b56e-5fa2d3cc599f/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/69db4fe3-4484-462d-b56e-5fa2d3cc599f/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/tencent-ailab/SongGeneration">https://github.com/tencent-ailab/SongGeneration</a></li>
+<li><a href="https://huggingface.co/spaces/tencent/SongGeneration">https://huggingface.co/spaces/tencent/SongGeneration</a></li>
+<li><a href="https://huggingface.co/collections/lglg666/levo-68d0c3031c370cbfadade126">https://huggingface.co/collections/lglg666/levo-68d0c3031c370cbfadade126</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/fishaudio/s2-pro">Fish Audio 开源 S2 文本转语音模型</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Fish Audio</strong> 发布了文本转语音模型 <code>S2</code>，该模型支持通过自然语言标签进行精细的情感控制、多说话人进行多轮对话以及零样本语音克隆。</p>
+<p>目前模型权重已公开，采用 <strong>Fish Audio Research License</strong>，商用需获授权。</p>
+</blockquote>
+<p>Fish Audio宣布开源文本转语音模型 <strong>S2</strong>。该模型基于 <code>Dual-AR</code> 架构，总参数约 <strong>5B</strong>，在约 <strong>1000万小时</strong> 音频上训练。其支持自然语言标签控制情感韵律，具备多说话人、多轮对话及零样本语音克隆能力。</p>
+<p>据官方数据，<strong>S2</strong> 在多项基准测试中表现领先，部分指标优于 <strong>Google</strong> 和 <strong>OpenAI</strong> 闭源系统。</p>
+<p>目前，模型权重及代码已在 GitHub 和 HuggingFace 公开，采用 <strong>Fish Audio Research License</strong> 授权，允许非商业用途。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/4c403ce2-6462-4f41-9360-a1c1b457785b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/fishaudio/s2-pro">https://huggingface.co/fishaudio/s2-pro</a></li>
+<li><a href="https://fish.audio/blog/fish-audio-open-sources-s2/">https://fish.audio/blog/fish-audio-open-sources-s2/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/HumeAI/tada">Hume AI 开源 TADA，基于 Llama 3.2 实现语音语言统一模型</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Hume AI</strong> 开源发布了基于 <code>Llama 3.2</code> 的语音语言统一模型 <strong>TADA</strong>，提供 <strong>1B</strong> 英文版与 <strong>3B</strong> 多语言版，支持中文及语音续写。</p>
+</blockquote>
+<p>Hume AI 在 <strong>2026 年 3 月 10 日</strong> 开源发布 <strong>TADA</strong>（Text-Acoustic Dual Alignment），这是一款基于 <code>Llama 3.2</code> 的语音-语言统一模型。</p>
+<p>该模型通过 1:1 的文本-音频 token 对齐机制，实现文本到语音（TTS）合成与语音续写功能。</p>
+<p><strong>TADA</strong> 在 GitHub 与 Hugging Face 同步上线，提供 <strong>1B</strong> 英文版与 <strong>3B</strong> 多语言版两个参数规模，支持本地部署与云端推理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/f53587fa-3c1f-4666-8781-5970f1be3b44/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/HumeAI/tada">https://github.com/HumeAI/tada</a></li>
+<li><a href="https://www.hume.ai/blog/opensource-tada">https://www.hume.ai/blog/opensource-tada</a></li>
+<li><a href="https://huggingface.co/spaces/HumeAI/tada">https://huggingface.co/spaces/HumeAI/tada</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/thsottiaux/status/2031216405266481489">OpenAI 调整 Codex 服务，免费层级移除 gpt-5.4 模型权限</a> <code>#6</code></h2>
+<blockquote>
+<p>OpenAI 于 <strong>2026年3月10日</strong> 调整 Codex 服务策略，移除了免费层级对 <code>gpt-5.4</code> 及 <code>5.3-codex</code> 模型的调用权限。免费用户现仅能使用 <code>gpt-5.2</code> 及更早版本，而付费账户不受影响。</p>
+<p>此外，官方已在 <strong>3月10日中午</strong> 修复了导致服务无响应的挂起故障，并重置了速率限制。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 于 <strong>2026 年 3 月 10 日</strong> 起调整 Codex 服务，移除免费层级对 <code>gpt-5.4</code> 及 <code>gpt-5.3-codex</code> 模型的调用权限，付费层级未受影响。免费用户仅能使用 <code>gpt-5.2</code> 等旧版模型。</p>
+<p>此外，<strong>OpenAI</strong> 于北京时间 <strong>3 月 10 日</strong> 中午修复了导致 Codex 请求无响应的挂起故障，并重置了速率限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/07124281-f9db-4d34-b68b-27eba6fc9128/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/07124281-f9db-4d34-b68b-27eba6fc9128/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2031216405266481489">https://x.com/thsottiaux/status/2031216405266481489</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2031506296697131352">Claude Code 引入 /btw 命令支持后台任务对话</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 推出了 <code>btw</code> 命令，允许用户在 AI 执行后台任务时进行支线对话。该功能复用上下文缓存，能在不中断主工作流的前提下快速回答简短问题，但不支持工具调用且不写入主记录。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 引入了 <code>/btw</code> 命令，允许用户在 <strong>Claude</strong> 执行后台任务时进行“支线对话”。用户可通过界面叠加层发起提问，该功能拥有当前会话的完整上下文，但不会写入主对话历史，也不支持工具调用，仅限单轮交互。</p>
+<p>这一设计旨在解决等待任务时的交互痛点，通过复用父对话的提示缓存以优化计算成本。消息不输入主数据流，仅用于处理基于现有上下文的简短问答。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/b2923197-6dcd-4b9f-bffd-2bec1b36038c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2031506296697131352">https://x.com/trq212/status/2031506296697131352</a></li>
+</ul>
+<hr>
+<h2><a href="https://air.dev/">JetBrains 上线 Air，支持多 Agent 并行执行与任务隔离</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>JetBrains</strong> 发布了多 Agent 并行开发工具 <strong>Air</strong>，支持 <code>Codex</code>、<code>Claude</code>、<code>Gemini</code> CLI 与 <code>Junie</code> 在独立的 Docker 或 Git Worktree 环境中互不干扰地同时运行。</p>
+<p>该工具目前已开放 macOS 版。</p>
+</blockquote>
+<p><strong>JetBrains</strong> 推出多 Agent 并行开发工具 <strong>Air</strong> Preview 版。该工具支持 <code>Codex</code>、<code>Claude Agent</code>、<code>Gemini CLI</code> 与 <code>Junie</code> 在同一工作流中独立运行。</p>
+<p>其核心采用“任务级隔离”机制，用户指定任务后，可通过 <code>Local Workspace</code>、<code>Git Worktree</code> 或 <code>Docker</code> 容器配置独立环境，实现互不干扰的并行执行及代码审查。</p>
+<p>目前 <strong>Air</strong> 已开放免费试用，现有版本或仅支持 <strong>macOS</strong>，<strong>Windows</strong> 与 <strong>Linux</strong> 支持待上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/297784af-e5c1-42d1-982d-a23731b78c0c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://air.dev/">https://air.dev/</a></li>
+<li><a href="https://jb.gg/4dhmrw">https://jb.gg/4dhmrw</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.kilo.ai/p/we-completely-rebuilt-the-kilo-vs-code-extension">Kilo 发布预发布版 VS Code 扩展，基于 OpenCode 核心重构</a> <code>#9</code></h2>
+<blockquote>
+<p>Kilo 发布了完全重构的 VS Code 扩展 pre-release 版本，基于 <code>OpenCode server</code> 开源核心实现了跨平台会话同步。</p>
+</blockquote>
+<p>Kilo 发布重构版 <strong>Kilo Code</strong> VS Code 扩展 pre-release。新版本基于 <code>OpenCode server</code> 构建，与 CLI 共享可移植引擎，不再依赖 VS Code 内部实现。</p>
+<p>核心引入子代理委托与并行执行，支持并发调用及多角色协同；<strong>Agent Manager</strong> 集成 <code>diff</code> 审查与 <code>git-worktree</code> 隔离，支持多模型对比。跨平台会话实现了 CLI 与 VS Code 的无缝衔接。</p>
+<p>该扩展已上线 Marketplace，官方称稳定可用但以 pre-release 收集反馈。目前 UI 暂不支持 Provider 配置，需通过 CLI 设置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/af984d5c-f2eb-49b2-b2fa-358036ed8041/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.kilo.ai/p/we-completely-rebuilt-the-kilo-vs-code-extension">https://blog.kilo.ai/p/we-completely-rebuilt-the-kilo-vs-code-extension</a></li>
+</ul>
+<hr>
+<h2><a href="https://zed.dev/education">Zed 推出高校教育计划，启动 2026 校园大使项目</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Zed</strong> 正式面向全球高校师生推出 <strong>Zed for Students</strong> 教育计划及校园大使项目。</p>
+<p>身份有效的教师和学生现可申请获得为期一年的 <strong>Zed Pro</strong> 订阅及每月 AI 额度。</p>
+</blockquote>
+<p><strong>Zed</strong> 面向全球高校师生推出“<strong>Zed for Students</strong>”教育计划及 <strong>2026</strong> 年度 <strong>Campus Ambassador</strong> 校园大使项目，两项计划现已开放申请且未设截止期限。</p>
+<p>教育计划为在读师生提供为期 <strong>12</strong> 个月的 <strong>Zed Pro</strong> 订阅、每月 <strong>10</strong> 美元 token credits 及无限制 edit predictions 权限，申请入口位于官网教育页面。</p>
+<p>大使项目招募本科及硕士生，要求申请者须为 <strong>Zed</strong> 用户，并承诺每年主办至少 <strong>3</strong> 场活动。入选者将获活动预算、独家社区及导师支持等资源，需承担建立校园组织及推广职责，通过 <code>Google Forms</code> 提交申请。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/3fd6bc83-c10e-4d58-8205-4b41e3186a76/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zed.dev/education">https://zed.dev/education</a></li>
+<li><a href="https://zed.dev/education/zed-campus-ambassador">https://zed.dev/education/zed-campus-ambassador</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/">OpenAI 上线 ChatGPT 动态视觉解释功能，覆盖 70 概念</a> <code>#11</code></h2>
+<blockquote>
+<p>OpenAI 在 ChatGPT 中上线了动态视觉解释功能，首批覆盖<strong>勾股定理</strong>、<strong>理想气体方程</strong>等<strong>70多个</strong>数学与科学核心概念。该功能支持用户在对话中通过滑动条实时调整变量，直观观察公式与图形的联动变化，将抽象概念转化为可交互的实验对象。</p>
+</blockquote>
+<p><strong>OpenAI</strong>于<strong>2026年3月6日</strong>在<strong>ChatGPT</strong>中上线“动态视觉解释功能”。首批覆盖超过<strong>70</strong>个数学与科学核心概念，面向全球所有已登录用户开放，涵盖免费与付费订阅计划。</p>
+<p>该功能在对话中嵌入交互式视觉模块，允许用户通过滑动条等控件实时修改变量，直观观察公式、图形与计算结果的联动变化。示例涵盖<strong>勾股定理</strong>、<code>理想气体方程</code>等，旨在帮助用户将抽象概念转化为可实验对象，主要面向高中及大学阶段学习者。</p>
+<p>官方数据显示，每周有<strong>1.4亿</strong>用户利用<strong>ChatGPT</strong>学习相关知识。<strong>OpenAI</strong>计划未来扩展该功能至更多学科。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/17455455-550d-4c30-957a-c8b92beedd69/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/">https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/RobertJBye/status/2031508037161120045">Claude 移动端应用更新，优化语音模式与大型 Prompt 性能表现</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 移动端应用发布更新，重点优化了语音交互、转录功能及附件上传体验，改善了 <code>LaTeX</code> 和 <code>Artifact</code> 的显示效果，同时也显著提升了大型 <code>Prompt</code> 的处理性能与 <code>MCP</code> 连接稳定性。</p>
+</blockquote>
+<p><strong>Claude</strong> 移动端应用近期发布新一轮功能更新，涉及多项交互与功能模块优化。</p>
+<p>在输入交互方面，新版本改进了语音模式与转录功能，并提升了附件上传体验；在显示渲染层面，优化了 <code>LaTeX</code> 渲染效果及 <code>Artifact</code> 显示方式。</p>
+<p>此外，针对技术性能，新版本显著增强了处理大型 <code>Prompt</code> 的性能表现，并改进了 <code>MCP</code> 连接。</p>
+<p>开发团队表示，更新还包含更多细节改进，并邀请用户持续分享使用反馈以推动产品迭代。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/3d97d24c-f947-419f-a7da-a35f09fd42dc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/RobertJBye/status/2031508037161120045">https://x.com/RobertJBye/status/2031508037161120045</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop">Adobe 开放 Photoshop AI 助手 Beta，支持 Web 与移动端应用</a> <code>#13</code></h2>
+<blockquote>
+<p>Adobe 面向 Web 端和移动端发布了 <strong>Photoshop AI 助手</strong> 公开测试版，用户只需输入自然语言指令或通过手绘标记，即可让 <code>AI</code> 自动完成对象移除、光影调整及背景替换等复杂操作。</p>
+</blockquote>
+<p>Adobe 面向 Photoshop 的 AI 助手于 <strong>2026 年 3 月 10 日</strong> 进入公开 Beta 阶段，同步覆盖 Web 端与移动端应用。</p>
+<p>该功能支持用户通过自然语言指令完成对象移除、色彩调整、光照修正、柔光添加、特定比例裁切、阴影增强及背景替换等操作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/fff11797-e1f7-44b4-a8b3-8b63fc8e6802/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop">https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop</a></li>
+</ul>
+<hr>
+<h2>MiroThinker 发布重大更新，会员收费正式全量开放 <code>#14</code></h2>
+<blockquote>
+<p><strong>MiroThinker</strong> 发布更新，正式上线 <strong>S</strong>、<strong>M</strong>、<strong>L</strong> 三档定价体系和会员收费机制。</p>
+<p>此次升级引入了语音输入与关键信息高亮功能，并上线了对话置顶、分组与批量管理能力。</p>
+</blockquote>
+<p>2026 年 3 月 10 日，<strong>MiroThinker</strong> 发布重大功能更新，涵盖对话体验、账号体系、对话管理及商业化机制，会员收费正式全量开放。</p>
+<p>在对话体验上，新增语音输入、内容高亮及系统自动生成标题功能，并支持单条消息删除。对话管理模块引入归档、分组、置顶及批量操作。</p>
+<p>账号体系支持头像昵称自定义、邮箱绑定（支持跨账号数据合并）及 Web 端 Apple 快捷登录。</p>
+<p>商业化方面，上线打赏功能，回答定价划分为 <code>S</code> / <code>M</code> / <code>L</code> 三档，并与会员计费关联。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/d326276b-d876-4487-893b-31040fc54e5e/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/askalphaxiv/status/2031120122619060445">alphaXiv 上线 SKILL.md，优化 Claude Code 论文读取效率</a> <code>#15</code></h2>
+<blockquote>
+<p>alphaXiv 推出了 <strong>SKILL.md</strong> 功能，引导 Agent 直接调用 <code>alphaXiv</code> 平台结构化且对 AI 友好的论文数据，从而提升理解准确率并降低资源消耗。</p>
+</blockquote>
+<p>alphaXiv 针对使用 <code>Claude Code</code> 进行学术研究的场景，上线了 <strong>SKILL.md</strong> 新功能模块。该机制改变了文献输入源方式，指示 Agent 不再直接解析原始 PDF，而是优先获取 alphaXiv 平台提供的结构化、AI 友好的论文概览数据。</p>
+<p>此举旨在解决 PDF 解析损耗问题，通过提供包含标题、摘要及方法论等预处理的高信噪比内容，提升模型对科研内容的理解效率，并降低 Token 消耗。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/511e2585-3cdf-49af-96e9-e3b3b3341e2c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/askalphaxiv/status/2031120122619060445">https://x.com/askalphaxiv/status/2031120122619060445</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/2cGxfku76z-7SF6FTU7hdA">智谱正式上线 AutoClaw 客户端</a> <code>#16</code></h2>
+<blockquote>
+<p>智谱发布了 <strong>AutoClaw</strong>，一款支持本地部署的 OpenClaw 客户端，兼容 <code>macOS</code> 与 <code>Windows</code> 双平台。</p>
+<p>内置 50 多项技能，搭载智谱专为 OpenClaw 优化的代号为 <code>Pony-Alpha-2</code> 的模型。</p>
+<p>提供免费体验额度，并支持接入第三方模型 API。</p>
+</blockquote>
+<p>2026年3月10日，<strong>智谱</strong>正式上线 <strong>AutoClaw</strong>（澳龙）。这是一款面向本地部署的一键安装版 OpenClaw 客户端，支持 <code>macOS</code> 与 <code>Windows</code> 双平台，预置 50+ Skills。</p>
+<p>产品支持飞书等即时通讯工具一键接入，并兼容 <code>DeepSeek</code> 等第三方模型 API。</p>
+<p>技术层面，<strong>AutoClaw</strong> 内置内测中的 <code>Pony-Alpha-2</code> 模型，针对工具调用与任务推进优化；同时集成 <code>AutoGLM Browser-Use</code> 能力，支持多步骤浏览器自动化操作。</p>
+<p>计费方面提供免费额度与阶梯式付费积分包。</p>
+<p>目前，产品已正式上线且无白名单限制，用户可直接下载，但内置模型仍处于内测阶段，正式版发布时间未定。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/2e384d03-bc57-4d16-928e-00fe0872e665/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/2cGxfku76z-7SF6FTU7hdA">https://mp.weixin.qq.com/s/2cGxfku76z-7SF6FTU7hdA</a></li>
+<li><a href="https://autoglm.zhipuai.cn/autoclaw">https://autoglm.zhipuai.cn/autoclaw</a></li>
+</ul>
+<hr>
+<h2><a href="https://skillhub.tencent.com">腾讯云 Lighthouse 团队上线 SkillHub 镜像社区</a> <code>#17</code></h2>
+<blockquote>
+<p>腾讯云 <strong>Lighthouse</strong> 团队上线了 <strong>SkillHub</strong>，这是一个面向中国开发者的 <strong>OpenClaw Skills</strong> 镜像社区，实现了技能包在国内的加速拉取与管理。</p>
+</blockquote>
+<p>腾讯云 <strong>Lighthouse</strong> 团队上线 <strong>SkillHub</strong>，一个面向中国开发者的 <code>OpenClaw Skills</code> 镜像社区与命令行工具，提供国内加速下载、精选技能榜单及中文搜索能力，同时支持 <strong>Lighthouse</strong> 面板、命令行及本地环境三种安装方式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/c6386cae-385a-4e2f-8ae5-27d7078a918d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://skillhub.tencent.com">https://skillhub.tencent.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://amilabs.xyz">图灵奖得主杨立昆创立 AMI Labs 获 10.3 亿美元融资</a> <code>#18</code></h2>
+<blockquote>
+<p>图灵奖得主 <strong>Yann LeCun</strong> 联合创立的 <strong>AMI Labs</strong> 完成了 <strong>10.3 亿美元</strong>种子轮融资，投前估值达 <strong>35 亿美元</strong>。该机构摒弃主流 <code>LLM</code> 路线，主攻基于 <code>JEPA</code> 架构的“世界模型”，致力于实现 AI 对真实世界的理解、推理与规划，并承诺坚持长期开源策略。</p>
+</blockquote>
+<p><strong>Yann LeCun</strong>联合创立的<strong>AMI Labs</strong>完成<strong>10.3亿美元</strong>种子轮融资，投前估值<strong>35亿美元</strong>。该轮融资由<strong>Cathay Innovation</strong>等领投，<strong>英伟达</strong>、<strong>三星</strong>等参投，被称为欧洲史上最大种子轮。</p>
+<p><strong>AMI Labs</strong>致力于构建基于<code>JEPA</code>架构的“世界模型”，旨在实现真实世界理解与推理，区别于<code>LLM</code>范式。公司目前处于纯研究阶段，暂无短期营收计划，但承诺开源，并与<strong>Nabla</strong>建立合作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/51a33c91-1ed2-4969-857b-ff97b353079e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://amilabs.xyz">https://amilabs.xyz</a></li>
+</ul>
+<hr>
+<h2><a href="https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/">Thinking Machines Lab 获 Nvidia 投资</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Thinking Machines Lab</strong> 与 <strong>Nvidia</strong> 正式建立多年期战略合作伙伴关系，<strong>Nvidia</strong> 将作为战略投资者入场。</p>
+<p>双方计划于 <strong>2027</strong> 年开始部署至少 <strong>1 吉瓦</strong> 的 <code>Nvidia Vera Rubin</code> 系统，并共同开发针对架构优化的训练与推理系统，以支持构建具有可复现结果的 AI 模型。</p>
+</blockquote>
+<p><strong>Thinking Machines Lab</strong> 与 <strong>Nvidia</strong> 建立多年期战略合作伙伴关系。作为协议一部分，<strong>Nvidia</strong> 将对该初创公司进行战略投资，其投后估值已超 <strong>120 亿美元</strong>。</p>
+<p>根据合作细节，双方计划于 <strong>2027 年</strong> 开始部署至少 <strong>1 Gigawatt</strong> 的 <code>Nvidia Vera Rubin</code> 系统，并将共同开发针对该架构优化的训练与推理系统。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/68169f27-a33d-4e27-9854-80b41cea2d3c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/">https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/</a></li>
+<li><a href="https://thinkingmachines.ai/nvidia-partnership/">https://thinkingmachines.ai/nvidia-partnership/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network">Meta 完成收购 Moltbook 团队并入超级智能实验室</a> <code>#20</code></h2>
+<blockquote>
+<p>据报道，<strong>Meta</strong> 已完成对 AI agent 社交网络 <strong>Moltbook</strong> 的收购，其团队将并入 <strong>Meta Superintelligence Labs</strong>。</p>
+</blockquote>
+<p>Meta 已完成对 AI agent 社交网络 <strong>Moltbook</strong> 的收购，该项目将整体并入 <strong>Meta Superintelligence Labs</strong>（<strong>MSL</strong>）。  </p>
+<p><strong>Moltbook</strong> 是一个基于 <code>OpenClaw</code> 框架构建的类 Reddit 平台，旨在允许 AI agent 通过自然语言进行互连与通信。  </p>
+<p>作为交易的一部分，<strong>Moltbook</strong> 创始人 <strong>Matt Schlicht</strong> 和 <strong>Ben Parr</strong> 将加入 Meta，具体交易金额未公开。  </p>
+<p>Meta 方面确认，<strong>Moltbook</strong> 团队将利用其“通过常驻目录连接 agent”的技术路径，协助 <strong>MSL</strong> 开发面向个人和企业的 agentic experience。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/e5126373-9312-4f98-b32a-41683a0de8b2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network">https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network</a></li>
+</ul>
+<hr>
+<h2><a href="https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents">Dify 完成 3000 万美元 Pre-A 轮融资</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Dify</strong> 宣布完成 <strong>3000万美元</strong> Pre-A 轮融资，该笔资金将用于推进其开源 <code>Agent</code> 平台的生产级能力、企业级基础设施建设以及降低构建门槛。</p>
+</blockquote>
+<p><strong>Dify</strong> 宣布完成 <strong>3000 万美元</strong> Pre-A 轮融资，<strong>HSG</strong> 领投，老股东 <strong>5Y Capital</strong> 加码跟投。</p>
+<p>本轮资金将用于推进生产级 <strong>Agent</strong> 与工作流、企业级基础能力、降低非开发者构建门槛及开源生态建设四方面。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/0a20b6b7-9603-4ed6-aafa-584830b0b71e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents">https://dify.ai/blog/dify-raises-30m-tomorrow-s-organizations-will-be-built-by-people-and-agents</a></li>
+</ul>
+<hr>
+<h2><a href="https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages">亚马逊电商部门收紧 AI 代码管控，新增人工签字审批</a> <code>#22</code></h2>
+<blockquote>
+<p>据报道，亚马逊电商部门在 <strong>2025年3月初</strong> 推出新规，强制要求初、中级工程师在提交 <code>AI辅助代码</code> 前必须获得资深工程师签字批准。</p>
+</blockquote>
+<p>2025 年 3 月初，亚马逊电商部门针对近期多起系统故障实施新规：初级和中级工程师提交 AI 辅助代码变更前，必须获资深工程师签字批准。内部备忘录确认，缺乏保障的生成式 AI 使用导致了“高爆炸半径”事故。</p>
+<p>涉事工具包括内部试验性的 <code>Kiro IDE</code>。典型故障包括 2024 年 12 月 <code>Kiro</code> 导致的 <strong>13 小时</strong>服务中断，以及 2025 年 2 月网站与 App 近 <strong>6 小时</strong>宕机。</p>
+<p>该政策在内部引发争议。质疑者指出，资深工程师面临审查疲劳风险，且公司以 AI 使用率为绩效指标的激励结构可能与质量管控冲突。</p>
+<p>此外，亚马逊否认 2025 年 1 月裁员 <strong>1.6 万人</strong>与故障频发有关。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/b7d5f4fa-17cc-4012-afc3-1d64f752a3f7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages">https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages</a></li>
+</ul>
+<hr>
+<h2>小红书发布治理公告 打击 AI 托管运营账号行为 <code>#23</code></h2>
+<blockquote>
+<p>小红书宣布将从 <strong>2026年3月10日</strong> 起严厉打击 <strong>AI托管运营</strong>，严禁使用技术手段自动生成内容或模拟真人互动。对于完全由 <strong>AI托管</strong> 或批量注册的账号，将直接予以封禁。</p>
+</blockquote>
+<p>小红书发布公告，针对部分用户采用 <strong>AI托管</strong> 模式运营账号的情况，明确禁止利用技术手段模拟真人、自动生成笔记及在评论、私信等场景进行虚假互动。</p>
+<p>治理措施将于 <strong>2026年3月10日</strong> 生效，实行分级处理。对于普通账号偶发使用 <strong>AI托管</strong> 代写、代发或互动，平台将根据违规程度采取警告、限制内容分发等措施。</p>
+<p>对于直接通过 <strong>AI工具</strong> 注册、发布、互动的账号，或主页所有公开笔记均为 <strong>AI代发</strong> 的账号，平台将予以封禁处理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/a98b7ecf-3bfa-4f8b-b7ea-c85e1ebd0dd8/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://thein.fo/4s2vwy4">微信开发内嵌式 AI Agent ，据称计划年中灰度三季度上线</a> <code>#24</code></h2>
+<blockquote>
+<p>据报道，腾讯正在为<strong>微信</strong>开发内嵌式 <code>AI Agent</code>，它直接嵌入聊天列表，允许用户通过自然语言指令自动调用小程序完成复杂任务。</p>
+<p>该产品目前正处于内部测试阶段，计划于年中启动灰度测试，最快第三季度全量上线。</p>
+</blockquote>
+<p>据报道，腾讯正为微信开发内嵌式 AI Agent，产品直接嵌入会话列表，接入百万级小程序，支持用户通过自然语言对话完成打车、订票等复杂任务，目前处于内测阶段。</p>
+<p>据项目内部消息，因自研 <strong>混元</strong> 模型性能未达顶尖，现测试 <strong>智谱</strong>、<strong>阿里</strong>、<strong>DeepSeek</strong> 等外部模型。这导致数据打通流程延长，且考虑到微信 <strong>14 亿</strong> 月活对稳定性的高要求，团队确立了“不够稳，不发布”原则。</p>
+<p>按计划，该产品将于 <strong>2025 年中</strong> 启动灰度测试，第三季度全量上线，但具体时间表视功能稳定性可能调整。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/249ed783-a792-4b19-b3b2-1cdd5a533539/26d13aaa-1273-424c-bec6-6707df16b6dc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://thein.fo/4s2vwy4">https://thein.fo/4s2vwy4</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/22</guid><pubDate>Wed, 11 Mar 2026 01:36:24 +0000</pubDate></item><item><title>2026-03-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-21/</link><description>AI 早报 2026-03-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 为 Claude Code 推出 Code Review 自动化审查功能 ↗ #1 模型发布 小红书开源 FireRed-Image-Edit-1.1 图像编辑模型 ↗ #2 小红书 REDtech 发布 REDSearcher 开源深度搜索框架 ↗ #3 开发生态 JetBrains 宣布 Junie CLI 编码助手正式进入 Beta 测试 ↗ #4 吴恩达发布 Context Hub 解决编码 Agent 文档滞后问题 ↗ #5 OpenRouter 推出应用与智能体排名功能引入请求数统计 ↗ #6 Gemini CLI 推出极简模式并将优化工具调用显示机制 ↗ #7 讯飞星辰 MaaS 平台上线 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260310/202603100906419356349b3c_cover_f372.png" alt=""></p>
 <h1>AI 早报 2026-03-10</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1eVPozyEyn">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=xZau07_ys1I">YouTube</a></p>
 <h2>概览</h2>
