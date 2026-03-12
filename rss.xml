@@ -1,5 +1,406 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 11 Mar 2026 05:37:45 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-11</title><link>https://imjuya.github.io/juya-ai-daily/issue-22/</link><description>AI 早报 2026-03-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌发布 Gemini Embedding 2 原生多模态嵌入模型 ↗ #1 Google 升级 Workspace Gemini 功能 ↗ #2 模型发布 Tencent AI Lab 开源 LeVo 2 音乐模型，支持 4 分半全曲生成 ↗ #3 Fish Audio 开源 S2 文本转语音模型 ↗ #4 Hume AI 开源 TADA，基于 Llama 3.2 实现语音语言统一模型 ↗ #5 开发生态 OpenAI 调整 Codex 服务，免费层级移除 gpt-5.4 模型权限 ↗ #6 Claude Code 引入 /btw 命令支持后台任务对话 ↗ #7 JetBrains 上线 Air，支持多 Agent 并行执行…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260311/20260311091150490710e4e4_cover_249e.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 12 Mar 2026 01:24:00 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-12</title><link>https://imjuya.github.io/juya-ai-daily/issue-23/</link><description>AI 早报 2026-03-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 英伟达发布并开源混合架构大模型 Nemotron 3 Super ↗ #1 xAI 在API中上线 Grok 4.20 系列，支持 200 万 token 上下文 ↗ #2 模型发布 OpenRouter 上线两款 Stealth 模型 ↗ #3 龙猫在API中上线 LongCat-Flash-Omni，免费可用 ↗ #4 MiroMind 发布 MiroThinker 系列 Agent，含开源模型与定制版 ↗ #5 Reka 发布 70 亿参数 Reka Edge 模型并开源 ↗ #6 开发生态 Antigravity 调整 AI 订阅计划权益，额度或将下调 ↗ #7 智谱宣布本月向 Lite 用户开放 GLM-5，首批需申…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260312/202603120900131373811147_cover_4307.png" alt=""></p>
+<h1>AI 早报 2026-03-12</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1MuczzCE8y">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=wcy_Yhz3G5w">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>英伟达发布并开源混合架构大模型 Nemotron 3 Super <a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16">↗</a> <code>#1</code></li>
+<li>xAI 在API中上线 Grok 4.20 系列，支持 200 万 token 上下文 <a href="https://docs.x.ai/developers/models">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>OpenRouter 上线两款 Stealth 模型 <a href="https://openrouter.ai/openrouter/healer-alpha">↗</a> <code>#3</code></li>
+<li>龙猫在API中上线 LongCat-Flash-Omni，免费可用 <a href="https://longcat.chat/platform/docs/zh/APIDocs.html">↗</a> <code>#4</code></li>
+<li>MiroMind 发布 MiroThinker 系列 Agent，含开源模型与定制版 <a href="https://github.com/MiroMindAI/MiroThinker">↗</a> <code>#5</code></li>
+<li>Reka 发布 70 亿参数 Reka Edge 模型并开源 <a href="https://reka.ai/news/reka-edge-frontier-level-edge-intelligence-for-physical-ai">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Antigravity 调整 AI 订阅计划权益，额度或将下调 <a href="https://x.com/antigravity/status/2031835833716625883">↗</a> <code>#7</code></li>
+<li>智谱宣布本月向 Lite 用户开放 GLM-5，首批需申请 <a href="https://zhipu-ai.feishu.cn/share/base/form/shrcnSdXYTl4huOLqu892wg4CUd?from=from_parent_docs">↗</a> <code>#8</code></li>
+<li>Codex 重置速率限制但限额显示异常 <a href="https://x.com/thsottiaux/status/2031605592352313567">↗</a> <code>#9</code></li>
+<li>Google 发布 Gemini CLI 周更，集成计划模式 <a href="https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/">↗</a> <code>#10</code></li>
+<li>Cursor 新增超 30 款插件，集成 Hugging Face 官方功能 <a href="https://x.com/cursor_ai/status/2031780049175912805">↗</a> <code>#11</code></li>
+<li>Cloudflare 上线爬虫端点 <a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/">↗</a> <code>#12</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude for Excel 与 PowerPoint 插件新增支持跨应用上下文同步及 Skills <a href="https://claude.com/blog/claude-excel-powerpoint-updates">↗</a> <code>#13</code></li>
+<li>各种厂商推出龙虾系列产品，网信办提示风险 <a href="https://mp.weixin.qq.com/s/4rM1Q2GLiy5DUPqIBAXXpQ">↗</a> <code>#14</code></li>
+<li>Perplexity 推出 Personal Computer <a href="http://perplexity.ai/personal-computer-waitlist">↗</a> <code>#15</code></li>
+<li>谷歌将 Gemini in Chrome 扩展至印度等国 <a href="https://blog.google/products-and-platforms/products/chrome/chrome-expands-india-new-zealand-canada/">↗</a> <code>#16</code></li>
+<li>腾讯玄武实验室发布端侧隐私工具 HaS <a href="https://clawhub.ai/XuanwuSkill/has-anonymizer">↗</a> <code>#17</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>黄仁勋发文，提出五层架构模型 <a href="https://blogs.nvidia.cn/blog/ai-5-layer-cake/">↗</a> <code>#18</code></li>
+<li>OpenAI 为 Responses API 引入计算机环境支持 Agent 转型 <a href="https://openai.com/index/equip-responses-api-computer-environment/">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Anthropic 成立研究所应对 AI 挑战，设华盛顿办事处 <a href="https://www.anthropic.com/news/the-anthropic-institute">↗</a> <code>#20</code></li>
+<li>Meta 披露 MTIA 芯片路线图，两年迭代四代 2027 年部署 <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/">↗</a> <code>#21</code></li>
+<li>NVIDIA 注资 20 亿美元携手 Nebius 部署 5 吉瓦 AI 系统 <a href="https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud">↗</a> <code>#22</code></li>
+<li>Replit 完成 4 亿美元融资，估值 90 亿美元，发布 Agent 4 <a href="https://blog.replit.com/replit-raises-400-million-dollars">↗</a> <code>#23</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>消息称 OpenAI 拟将 Sora 功能集成至 ChatGPT <a href="https://thein.fo/4sHj9Yr">↗</a> <code>#24</code></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16">英伟达发布并开源混合架构大模型 Nemotron 3 Super</a> <code>#1</code></h2>
+<blockquote>
+<p>NVIDIA发布了<strong>Nemotron 3 Super</strong>开源模型，拥有<strong>1200亿</strong>总参数及<strong>100万</strong>token上下文窗口，专为解决Agentic AI的高昂推理成本而设计。该模型凭借混合架构实现了<strong>5倍</strong>吞吐量提升，并已在<strong>Hugging Face</strong>等平台全面开放权重、数据集及训练配方。</p>
+</blockquote>
+<p><strong>NVIDIA</strong>近日发布 <strong>Nemotron 3 Super</strong> 开源大模型，该模型拥有 <strong>1200亿</strong> 总参数和 <strong>120亿</strong> 激活参数。其采用结合 <code>Mamba-2</code> 与 <code>MoE</code> 的 <code>LatentMoE</code> 架构，支持高达 <strong>100万</strong> token 的上下文窗口。</p>
+<p>官方数据显示，与前代相比，其吞吐量提升 <strong>5倍</strong>，精度提升 <strong>2倍</strong>。作为该系列首个利用 <code>NVFP4</code> 精度预训练的模型，其在 <code>Blackwell</code> 平台上实现了显著效率提升。</p>
+<p>该模型基于超 <strong>25万亿</strong> token 训练，全面开放了模型权重、训练数据及配方。目前，开发者已可通过 <strong>Hugging Face</strong>、<strong>NVIDIA NIM</strong> 及多家云服务平台获取并部署该模型，适用于 <code>Agentic AI</code> 等高负载工作流。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/147f7c57-21e2-4428-af87-eeb79ebc8882/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312081650_2ce6dd9517.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312081737_377a40a91a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16">https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16</a></li>
+<li><a href="https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf">https://research.nvidia.com/labs/nemotron/files/NVIDIA-Nemotron-3-Super-Technical-Report.pdf</a></li>
+<li><a href="https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/">https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://docs.x.ai/developers/models">xAI 在API中上线 Grok 4.20 系列，支持 200 万 token 上下文</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 正式通过 API 上线了三款 <code>Grok-4.20</code> 系列旗舰模型，分别针对非推理、推理及多智能体协作场景提供 Beta 版本。</p>
+<p>3个版本定价一致，较前代有大幅提升。</p>
+</blockquote>
+<p><strong>xAI</strong> 通过 API 上线三款 <code>Grok-4.20</code> 系列 Beta 模型，涵盖非推理、推理及多 Agent 协作版本。该系列支持 <strong>200 万 token</strong> 上下文窗口，在保持高速运行的同时引入 Agentic 工具调用能力，并针对降低幻觉率与提示词遵循进行了优化。</p>
+<p>定价方面，3个版本的模型定价一致，在 <strong>128k token</strong> 以内请求的输入输出价格分别为每百万 token <strong>2.00 美元</strong> 和 <strong>6.00 美元</strong>，定价大幅提升。</p>
+<p>目前上述模型已加入 API 列表供开发者调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312083832_bd0fd9126b.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312083917_4aea7136de.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://docs.x.ai/developers/models">https://docs.x.ai/developers/models</a></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/openrouter/healer-alpha">OpenRouter 上线两款 Stealth 模型</a> <code>#3</code></h2>
+<blockquote>
+<p>OpenRouter 平台上架了名为 <strong>Hunter Alpha</strong> 和 <strong>Healer Alpha</strong> 的 Stealth 模型。</p>
+<p>其中 <strong>Hunter Alpha</strong> 拥有 <strong>1 万亿</strong> 参数及 <strong>100 万</strong> token 上下文窗口，专攻 Agent 长程规划与复杂推理。</p>
+<p>而 <strong>Healer Alpha</strong> 则是具备视听能力的全模态模型。</p>
+<p>这两款模型目前均支持免费调用。</p>
+</blockquote>
+<p>OpenRouter平台近日发布 <strong>Hunter Alpha</strong> 和 <strong>Healer Alpha</strong> 两款 <strong>Stealth</strong> 模型。</p>
+<p><strong>Hunter Alpha</strong> 拥有 <strong>1万亿</strong> 参数及 <strong>100万</strong> token 上下文窗口，官方称其专为 Agent 应用构建，擅长长程规划与复杂推理。</p>
+<p><strong>Healer Alpha</strong> 定位全模态，具备视听及推理行动能力，其上下文窗口为 <code>262,144</code> token。</p>
+<p>两款模型目前均提供免费调用，上述模型由 “Stealth” 提供商支持，所有提示词可能被记录。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312083012_f811fb1aba.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312082954_53286d9af7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/openrouter/healer-alpha">https://openrouter.ai/openrouter/healer-alpha</a></li>
+<li><a href="https://openrouter.ai/openrouter/hunter-alpha">https://openrouter.ai/openrouter/hunter-alpha</a></li>
+</ul>
+<hr>
+<h2><a href="https://longcat.chat/platform/docs/zh/APIDocs.html">龙猫在API中上线 LongCat-Flash-Omni，免费可用</a> <code>#4</code></h2>
+<blockquote>
+<p>美团龙猫上线支持原生跨模态交互的 <code>LongCat-Flash-Omni</code> 模型的 API。
+同时，<code>LongCat-Flash-Thinking</code> 接口已无缝升级至 <strong>2601</strong> 版本。</p>
+</blockquote>
+<p>龙猫官方宣布API服务迎来重大更新。<strong>LongCat-Flash-Omni</strong>现已支持API调用，解锁原生跨模态交互能力，APP端用户可同步体验。</p>
+<p>此外，<strong>LongCat-Flash-Thinking</strong>接口即将进行无缝升级，其调用请求将自动路由至<code>LongCat-Flash-Thinking-2601</code>版本，老用户无需修改代码即可享受服务。官方称，<code>2601</code>版本在抗噪鲁棒性、处理复杂工具图谱的Agent能力以及深度推理能力上均有显著提升。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/bb79a505-d23b-43f0-9c91-a144f9e6533c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://longcat.chat/platform/docs/zh/APIDocs.html">https://longcat.chat/platform/docs/zh/APIDocs.html</a></li>
+<li><a href="https://x.com/Meituan_LongCat/status/2031726847978082305">https://x.com/Meituan_LongCat/status/2031726847978082305</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/MiroMindAI/MiroThinker">MiroMind 发布 MiroThinker 系列 Agent，含开源模型与定制版</a> <code>#5</code></h2>
+<blockquote>
+<p>MiroMind 团队发布了新一代深度研究 Agent 家族，包含基于 <code>Qwen3</code> 架构的 <strong>MiroThinker 1.7</strong> 及其 mini 版开源模型，以及专有的定制化 Agent <strong>MiroThinker-H1</strong>。</p>
+<p>该系列模型支持 <code>256K</code> 上下文窗口和最高 <code>300</code> 次工具调用，针对长周期任务优化了多步分析与推理能力。</p>
+</blockquote>
+<p>MiroMind团队发布新一代深度研究Agent家族，涵盖开源模型 <strong>MiroThinker-1.7</strong> 及其mini版（基于 <strong>Qwen3</strong>），以及专有Agent <strong>MiroThinker-H1</strong>。该系列针对长周期任务优化了推理能力，支持 <code>256K</code> 上下文与 <code>300</code> 次工具调用，并引入上下文留存策略提升性能。系统通过 <code>MCP</code> 协议管理交互，兼容多种扩展工具。</p>
+<p>依据官方披露的数据，<strong>MiroThinker-1.7</strong> 在 <code>BrowseComp</code> 测试集达到 <code>74.0%</code> 准确率，在 <code>BrowseComp-ZH</code> 达到 <code>75.3%</code>，在 <code>GAIA-Val-165</code> 达到 <code>82.7%</code>，在 <code>HLE-Text</code> 达到 <code>42.9%</code>，同时在 <code>Seal-0</code> 及多项科学与金融评估任务中取得对应分数。</p>
+<p><code>30B</code> 规模的 <strong>MiroThinker-1.7-mini</strong> 在 <code>BrowseComp-ZH</code> 测试中取得 <code>72.3%</code> 的成绩。</p>
+<p>对于专有Agent <strong>MiroThinker-H1</strong>，官方数据显示其在 <code>BrowseComp</code> 与 <code>BrowseComp-ZH</code> 榜单中处于领先水位。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/d0595f58-c3d6-4921-aaf9-38870b051a9a/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/d0595f58-c3d6-4921-aaf9-38870b051a9a/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/MiroMindAI/MiroThinker">https://github.com/MiroMindAI/MiroThinker</a></li>
+<li><a href="https://huggingface.co/collections/miromind-ai/mirothinker-17">https://huggingface.co/collections/miromind-ai/mirothinker-17</a></li>
+</ul>
+<hr>
+<h2><a href="https://reka.ai/news/reka-edge-frontier-level-edge-intelligence-for-physical-ai">Reka 发布 70 亿参数 Reka Edge 模型并开源</a> <code>#6</code></h2>
+<blockquote>
+<p>Reka 发布了专为边缘计算设计的 <strong>70 亿参数</strong>多模态模型 <strong>Reka Edge</strong>，它在视频理解和工具调用上的表现超越了 <code>Qwen3.5 9B</code>。该模型权重已在 Hugging Face 发布。</p>
+</blockquote>
+<p>Reka 官方近日发布了 <strong>70 亿参数</strong>多模态模型 <code>Reka Edge</code>，专为边缘计算场景设计。该模型结合 <code>ConvNeXt V2</code> 编码器与 <code>Transformer</code> 主干，支持图像、视频及文本处理。</p>
+<p>据官方介绍，其架构创新将高分辨率图像处理的 Token 消耗降至同类模型的三分之一，显著提升了推理速度。</p>
+<p>官方数据显示，该模型在视频理解及工具调用等基准上优于同量级竞品。此外，其支持 <code>4-bit</code> 量化，显存占用降至 <strong>5GB</strong> 并保留超 <strong>98%</strong> 性能。</p>
+<p>目前，<code>Reka Edge</code> 已在 Hugging Face 开源，并广泛兼容 Apple Silicon、NVIDIA Jetson 及 Qualcomm Snapdragon 等硬件平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/4b42584a-175c-4850-a10d-36cc64d620c4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://reka.ai/news/reka-edge-frontier-level-edge-intelligence-for-physical-ai">https://reka.ai/news/reka-edge-frontier-level-edge-intelligence-for-physical-ai</a></li>
+<li><a href="https://huggingface.co/RekaAI/reka-edge-2603">https://huggingface.co/RekaAI/reka-edge-2603</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/antigravity/status/2031835833716625883">Antigravity 调整 AI 订阅计划权益，额度或将下调</a> <code>#7</code></h2>
+<blockquote>
+<p>Antigravity 宣布调整 AI 订阅计划权益。此次更新明确了两种定位：<strong>Google AI Pro</strong> 适合开发者和学生，提供 <code>Gemini Flash</code> 额度及高级模型试用；<strong>Google AI Ultra</strong> 则支持对复杂模型的高频访问。</p>
+</blockquote>
+<p>Antigravity 宣布对其 <strong>Google AI</strong> 订阅计划进行调整，旨在赋予开发者更多构建控制权。</p>
+<p>目前，所有订阅计划均包含内置 AI 额度，且已支持用于 <strong>Antigravity</strong>：<strong>Google AI Pro</strong> 面向构建者及学生群体，该计划为 <code>Gemini Flash</code> 提供宽裕限额，并包含高级模型测试配额；<strong>Google AI Ultra</strong> 则针对大规模交付用户，满足其对复杂模型的高容量持续访问需求。</p>
+<p>此外，若 <strong>Pro</strong> 用户需要额外动力，官方支持其通过充值额度灵活定制计划。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312074943_ab504b0e2d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/antigravity/status/2031835833716625883">https://x.com/antigravity/status/2031835833716625883</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhipu-ai.feishu.cn/share/base/form/shrcnSdXYTl4huOLqu892wg4CUd?from=from_parent_docs">智谱宣布本月向 Lite 用户开放 GLM-5，首批需申请</a> <code>#8</code></h2>
+<blockquote>
+<p>智谱宣布本月内向 <strong>Lite</strong> 用户逐步开放 <strong>GLM-5</strong>，首批名额采取先到先得的问卷申请机制，全量开放最晚不迟于 <strong>3 月底</strong>。</p>
+</blockquote>
+<p>智谱宣布计划在本月内为所有 <strong>Lite</strong> 用户逐步开放 <code>GLM-5</code> 模型。由于资源限制，首批名额采取“先到先得”申请制，成功提交 ID 者将在 1 个工作日内获权。</p>
+<p>申请量达上限后将转为 Waiting List 模式，官方承诺最晚不迟于 <strong>3 月底</strong>通过短信通知开通。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311211809_401febc9f3.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhipu-ai.feishu.cn/share/base/form/shrcnSdXYTl4huOLqu892wg4CUd?from=from_parent_docs">https://zhipu-ai.feishu.cn/share/base/form/shrcnSdXYTl4huOLqu892wg4CUd?from=from_parent_docs</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/thsottiaux/status/2031605592352313567">Codex 重置速率限制但限额显示异常</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Codex</strong> 因 <strong>GPU</strong> 集群高负载进行了紧急维护，并已于北京时间 <strong>3月11日</strong> 下午重置速率限制作为补偿。</p>
+<p>同时有用户发现限额文案显示为“2周”，但截止日期未变，官方尚未对此作出解释。</p>
+</blockquote>
+<p>Codex团队成员透露，<strong>GPU集群</strong>因高负载面临运行压力。团队全力维护，已恢复稳定。</p>
+<p>作为补偿，<strong>Codex</strong>已于北京时间<strong>3月11日下午</strong>重置了速率限制。</p>
+<p>与此同时，有用户发现，<strong>Codex</strong>的“1周”限额的相关字符变成了“2周”，但对应的日期仍是一周后，官方尚未对此做出解释。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311212719_baae075fef.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311213033_f4ee76fad8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2031605592352313567">https://x.com/thsottiaux/status/2031605592352313567</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/">Google 发布 Gemini CLI 周更，集成计划模式</a> <code>#10</code></h2>
+<blockquote>
+<p>Gemini CLI 发布每周更新，核心引入了 <strong>Plan Mode</strong> 计划模式。同时本次更新还实现了将聊天历史默认保留期延长到了 <strong>30 天</strong>等多项功能优化。</p>
+</blockquote>
+<p>Google 正式发布 <strong>Gemini CLI v0.33.0</strong> 版本，核心引入 <strong>Plan Mode</strong>（计划模式）。据官方介绍，该模式提供一个只读环境，允许 Agent 在执行代码变更前进行安全分析与规划，且仅限使用只读工具。其集成了 <code>ask_user</code> 工具以便在信息不足时向用户提问，并自动路由至具备高推理能力的 <code>Gemini 3.1 Pro</code> 模型以确保规划质量。</p>
+<p>此外，本次更新优化了 <strong>ACP</strong> 平台，增加了斜杠命令处理及模型设置接口。UI 界面经过重新设计，修复了 Agent 循环检测问题，并将聊天历史默认保留期延长至 <strong>30 天</strong>。同时，该版本新增了 <strong>Shopify</strong> 和 <strong>Canva</strong> 扩展，进一步丰富了其生态集成能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/78768a37-cd5c-479b-b38c-983667ecac61/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/">https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/</a></li>
+<li><a href="https://github.com/google-gemini/gemini-cli/discussions/22078">https://github.com/google-gemini/gemini-cli/discussions/22078</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/cursor_ai/status/2031780049175912805">Cursor 新增超 30 款插件，集成 Hugging Face 官方功能</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 官方宣布 <strong>Marketplace</strong> 新增超过 <strong>30</strong> 款插件，其中 <strong>Hugging Face</strong> 的官方工具支持开发者直接在编辑器内创建数据集及训练模型。</p>
+<p><code>Hugging Face</code> 的集成让开发者无需离开编辑环境，即可完成从数据准备到模型训练的完整流程。</p>
+</blockquote>
+<p>Cursor 官方宣布其 Marketplace 近期新增超过 <strong>30</strong> 款新 Plugin，进一步扩展了该代码编辑器的生态能力。</p>
+<p>其中，Hugging Face 发布的官方 Plugin 支持开发者在 Cursor 环境内直接创建数据集、运行 <code>Evals</code> 以及训练模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/829483e8-7519-45eb-ba86-1ecb65f4ddd7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/cursor_ai/status/2031780049175912805">https://x.com/cursor_ai/status/2031780049175912805</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/">Cloudflare 上线爬虫端点</a> <code>#12</code></h2>
+<blockquote>
+<p>Cloudflare 宣布 <strong>Browser Rendering</strong> 服务上线 <code>/crawl</code> 端点公测版，开发者通过一次 API 调用即可自动抓取并渲染全站内容。该功能支持多种输出格式和增量抓取配置，严格遵守 <code>robots.txt</code> 协议。</p>
+</blockquote>
+<p>Cloudflare 官方宣布其 <strong>Browser Rendering</strong> 服务推出了全新的 <code>/crawl</code> 端点，目前已进入开放公测阶段。</p>
+<p>开发者仅需通过一次 API 调用提交起始 URL，系统即可自动发现、渲染并抓取整个网站的内容，该过程以异步方式运行，支持返回 HTML、Markdown 及由 <code>Workers AI</code> 驱动的结构化 JSON 格式，适用于模型训练及 RAG 管道构建。</p>
+<p>该功能提供了抓取范围控制、增量抓取及静态模式等多种配置选项，并严格遵守 <code>robots.txt</code> 协议，现已向 <strong>Workers</strong> 免费及付费计划用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/7562313f-ef00-4e0e-ae6d-d0ce950b9a1c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/">https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/claude-excel-powerpoint-updates">Claude for Excel 与 PowerPoint 插件新增支持跨应用上下文同步及 Skills</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 宣布 Excel 和 PowerPoint 插件现已实现跨应用全上下文同步，支持用户在单一连续对话中跨多个文件处理数据。</p>
+<p>同时，新推出的 <code>Skills</code> 功能可将财务模型构建和幻灯片审查等复杂流程封装为一键操作。</p>
+</blockquote>
+<p><strong>Claude for Excel</strong> 和 <strong>Claude for PowerPoint</strong> 插件近日宣布实现跨应用全上下文同步，允许用户在一个连续对话中跨多个打开的文件进行操作。该功能支持读取单元格、编写公式及编辑幻灯片，并能理解不同文件间的数据关系，从而无需在不同工具间切换。</p>
+<p>此外，官方引入“Skills”功能，将财务分析等最佳实践封装为可复用的一键操作，并预置了涵盖 <code>LBO</code>、<code>DCF</code> 等模型构建的技能包。</p>
+<p>在部署方面，该插件支持通过 <code>Amazon Bedrock</code>、<code>Google Cloud Vertex AI</code> 和 <code>Microsoft Foundry</code> 接入，并可在 Excel 中通过 Agent Mode 与 <strong>Microsoft 365 Copilot</strong> 协同。</p>
+<p>目前，上述功能已向 Mac 和 Windows 付费用户开放 Beta 测试。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/8a5f72bf-7d17-4e5d-bc54-189afbe6c37d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/claude-excel-powerpoint-updates">https://claude.com/blog/claude-excel-powerpoint-updates</a></li>
+<li><a href="https://claude.com/claude-in-excel">https://claude.com/claude-in-excel</a></li>
+<li><a href="https://claude.com/claude-in-powerpoint">https://claude.com/claude-in-powerpoint</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/4rM1Q2GLiy5DUPqIBAXXpQ">各种厂商推出龙虾系列产品，网信办提示风险</a> <code>#14</code></h2>
+<blockquote>
+<p>围绕开源智能体 <strong>OpenClaw</strong> 即“龙虾”，<strong>智谱</strong>、<strong>荣耀</strong>、<strong>商汤</strong>、<strong>华为</strong>、<strong>百度</strong> 及 <strong>腾讯</strong> 等厂商密集发布产品或行动，构建起覆盖手机、办公及云端的“龙虾宇宙”生态。</p>
+<p>与此同时，官方机构发布风险提示，指出该技术存在权限失控、数据隐私泄露及恶意攻击等五大安全隐患。</p>
+</blockquote>
+<p>围绕开源智能体 <strong>OpenClaw</strong>，国内科技企业密集发布新品构建“龙虾宇宙”。  </p>
+<p><strong>荣耀</strong>推出支持多端交互的“龙虾宇宙”；<br>
+<strong>商汤</strong>将“办公小浣熊”接入该生态，并提供软硬一体方案；<br>
+<strong>华为</strong>发布鸿蒙“小艺Claw”Beta版；<br>
+<strong>百度智能云</strong>上线零部署服务 <code>DuClaw</code>；<br>
+<strong>智谱</strong>启动面向组织的全国部署计划。  </p>
+<p><strong>腾讯</strong>方面称其产品矩阵将陆续推出。  </p>
+<p>与此同时，中央网信办数据与技术保障中心发布风险提示，指出该技术存在权限失控、漏洞攻击、隐私泄露及恶意技能投毒等风险，建议用户注意安全防范。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/6badf5a9-b675-4777-b265-dedbd3effb2f/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312074108_ad92c70d47.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/4rM1Q2GLiy5DUPqIBAXXpQ">https://mp.weixin.qq.com/s/4rM1Q2GLiy5DUPqIBAXXpQ</a></li>
+</ul>
+<hr>
+<h2><a href="http://perplexity.ai/personal-computer-waitlist">Perplexity 推出 Personal Computer</a> <code>#15</code></h2>
+<blockquote>
+<p>Perplexity推出了名为 <strong>Personal Computer</strong> 的新产品，这是一个基于 <code>Mac mini</code> 持续运行的智能体，能 7x24 小时为用户提供本地化智能服务。目前候补名单已开放。</p>
+</blockquote>
+<p>Perplexity 官方宣布推出名为 <strong>"Personal Computer"</strong> 的新产品，这是一款基于 <strong>Mac mini</strong> 持续运行的智能体。</p>
+<p>据官方描述，该产品旨在提供 <strong>7x24</strong> 小时不间断的本地化智能服务，具备跨文件、应用及会话执行任务的能力。</p>
+<p>其运行环境连接了本地应用与 Perplexity 安全服务器，并支持用户从任意设备进行远程控制。</p>
+<p>目前，该产品的候补名单已开放注册。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312083228_365a1274e7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://perplexity.ai/personal-computer-waitlist">http://perplexity.ai/personal-computer-waitlist</a></li>
+<li><a href="https://x.com/perplexity_ai/status/2031790180521427166">https://x.com/perplexity_ai/status/2031790180521427166</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/chrome/chrome-expands-india-new-zealand-canada/">谷歌将 Gemini in Chrome 扩展至印度等国</a> <code>#16</code></h2>
+<blockquote>
+<p>Google 正式将 Chrome 浏览器的 <strong>Gemini AI</strong> 功能扩展至 <strong>印度</strong>、<strong>新西兰</strong> 和 <strong>加拿大</strong>，并新增支持 <strong>印地语</strong>、<strong>法语</strong> 等 50 多种语言。</p>
+</blockquote>
+<p>Google 官方宣布 <strong>Gemini in Chrome</strong> 扩展至<strong>印度</strong>、<strong>新西兰</strong>和<strong>加拿大</strong>，新增支持 <strong>50 多种语言</strong>。该功能基于 <code>Gemini 3.1</code> 模型，率先登陆桌面端和 iOS，Android 端通过长按电源键激活。</p>
+<p>用户可在不切换标签页时调用该助手进行内容总结及跨标签页信息整合，并集成 <strong>Gmail</strong>、<strong>Maps</strong> 等应用实现端内操作。</p>
+<p>此外，Chrome 内置的 <code>Nano Banana 2</code> 支持侧边栏实时处理图像。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311212243_ec3ed7bc88.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/chrome/chrome-expands-india-new-zealand-canada/">https://blog.google/products-and-platforms/products/chrome/chrome-expands-india-new-zealand-canada/</a></li>
+</ul>
+<hr>
+<h2><a href="https://clawhub.ai/XuanwuSkill/has-anonymizer">腾讯玄武实验室发布端侧隐私工具 HaS</a> <code>#17</code></h2>
+<blockquote>
+<p>腾讯玄武实验室在 <strong>ClawHub</strong> 平台发布了一个名为 <strong>Has Anonymizer</strong> 的 Skill，该 Skill 旨在实现端侧隐私保护，能在本地设备完成文本和图像的敏感数据扫描、匿名化及还原。</p>
+</blockquote>
+<p>腾讯玄武实验室在 ClawHub 发布一个旨在实现端侧隐私保护的 Skill：<strong>Has Anonymizer (HaS)</strong>。该工具可对文本和图像进行敏感数据扫描、匿名化及还原。</p>
+<p>文本方面，其集成 <code>0.6B</code> 模型，支持中英等 8 种语言及开放式实体识别，利用语义标签辅助还原。</p>
+<p>图像方面，<strong>HaS</strong> 基于 <code>YOLO11</code> 模型，支持对人脸、证件等 21 类区域进行像素级掩码。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311215024_f31426a28a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://clawhub.ai/XuanwuSkill/has-anonymizer">https://clawhub.ai/XuanwuSkill/has-anonymizer</a></li>
+<li><a href="https://x.com/TencentAI_News/status/2031651938274599055">https://x.com/TencentAI_News/status/2031651938274599055</a></li>
+</ul>
+<hr>
+<h2><a href="https://blogs.nvidia.cn/blog/ai-5-layer-cake/">黄仁勋发文，提出五层架构模型</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>黄仁勋</strong>发文，将 <strong>AI</strong> 定义为类似电力的核心基础设施，并提出了涵盖能源、芯片、设施、模型及应用这五层相互强化的全栈架构。他指出计算模式已转向实时智能生成，全球 <strong>AI</strong> 工厂建设将带动数万亿美元投入。</p>
+</blockquote>
+<p><strong>黄仁勋</strong>发布博客，将 <strong>AI</strong> 定义为基础设施并提出“五层蛋糕”架构。他指出计算模式已转向实时智能生成，需全栈重构。全球正大规模建设 <strong>AI</strong> 工厂，相关投入预计将增至数万亿美元。</p>
+<p>该架构各层相互强化：能源层是物理限制；芯片层转化算力；基础设施层构建“<strong>AI</strong> 工厂”；模型层处理多模态信息，<code>DeepSeek-R1</code> 等开源模型拉动了底层需求；应用层产生经济价值。</p>
+<p><strong>黄仁勋</strong>称 <strong>AI</strong> 推理能力已增强，建设带动了技术工种需求。他认为目前进程尚处早期，但 <strong>AI</strong> 作为现代世界基础设施的地位已确立。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/4155f275-d533-47a5-85bb-f584f344cddf/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blogs.nvidia.cn/blog/ai-5-layer-cake/">https://blogs.nvidia.cn/blog/ai-5-layer-cake/</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/equip-responses-api-computer-environment/">OpenAI 为 Responses API 引入计算机环境支持 Agent 转型</a> <code>#19</code></h2>
+<blockquote>
+<p>OpenAI 发布文章介绍其为 <strong>Responses API</strong> 推出的 <strong>“计算机环境”</strong>（computer environment），旨在推动 AI 从单一任务模型向复杂工作流 Agent 转型。</p>
+</blockquote>
+<p>OpenAI 发布文章介绍其为 <strong>Responses API</strong> 推出的“计算机环境”（computer environment），该功能集成 <code>Shell tool</code>、托管容器、原生 <code>Compaction</code> 及 <code>Agent Skills</code>，旨在推动 AI 向处理复杂工作流的 Agent 转型。</p>
+<p>根据官方博客，<code>Shell tool</code> 允许 <strong>GPT-5.2</strong> 及以后版本模型通过命令行交互与并发执行。托管容器提供隔离环境，并通过 <code>Sidecar egress proxy</code> 保障凭证安全。</p>
+<p>针对长时任务，原生 <code>Compaction</code> 机制可加密保留关键状态以解决上下文溢出问题。<code>Agent Skills</code> 则封装可复用逻辑。</p>
+<p>该组合实现了安全、可重复的端到端生产级工作流。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/2d8d6337-b541-47ee-a285-0dd46d3c9363/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/equip-responses-api-computer-environment/">https://openai.com/index/equip-responses-api-computer-environment/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/the-anthropic-institute">Anthropic 成立研究所应对 AI 挑战，设华盛顿办事处</a> <code>#20</code></h2>
+<blockquote>
+<p>Anthropic 宣布成立 <strong>The Anthropic Institute</strong>，由联合创始人 <strong>Jack Clark</strong> 领导。该机构整合了前沿红队测试、社会影响及经济研究三大团队，旨在利用前沿模型构建者的独特视角，应对强大 <code>AI</code> 给社会带来的挑战。</p>
+</blockquote>
+<p>Anthropic宣布推出 <strong>The Anthropic Institute</strong>，旨在应对强大AI带来的社会挑战。该机构由联合创始人 <strong>Jack Clark</strong> 领导，整合了 <code>Frontier Red Team</code> 等团队，汇集了机器学习及社会科学等领域的专家。</p>
+<p><strong>Matt Botvinick</strong> 等多位专家已加入，分别负责AI法治及经济研究。该研究所将利用前沿模型构建者的独特视角，向公众提供信息并进行互动。</p>
+<p>同步地，Anthropic扩展了Public Policy团队，任命前Stripe高管 <strong>Sarah Heck</strong> 为主管。该公司计划今春在华盛顿特区开设首个办事处，以推进模型安全、能源及出口管制等政策目标。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260311/20260311204600_730507e489.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/the-anthropic-institute">https://www.anthropic.com/news/the-anthropic-institute</a></li>
+</ul>
+<hr>
+<h2><a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/">Meta 披露 MTIA 芯片路线图，两年迭代四代 2027 年部署</a> <code>#21</code></h2>
+<blockquote>
+<p>Meta 官方披露了自研 AI 芯片家族 <strong>MTIA</strong> 的最新路线图，展示了在两年内迭代四代芯片的成果。该系列芯片采用模块化设计和 <code>PyTorch</code> 原生软件栈，旨在通过推理优先策略，为数十亿用户提供更具成本效益的 AI 体验。</p>
+</blockquote>
+<p>Meta 官方披露自研 AI 芯片家族 <strong>MTIA</strong> 路线图，展示两年内迭代四代芯片的成果。该系列采取推理优先及 <strong>PyTorch</strong> 原生策略，采用模块化小芯片设计。</p>
+<p>其中，<strong>MTIA 300</strong> 已投入推荐模型训练；<strong>MTIA 400</strong> 正部署至数据中心；<strong>MTIA 450</strong> 与 <strong>MTIA 500</strong> 计划后续部署，重点优化 GenAI 推理，后者 HBM 带宽与容量分别提升 50% 和 80%。</p>
+<p>全系列共用系统基础设施，配套基于 <code>Triton</code> 和 <code>Rust</code> 的软件栈，以实现高性价比扩展。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/601a1058-01a0-41cc-91b1-dba950fff7b4/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4307d4a6-4092-4627-99af-7c38cbec0dc4/601a1058-01a0-41cc-91b1-dba950fff7b4/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/">https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/</a></li>
+</ul>
+<hr>
+<h2><a href="https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud">NVIDIA 注资 20 亿美元携手 Nebius 部署 5 吉瓦 AI 系统</a> <code>#22</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 宣布与云服务商 <strong>Nebius</strong> 建立战略合作伙伴关系，并注资 <strong>20 亿美元</strong> 以加速构建全栈 AI 云平台。</p>
+<p>根据协议，<strong>Nebius</strong> 将优先采用包括 <code>Rubin</code> 平台和 <code>Vera CPU</code> 在内的最新加速计算架构，计划在 <strong>2030 年底前</strong> 部署超过 <strong>5 吉瓦</strong> 的 <strong>NVIDIA</strong> 系统容量。</p>
+</blockquote>
+<p><strong>NVIDIA</strong> 与 <strong>Nebius Group N.V.</strong> 达成战略合作伙伴关系，<strong>NVIDIA</strong> 将向后者注资 <strong>20 亿美元</strong> 以构建全栈 AI 云平台。</p>
+<p>根据协议，<strong>NVIDIA</strong> 支持该平台优先采用含 <code>Rubin</code> 平台、<code>Vera CPU</code> 及 <code>BlueField</code> 系统在内的最新加速计算架构，目标在 <strong>2030 年底前</strong> 部署超过 <strong>5 吉瓦</strong> 容量。</p>
+<p>双方合作涵盖 AI 工厂设计、推理技术栈构建、基础设施部署及集群健康管理四大领域。</p>
+<p>官方表示，此举旨在满足 Agent AI 时代的激增算力需求，并深化全栈技术关系。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312081007_26d8f3ed8e.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312081056_a26e7febb2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud">https://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud</a></li>
+<li><a href="https://nebius.com/newsroom/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud">https://nebius.com/newsroom/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.replit.com/replit-raises-400-million-dollars">Replit 完成 4 亿美元融资，估值 90 亿美元，发布 Agent 4</a> <code>#23</code></h2>
+<blockquote>
+<p>AI编程平台 <strong>Replit</strong> 宣布完成 <strong>4亿美元</strong> 融资，估值达到 <strong>90亿美元</strong>，同时发布了速度比前代快10倍的产品 <code>Agent 4</code>。</p>
+</blockquote>
+<p><strong>Replit</strong> 官方宣布完成 <strong>4 亿美元</strong> 融资，估值达 <strong>90 亿美元</strong>。据媒体报道，本轮融资由 <strong>Georgian</strong> 领投，参投方包括 <strong>a16z</strong>、<strong>Y Combinator</strong> 及卡塔尔投资局等，奥尼尔等个人亦有参与。</p>
+<p>与此同时，该团队推出 <code>Agent 4</code>，据官方称其速度较前代快 <strong>10 倍</strong>，旨在通过处理繁琐工作让用户回归创造核心。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312083351_1b6fce806a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.replit.com/replit-raises-400-million-dollars">https://blog.replit.com/replit-raises-400-million-dollars</a></li>
+</ul>
+<hr>
+<h2><a href="https://thein.fo/4sHj9Yr">消息称 OpenAI 拟将 Sora 功能集成至 ChatGPT</a> <code>#24</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>正计划将<code>Sora</code>视频生成模型直接集成到<strong>ChatGPT</strong>中，让用户直接在<strong>ChatGPT</strong>内部调用<code>Sora</code>进行创作。</p>
+</blockquote>
+<p>据 The Information 独家报道，<strong>OpenAI</strong> 正计划进行战略调整，将其 <strong>Sora</strong> AI 视频生成功能直接集成至 <strong>ChatGPT</strong> 平台。</p>
+<p>该报道指出，此举标志着该公司的视频生成技术将从独立或受限的访问模式，转变为面向 <strong>ChatGPT</strong> 用户的内置服务。</p>
+<p>通过此次整合，用户未来可能无需依赖独立入口，直接通过 <strong>ChatGPT</strong> 即可使用 <code>Sora</code> 进行创作。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://thein.fo/4sHj9Yr">https://thein.fo/4sHj9Yr</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/23</guid><pubDate>Thu, 12 Mar 2026 01:23:41 +0000</pubDate></item><item><title>2026-03-11</title><link>https://imjuya.github.io/juya-ai-daily/issue-22/</link><description>AI 早报 2026-03-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌发布 Gemini Embedding 2 原生多模态嵌入模型 ↗ #1 Google 升级 Workspace Gemini 功能 ↗ #2 模型发布 Tencent AI Lab 开源 LeVo 2 音乐模型，支持 4 分半全曲生成 ↗ #3 Fish Audio 开源 S2 文本转语音模型 ↗ #4 Hume AI 开源 TADA，基于 Llama 3.2 实现语音语言统一模型 ↗ #5 开发生态 OpenAI 调整 Codex 服务，免费层级移除 gpt-5.4 模型权限 ↗ #6 Claude Code 引入 /btw 命令支持后台任务对话 ↗ #7 JetBrains 上线 Air，支持多 Agent 并行执行…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260311/20260311091150490710e4e4_cover_249e.png" alt=""></p>
 <h1>AI 早报 2026-03-11</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1VacZz6EJ6">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Po8fywml53c">YouTube</a></p>
 <h2>概览</h2>
