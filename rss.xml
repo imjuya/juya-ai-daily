@@ -1,5 +1,376 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 12 Mar 2026 01:24:00 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-12</title><link>https://imjuya.github.io/juya-ai-daily/issue-23/</link><description>AI 早报 2026-03-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 英伟达发布并开源混合架构大模型 Nemotron 3 Super ↗ #1 xAI 在API中上线 Grok 4.20 系列，支持 200 万 token 上下文 ↗ #2 模型发布 OpenRouter 上线两款 Stealth 模型 ↗ #3 龙猫在API中上线 LongCat-Flash-Omni，免费可用 ↗ #4 MiroMind 发布 MiroThinker 系列 Agent，含开源模型与定制版 ↗ #5 Reka 发布 70 亿参数 Reka Edge 模型并开源 ↗ #6 开发生态 Antigravity 调整 AI 订阅计划权益，额度或将下调 ↗ #7 智谱宣布本月向 Lite 用户开放 GLM-5，首批需申…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260312/202603120900131373811147_cover_4307.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 13 Mar 2026 01:16:05 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-24/</link><description>AI 早报 2026-03-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限 ↗ #1 Claude 支持生成式 UI，聊天界面构建交互式图表 ↗ #2 模型发布 OpenAI 视频 API 上线新功能 ↗ #3 NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入 ↗ #4 开发生态 Claude Code 推出语音模式，引入设置脚本功能 ↗ #5 Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天 #6 Google Gemini API 现可设置消费上限 ↗ #7 OpenRouter 上线 Auto Exacto 降低工具调用错误率 ↗ #8 Hermes…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260313/202603130900533519444662_cover_4cb2.png" alt=""></p>
+<h1>AI 早报 2026-03-13</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV142c2zhELS">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ku35WqbawN8">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限 <a href="https://github.blog/2026-03-12-updates-to-github-copilot-for-students/">↗</a> <code>#1</code></li>
+<li>Claude 支持生成式 UI，聊天界面构建交互式图表 <a href="https://x.com/claudeai/status/2032124273587077133">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>OpenAI 视频 API 上线新功能 <a href="https://x.com/OpenAIDevs/status/2032142448970121468">↗</a> <code>#3</code></li>
+<li>NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入 <a href="https://huggingface.co/nvidia/NVILA-8B-HD-Video">↗</a> <code>#4</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 推出语音模式，引入设置脚本功能 <a href="https://x.com/lydiahallie/status/2032242047437193346">↗</a> <code>#5</code></li>
+<li>Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天 <code>#6</code></li>
+<li>Google Gemini API 现可设置消费上限 <a href="https://x.com/OfficialLoganK/status/2032126479257968907">↗</a> <code>#7</code></li>
+<li>OpenRouter 上线 Auto Exacto 降低工具调用错误率 <a href="https://openrouter.ai/announcements/auto-exacto">↗</a> <code>#8</code></li>
+<li>Hermes Agent v0.2.0 发布，支持多 IDE 集成 <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.12">↗</a> <code>#9</code></li>
+<li>斯坦福大学开源 OpenJarvis 框架支持本地优先个人 AI <a href="https://scalingintelligence.stanford.edu/blogs/openjarvis/">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>谷歌地图集成 Gemini 推出十多年来最大规模升级 <a href="https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/">↗</a> <code>#11</code></li>
+<li>xAI 发布 Grok 新视频功能，支持 7 张参考图转视频 <a href="https://x.com/EthanHe_42/status/2032164464787857549">↗</a> <code>#12</code></li>
+<li>微软推出 Copilot Health 整合设备与健康记录数据 <a href="https://microsoft.ai/news/introducing-copilot-health/">↗</a> <code>#13</code></li>
+<li>OpenClaw 生态密集更新，百度联想阶跃发布新服务 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1">↗</a> <code>#14</code></li>
+<li>Perplexity 向Pro 用户开放 Perplexity Computer <code>#15</code></li>
+<li>淘宝 PC 端支持 MCP，可接入OpenClaw <a href="https://x.com/fengmk2/status/2031699347252052435">↗</a> <code>#16</code></li>
+<li>ComfyUI 发布 App Mode 及 ComfyHub 支持工作流分享 <a href="https://blog.comfy.org/p/from-workflow-to-app-introducing">↗</a> <code>#17</code></li>
+<li>Canva 推出 Magic Layers 支持平面图转多层可编辑 <a href="https://www.canva.com/zh_hk/help/editable-magic-layers">↗</a> <code>#18</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Cursor 发布 CursorBench 评测体系，优化 Agent 编程评估 <a href="https://cursor.com/cn/blog/cursorbench">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Google 完成收购 Wiz，将加入 Google Cloud 运营 <a href="https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz">↗</a> <code>#20</code></li>
+<li>腾讯回应 OpenClaw 数据争议：称仅拉取 1GB 分担流量 <a href="https://www.aibase.com/zh/news/26172">↗</a> <code>#21</code></li>
+<li>智谱新模型启动内测，面向 Max 计划用户开放申请 <a href="https://x.com/Elaina43114880/status/2032024186760413315">↗</a> <code>#22</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>据传阿里 Qwen 后训练负责人郁博文加盟字节跳动 Seed 团队 <code>#23</code></li>
+<li>英伟达计划五年投入 260 亿美元研发开放权重 AI 模型 <a href="https://www.wired.com/story/nvidia-investing-26-billion-open-source-models">↗</a> <code>#24</code></li>
+</ul>
+<hr>
+<h2><a href="https://github.blog/2026-03-12-updates-to-github-copilot-for-students/">GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限</a> <code>#1</code></h2>
+<blockquote>
+<p>GitHub 宣布即日起调整 Copilot 学生计划，不再支持学生自主选择 <code>GPT-5.4</code>、<code>Claude Opus</code> 等高级模型。</p>
+</blockquote>
+<p>GitHub Education Team 宣布调整 Copilot 学生计划。官方称，为确保全球近 <strong>200 万</strong> 学生持续获得免费服务，即日起该计划不再支持用户自主选择 <code>GPT-5.4</code>、<code>Claude Opus</code> 及 <code>Claude Sonnet</code> 等高级模型。</p>
+<p>但认证学生免费访问权限、学术验证状态及高级请求单位配额保持不变。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313080250_8b4d1ec71f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.blog/2026-03-12-updates-to-github-copilot-for-students/">https://github.blog/2026-03-12-updates-to-github-copilot-for-students/</a></li>
+<li><a href="https://docs.github.com/en/copilot/get-started/plans">https://docs.github.com/en/copilot/get-started/plans</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2032124273587077133">Claude 支持生成式 UI，聊天界面构建交互式图表</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 上线了原生交互式图表功能，以 Beta 形式向包括免费版在内的所有订阅计划开放。</p>
+<p>用户可在对话中直接阅读解释并即时交互可视化内容。</p>
+</blockquote>
+<p>Anthropic 官方宣布，<strong>Claude</strong> 现已支持在聊天界面构建交互式图表与示意图。该功能被称为 <strong>"Generative UI"</strong>，通过内嵌 <code>Visualizer</code> 组件实现，目前以 Beta 形式向所有订阅计划开放。</p>
+<p>官方人员称，与 <code>Artifact</code> 不同，<code>Visualizer</code> 存在于对话流中，允许用户即时交互，而非独立交付物。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/f4ea9444-d30d-4142-9b15-493fcb0f3137/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2032124273587077133">https://x.com/claudeai/status/2032124273587077133</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2032142448970121468">OpenAI 视频 API 上线新功能</a> <code>#3</code></h2>
+<blockquote>
+<p>OpenAI 更新 <strong>Video API</strong>，提供由 <code>Sora 2</code> 驱动的自定义角色与对象、最长 <strong>20秒</strong> 视频生成、场景延续及批量处理等核心功能。</p>
+</blockquote>
+<p>OpenAI Developers 官方宣布在 Video API 中面向所有开发者全量上线由 <strong>Sora 2</strong> 驱动的新功能。</p>
+<p>此次更新核心特性包括：支持自定义角色和对象、<code>16:9</code> 及 <code>9:16</code> 比例导出、生成长达 <strong>20 秒</strong> 的视频片段、用于扩展场景的视频延续功能，以及批量视频生成任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313084048_0337fff831.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2032142448970121468">https://x.com/OpenAIDevs/status/2032142448970121468</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/nvidia/NVILA-8B-HD-Video">NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 开源了 <strong>NVILA-8B-HD-Video</strong> 多模态大模型，专门处理 <strong>4K</strong> 分辨率、千帧级别的高清长视频。</p>
+<p>核心亮点是 <strong>AutoGaze</strong> 技术，能把视频 <code>Token</code> 压缩 <strong>100</strong> 倍，推理延迟最高降低 <strong>19</strong> 倍。</p>
+<p>在 <strong>HLVid</strong> 长视频基准测试上，该模型达到业界最优。</p>
+</blockquote>
+<p>NVIDIA 在 Hugging Face 发布 <strong>NVILA-8B-HD-Video</strong> 模型。这是一款 <strong>8B</strong> 参数多模态大语言模型，专为高分辨率长视频理解设计。</p>
+<p>该模型支持 <strong>4K</strong> 分辨率和 <strong>1K</strong> 帧视频输入，集成 <code>AutoGaze</code> 技术。官方数据显示，该技术可将视频 Token 数量减少最多 <strong>100</strong> 倍，ViT 和 LLM 延迟分别降低最多 <strong>19</strong> 倍和 <strong>10</strong> 倍。</p>
+<p>模型在 <strong>VideoMME</strong> 基准测试中性能提升，并在 <strong>HLVid</strong> 基准上达到 SOTA 水平。</p>
+<p>该模型基于 <strong>NVILA-Lite-8B</strong> 开发，采用 <code>CC-BY-NC-SA-4.0</code> 许可协议，仅限研发使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313081131_f8f061d809.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/nvidia/NVILA-8B-HD-Video">https://huggingface.co/nvidia/NVILA-8B-HD-Video</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/lydiahallie/status/2032242047437193346">Claude Code 推出语音模式，引入设置脚本功能</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 在 <strong>Claude Code</strong> 桌面端及 <strong>Cowork</strong> 平台上线了语音模式。此外，<strong>Claude Code</strong> Web 端和桌面端新增设置脚本功能，支持在云端环境启动前自动完成依赖安装与配置。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 近期宣布推出语音模式，该功能现已正式支持桌面端及 <strong>Cowork</strong> 平台，进一步丰富了用户的交互方式。</p>
+<p>此外，该工具面向 Web 端和桌面端引入了设置脚本功能。通过添加设置脚本，用户能够在云端环境启动之前，自动化完成环境配置工作。根据官方说明，这项功能对于安装依赖项、调整系统设置以及管理配置文件等场景尤为实用，有效提升了开发环境的初始化效率。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313084624_24f2672f4d.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/d957c92b-a944-4b8d-a50e-9b5d959f5cdd/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/lydiahallie/status/2032242047437193346">https://x.com/lydiahallie/status/2032242047437193346</a></li>
+<li><a href="https://x.com/trq212/status/2032241451560812631">https://x.com/trq212/status/2032241451560812631</a></li>
+</ul>
+<hr>
+<h2>Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天 <code>#6</code></h2>
+<blockquote>
+<p><strong>Antigravity</strong>应用正式调整计费规则，从单一配额制改为“固定配额加AI积分”的混合模式。</p>
+<p><strong>Pro</strong>用户配额刷新周期从5小时延长至<strong>7天</strong>，每月获赠<strong>1000</strong>积分；</p>
+<p><strong>Ultra</strong>用户保持<strong>5小时</strong>刷新，拥有约<strong>25000</strong>积分。</p>
+</blockquote>
+<p>Google旗下 <strong>Antigravity</strong> 应用近期调整计费模式，确立了“固定配额+AI Credit”体系，积分消耗依据 <code>Vertex API</code> 定价计算。</p>
+<p>在权益方面，<strong>AI Pro</strong> 用户配额刷新周期改为7天，每月获赠 <strong>1000点</strong> 积分（约 <strong>10美元</strong>）；据称 <strong>Ultra</strong> 用户则保留5小时刷新机制，并拥有约 <strong>25000至26000点</strong> 积分（约 <strong>250美元</strong>），该积分支持家庭组共享。</p>
+<p>目前，<strong>Antigravity</strong> 已在设置中新增可视化仪表盘，用户需手动开启“AI积分超额使用”选项，方可在基准配额耗尽后自动抵扣积分。</p>
+<p>若有额外需求，官方支持购买更多 <code>AI Credit</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312202707_6f3925e9e6.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/OfficialLoganK/status/2032126479257968907">Google Gemini API 现可设置消费上限</a> <code>#7</code></h2>
+<blockquote>
+<p>Google 宣布 <strong>Gemini API</strong> 正式支持消费上限功能，开发者即日起可通过 <strong>AI Studio</strong> 在项目层级设置额度以管控成本。</p>
+<p>需特别注意的是，配置生效最长存在 <strong>10 分钟</strong> 延迟，且目前暂不支持 <code>Vertex AI</code> 及代码端设置。</p>
+</blockquote>
+<p><strong>Gemini API</strong> 现已正式支持 <strong>"Spend caps"</strong>（消费上限）功能。即日起，开发者可通过 <strong>AI Studio</strong> 设置该上限，以在构建应用时获得更高的成本控制权。</p>
+<p>根据官方说明，该功能目前仅支持在 UI 界面设置，且作用于 <strong>Project</strong>（项目）层级而非 <strong>API Key</strong> 层级；上限设置后可能存在最长 <strong>10 分钟</strong> 的延迟才能生效，期间产生的超额费用仍需由用户承担。</p>
+<p>此外，官方正计划移除原有的 <strong>10 美元</strong> 一次性预付款要求，并将整个 API 转向预付费模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313075753_9b3173dfe5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OfficialLoganK/status/2032126479257968907">https://x.com/OfficialLoganK/status/2032126479257968907</a></li>
+<li><a href="https://aistudio.google.com/spend">https://aistudio.google.com/spend</a></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/announcements/auto-exacto">OpenRouter 上线 Auto Exacto 降低工具调用错误率</a> <code>#8</code></h2>
+<blockquote>
+<p>OpenRouter 宣布推出自适应质量路由机制 <strong>Auto Exacto</strong>，默认用于工具调用请求。该系统通过整合吞吐量与数十亿次工具调用遥测数据，每 <strong>5分钟</strong> 动态评估，能够有效降低模型工具调用错误率。</p>
+</blockquote>
+<p>OpenRouter 正式宣布推出 <strong>“Auto Exacto”</strong> 功能，这是一种自适应质量路由机制，目前已针对所有包含工具调用（<code>tool-calling</code>）的请求默认启用。</p>
+<p>该系统通过整合吞吐量、工具调用遥测数据以及 <strong>TauBench Verified Airline</strong> 和 <strong>GPQA-Diamond</strong> 等基准测试分数这三大信号，大约每 <strong>5 分钟</strong> 对供应商进行一次重新评估，旨在解决新模型发布初期供应商表现差异巨大的问题。</p>
+<p>根据官方提供的数据，在过去几天中，这一新算法将不同模型的工具调用错误率降低了 <strong>15% 至 90%</strong>。</p>
+<p>对于非工具调用请求，用户可以通过在任意模型标识后附加 <code>:exacto</code> 来启用该质量加权路由，该功能运作方式类似于现有的 <code>:nitro</code> 或 <code>:floor</code> 后缀。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/9a64295f-f178-4830-9bf8-ab7c6a34d162/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/announcements/auto-exacto">https://openrouter.ai/announcements/auto-exacto</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.12">Hermes Agent v0.2.0 发布，支持多 IDE 集成</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>NousResearch</strong> 正式发布了 <strong>Hermes Agent v0.2.0</strong>，该版本通过集成 <code>MCP</code> 客户端与 <code>ACP</code> 服务器，实现了与 <strong>VS Code</strong> 及 <strong>JetBrains</strong> 的无缝连接，并将 <strong>智谱 GLM</strong>、<strong>Kimi</strong> 和 <strong>MiniMax</strong> 纳入原生支持体系。</p>
+</blockquote>
+<p><strong>NousResearch</strong> 正式发布 <strong>Hermes Agent v0.2.0</strong>。据官方社交账号显示，该项目两周内汇聚 <strong>63</strong> 位贡献者，合并 <strong>216</strong> 个 PR，提交超 <strong>1200</strong> 次。</p>
+<p>该版本核心提升互操作性，搭载 <code>MCP</code> 客户端并内置 <code>ACP</code> 服务器，允许 <code>VS Code</code> 等编辑器作为前端。模型原生支持 <strong>智谱</strong>，兼容 <strong>Kimi</strong>、<strong>MiniMax</strong> 及 <strong>OpenAI OAuth</strong>。</p>
+<p>安全上引入文件系统检查点与 <code>/rollback</code> 机制，利用 <code>git worktree</code> 实现并行任务隔离。工具层面集成无需 API Key 的本地无头 <code>Chromium</code> 浏览器，增强子 Agent 透明度。</p>
+<p>技能库扩展至 <strong>15</strong> 个类别的 <strong>70</strong> 多项，涵盖 <code>Solana</code> 区块链及 <code>Google Workspace</code> 等领域。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313074756_f1512a3725.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.12">https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.12</a></li>
+</ul>
+<hr>
+<h2><a href="https://scalingintelligence.stanford.edu/blogs/openjarvis/">斯坦福大学开源 OpenJarvis 框架支持本地优先个人 AI</a> <code>#10</code></h2>
+<blockquote>
+<p>斯坦福大学研究人员推出了开源框架 <strong>OpenJarvis</strong>，旨在构建默认在本地运行、仅在必要时调用云端的个人 AI 系统。</p>
+</blockquote>
+<p>斯坦福大学的研究人员推出了 <strong>OpenJarvis</strong>，这是一个专为构建本地优先个人 AI 而设计的开源框架。该项目旨在让个人 AI 默认在本地设备上运行，仅在必要时调用云端资源。</p>
+<p><strong>OpenJarvis</strong> 构建于五大原语之上，涵盖了从模型层、推理引擎到 Agent 行为、工具与记忆以及闭环学习的完整技术栈，支持 <code>MCP</code> 和 <code>Google A2A</code> 等协议，并集成了针对能耗、延迟及成本的一流评估指标。</p>
+<p>该框架兼容 <code>Ollama</code>、<code>vLLM</code> 等多种推理后端，提供 Python SDK、CLI 及桌面端应用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313081618_c63cf65a53.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://scalingintelligence.stanford.edu/blogs/openjarvis/">https://scalingintelligence.stanford.edu/blogs/openjarvis/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/">谷歌地图集成 Gemini 推出十多年来最大规模升级</a> <code>#11</code></h2>
+<blockquote>
+<p>Google Maps 宣布推出重大升级，通过集成 <code>Gemini</code> 模型，上线了对话式探索功能 <strong>“Ask Maps”</strong> 和视觉革新的 <strong>“Immersive Navigation”</strong>。</p>
+</blockquote>
+<p><strong>Google Maps</strong> 宣布迎来十多年来最大规模升级，集成 <strong>Gemini</strong> 模型推出两项核心功能。</p>
+<p><strong>Ask Maps</strong> 支持自然语言查询和个性化行程规划，利用超 <strong>3 亿</strong> 地点和 <strong>5 亿</strong> 社区贡献者数据提供建议，现已在美印移动端上线。</p>
+<p><strong>Immersive Navigation</strong> 重构驾驶体验，提供含丰富道路细节的 3D 视图、自然语音引导及实时路况预警。该功能即日起在美国推出，未来数月将扩展至多平台及车机系统。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313071257_0ef6e7c19d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/">https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/EthanHe_42/status/2032164464787857549">xAI 发布 Grok 新视频功能，支持 7 张参考图转视频</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 团队为 <strong>Grok Imagine</strong> 上线了全新的“图生视频”功能，最新版本支持上传最多 <strong>7</strong> 张任意元素的参考图，即可生成画面流畅且特征一致的视频。</p>
+</blockquote>
+<p><strong>xAI</strong> 团队成员 <strong>Ethan He</strong> 宣布，<strong>Grok Imagine</strong> 正式推出 <code>reference-to-video</code> 功能。</p>
+<p>用户更新应用后，可上传最多 7 张包含角色或物体等元素的参考图，转化为视频。</p>
+<p>据其描述，该技术能生成流畅一致的群组场景，确保角色特征真实。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/2943507d-e4a4-4d48-a9a5-2cd3db56da3f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/EthanHe_42/status/2032164464787857549">https://x.com/EthanHe_42/status/2032164464787857549</a></li>
+</ul>
+<hr>
+<h2><a href="https://microsoft.ai/news/introducing-copilot-health/">微软推出 Copilot Health 整合设备与健康记录数据</a> <code>#13</code></h2>
+<blockquote>
+<p>Microsoft 推出了 <strong>Copilot Health</strong>，这是一个具备医疗智能的独立安全空间，支持连接 <code>Apple Health</code> 等五十多种可穿戴设备及电子病历，提供基于权威来源的问答服务和医生匹配。</p>
+</blockquote>
+<p><strong>Microsoft</strong> 正式推出 <strong>Copilot Health</strong>，作为 <strong>Copilot</strong> 内部独立安全空间。该功能支持连接 <strong>Apple Health</strong> 等 50 多种可穿戴设备，通过 <code>HealthEx</code> 接入超 <strong>5</strong> 万家美国医疗机构电子健康记录，并整合 <code>Function</code> 实验室检测结果。</p>
+<p>其提供基于权威来源且附带引用的问答服务，并提供医生寻找服务。为确保隐私，对话数据与通用 <strong>Copilot</strong> 隔离且绝不用于模型训练，已获得 <code>ISO/IEC 42001</code> 认证。</p>
+<p>现面向美国 <strong>18</strong> 岁及以上用户开启英文版的等待名单，计划扩展至全球。官方强调该服务不用于诊断或替代专业医疗建议。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/a20d71f8-e8db-4b94-9736-6ede52546843/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://microsoft.ai/news/introducing-copilot-health/">https://microsoft.ai/news/introducing-copilot-health/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1">OpenClaw 生态密集更新，百度联想阶跃发布新服务</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong>发布新版，修复了编程Bug并支持<code>Hunter Alpha</code>等模型。
+<strong>阶跃星辰</strong>上线云端Agent服务<strong>StepClaw</strong>，已开放<strong>5万个</strong>免费名额。
+<strong>百度</strong>推出手机端应用<strong>红手指Operator</strong>，<strong>联想</strong>则宣布将在<strong>小新</strong>及<strong>YOGA</strong>平板首发本地化的<strong>PadClaw</strong>技术。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 发布新版本，官方称支持 <code>Hunter Alpha</code> 等模型并修复 Bug，显著提升了编程性能。</p>
+<p><strong>阶跃星辰</strong>推出云端 Agent 服务 <code>StepClaw</code>，用户可一键部署并实现 7x24 小时云端运行，官方宣布开放 <strong>5 万个</strong>免费体验名额。</p>
+<p><strong>百度</strong>发布全球首款手机龙虾应用<strong>红手指 Operator</strong>，支持通过自然语言指令操控手机 App 执行任务。</p>
+<p><strong>联想</strong>宣布将在小新及 YOGA 系列平板上首发端侧一键部署 <code>PadClaw</code> 技术，强调本地化运行优势。</p>
+<p>更多细节预计将在近期发布会上揭晓。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313084944_11f7630f66.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1">https://github.com/openclaw/openclaw/releases/tag/v2026.3.11-beta.1</a></li>
+<li><a href="https://mp.weixin.qq.com/s/LvOo7f_PoYEwTKGI_FLatQ">https://mp.weixin.qq.com/s/LvOo7f_PoYEwTKGI_FLatQ</a></li>
+</ul>
+<hr>
+<h2>Perplexity 向Pro 用户开放 Perplexity Computer <code>#15</code></h2>
+<blockquote>
+<p><strong>Perplexity</strong> 宣布 <strong>Perplexity Computer</strong> 正式面向 <strong>Pro</strong> 用户开放，该产品集成了二十多种先进模型与数百个连接器，支持自定义技能。</p>
+</blockquote>
+<p>Perplexity 宣布，<strong>Perplexity Computer</strong> 正式面向 <strong>Pro</strong> 订阅用户开放。该产品集成了 20 多种先进模型，支持使用预置与自定义技能及数百个连接器，旨在提供更强大的处理能力。</p>
+<p>针对此次发布，官方推出了相应的额度奖励政策。目前所有 <strong>Pro</strong> 用户均可获得 <strong>4000</strong> 个奖励额度。此外，<strong>Max</strong> 订阅用户相比 <strong>Pro</strong> 用户享有更高的消费限额及每月 <strong>10000</strong> 个循环额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313082355_8c80b7cc54.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/fengmk2/status/2031699347252052435">淘宝 PC 端支持 MCP，可接入OpenClaw</a> <code>#16</code></h2>
+<blockquote>
+<p>据用户发现，<strong>淘宝</strong>桌面版现已支持 <strong>MCP</strong> 协议，并可通过 <code>OpenClaw</code> 实现一键配置。</p>
+</blockquote>
+<p>据社区用户反馈，淘宝桌面版（pc.taobao.com）现已支持 <strong>MCP</strong> 协议，并可通过 <strong>OpenClaw</strong> 实现一键配置。该功能使得各大 AI 工具能够调用 <code>taobao-native</code> 工具集，提供搜索商品、加入购物车、扫描页面元素及输入文本等接口。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/ebf0f3c7-6af8-4cef-b23b-697aca919618/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/fengmk2/status/2031699347252052435">https://x.com/fengmk2/status/2031699347252052435</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.comfy.org/p/from-workflow-to-app-introducing">ComfyUI 发布 App Mode 及 ComfyHub 支持工作流分享</a> <code>#17</code></h2>
+<blockquote>
+<p>ComfyUI官方推出全新工具系统，让任何工作流都能变成可分享的应用程序。核心功能包括 <strong>App Mode</strong>、<strong>App Builder</strong> 和可分享URL，接收方无需安装就能在浏览器里直接运行。</p>
+<p>同时上线的 <strong>ComfyHub</strong> 预览版是一个社区分享平台，方便用户快速找到即用型工作流。</p>
+</blockquote>
+<p><strong>ComfyUI</strong> 官方宣布推出包含 <strong>App Mode</strong>、<strong>App Builder</strong>、<strong>URL 分享</strong> 及 <strong>ComfyHub</strong> 的工具系统，旨在将工作流转化为无需节点图经验的应用程序。</p>
+<p><strong>App Mode</strong> 隐藏复杂节点，据称对移动端友好；<strong>App Builder</strong> 允许精确配置参数；通过 <strong>URL 分享</strong>，接收方可免安装直接运行。</p>
+<p>同时，社区平台 <strong>ComfyHub</strong> 预览版已上线，供用户浏览精选工作流。</p>
+<p>目前，核心功能已在 <strong>Comfy Cloud</strong> 和 <strong>Comfy Local</strong> 上线，后者还针对 <code>NVIDIA RTX 5090</code> 和 <code>AMD RX 9070 XT</code> 等最新 GPU 进行了优化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/5f1fa328-5fdf-418b-8801-1d6bfb675d1a/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.comfy.org/p/from-workflow-to-app-introducing">https://blog.comfy.org/p/from-workflow-to-app-introducing</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.canva.com/zh_hk/help/editable-magic-layers">Canva 推出 Magic Layers 支持平面图转多层可编辑</a> <code>#18</code></h2>
+<blockquote>
+<p>Canva 推出 <strong>Magic Layers</strong> 新功能，能把平面图片和 <code>AI</code> 生成的视觉效果变成多层可编辑设计。</p>
+<p>用户不用重新生成，就能单独调整对象、文字等细节。</p>
+</blockquote>
+<p>Canva 近日宣布推出 <strong>Magic Layers</strong> 功能，该功能现已在美、英、加、澳四国进入公开测试阶段。</p>
+<p>据官方介绍，此功能可将平面图片及 <code>AI</code> 生成的视觉效果转化为多层、完全可编辑的设计。</p>
+<p>用户在保留原始布局的前提下，可单独选择并编辑对象、文本框等组件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313080500_27a8d8c9fa.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.canva.com/zh_hk/help/editable-magic-layers">https://www.canva.com/zh_hk/help/editable-magic-layers</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/cn/blog/cursorbench">Cursor 发布 CursorBench 评测体系，优化 Agent 编程评估</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 官方发布了名为 <strong>CursorBench</strong> 的混合评测体系，利用内部真实开发会话构建离线评测，并结合线上受控实验，以解决公开基准存在的数据污染和任务失真问题。</p>
+</blockquote>
+<p><strong>Cursor</strong> 近日分享了针对智能体编程任务的模型评分新方法，采用线上与线下结合的混合评测流程，以确保对模型质量的判断始终与开发者的真实工作方式保持一致。</p>
+<p>其内部离线评测套件 <strong>CursorBench</strong> 基于工程团队的真实会话构建，而非公开代码仓库，有效解决了公开基准在一致性、评分逻辑及数据污染方面的局限性。</p>
+<p>最新版本的 <code>CursorBench-3</code> 任务规模较初版翻倍，覆盖多工作区环境等复杂场景，官方数据显示其能更好地区分前沿模型。</p>
+<p>此外，该公司还通过真实流量上的受控分析来补充线下测试，以捕捉那些评分器认为正确但实际体验不佳的回归问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/96425dc4-9fb1-4ecf-9601-2d8e6e23c843/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4cb2c300-056c-420f-865f-cde040064689/96425dc4-9fb1-4ecf-9601-2d8e6e23c843/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/cursorbench">https://cursor.com/cn/blog/cursorbench</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz">Google 完成收购 Wiz，将加入 Google Cloud 运营</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>Google LLC</strong> 正式完成对云安全平台 <strong>Wiz</strong> 的收购，<strong>Wiz</strong> 将加入 <strong>Google Cloud</strong> 但保持品牌独立运营。</p>
+</blockquote>
+<p>Google LLC 宣布已完成对云及AI安全平台 <strong>Wiz</strong> 的收购。官方公告显示，<strong>Wiz</strong> 将加入 <strong>Google Cloud</strong> 并保留品牌，继续履行保护跨云环境客户的承诺。</p>
+<p>此次收购旨在结合 <strong>Google Cloud</strong> 的AI基础设施优势与 <strong>Wiz</strong> 的云安全专长，打造统一安全平台。该平台将协助企业和政府机构在AI时代实现从代码到运行时的全流程防护，并能利用 <code>AI模型</code> 提前检测威胁。</p>
+<p>秉承开放性承诺，<strong>Wiz</strong> 产品将继续支持 <code>Amazon Web Services</code>、<code>Microsoft Azure</code> 等主要云环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313082647_5d9b1ee2d0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz">https://www.googlecloudpresscorner.com/2026-03-11-Google-Completes-Acquisition-of-Wiz</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.aibase.com/zh/news/26172">腾讯回应 OpenClaw 数据争议：称仅拉取 1GB 分担流量</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong>开发者<strong>Peter Steinberger</strong>指责<strong>腾讯</strong>未经授权抓取数据构建<strong>SkillHub</strong>。</p>
+<p><strong>腾讯</strong>回应称，该平台旨在解决中国访问延迟，仅从官方源拉取 <code>1GB</code> 数据。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 开发者 <strong>Peter Steinberger</strong> 近日指责腾讯未经授权抓取 <strong>ClawHub</strong> 数据构建 "SkillHub"。</p>
+<p>腾讯 AI 官方回应称，该平台系基于 <strong>OpenClaw</strong> 生态的本地化技能镜像，旨在解决中国用户访问延迟。</p>
+<p>根据腾讯官方披露的数据，上线首周处理 <code>180GB</code> 流量（约 <code>87</code> 万次下载），仅从官方源拉取 <code>1GB</code> 数据。腾讯称团队成员是项目活跃贡献者，愿深化合作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312202041_00c5ac0c44.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.aibase.com/zh/news/26172">https://www.aibase.com/zh/news/26172</a></li>
+<li><a href="https://blog.openclaw.tech">https://blog.openclaw.tech</a></li>
+<li><a href="https://github.com/openclaw/openclaw">https://github.com/openclaw/openclaw</a></li>
+<li><a href="https://github.com/openclaw/SkillHub">https://github.com/openclaw/SkillHub</a></li>
+<li><a href="https://x.com/PeterSteinberger/status/1767398201456199568">https://x.com/PeterSteinberger/status/1767398201456199568</a></li>
+<li><a href="https://github.com/tencentai/skillhub">https://github.com/tencentai/skillhub</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Elaina43114880/status/2032024186760413315">智谱新模型启动内测，面向 Max 计划用户开放申请</a> <code>#22</code></h2>
+<blockquote>
+<p>智谱在 <strong>Coding Plan</strong> 用户飞书群宣布，对代号 <strong>Pony-Alpha-2</strong> 的模型进行测试，<strong>Max套餐</strong> 用户可申请。</p>
+</blockquote>
+<p>据用户透露，<strong>GLM-5-Code</strong>（代号 <strong>Pony-Alpha-2</strong>）已在官方飞书群面向用户启动内测，目前仅面向 <strong>GLM Coding Plan Max</strong> 套餐用户开放，相关订阅者现已获得该模型的访问权限。</p>
+<p>针对该模型的具体技术细节、功能范围及正式上线时间，官方尚未发布正式公告，现有信息主要源于社区层面的反馈。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313073953_8c2d307ee6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Elaina43114880/status/2032024186760413315">https://x.com/Elaina43114880/status/2032024186760413315</a></li>
+</ul>
+<hr>
+<h2>据传阿里 Qwen 后训练负责人郁博文加盟字节跳动 Seed 团队 <code>#23</code></h2>
+<blockquote>
+<p>据媒体报道，原阿里通义实验室 <strong>Qwen</strong> 大模型“后训练”负责人 <strong>郁博文</strong> 已加盟字节跳动，出任 <strong>Seed</strong> 团队视觉模型与多模态交互团队“后训练”负责人。</p>
+</blockquote>
+<p>据媒体报道，原阿里通义实验室 <strong>Qwen</strong> 大模型后训练负责人 <strong>郁博文</strong> 近日被曝加盟 <strong>字节跳动</strong>，出任 <strong>Seed</strong> 团队视觉模型与多模态交互团队后训练负责人，<strong>字节跳动</strong> 对此暂未回应。</p>
+<hr>
+<h2><a href="https://www.wired.com/story/nvidia-investing-26-billion-open-source-models">英伟达计划五年投入 260 亿美元研发开放权重 AI 模型</a> <code>#24</code></h2>
+<blockquote>
+<p>据报道，<strong>英伟达</strong>计划在未来五年投入约 <strong>260 亿美元</strong>研发“开放权重”<strong>AI 模型</strong>，这笔巨资将用于研发与算力建设，首批模型预计于 <strong>2026 年底</strong>发布。</p>
+</blockquote>
+<p>据媒体报道及英伟达最新财务文件披露，<strong>英伟达</strong>计划在未来五年内投入约 <strong>260 亿美元</strong>研发和训练“开放权重”AI 模型，旨在推动公司从单纯的芯片供应商转型为全栈 AI 平台及前沿实验室。</p>
+<p>该投资资金将在未来 <strong>18 至 24 个月</strong>内落实，覆盖研发、算力及人才建设，首批模型预计于 <strong>2026 年底</strong>或 <strong>2027 年初</strong>发布。</p>
+<p><strong>英伟达</strong>将采用公开权重但不一定完全开源的“开放权重”模式，并对自家硬件进行深度优化，以此加固 GPU 生态护城河。</p>
+<p>目前该公司已预训练完成一个 <code>5500 亿参数</code>的超大模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260312/20260312201522_dfd61ff190.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wired.com/story/nvidia-investing-26-billion-open-source-models">https://www.wired.com/story/nvidia-investing-26-billion-open-source-models</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/24</guid><pubDate>Fri, 13 Mar 2026 01:15:43 +0000</pubDate></item><item><title>2026-03-12</title><link>https://imjuya.github.io/juya-ai-daily/issue-23/</link><description>AI 早报 2026-03-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 英伟达发布并开源混合架构大模型 Nemotron 3 Super ↗ #1 xAI 在API中上线 Grok 4.20 系列，支持 200 万 token 上下文 ↗ #2 模型发布 OpenRouter 上线两款 Stealth 模型 ↗ #3 龙猫在API中上线 LongCat-Flash-Omni，免费可用 ↗ #4 MiroMind 发布 MiroThinker 系列 Agent，含开源模型与定制版 ↗ #5 Reka 发布 70 亿参数 Reka Edge 模型并开源 ↗ #6 开发生态 Antigravity 调整 AI 订阅计划权益，额度或将下调 ↗ #7 智谱宣布本月向 Lite 用户开放 GLM-5，首批需申…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260312/202603120900131373811147_cover_4307.png" alt=""></p>
 <h1>AI 早报 2026-03-12</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1MuczzCE8y">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=wcy_Yhz3G5w">YouTube</a></p>
 <h2>概览</h2>
