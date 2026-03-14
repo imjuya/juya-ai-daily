@@ -1,5 +1,334 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 13 Mar 2026 07:24:09 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-24/</link><description>AI 早报 2026-03-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限 ↗ #1 Claude 支持生成式 UI，聊天界面构建交互式图表 ↗ #2 模型发布 OpenAI 视频 API 上线新功能 ↗ #3 NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入 ↗ #4 开发生态 Claude Code 推出语音模式，引入设置脚本功能 ↗ #5 Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天 #6 Google Gemini API 现可设置消费上限 ↗ #7 OpenRouter 上线 Auto Exacto 降低工具调用错误率 ↗ #8 Hermes…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260313/202603130900533519444662_cover_4cb2.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 14 Mar 2026 01:08:24 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-25/</link><description>AI 早报 2026-03-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 正式开放 100 万 token 上下文，取消阶梯定价 ↗ #1 模型发布 上海人工智能实验室发布 InternVL-U 统一多模态模型 ↗ #2 开发生态 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高 #3 Codex 应用正式上线自动化功能与主题个性化 ↗ #4 Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用 ↗ #5 CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI ↗ #6 Vue 作者尤雨溪推出 Vite 原生部署平台 Void #7 Qoder 正式支持 BYOK 接入多家大模型 ↗ #8 产品应用 Open…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260314/20260314084105670927c22e_cover_0adc.png" alt=""></p>
+<h1>AI 早报 2026-03-14</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1LDwHz1E6Q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=mHxC8TJW77E">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Claude 正式开放 100 万 token 上下文，取消阶梯定价 <a href="https://claude.com/blog/1m-context-ga">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>上海人工智能实验室发布 InternVL-U 统一多模态模型 <a href="https://open-gvlab.github.io/InternVL-U/">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>智谱调整 GLM Coding Plan 折扣，拼好模门槛提高 <code>#3</code></li>
+<li>Codex 应用正式上线自动化功能与主题个性化 <a href="https://x.com/OpenAIDevs/status/2032222711032971548">↗</a> <code>#4</code></li>
+<li>Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用 <a href="https://x.com/steipete/status/2032515303704232442">↗</a> <code>#5</code></li>
+<li>CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI <a href="https://github.com/CopilotKit/OpenGenerativeUI">↗</a> <code>#6</code></li>
+<li>Vue 作者尤雨溪推出 Vite 原生部署平台 Void <code>#7</code></li>
+<li>Qoder 正式支持 BYOK 接入多家大模型 <a href="https://x.com/qoder_ai_ide/status/2032481020961054907">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenClaw 发布 v2026.3.12，推出 Dashboard v2 调整架构 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.12">↗</a> <code>#9</code></li>
+<li>绿联科技携手 MiniMax 合作，NAS 上线 OpenClaw <a href="https://www.ugnas.com/news-detail/id-85.html">↗</a> <code>#10</code></li>
+<li>Genspark 发布 AI Workspace 3.0 <a href="https://blog.genspark.ai/blog/genspark_ai_workspace_3">↗</a> <code>#11</code></li>
+<li>BrowserOS 宣布 Kimi K2.5 为默认提供商，开启 2 周限免 <a href="https://x.com/browserOS_ai/status/2032228393081868310">↗</a> <code>#12</code></li>
+<li>阿里云 JVS Claw 上线移动 App，配 12GB 内存独立云环境 <a href="https://jvs.wuying.aliyun.com/">↗</a> <code>#13</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>谷歌推出 Groundsource，解析新闻数据预测城市山洪 <a href="https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/">↗</a> <code>#14</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>AWS 携手 Cerebras 整合 Trainium 与 CS-3，加速 AI 推理服务 <a href="https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference">↗</a> <code>#15</code></li>
+<li>特斯拉与 xAI 启动数字擎天柱自动化办公系统 <a href="https://x.com/elonmusk/status/2031751255060885911">↗</a> <code>#16</code></li>
+<li>xAI 全面重组，半数联合创始人离职 <a href="https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/">↗</a> <code>#17</code></li>
+<li>爱诗科技完成 C 轮融资，发布 PixVerse R1 实时模型 <a href="https://mp.weixin.qq.com/s/dapuwBFEa9u6VjKhg3ZSGQ">↗</a> <code>#18</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>杨植麟将于英伟达 GTC 演讲，或披露 Kimi K3 信息 <a href="https://weibo.com/7909392214/QvTUwnft5">↗</a> <code>#19</code></li>
+<li>消息称 Meta 推迟 Avocado 模型发布 最早至五六月 <a href="https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/">↗</a> <code>#20</code></li>
+</ul>
+<h3>其他</h3>
+<ul>
+<li>Fenz AI 发现 SkillHub 插件存 Prompt 注入风险 <a href="https://x.com/fenzlabs/status/2032261392624206313">↗</a> <code>#21</code></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/1m-context-ga">Claude 正式开放 100 万 token 上下文，取消阶梯定价</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布为 <strong>Claude</strong> 系列模型正式开放 <strong>100 万</strong> token 上下文窗口，并取消了阶梯定价，全范围执行标准定价。根据官方数据，<strong>Claude</strong> 系列模型在处理超长上下文时保持了较高的召回准确性与推理能力。</p>
+<p>此外，对于 <strong>Claude Code</strong> 的 Max、Team 和 Enterprise 用户，在使用 <code>Opus 4.6</code> 时将默认启用 <strong>100 万</strong> 上下文窗口。</p>
+</blockquote>
+<p><strong>Claude Opus 4.6</strong> 和 <strong>Sonnet 4.6</strong> 的 <strong>100 万 token</strong> 上下文窗口现已正式上线。根据官方公告，此次更新取消了长上下文溢价，两版模型在完整的 <strong>100 万 token</strong> 窗口内均执行标准定价：<strong>Opus 4.6</strong> 为输入每百万 token <strong>5 美元</strong>、输出 <strong>25 美元</strong>，<strong>Sonnet 4.6</strong> 为输入 <strong>3 美元</strong>、输出 <strong>15 美元</strong>。</p>
+<p>此外，对于 <strong>Claude Code</strong> 的 Max、Team 和 Enterprise 用户，在使用 <strong>Opus 4.6</strong> 时将默认启用 <strong>100 万</strong> 上下文窗口。</p>
+<p>该功能目前已登陆 <strong>Claude Platform</strong> 原生平台，并同步支持 <code>Amazon Bedrock</code>、<code>Google Cloud Vertex AI</code> 以及 <code>Microsoft Azure Foundry</code> 和 <code>Microsoft Foundry</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314075732_68ae54db00.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/6e61b0b7-485a-4a92-b78d-a19c1a1170ab/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314082839_80be079fa5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/1m-context-ga">https://claude.com/blog/1m-context-ga</a></li>
+<li><a href="https://x.com/claudeai/status/2032509548297343196">https://x.com/claudeai/status/2032509548297343196</a></li>
+</ul>
+<hr>
+<h2><a href="https://open-gvlab.github.io/InternVL-U/">上海人工智能实验室发布 InternVL-U 统一多模态模型</a> <code>#2</code></h2>
+<blockquote>
+<p>上海人工智能实验室发布了 <strong>4B</strong> 参数的统一多模态模型 <code>InternVL-U</code>，该模型将多模态理解、推理、图像生成与编辑集成于单一框架，在有限参数规模下实现了优秀的性能表现。团队同步推出了跨基准评估工具包 <code>GenEditEvalKit</code> 及文本编辑基准 <code>TextEdit</code>。</p>
+</blockquote>
+<p>上海人工智能实验室 <strong>InternVL-U</strong> 团队正式发布 <strong>InternVL-U</strong>，这是一个拥有 <strong>4B</strong> 参数的统一多模态模型（UMM）。该模型将多模态理解、推理、图像生成与编辑集成于单一框架，旨在普及全能型多模态智能。</p>
+<p><strong>InternVL-U</strong> 基于统一上下文建模、模态特定模块化设计及解耦视觉表示构建，融合 <code>MLLM</code> 主干与基于 <code>MMDiT</code> 的视觉生成头部，并通过思维链进行高质量数据合成。</p>
+<p>官方称其在有限参数规模内实现了生成与编辑性能提升，优于更大规模的统一开源 UMM 基线，同时保留强大理解与推理能力。</p>
+<p>同步开源 <code>GenEditEvalKit</code> 工具包及 <code>TextEdit</code> 编辑基准。<code>TextEdit</code> 含 <strong>2148</strong> 张图像，涵盖 <strong>18</strong> 个子类别。官方数据显示，该模型在 <code>TextEdit</code> 基准指标表现优异。</p>
+<p>所有代码、权重及工具均已通过 GitHub 和 Hugging Face 开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/953e2ab1-25a3-426f-b1f5-e67227f8bf21/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://open-gvlab.github.io/InternVL-U/">https://open-gvlab.github.io/InternVL-U/</a></li>
+<li><a href="https://huggingface.co/InternVL-U/InternVL-U">https://huggingface.co/InternVL-U/InternVL-U</a></li>
+<li><a href="https://github.com/open-compass/TextEdit">https://github.com/open-compass/TextEdit</a></li>
+<li><a href="https://github.com/open-compass/GenEditEvalKit">https://github.com/open-compass/GenEditEvalKit</a></li>
+</ul>
+<hr>
+<h2>智谱调整 GLM Coding Plan 折扣，拼好模门槛提高 <code>#3</code></h2>
+<blockquote>
+<p>智谱宣布将于 <strong>3月15日</strong> 晚调整 <strong>GLM Coding Plan</strong> 资费规则，连续包年折扣缩减至 <strong>8折</strong>，但在生效前已开启自动续费的老用户可保留原优惠；同时“拼好模”活动的首单立减降至 <strong>5%</strong>，且邀请奖励发放门槛提升至 <strong>3人</strong>。</p>
+</blockquote>
+<p>智谱 <strong>BigModel</strong> 开放平台近日发布公告，宣布将于 <strong>3月15日</strong> 对 <strong>GLM Coding Plan</strong> 折扣及活动规则进行调整。</p>
+<p>在订阅方面，该平台将连续包年折扣由 <strong>7</strong> 折调整为 <strong>8</strong> 折，生效前已开启自动续费的老用户仍可保留原优惠。</p>
+<p>同时，“拼好模”活动规则变更，受邀用户首单立减由 <strong>10%</strong> 降至 <strong>5%</strong>，邀请人赠金发放门槛提升至累计邀请满 <strong>3</strong> 人起发，达标后一次性补发前三人奖励。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313194433_c1712d99ef.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2032222711032971548">Codex 应用正式上线自动化功能与主题个性化</a> <code>#4</code></h2>
+<blockquote>
+<p>Codex 应用的 <strong>Automations</strong> 功能正式上线，支持开发者对仓库简报、Issue 分类等重复性任务进行自动化处理，并可自定义模型、推理级别及运行环境。</p>
+<p>此外，该应用还新增了主题个性化功能，允许用户导入或分享自定义主题。</p>
+</blockquote>
+<p>OpenAI Developers 宣布 <strong>Codex</strong> 应用内的 <strong>Automations</strong> 功能正式发布。该功能支持开发者针对仓库简报、Issue 分类及 PR 评论跟进等重复性任务设置自动化流程。用户可在其中设定模型与推理级别，选择运行环境（<code>worktree</code> 或现有分支），并通过模板复用工作流。</p>
+<p>此外，官方还推出了 <strong>Codex</strong> 应用的主题个性化功能。用户现可导入或分享自定义主题，以实现界面个性化配置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313194744_1531c2ba9c.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/72da3e34-896d-4d2c-97cc-0daf9315285a/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2032222711032971548">https://x.com/OpenAIDevs/status/2032222711032971548</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/steipete/status/2032515303704232442">Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Chrome 146</strong> 引入了一项关键更新，允许用户将实时浏览会话经由 <code>MCP</code> 协议暴露给 <code>CLI agent</code>。这项功能打通了命令行智能体与浏览器的交互通路，使其能够直接在当前浏览环境中执行任务，为浏览器自动化操作提供了极大便利。</p>
+</blockquote>
+<p>据开发者 <strong>Petr Baudis</strong> 在社交平台 X 上透露，<strong>Chrome 146</strong> 版本引入关键新特性，允许用户通过单一开关，将当前实时浏览会话经 <code>MCP</code> 暴露，使 <code>CLI agent</code> 能直接在浏览器中执行操作，使其能在用户当前浏览环境中完成任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314074232_66c9451a3f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/steipete/status/2032515303704232442">https://x.com/steipete/status/2032515303704232442</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/CopilotKit/OpenGenerativeUI">CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI</a> <code>#6</code></h2>
+<blockquote>
+<p>CopilotKit 团队推出了开源项目 <code>OpenGenerativeUI</code>，实现了类似 Claude 的生成式 UI 能力。该方案允许 AI Agent 直接生成并渲染 3D 动画、图表及交互组件，而非仅返回文本。</p>
+</blockquote>
+<p><strong>CopilotKit</strong> 团队推出开源项目 <strong>OpenGenerativeUI</strong>，旨在为 <strong>AI Agent</strong> 提供构建交互式生成式 UI 的能力，被视为 <strong>Claude</strong> 生成式 UI 新功能的开源实现版。</p>
+<p>该项目基于 <strong>CopilotKit</strong> 和 <code>LangGraph</code> 技术，允许 Agent 生成算法可视化、3D 动画及图表等组件，内容通过沙箱 <code>iframe</code> 渲染以确保安全。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/0819b7d1-8651-42b1-9123-b0bd0f21d2d5/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/CopilotKit/OpenGenerativeUI">https://github.com/CopilotKit/OpenGenerativeUI</a></li>
+</ul>
+<hr>
+<h2>Vue 作者尤雨溪推出 Vite 原生部署平台 Void <code>#7</code></h2>
+<blockquote>
+<p>尤雨溪推出了 <strong>Vite</strong> 原生部署平台 <strong>Void</strong>，通过全栈 SDK 自动配置数据库和 AI 等基础设施，兼容 <code>React</code>、<code>Vue</code> 等主流框架。开发者现在可以通过 <code>void.cloud</code> 体验一键云端部署。</p>
+</blockquote>
+<p>Vue 作者 <strong>尤雨溪</strong> 宣布推出 Vite 原生部署平台 <code>Void</code>。该平台提供全栈 SDK 及自动配置基础设施，涵盖数据库、键值存储、对象存储、AI、定时任务及队列。</p>
+<p><code>Void</code> 兼容 React、Vue、Svelte、Solid 等框架及其 Vite 元框架，支持 SSR、SSG、ISR、孤岛架构及 Markdown 等多种渲染模式。</p>
+<p>此外，平台具备端到端类型安全保障与 AI 原生工具链，支持单一命令快速部署。</p>
+<p>目前官方网站 <code>void.cloud</code> 已上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/00e698bd-0eb9-4c74-860a-92963a8ae9c7/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/qoder_ai_ide/status/2032481020961054907">Qoder 正式支持 BYOK 接入多家大模型</a> <code>#8</code></h2>
+<blockquote>
+<p>Qoder 官方宣布已全面支持 <strong>BYOK</strong> 自带密钥功能。用户可导入 <strong>Z.ai</strong>、<strong>Kimi</strong> 或 <strong>阿里云</strong> 等平台的 API Key，使用时不消耗 Qoder 积分，目前已向 <strong>Pro</strong> 及以上等级的订阅用户开放。</p>
+</blockquote>
+<p>Qoder 官方宣布，其 IDE <strong>v0.7</strong>、CLI <strong>v0.1.31</strong> 及 JetBrains Plugin <strong>v0.14.0</strong> 版本现已支持 BYOK 功能。  </p>
+<p>用户导入来自 <code>Z. ai</code>、<code>Kimi</code>、<code>MiniMax</code> 或阿里云模型工作室的 <code>Coding Plan API Key</code> 后，可直接调用 <code>Kimi-K2.5</code>、<code>GLM-5</code> 及 <code>Qwen 3.5</code> 等模型。  </p>
+<p>官方表示，该配置具备跨平台通用性，仅需设置一次即可在上述三种工具中生效，且使用过程中不消耗 <code>Qoder Credits</code>。  </p>
+<p>目前，该功能已向 <code>Pro Trial</code>、<code>Pro</code>、<code>Pro+</code> 以及 <code>Ultra</code> 订阅用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/d82f9187-f970-41c3-a774-88533ef05c68/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/qoder_ai_ide/status/2032481020961054907">https://x.com/qoder_ai_ide/status/2032481020961054907</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.12">OpenClaw 发布 v2026.3.12，推出 Dashboard v2 调整架构</a> <code>#9</code></h2>
+<blockquote>
+<p>OpenClaw 更新，重点推出了 <strong>Dashboard v2</strong> 控制界面。该版本新增了针对模型的 <code>/fast</code> 模式，同时还将设备令牌改为临时性并修复了系统可靠性问题。</p>
+</blockquote>
+<p>OpenClaw 发布 <strong>v2026.3.12</strong> 版本，推出重新设计的 <strong>Dashboard v2</strong> 控制界面。</p>
+<p>功能上，该版本新增针对模型的 <code>/fast</code> 模式，并将 <code>ollama</code>、<code>sglang</code> 和 <code>vllm</code> 转变为插件形式，使核心组件更加轻量。</p>
+<p>同时，设备令牌改为临时性，并修复了 <code>cron</code> 和 Windows 的可靠性问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314080522_a08cabbdb2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.12">https://github.com/openclaw/openclaw/releases/tag/v2026.3.12</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.ugnas.com/news-detail/id-85.html">绿联科技携手 MiniMax 合作，NAS 上线 OpenClaw</a> <code>#10</code></h2>
+<blockquote>
+<p>绿联宣布与 <strong>MiniMax</strong> 达成战略合作，在 <strong>UGOS Pro</strong> 应用中心上线了 <code>OpenClaw</code> 应用。</p>
+<p>用户可在 <strong>DXP</strong> 系列设备上一键安装，内置大模型 <strong>30 天内全量免费使用</strong>。</p>
+</blockquote>
+<p>绿联宣布与 <strong>MiniMax</strong> 达成战略合作，双方基于私有云场景与 <code>AI 大模型</code> 技术的深度融合，联合推出了专属定制化 <code>AI 解决方案</code>，并正式在绿联 NAS 私有云 <code>UGOS Pro</code> 应用中心上线了开箱即用的 <code>OpenClaw</code> 应用。</p>
+<p>该应用首发支持 <code>DXP</code> 系列及即将上市的 <code>iDX</code> 系列设备，适配电脑端及网页端平台，未来将进一步适配更多机型。</p>
+<p>为了让用户低门槛解锁私有云 <code>AI</code> 能力，双方还提供了内置 <strong>MiniMax</strong> 大模型 30 天全量免费使用权的专属权益，限免时间截止至 <strong>2026 年 4 月 12 日</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/432bd7d1-f9eb-458e-8e48-ae10f2bb35a4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ugnas.com/news-detail/id-85.html">https://www.ugnas.com/news-detail/id-85.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.genspark.ai/blog/genspark_ai_workspace_3">Genspark 发布 AI Workspace 3.0</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Genspark</strong> 升级 <strong>AI Workspace</strong> 功能，核心推出的 <code>Claw AI Agent</code> 能在云端计算机上像员工一样跨 <code>Gmail</code>、<code>Salesforce</code> 等应用执行实际任务。</p>
+</blockquote>
+<p><strong>Genspark</strong> 正式发布 <strong>AI Workspace 3.0</strong>，核心推出名为 <strong>Claw</strong> 的 <strong>AI Agent</strong>。该 <strong>Agent</strong> 驻留于专用云端计算机，能跨 <strong>Gmail</strong>、<strong>Slack</strong> 等应用执行实际操作，像员工一样处理会议及工作流。</p>
+<p>在模型支持上，官方称平台主要依托 <code>Claude Sonnet 4.6</code> 和 <code>Opus 4.6</code> 处理复杂推理任务；同时集成 <code>GPT-5.4</code> 支持浏览器自动化，并采用 <code>gpt-realtime-1.5</code> 驱动语音功能。</p>
+<p>商业表现方面，官方披露该公司成立 <strong>11 个月内</strong>年经常性收入已达 <strong>2 亿美元</strong>，且最近两月实现翻倍，<strong>B 轮融资</strong>扩展至 <strong>3.85 亿美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313195304_76df9b2cdc.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.genspark.ai/blog/genspark_ai_workspace_3">https://blog.genspark.ai/blog/genspark_ai_workspace_3</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/browserOS_ai/status/2032228393081868310">BrowserOS 宣布 Kimi K2.5 为默认提供商，开启 2 周限免</a> <code>#12</code></h2>
+<blockquote>
+<p>开源AI浏览器 <strong>BrowserOS</strong> 宣布 <strong>Kimi K2.5</strong> 成为默认模型。即日起，用户无需配置 <code>API Key</code>，即可直接免费试用 <code>K2.5</code> 两周。</p>
+</blockquote>
+<p>开源浏览器 <strong>BrowserOS</strong> 正式宣布，<strong>Kimi K2.5</strong> 已成为其默认 AI 提供商。该产品是一款内置 AI Agent 的开源浏览器，核心功能涵盖网页浏览、表单填写、通过 <code>MCP</code> 连接应用以及运行多步骤工作流。官方将其描述为类似 <code>Openclaw</code> 的浏览器原生工具。</p>
+<p>为庆祝此次合作发布，<strong>BrowserOS</strong> 向所有用户提供为期两周的 <strong>Kimi K2.5</strong> 免费使用权限。在此期间，用户无需配置 API Key 即可直接使用相关服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313215402_43e2f7989d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/browserOS_ai/status/2032228393081868310">https://x.com/browserOS_ai/status/2032228393081868310</a></li>
+</ul>
+<hr>
+<h2><a href="https://jvs.wuying.aliyun.com/">阿里云 JVS Claw 上线移动 App，配 12GB 内存独立云环境</a> <code>#13</code></h2>
+<blockquote>
+<p>阿里云AI Agent产品 <strong>JVS Claw</strong> 现已推出移动端App，用户可通过手机控制智能助手，在 <strong>12GB</strong> 内存的云端Linux环境中自主执行编写代码、处理文件等任务。</p>
+<p>目前处于内测阶段，需排队申请。</p>
+</blockquote>
+<p>阿里云旗下 AI Agent 产品 <strong>JVS Claw</strong> 近期推出移动端 App，目前需排队申请内测。  </p>
+<p>该产品基于开源框架 <code>OpenClaw</code> 打造，用户可控制智能体在 <strong>12GB</strong> 内存独立云端 Linux 电脑中自主执行打开网页、处理文件、编写代码等任务。  </p>
+<p>其特点包括预置技能包、支持个性化配置，但内测期间模型由后台调度，暂不支持用户指定，且文件无法直接发送至手机 App。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313201500_0d296afdee.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://jvs.wuying.aliyun.com/">https://jvs.wuying.aliyun.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/">谷歌推出 Groundsource，解析新闻数据预测城市山洪</a> <code>#14</code></h2>
+<blockquote>
+<p>Google Research 发布了名为 <strong>Groundsource</strong> 的 AI 方法论，利用 <code>Gemini</code> 模型将全球非结构化新闻转化为科研级数据，构建了包含 <strong>260 万条</strong>记录的开源洪水数据集。</p>
+<p>基于该数据集训练的 AI 模型现已集成至 <strong>Google Flood Hub</strong> 平台，能够提前最多 <strong>24 小时</strong>预测城市地区山洪灾害。</p>
+</blockquote>
+<p>Google Research 推出了一项名为 <strong>Groundsource</strong> 的新型 AI 方法论，旨在利用 <code>Gemini</code> 模型将全球非结构化的新闻报道转化为可用于科学研究的结构化历史数据。</p>
+<p>针对长期以来快速发生的水文气象灾害（特别是城市山洪）缺乏高质量历史数据的痛点，该团队利用这一新方法论构建了包含 <strong>260 万条</strong> 历史洪水事件记录的开源数据集，覆盖了 <strong>150 多个</strong> 国家。</p>
+<p>基于该数据集训练的 AI 模型现已集成至 Google 的 <strong>Flood Hub</strong> 平台，能够提前最多 <strong>24 小时</strong> 对城市山洪进行预测。</p>
+<p>这项技术通过分析数十年来的多语种新闻报告，利用 AI 进行语义解析和地理定位，有效填补了传统卫星监测和现有灾害数据库的盲区。</p>
+<p>目前，该数据集及模型已加入 <strong>Google Earth AI</strong> 系列，且该方法论未来有望扩展至山体滑坡、热浪等其他自然灾害的预测与应对中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/bff2a1f0-c847-4a95-bf6d-c190829f8521/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313200816_bd434901ef.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/">https://blog.google/innovation-and-ai/technology/research/gemini-help-communities-predict-crisis/</a></li>
+<li><a href="https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/">https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/</a></li>
+<li><a href="https://sites.research.google/floods/">https://sites.research.google/floods/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference">AWS 携手 Cerebras 整合 Trainium 与 CS-3，加速 AI 推理服务</a> <code>#15</code></h2>
+<blockquote>
+<p>AWS 与 <strong>Cerebras Systems</strong> 达成战略合作，结合 <strong>AWS Trainium</strong> 芯片与 <strong>Cerebras CS-3</strong> 系统，打造旨在提供业界最快速度的 AI 推理解决方案。官方宣布服务将在未来几个月内推出。</p>
+</blockquote>
+<p><strong>AWS</strong> 与 <strong>Cerebras Systems</strong> 宣布合作，结合 <strong>AWS Trainium</strong> 芯片与 <strong>Cerebras CS-3</strong> 系统打造“推理拆分”解决方案。该方案通过 <strong>Amazon Bedrock</strong> 部署，官方称其为目前可访问的最快 AI 推理服务，旨在解决实时编码辅助等速度瓶颈。服务将在未来几个月内推出。</p>
+<p>技术上，该方案利用 <strong>AWS EFA</strong> 网络连接双方系统，由 <strong>Trainium</strong> 负责提示词处理，<strong>CS-3</strong> 负责输出生成。后续还将支持 <strong>Amazon Nova</strong> 及开源模型。这是 <strong>Cerebras</strong> 首次与超大规模云服务商合作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314074444_8e3027fd64.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference">https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/elonmusk/status/2031751255060885911">特斯拉与 xAI 启动数字擎天柱自动化办公系统</a> <code>#16</code></h2>
+<blockquote>
+<p>特斯拉与 <strong>xAI</strong> 联合发布了名为“Digital Optimus”的数字劳动力项目，旨在通过模拟人类操作来自动化会计、人事等复杂办公职能。该系统利用 <strong>xAI</strong> 的 <code>Grok</code> 模型作为“大脑”进行高层指挥，驱动特斯拉 <code>AI4</code> 硬件上的本地模型处理实时屏幕与键鼠操作。</p>
+</blockquote>
+<p>特斯拉与 <strong>xAI</strong> 联合宣布启动代号为 <strong>“Digital Optimus”</strong>（数字擎天柱）或戏称为 <strong>“Macrohard”</strong>（巨硬）的重大合作项目。这是继特斯拉此前向 <strong>xAI</strong> 投资 <strong>20 亿美元</strong> 后的首个重大开发成果，旨在构建一个能够通过观察电脑屏幕并模仿人类动作来自动化复杂办公室工作的系统，其最终目标为模拟整个公司的职能，处理会计、人力资源等高重复性任务。</p>
+<p>根据 <strong>埃隆·马斯克</strong> 阐述，该系统采用双过程架构，将“本能”与“推理”分离。<strong>xAI</strong> 的 <code>Grok</code> 模型充当 "System 2"（思考部分），作为指挥家利用对世界的深刻理解进行高层导航；而 "Digital Optimus AI" 则充当 "System 1"（本能部分），负责处理并执行过去 5 秒内的实时计算机屏幕视频及键盘与鼠标动作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313200546_bfa5c6e6ab.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2031751255060885911">https://x.com/elonmusk/status/2031751255060885911</a></li>
+</ul>
+<hr>
+<h2><a href="https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/">xAI 全面重组，半数联合创始人离职</a> <code>#17</code></h2>
+<blockquote>
+<p>Elon Musk 承认旗下 <strong>xAI</strong> 初创架构存在根本缺陷，正从基础开始彻底重建。</p>
+<p>为提升 <strong>Grok</strong> 落后的编程能力并追赶竞品，<strong>xAI</strong> 目前已从 <strong>Cursor</strong> 挖角高管，并从 <strong>SpaceX</strong> 和 <strong>Tesla</strong> 抽调精锐团队协助重组。</p>
+</blockquote>
+<p>埃隆·马斯克旗下人工智能公司 <strong>xAI</strong> 正进行全面重组。马斯克在社交平台承认，该公司初建架构存在错误，目前正从基础开始重建。</p>
+<p>自今年初以来，其 <strong>12</strong> 位联合创始人中已有多位离职。据外媒报道，该公司已从 <strong>Cursor</strong> 招聘两名高管，直接向马斯克汇报。</p>
+<p>同时，<strong>SpaceX</strong> 和 <strong>Tesla</strong> 的团队成员也被调入，协助完成重组，以增强技术竞争力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314081414_66e64b3b03.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/">https://the-decoder.com/elon-musk-admits-xai-was-not-built-right-first-time-around-launches-full-restructuring/</a></li>
+<li><a href="https://x.com/elonmusk/status/2032201568335044978">https://x.com/elonmusk/status/2032201568335044978</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/dapuwBFEa9u6VjKhg3ZSGQ">爱诗科技完成 C 轮融资，发布 PixVerse R1 实时模型</a> <code>#18</code></h2>
+<blockquote>
+<p>爱诗科技宣布完成C轮融资，由<strong>鼎晖</strong>旗下基金领投，资金将用于迭代<strong>视频基础模型</strong>及研发<strong>实时世界模型</strong>。</p>
+</blockquote>
+<p>爱诗科技近日宣布完成 <strong>C轮融资</strong>，本轮融资由 <strong>鼎晖香港基金</strong>、<strong>鼎晖VGC</strong> 及 <strong>鼎晖百孚</strong> 领投，并引入了 <strong>中国儒意</strong>、<strong>三七互娱</strong> 等产业投资人，以及 <strong>亦庄国投</strong>、<strong>众为资本</strong>、<strong>UOB Venture Management</strong>、<strong>Antler</strong> 等国内外知名投资机构与家族办公室。</p>
+<p>官方表示，本轮融资资金将主要用于视频基础模型的持续迭代、实时世界模型的前沿研发以及全球化人才团队建设。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/dapuwBFEa9u6VjKhg3ZSGQ">https://mp.weixin.qq.com/s/dapuwBFEa9u6VjKhg3ZSGQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://weibo.com/7909392214/QvTUwnft5">杨植麟将于英伟达 GTC 演讲，或披露 Kimi K3 信息</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>月之暗面</strong>创始人<strong>杨植麟</strong>将于<strong>3月18日</strong>凌晨在<strong>英伟达</strong>GTC大会发表演讲。据<strong>月之暗面</strong>官方社交媒体透露，届时可能会披露有关 <code>Kimi K3</code> 的消息。</p>
+</blockquote>
+<p><strong>月之暗面</strong>创始人<strong>杨植麟</strong>确认将在<strong>英伟达</strong> GTC 大会发表演讲，重点分享 <code>Kimi K2.5</code> 的训练细节。该演讲定于北京时间 <strong>3 月 18 日</strong>凌晨进行，观众可注册观看官方直播或关注国内媒体转播。</p>
+<p>据官方社交媒体透露，此次活动或许还会披露关于 <code>K3</code> 的相关消息。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313224245_3980af6cc5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://weibo.com/7909392214/QvTUwnft5">https://weibo.com/7909392214/QvTUwnft5</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/">消息称 Meta 推迟 Avocado 模型发布 最早至五六月</a> <code>#20</code></h2>
+<blockquote>
+<p>据报道，<strong>Meta</strong> 因代号为 <code>Avocado</code> 的新旗舰模型在能力上未能超越 <strong>Google</strong> 及 <strong>OpenAI</strong> 等竞品，将发布时间从原定的本月推迟至最早 <strong>5</strong> 月或 <strong>6</strong> 月。</p>
+</blockquote>
+<p>据媒体报道，<strong>Meta</strong> 已将代号 <code>"Avocado"</code> 的旗舰 <strong>AI 模型</strong> 发布推迟至年中。  </p>
+<p>该模型在内部测试中表现未达预期，虽优于 <strong>Meta</strong> 前代及 <code>Google Gemini 2.5</code>，但在推理等能力上落后于 <code>Google Gemini 3.0</code> 及 <strong>OpenAI</strong> 等竞品。  </p>
+<p>对此，<strong>Meta AI</strong> 部门曾讨论临时授权 <code>Google Gemini</code>，但目前尚未决定。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260313/20260313193650_033e856432.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/">https://www.reuters.com/technology/meta-delays-rollout-new-ai-model-nyt-reports-2026-03-12/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/fenzlabs/status/2032261392624206313">Fenz AI 发现 SkillHub 插件存 Prompt 注入风险</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Fenz AI</strong> 安全团队发布审计简报指出，<strong>SkillHub</strong> 插件存在高风险的“提示词供应链攻击”，会在每轮对话中强制注入预设提示词。这种行为不仅导致长对话场景下的 <code>Token</code> 消耗隐性增加，还会影响 <code>Agent</code> 决策逻辑。</p>
+</blockquote>
+<p><strong>Fenz AI</strong> 安全团队审计发现，<strong>OpenClaw</strong> 生态 <strong>SkillHub</strong> 插件存在高风险。该插件号称拥有 <strong>1.3 万个</strong>技能，但会在用户消息前强制插入预设提示词，构成“提示词供应链攻击”变体。</p>
+<p>据官方审计数据显示，此插件在长对话场景中将 <code>Token</code> 消耗放大 <strong>10% 至 40%</strong>，构成隐性成本攻击。其引导 <code>Agent</code> 优先调用自身技能，破坏中立逻辑并带来隐私风险。</p>
+<p><strong>Fenz AI</strong> 建议用户立即删除该插件，呼吁开发者默认不信任自动注入 <code>Prompt</code> 的插件，进行来源审计及权限隔离。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0adc57a1-8dcb-42bf-90c3-cbb502859ced/82084e52-4e06-4d64-aadf-2c44252fec1d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/fenzlabs/status/2032261392624206313">https://x.com/fenzlabs/status/2032261392624206313</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/25</guid><pubDate>Sat, 14 Mar 2026 01:08:02 +0000</pubDate></item><item><title>2026-03-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-24/</link><description>AI 早报 2026-03-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 GitHub 调整 Copilot 学生计划，取消 GPT-5.4 等模型自选权限 ↗ #1 Claude 支持生成式 UI，聊天界面构建交互式图表 ↗ #2 模型发布 OpenAI 视频 API 上线新功能 ↗ #3 NVIDIA 发布 NVILA-8B-HD-Video 模型，支持 4K 视频输入 ↗ #4 开发生态 Claude Code 推出语音模式，引入设置脚本功能 ↗ #5 Google 调整 Antigravity 计费，Pro 刷新周期延至 7 天 #6 Google Gemini API 现可设置消费上限 ↗ #7 OpenRouter 上线 Auto Exacto 降低工具调用错误率 ↗ #8 Hermes…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260313/202603130900533519444662_cover_4cb2.png" alt=""></p>
 <h1>AI 早报 2026-03-13</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV142c2zhELS">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ku35WqbawN8">YouTube</a></p>
 <h2>概览</h2>
