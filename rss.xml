@@ -1,5 +1,128 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 14 Mar 2026 01:08:24 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-25/</link><description>AI 早报 2026-03-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 正式开放 100 万 token 上下文，取消阶梯定价 ↗ #1 模型发布 上海人工智能实验室发布 InternVL-U 统一多模态模型 ↗ #2 开发生态 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高 #3 Codex 应用正式上线自动化功能与主题个性化 ↗ #4 Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用 ↗ #5 CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI ↗ #6 Vue 作者尤雨溪推出 Vite 原生部署平台 Void #7 Qoder 正式支持 BYOK 接入多家大模型 ↗ #8 产品应用 Open…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260314/20260314084105670927c22e_cover_0adc.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 01:08:25 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-27/</link><description>AI 早报 2026-03-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 推出限时促销，非高峰及周末使用额度翻倍 ↗ #1 智谱推迟 GLM Coding Plan 续订与回退窗口 #2 模型发布 StepFun 发布 Step 3.5 Flash 模型训练数据 ↗ #3 开发生态 Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode ↗ #4 前瞻与传闻 消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷 ↗ #5 Claw专题 OpenClaw 发布更新，支持接入实时 Chrome 会话 ↗ #6 腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城 ↗ #7 Claude 推出限时促销，非高峰及周末使用额度翻倍 #1 Claude 官方…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260315/20260315085543471302fe73_cover_113f.png" alt=""></p>
+<h1>AI 早报 2026-03-15</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1EBwKzBEHz">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=iVKPcNiI784">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Claude 推出限时促销，非高峰及周末使用额度翻倍 <a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion">↗</a> <code>#1</code></li>
+<li>智谱推迟 GLM Coding Plan 续订与回退窗口 <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>StepFun 发布 Step 3.5 Flash 模型训练数据 <a href="https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode <a href="https://mp.weixin.qq.com/s/7pl91dfO-BOJdz7J9Fc49w">↗</a> <code>#4</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷 <a href="https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/">↗</a> <code>#5</code></li>
+</ul>
+<h3>Claw专题</h3>
+<ul>
+<li>OpenClaw 发布更新，支持接入实时 Chrome 会话 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.13">↗</a> <code>#6</code></li>
+<li>腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城 <a href="https://mp.weixin.qq.com/s/9goUQebmqabWrOTaQifgtw">↗</a> <code>#7</code></li>
+</ul>
+<hr>
+<h2><a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion">Claude 推出限时促销，非高峰及周末使用额度翻倍</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 官方宣布启动为期两周限时促销，在非高峰时段自动提供双倍使用额度。</p>
+<p>权益覆盖 <strong>Claude</strong> 网页、移动端及 <code>Code</code>、<code>Excel</code> 等全平台工具，且额外用量不计入每周限额。</p>
+</blockquote>
+<p><strong>Claude</strong> 官方宣布启动为期两周的限时促销，自 <strong>3 月 13 日至 27 日</strong>，面向 Free 至 Team 计划用户提供非高峰时段双倍使用额度。</p>
+<p>官方定义非高峰时段为工作日太平洋时间 <strong>5-11 AM</strong> 之外（即北京时间凌晨2点到晚上8点）及周末全天。</p>
+<p>该优惠自动适用于网页、桌面、移动端及 <code>Claude Code</code> 等全平台，<code>Enterprise</code> 计划除外。</p>
+<p>额外使用量不计入每周限额。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260315/20260315084356_eec8828deb.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion">https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion</a></li>
+<li><a href="https://x.com/claudeai/status/2032911278596092138">https://x.com/claudeai/status/2032911278596092138</a></li>
+</ul>
+<hr>
+<h2>智谱推迟 GLM Coding Plan 续订与回退窗口 <code>#2</code></h2>
+<blockquote>
+<p>智谱 <strong>GLM</strong> Coding Plan 原定 <strong>3月15日</strong> 上线的针对老用户的“限时续订”及“老套餐回退”窗口将延迟，具体重启时间预计将于 <strong>15日</strong> 当天确认。</p>
+</blockquote>
+<p>智谱在用户飞书群宣布，<strong>GLM Coding Plan</strong> 原定 <strong>3月15日</strong> 上线的针对老用户的“限时续订”及“老套餐回退”窗口将延迟，服务窗口期相应顺延。</p>
+<p>该团队表示正努力推进工作，具体重新上线日期预计于 <strong>15日</strong> 确定并向用户同步。</p>
+<p>针对已完成续订付款但不满意的用户，官方提供私信渠道进行处理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260315/20260315083647_a6bda1a2f3.png" alt=""></p>
+<hr>
+<h2><a href="https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT">StepFun 发布 Step 3.5 Flash 模型训练数据</a> <code>#3</code></h2>
+<blockquote>
+<p>阶跃星辰在 Hugging Face 上发布了 <strong>Step 3.5 Flash</strong> 模型的 SFT 训练数据集，补齐了其开源版图的最后一块拼图。</p>
+</blockquote>
+<p>阶跃星辰正式发布了用于训练 <strong>Step 3.5 Flash</strong> 模型的 SFT 数据集，现已在 Hugging Face 平台开放获取，仓库地址为 <code>stepfun-ai/Step-3.5-Flash-SFT</code>。官方称此次发布为其开源版图中的“最后一块拼图”。</p>
+<p>此前，该团队已推出 <strong>Step 3.5 Flash Base</strong> 与 <strong>Step 3.5 Flash Base-Midtrain</strong> 两款基础模型及 <code>SteptronOSS</code> 代码。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260315/20260315083202_bf7cc42550.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT">https://huggingface.co/datasets/stepfun-ai/Step-3.5-Flash-SFT</a></li>
+<li><a href="https://x.com/StepFun_ai/status/2032880770843373775">https://x.com/StepFun_ai/status/2032880770843373775</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/7pl91dfO-BOJdz7J9Fc49w">Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode</a> <code>#4</code></h2>
+<blockquote>
+<p>智谱的 AI 编程工具 <strong>Z Code</strong> 更新，新增浅色主题，并支持接入 <code>OpenCode</code>。同时，该版本大幅增强 <code>SSH</code> 远程开发能力，新增连接状态可视化功能。</p>
+</blockquote>
+<p>智谱的 AI 编程工具 <strong>Z Code</strong> 发布 <strong>V0.22.1</strong> 版本，优化视觉、模型及远程开发能力。</p>
+<p>该版本上线浅色主题，支持在“浅色”、“深色”及“跟随系统”间切换。</p>
+<p>新增支持接入 <code>OpenCode</code> 服务，用户无需配置 API Key 即可调用免费模型。</p>
+<p>针对 SSH 远程开发，该版本新增 Linux <code>ARM64</code> 架构支持，优化连接状态可视化与长任务中断机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/113f346b-d9ca-4833-a785-299a99ac3c9e/c8e87a54-a1a7-46e1-9f78-451259eed64b/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/113f346b-d9ca-4833-a785-299a99ac3c9e/c8e87a54-a1a7-46e1-9f78-451259eed64b/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/7pl91dfO-BOJdz7J9Fc49w">https://mp.weixin.qq.com/s/7pl91dfO-BOJdz7J9Fc49w</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/">消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷</a> <code>#5</code></h2>
+<blockquote>
+<p>据报道，<strong>字节跳动</strong>因卷入与 <strong>Disney</strong> 等好莱坞制片厂的版权纠纷，已暂停视频生成模型 <code>Seedance 2</code> 的全球发布计划。</p>
+<p>目前，<strong>字节跳动</strong>团队正致力于解决法律风险并完善内容审核机制。</p>
+</blockquote>
+<p>据 The Information 报道，<strong>字节跳动</strong>已暂停视频生成模型 <code>Seedance 2.0</code> 的全球发布计划。</p>
+<p>该决定源于与 <strong>Disney</strong> 等好莱坞制片厂的版权纠纷。<strong>Disney</strong> 曾指控其未经授权使用角色训练，并将盗版库伪装成公有领域。</p>
+<p>目前，<strong>字节跳动</strong>的法律与工程师团队正在解决潜在问题，并构建安全防护。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/113f346b-d9ca-4833-a785-299a99ac3c9e/6b517748-45be-4876-a422-21476d92dfe4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/">https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.13">OpenClaw 发布更新，支持接入实时 Chrome 会话</a> <code>#6</code></h2>
+<blockquote>
+<p>OpenClaw 发布 <strong>2026.3.13</strong> 版本更新，新增实时 Chrome 会话附加功能，无需安装扩展即可保留真实登录状态。</p>
+<p>新版本还支持 <code>Docker</code> 时区覆盖及 Windows 网关优化。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 近日发布最新版本更新，重点引入 <code>live Chrome session attach</code>（实时 Chrome 会话附加）功能。该功能允许用户通过开关附加实时会话，在保留真实登录状态的同时，实现无需浏览器扩展的零依赖运行。</p>
+<p>移动端方面，其 Android 客户端完成重新设计，应用体积缩减至 <strong>7MB</strong>；iOS 端则新增欢迎页。</p>
+<p>此外，该版本还支持 <code>Docker timezone override</code> 设置，并对 Windows gateway 进行了多项微调优化，进一步提升跨平台使用体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260314/20260314205838_c1ff60cb8b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.13">https://github.com/openclaw/openclaw/releases/tag/v2026.3.13</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/9goUQebmqabWrOTaQifgtw">腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城</a> <code>#7</code></h2>
+<blockquote>
+<p>腾讯云正式启动**“龙虾”<strong>全国免费安装计划，在未来</strong>40天<strong>内，技术专家将奔赴全国</strong>17**个城市，提供 <code>OpenClaw</code> 的一站式部署与配置服务。</p>
+</blockquote>
+<p>腾讯云正式启动**“龙虾”**全国免费安装计划。未来 <strong>40</strong> 天内，其技术专家团将赴全国 <strong>17</strong> 个城市举办超百场活动，提供 <code>OpenClaw</code> 部署一站式服务。</p>
+<p>限时返场的**“公司楼下免费装”**活动将于 <strong>3</strong> 月下旬至 <strong>4</strong> 月初在深圳、上海及北京举行，用户无需报名即可现场体验。</p>
+<p>此外，**“高校龙虾专列”<strong>将驶入多地校园，师生可通过</strong>“腾讯教育”**公众号报名。</p>
+<p>面向企业与开发者，腾讯云联合 <strong>150</strong> 多家合作伙伴开展巡装。用户可通过腾讯地图搜索**“养虾地图”**获取站点信息并参与。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/113f346b-d9ca-4833-a785-299a99ac3c9e/a6cdb612-b9c0-49c8-b618-0910525b9ce9/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/9goUQebmqabWrOTaQifgtw">https://mp.weixin.qq.com/s/9goUQebmqabWrOTaQifgtw</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/27</guid><pubDate>Sun, 15 Mar 2026 01:08:03 +0000</pubDate></item><item><title>2026-03-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-25/</link><description>AI 早报 2026-03-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 正式开放 100 万 token 上下文，取消阶梯定价 ↗ #1 模型发布 上海人工智能实验室发布 InternVL-U 统一多模态模型 ↗ #2 开发生态 智谱调整 GLM Coding Plan 折扣，拼好模门槛提高 #3 Codex 应用正式上线自动化功能与主题个性化 ↗ #4 Chrome 146 正式发布，支持 MCP 暴露会话供 CLI 使用 ↗ #5 CopilotKit 开源 OpenGenerativeUI，支持 AI Agent 生成交互 UI ↗ #6 Vue 作者尤雨溪推出 Vite 原生部署平台 Void #7 Qoder 正式支持 BYOK 接入多家大模型 ↗ #8 产品应用 Open…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260314/20260314084105670927c22e_cover_0adc.png" alt=""></p>
 <h1>AI 早报 2026-03-14</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1LDwHz1E6Q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=mHxC8TJW77E">YouTube</a></p>
 <h2>概览</h2>
