@@ -1,5 +1,146 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 15 Mar 2026 02:12:39 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-27/</link><description>AI 早报 2026-03-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 推出限时促销，非高峰及周末使用额度翻倍 ↗ #1 智谱推迟 GLM Coding Plan 续订与回退窗口 #2 模型发布 StepFun 发布 Step 3.5 Flash 模型训练数据 ↗ #3 开发生态 Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode ↗ #4 前瞻与传闻 消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷 ↗ #5 Claw专题 OpenClaw 发布更新，支持接入实时 Chrome 会话 ↗ #6 腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城 ↗ #7 Claude 推出限时促销，非高峰及周末使用额度翻倍 #1 Claude 官方…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260315/20260315085543471302fe73_cover_113f.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 16 Mar 2026 00:52:09 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-16</title><link>https://imjuya.github.io/juya-ai-daily/issue-28/</link><description>AI 早报 2026-03-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱发布 GLM-5-Turbo，专为 OpenClaw 等 Agent 驱动环境优化 ↗ #1 开发生态 智谱开启 GLM Coding Plan 限时服务窗口保障老用户权益 ↗ #2 智谱 AI 发布龙虾套餐，GLM-5-Turbo 上下文 200K ↗ #3 产品应用 NotebookLM 逐步向 Pro用户开放电影级视频概览功能 ↗ #4 行业动态 央视 3·15 曝光 GEO 业务投毒 AI 大模型操纵搜索结果 ↗ #5 微软成首家上线验证 NVIDIA Vera Rubin NVL72 系统云服务商 ↗ #6 前瞻与传闻 传月之暗面拟融资 10 亿美元，估值约 180 亿美元 ↗ #7 MiniMax 官网显示 M…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260316/2026031608315789625699e1_cover_b96d.png" alt=""></p>
+<h1>AI 早报 2026-03-16</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1hxw5zUExG">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ROAbDcwWc5g">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>智谱发布 GLM-5-Turbo，专为 OpenClaw 等 Agent 驱动环境优化 <a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>智谱开启 GLM Coding Plan 限时服务窗口保障老用户权益 <a href="https://www.zhipushengwu.com/news/old-user-renewal-window">↗</a> <code>#2</code></li>
+<li>智谱 AI 发布龙虾套餐，GLM-5-Turbo 上下文 200K <a href="https://www.bigmodel.cn/claw-plan-team">↗</a> <code>#3</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>NotebookLM 逐步向 Pro用户开放电影级视频概览功能 <a href="https://x.com/testingcatalog/status/2033216045654110355">↗</a> <code>#4</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>央视 3·15 曝光 GEO 业务投毒 AI 大模型操纵搜索结果 <a href="https://mp.weixin.qq.com/s/H9N_I7aSo28mcFVKr3ytIA">↗</a> <code>#5</code></li>
+<li>微软成首家上线验证 NVIDIA Vera Rubin NVL72 系统云服务商 <a href="https://x.com/satyanadella/status/2032515189086761005">↗</a> <code>#6</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>传月之暗面拟融资 10 亿美元，估值约 180 亿美元 <a href="https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation">↗</a> <code>#7</code></li>
+<li>MiniMax 官网显示 M2.7 字符，新模型或将很快发布 <a href="https://www.minimaxi.com">↗</a> <code>#8</code></li>
+</ul>
+<hr>
+<h2><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo">智谱发布 GLM-5-Turbo，专为 OpenClaw 等 Agent 驱动环境优化</a> <code>#1</code></h2>
+<blockquote>
+<p>智谱发布了专为 <strong>OpenClaw</strong> 等 Agent 驱动环境优化的高速模型 <code>GLM-5-Turbo</code>。</p>
+<p>该模型 API 定价比 <code>GLM-5</code> 略高。在 <code>GLM Coding Plan</code> 中，Max 套餐用户已可直接使用，Pro 用户将在本月底前开放，Lite 用户将在下月可用。</p>
+</blockquote>
+<p>智谱发布 <strong>GLM-5-Turbo</strong>，该模型是基于 <strong>GLM-5</strong> 专为 <code>OpenClaw</code> 等 Agent 驱动环境进行了优化的高速版本，由内部代号“pony-alpha-2”的项目升级而来。官方称，此实验性模型暂不开源，成果将整合至下一代开源版本。</p>
+<p>在 <strong>GLM Coding Plan</strong> 中，<code>Max</code> 套餐现已支持，<code>Pro</code> 套餐本月月底前开放，<code>Lite</code> 套餐预计 <strong>4</strong> 月接入。</p>
+<p>计费上，高峰期（<strong>14:00-18:00 UTC+8</strong>）按 <strong>3</strong> 倍额度消耗，非高峰期按 <strong>2</strong> 倍。截至 <strong>4</strong> 月底，非高峰期可享 <strong>1</strong> 倍系数限时福利。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260316/20260316081150_d736d3f68f.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260316/20260316081208_4f4bf1dd85.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260316/20260316081246_8de84700b5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo">https://docs.bigmodel.cn/cn/guide/models/text/glm-5-turbo</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.zhipushengwu.com/news/old-user-renewal-window">智谱开启 GLM Coding Plan 限时服务窗口保障老用户权益</a> <code>#2</code></h2>
+<blockquote>
+<p>智谱针对 <strong>GLM Coding Plan</strong> 开启持续到本月底的限时服务窗口，专门处理老用户权益问题。</p>
+<p>在此期间，符合条件的老用户可续订已停售的老版套餐，误升级的用户支持回退且费用“多退少不补”。</p>
+<p>针对部分用户被系统漏算优惠价值的情况，官方将按漏算金额的 <strong>1.5倍</strong> 发放赠金补偿。</p>
+</blockquote>
+<p>智谱宣布针对 <strong>GLM Coding Plan</strong> 开启限时服务窗口，该窗口昨日开启并将持续至本月底。此次方案旨在保障老用户权益，涵盖续订、回退及补偿三项内容。</p>
+<p>对于停售前订阅且到期日晚于规定日期的用户，可续订同等级同周期老版套餐，原剩余价值按天折算抵扣。</p>
+<p>针对停售初期且新说明上线前误升级用户，官方支持回退原套餐，费用差额遵循多退少不补原则。</p>
+<p>此外，因系统原因导致优惠剩余价值漏算的用户，官方将按漏算金额的 <strong>1.5 倍</strong> 发放赠金补偿。</p>
+<p>智谱表示将持续优化服务细节。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260316/20260316074428_90f16d9a51.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.zhipushengwu.com/news/old-user-renewal-window">https://www.zhipushengwu.com/news/old-user-renewal-window</a></li>
+<li><a href="https://www.zhipushengwu.com/announcement/glm-coding-plan">https://www.zhipushengwu.com/announcement/glm-coding-plan</a></li>
+<li><a href="https://www.zhipushengwu.com/help/glm-backward-plan">https://www.zhipushengwu.com/help/glm-backward-plan</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bigmodel.cn/claw-plan-team">智谱 AI 发布龙虾套餐，GLM-5-Turbo 上下文 200K</a> <code>#3</code></h2>
+<blockquote>
+<p>智谱上线了“龙虾套餐”，核心搭载了针对 Agent 场景优化的 <code>GLM-5-Turbo</code> 模型。</p>
+<p>该套餐提供 <strong>39 元</strong> 和 <strong>99 元</strong> 两档月卡。</p>
+</blockquote>
+<p>智谱推出“<strong>龙虾套餐·团队协作版</strong>”，搭载专为 Agent 优化的 <code>GLM-5-Turbo</code> 模型。该模型上下文窗口为 <strong>200K</strong>，最大输出 <strong>128K Tokens</strong>，官方数据显示其在 <code>ZClawBench</code> 基准测试中位列第一梯队。</p>
+<p>套餐分为体验月卡（<strong>39 元</strong>/3500 万 tokens）和进阶月卡（<strong>99 元</strong>/1 亿 tokens），均提供高于普通 API 的并发能力，支持 OpenAI 或 Anthropic 协议接入。</p>
+<p>每类月卡限购 <strong>5 张</strong>，开发者可使用 API Key 鉴权调用。</p>
+<p>企业大规模需求可联系销售定制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260316/20260316082309_fb80bb776d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bigmodel.cn/claw-plan-team">https://www.bigmodel.cn/claw-plan-team</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/testingcatalog/status/2033216045654110355">NotebookLM 逐步向 Pro用户开放电影级视频概览功能</a> <code>#4</code></h2>
+<blockquote>
+<p>据社区用户发现，<strong>NotebookLM</strong> 正逐步向 <strong>Pro</strong> 用户开放 <code>Cinematic Video Overviews</code> 功能。</p>
+</blockquote>
+<p>据社区用户发现，<strong>NotebookLM</strong> 开始向 <strong>Pro</strong> 用户推出 <strong>"Cinematic Video Overviews"</strong>（电影级视频概览）功能。该功能由 <code>"Google 最先进模型的全新组合"</code> 驱动，旨在提供更高级别的视觉概览体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b96dfc80-b52d-423a-b33d-89e27acefe2f/4575709e-34a9-4d54-a31b-85bd08ec787c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/testingcatalog/status/2033216045654110355">https://x.com/testingcatalog/status/2033216045654110355</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/H9N_I7aSo28mcFVKr3ytIA">央视 3·15 曝光 GEO 业务投毒 AI 大模型操纵搜索结果</a> <code>#5</code></h2>
+<blockquote>
+<p>央视曝光名为 <strong>GEO业务</strong> 的AI搜索操纵黑产，服务商利用特定系统批量发布虚假软文，通过“投毒”方式干扰 <strong>AI大模型</strong> 的判断。</p>
+<p>实验显示，一款虚构产品在发布虚假信息仅 <strong>两小时</strong> 后，就被 <strong>AI</strong> 抓取并作为“标准答案”进行推荐。</p>
+</blockquote>
+<p>据央视 <strong>“3·15”</strong> 晚会报道，互联网出现 <strong>GEO</strong> 业务，声称可操纵 <strong>AI</strong> 大模型搜索结果。部分服务商利用 <code>力擎 GEO 优化系统</code> 生成虚假软文“投喂”<strong>AI</strong>。</p>
+<p>实验显示，虚构的 <strong>“Apollo-9 智能手环”</strong> 发布虚假文章后，<strong>2 小时</strong> 即被 <strong>AI</strong> 抓取；增加虚构测评后，获多个 <strong>AI</strong> 模型靠前推荐。</p>
+<p>据从业者透露，该操作已形成产业链，不仅用于提升排名，还被用于恶意抹黑竞争对手。力思文化传媒李总承认，<strong>GEO</strong> 业务本质是“投毒”，导致网络信息准确性下降。</p>
+<p>下游发稿平台也借此获利。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b96dfc80-b52d-423a-b33d-89e27acefe2f/7ab0d1ce-095c-4f86-9818-f66dd2fc00eb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/H9N_I7aSo28mcFVKr3ytIA">https://mp.weixin.qq.com/s/H9N_I7aSo28mcFVKr3ytIA</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/satyanadella/status/2032515189086761005">微软成首家上线验证 NVIDIA Vera Rubin NVL72 系统云服务商</a> <code>#6</code></h2>
+<blockquote>
+<p>微软 CEO <strong>纳德拉</strong>宣布，微软已成为首家上线并验证英伟达 <code>Vera Rubin NVL72</code> 系统的云服务商，这也是双方共建下一代 AI 基础设施的重要里程碑。</p>
+</blockquote>
+<p>微软 CEO <strong>Satya Nadella</strong> 正式宣布，微软已成为全球首家上线 <code>NVIDIA Vera Rubin NVL72</code> 系统并完成验证的云服务商。官方表示，该系统的成功部署标志着双方合作构建下一代 AI 基础设施进程中的重要里程碑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b96dfc80-b52d-423a-b33d-89e27acefe2f/725d9368-b8d7-4a4c-a2cf-82151b913018/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/satyanadella/status/2032515189086761005">https://x.com/satyanadella/status/2032515189086761005</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation">传月之暗面拟融资 10 亿美元，估值约 180 亿美元</a> <code>#7</code></h2>
+<blockquote>
+<p>据彭博社报道，<strong>Kimi</strong> 的开发商<strong>月之暗面</strong>正计划在新一轮融资中筹集 <strong>10 亿美元</strong>，目标估值高达 <strong>180 亿美元</strong>。</p>
+</blockquote>
+<p>据彭博社援引知情人士消息，<strong>Moonshot AI</strong> 正寻求筹集高达 <strong>10 亿美元</strong> 资金，本轮估值约为 <strong>180 亿美元</strong>。  </p>
+<p>作为 <strong>Kimi</strong> 的开发商，该公司在今年早些时候获超 <strong>7 亿美元</strong> 融资，彼时估值为 <strong>100 亿美元</strong>。  </p>
+<p>去年底，其在 <strong>5 亿美元</strong> 融资交易中估值仅为 <strong>43 亿美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260315/20260315220735_39f797a1ff.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation">https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.minimaxi.com">MiniMax 官网显示 M2.7 字符，新模型或将很快发布</a> <code>#8</code></h2>
+<blockquote>
+<p>据社区用户发现，MiniMax官网Coding plan界面曾短暂出现过 <strong>“MiniMax-M2.7”</strong> 相关字样，这表明 <strong>MiniMax</strong> 即将很快发布新一代模型 <code>MiniMax-M2.7</code>。</p>
+</blockquote>
+<p>据观察显示，<strong>MiniMax</strong> 官方网站的 Coding plan 界面近期曾短暂出现 <code>"MiniMax-M2.7"</code> 及 <code>"MiniMax-M2.7-highspeed"</code> 相关字符。这一界面变动被视为产品上线前的准备信号，表明该公司的模型迭代工作已接近尾声。</p>
+<p>根据出现的字符名称判断，<strong>MiniMax</strong> 或将很快推出名为 <code>MiniMax-M2.7</code> 的新模型，但具体发布时间尚未确认。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b96dfc80-b52d-423a-b33d-89e27acefe2f/c97e929c-614c-4ed1-be8e-630c2f34451a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.minimaxi.com">https://www.minimaxi.com</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/28</guid><pubDate>Mon, 16 Mar 2026 00:51:49 +0000</pubDate></item><item><title>2026-03-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-27/</link><description>AI 早报 2026-03-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 推出限时促销，非高峰及周末使用额度翻倍 ↗ #1 智谱推迟 GLM Coding Plan 续订与回退窗口 #2 模型发布 StepFun 发布 Step 3.5 Flash 模型训练数据 ↗ #3 开发生态 Z Code 发布 V0.22.1，上线浅色主题并接入 OpenCode ↗ #4 前瞻与传闻 消息称字节跳动暂停 Seedance 2.0 全球发布，涉迪士尼版权纠纷 ↗ #5 Claw专题 OpenClaw 发布更新，支持接入实时 Chrome 会话 ↗ #6 腾讯云启动“龙虾”全国免费安装，40 天覆盖 17 城 ↗ #7 Claude 推出限时促销，非高峰及周末使用额度翻倍 #1 Claude 官方…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260315/20260315085543471302fe73_cover_113f.png" alt=""></p>
 <h1>AI 早报 2026-03-15</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1EBwKzBEHz">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=iVKPcNiI784">YouTube</a></p>
 <h2>概览</h2>
