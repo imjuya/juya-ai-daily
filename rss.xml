@@ -1,5 +1,400 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 17 Mar 2026 01:12:01 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-17</title><link>https://imjuya.github.io/juya-ai-daily/issue-29/</link><description>AI 早报 2026-03-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 逐步向香港用户开放 Gemini 应用 ↗ #1 模型发布 Mistral AI 发布 Mistral Small 4，开源混合专家模型 ↗ #2 Mistral AI 发布首个 Lean 4 开源代码 Agent Leanstral ↗ #3 腾讯开源 Covo-Audio-Chat 语音模型，支持原生全双工 ↗ #4 IBM 开源 Granite-4.0-1b-speech 语音模型，支持多语言互译 ↗ #5 阿里通义开源 Fun-CineForge 多模态配音模型 ↗ #6 开发生态 OpenAI Codex 支持 Subagent 机制实现并行任务处理 ↗ #7 Gemini API 的 Tier 2 门…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260317/20260317084356742197ebad_cover_9c04.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 18 Mar 2026 01:37:32 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-30/</link><description>AI 早报 2026-03-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型 ↗ #1 模型发布 H Company 联合 NVIDIA 发布 Holotron-12B 模型 ↗ #2 英伟达推出 120 亿参数 Nemotron 3 VoiceChat 语音模型 ↗ #3 Meta 发布 OMT 系统，支持 1600 多种语言 ↗ #4 乐天发布 Rakuten AI 3.0，基于 DeepSeek V3 ↗ #5 开发生态 Hermes Agent 发布 v0.3.0，引入插件架构 ↗ #6 Mistral AI 推出 Forge，支持企业从头训练 AI 模型 ↗ #7 Ollama 发布 0.18.1 版本，新增 W…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260318/20260318092209140630183c_cover_634c.png" alt=""></p>
+<h1>AI 早报 2026-03-18</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1iQwYzCEh6">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=p8rJ7rYaEMA">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型 <a href="https://openai.com/index/introducing-gpt-5-4-mini-and-nano/">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>H Company 联合 NVIDIA 发布 Holotron-12B 模型 <a href="https://hcompany.ai/holotron-12b">↗</a> <code>#2</code></li>
+<li>英伟达推出 120 亿参数 Nemotron 3 VoiceChat 语音模型 <a href="https://developer.nvidia.com/nemotron-voicechat-early-access">↗</a> <code>#3</code></li>
+<li>Meta 发布 OMT 系统，支持 1600 多种语言 <a href="https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/">↗</a> <code>#4</code></li>
+<li>乐天发布 Rakuten AI 3.0，基于 DeepSeek V3 <a href="https://corp.rakuten.co.jp/news/press/2026/0317_01.html">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Hermes Agent 发布 v0.3.0，引入插件架构 <a href="https://hermes-agent.nousresearch.com/">↗</a> <code>#6</code></li>
+<li>Mistral AI 推出 Forge，支持企业从头训练 AI 模型 <a href="https://mistral.ai/news/forge">↗</a> <code>#7</code></li>
+<li>Ollama 发布 0.18.1 版本，新增 Web 搜索功能 <a href="https://x.com/ollama/status/2033993519459889505">↗</a> <code>#8</code></li>
+<li>LangChain 发布 Open SWE 开源框架 <a href="https://x.com/LangChain/status/2033959303766512006">↗</a> <code>#9</code></li>
+<li>Unsloth AI 发布 Unsloth Studio，开源本地训练工具显存降低百分之七十 <a href="https://unsloth.ai/docs/new/studio">↗</a> <code>#10</code></li>
+<li>Box 推出官方 CLI 支持智能体调用云文件系统工具 <a href="https://x.com/MatthewBerman/status/2034029477899170051">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI 简化 ChatGPT 模型选择，优化配置并修复 5.3 问题 <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">↗</a> <code>#12</code></li>
+<li>Claude Cowork 推出新特性 Dispatch 支持手机远程调度 <a href="https://t.co/r6OH46Ll89">↗</a> <code>#13</code></li>
+<li>谷歌扩展 Personal Intelligence 功能至美国免费用户 <a href="https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/">↗</a> <code>#14</code></li>
+<li>Perplexity 发布 Comet Enterprise 浏览器 <a href="https://t.co/X8n78W3mI7">↗</a> <code>#15</code></li>
+<li>腾讯 ima 上线 ima skills，支持笔记读写检索 <a href="https://ima.qq.com/agent-interface">↗</a> <code>#16</code></li>
+<li>阿里巴巴发布企业级 AI 原生工作平台悟空，内置钉钉 <a href="https://mp.weixin.qq.com/s/joq2dgPfc7Gp_6r2boNcbQ">↗</a> <code>#17</code></li>
+<li>Gamma 发布最大规模更新，推出 AI 原生视觉创作工具 <code>#18</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Google DeepMind 发布 AGI 评估框架，联合 Kaggle 启动黑客松 <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 联手 AWS 签约五角大楼，战略调整削减 Sora 投入 <a href="https://www.theinformation.com/articles/openai-clinches-aws-deal-bid-win-government-contracts">↗</a> <code>#20</code></li>
+<li>微软 AI 重组架构，计划在未来五年内构建世界级的 SOTA 模型 <a href="https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/">↗</a> <code>#21</code></li>
+<li>Linux 基金会获 Anthropic 等 1250 万美元开源安全资助 <a href="https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security">↗</a> <code>#22</code></li>
+<li>阶跃星辰 Step 3.5 Flash 接入吉利超级 Eva 上线极氪 8X <a href="https://mp.weixin.qq.com/s/qAugBVaIVDggdzIrnSegrg">↗</a> <code>#23</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>小米 OpenRouter 隐形模型确认为 MiMo V2 <a href="https://github.com/openclaw/openclaw/pull/49214">↗</a> <code>#24</code></li>
+</ul>
+<h3>Claw专题</h3>
+<ul>
+<li>MiniMax 推出 MaxClaw team，支持多 Agent 协作体系 <a href="https://x.com/MiniMaxAgent/status/2033907710501224829">↗</a> <code>#25</code></li>
+<li>讯飞推出 Loomy 桌面助理，采用目录级隔离安全机制 <a href="https://loomy.xunfei.cn/">↗</a> <code>#26</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/introducing-gpt-5-4-mini-and-nano/">OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正式发布了 <strong>GPT-5.4 mini</strong> 和 <strong>GPT-5.4 nano</strong> 两款模型，专门优化高并发工作负载与 <code>Subagent</code> 工作流。</p>
+<p><strong>GPT-5.4 mini</strong> 性能逼近旗舰版，运行速度提升超两倍，现已登陆 API、Codex 和 ChatGPT 平台。API 端输入输出价格分别为每百万 Token <code>0.75</code> 美元和 <code>4.50</code> 美元。</p>
+<p>最轻量的 <strong>GPT-5.4 nano</strong> 则专注于分类与数据提取，成本最低，目前仅通过 API 开放。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 正式发布了 <strong>GPT-5.4 mini</strong> 和 <strong>GPT-5.4 nano</strong> 两款轻量级模型，旨在为高并发工作负载提供更高效、低延迟的解决方案。</p>
+<p><strong>GPT-5.4 mini</strong> 在编码、多模态理解、工具调用及计算机操控能力上显著优于上一代 <code>GPT-5 mini</code>，运行速度提升超过 <strong>2 倍</strong>，并在 <code>SWE-Bench Pro</code> 和 <code>OSWorld-Verified</code> 等基准测试中逼近旗舰模型 <strong>GPT-5.4</strong> 的性能。</p>
+<p>目前已在 API、Codex 和 ChatGPT 平台上线，API 端输入输出价格分别为每百万 Token <strong>0.75 美元</strong> 和 <strong>4.50 美元</strong>。</p>
+<p><strong>GPT-5.4 nano</strong> 则是 <strong>GPT-5.4</strong> 系列中体积最小、成本最低的版本，专注于处理分类、数据提取及简单的编码子任务，目前仅通过 API 提供服务，价格为每百万 Token 输入 <strong>0.20 美元</strong>、输出 <strong>1.25 美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/5ea388fd-902a-4326-9402-506e624bae93/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318092021_e905daf9e4.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/5ea388fd-902a-4326-9402-506e624bae93/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-gpt-5-4-mini-and-nano/">https://openai.com/index/introducing-gpt-5-4-mini-and-nano/</a></li>
+</ul>
+<hr>
+<h2><a href="https://hcompany.ai/holotron-12b">H Company 联合 NVIDIA 发布 Holotron-12B 模型</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>H Company</strong> 联合 <strong>NVIDIA</strong> 发布了开源多模态模型 <code>Holotron-12B</code>，这是一款专为计算机使用 <code>Agent</code> 打造的模型。</p>
+</blockquote>
+<p><strong>H Company</strong> 与 <strong>NVIDIA</strong> 联合发布开源多模态模型 <strong>Holotron-12B</strong>，旨在作为计算机使用 Agent 的模型。该模型基于 <code>Nemotron-Nano-12B-v2-VL</code> 后训练，采用混合 SSM-Attention 架构，解决 KV Cache 瓶颈。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318083722_ccbf00ebb8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hcompany.ai/holotron-12b">https://hcompany.ai/holotron-12b</a></li>
+<li><a href="https://huggingface.co/Hcompany/Holotron-12B">https://huggingface.co/Hcompany/Holotron-12B</a></li>
+</ul>
+<hr>
+<h2><a href="https://developer.nvidia.com/nemotron-voicechat-early-access">英伟达推出 120 亿参数 Nemotron 3 VoiceChat 语音模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 推出了 <strong>Nemotron 3 VoiceChat</strong>，这是一款 <strong>120 亿</strong> 参数的端到端实时全双工语音模型。开发者现可通过 <strong>NGC</strong> 使用该模型。</p>
+</blockquote>
+<p>NVIDIA 宣布推出 <strong>Nemotron 3 VoiceChat</strong> 抢先体验计划，这是一个拥有 <strong>120 亿（12B）</strong> 参数的端到端实时全双工语音转语音模型。</p>
+<p>该模型采用混合 <code>Mamba/Transformer</code> 架构，结合了快速 <code>Conformer</code> 语音编码器、<strong>Nemotron Nano V2 9B</strong> LLM 骨干网络以及 <strong>NVIDIA TTS</strong> 解码器，支持基于 <strong>NVIDIA PersonaPlex</strong> 的文本角色提示来控制 Agent 人设。</p>
+<p>目前，合格开发者可以通过 <strong>NGC</strong> 获取该模型、参考部署容器及微调指南，用于评估和构建特定领域的全双工语音 Agent。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318081443_ac4cdf6191.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developer.nvidia.com/nemotron-voicechat-early-access">https://developer.nvidia.com/nemotron-voicechat-early-access</a></li>
+<li><a href="https://registry.ngc.nvidia.com/orgs/nim/teams/nvidia/models/nemotron-voicechat">https://registry.ngc.nvidia.com/orgs/nim/teams/nvidia/models/nemotron-voicechat</a></li>
+<li><a href="https://build.nvidia.com/nvidia/nemotron-voicechat">https://build.nvidia.com/nvidia/nemotron-voicechat</a></li>
+</ul>
+<hr>
+<h2><a href="https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/">Meta 发布 OMT 系统，支持 1600 多种语言</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Meta</strong> 发布了名为 <strong>Omnilingual Machine Translation</strong> 的机器翻译系统，支持 <strong>1600</strong> 多种语言，旨在解决现有大语言模型在覆盖范围和低资源语言生成能力上的瓶颈。</p>
+</blockquote>
+<p><strong>Meta</strong> 发布 <strong>Omnilingual Machine Translation (OMT)</strong> 系统，支持语言扩展至 <strong>1600</strong> 多种，旨在突破大模型低资源语言生成瓶颈。该系统整合公共语料与 <strong>MeDLEY</strong> 等新数据集，探索 <strong>OMT-LLaMA</strong> 与 <strong>OMT-NLLB</strong> 两种架构。</p>
+<p>据官方数据，其 <strong>1B</strong> 至 <strong>8B</strong> 参数模型翻译性能匹配甚至超越 <strong>70B</strong> 参数 LLM 基准，具备低算力优势。</p>
+<p><strong>Meta</strong> 构建了包含 <strong>BLASER 3</strong>、<strong>OmniTOX</strong> 及最大规模多语言评估集 <strong>BOUQuET</strong> 在内的评估体系，并将排行榜及评估数据集免费开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/e71d6a95-0b79-4907-b0ff-eb3065b1f232/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/">https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/</a></li>
+</ul>
+<hr>
+<h2><a href="https://corp.rakuten.co.jp/news/press/2026/0317_01.html">乐天发布 Rakuten AI 3.0，基于 DeepSeek V3</a> <code>#5</code></h2>
+<blockquote>
+<p>乐天集团发布了针对日语优化的开源大模型 <strong>Rakuten AI 3.0</strong>，采用 <strong>6710 亿参数</strong> 的 <code>MoE</code> 架构，官方宣称其在日语基准测试中优于 <strong>GPT-4o</strong>。</p>
+<p>该模型因未提及基于 <code>DeepSeek</code>，配置文件包含 <code>DeepSeek</code> 架构标识，以及涉嫌删除原许可证而陷入争议。</p>
+</blockquote>
+<p>乐天集团发布日语优化开源模型 <strong>Rakuten AI 3.0</strong>，属 <strong>"GENIAC"</strong> 项目。该模型采用 <code>MoE</code> 架构，拥有 <strong>6710 亿</strong> 总参数和 <strong>370 亿</strong> 激活参数，支持 <strong>128K</strong> 上下文。官方称其在日语文化测试中优于 <strong>GPT-4o</strong>，基于开源模型与自有数据研发。</p>
+<p>然而，据媒体及社区发现，该模型配置文件含 <code>deepseek_v3</code> 标识。社区指控其删除了 <strong>DeepSeek</strong> 许可证文件，引发关于架构来源及自主研发程度的争议。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260317/20260317192337_876cb04c21.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://corp.rakuten.co.jp/news/press/2026/0317_01.html">https://corp.rakuten.co.jp/news/press/2026/0317_01.html</a></li>
+<li><a href="https://huggingface.co/Rakuten/RakutenAI-3.0">https://huggingface.co/Rakuten/RakutenAI-3.0</a></li>
+</ul>
+<hr>
+<h2><a href="https://hermes-agent.nousresearch.com/">Hermes Agent 发布 v0.3.0，引入插件架构</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Hermes Agent</strong> 发布更新，其核心升级在于引入插件架构。此外，该版本还集成了本地 <code>Whisper</code> 语音模式及全局 PII 隐私脱敏技术。</p>
+</blockquote>
+<p><strong>Nous Research</strong> 正式发布 <strong>Hermes Agent v0.3.0</strong>。核心更新为引入一等公民级别插件架构，允许开发者打包分享工具无需修改核心库。</p>
+<p>此外，<strong>Hermes Agent v0.3.0</strong> 还集成了通过 <code>CDP</code> 连接实时 Chrome 浏览器的自动化功能、基于本地 <code>Whisper</code> 的语音模式以及全局 <code>PII</code> 脱敏技术。</p>
+<p>并实现了跨 <code>CLI</code> 及所有平台的实时流式传输。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/651ce7e2-8189-4f93-8d2d-87060b62c4fb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hermes-agent.nousresearch.com/">https://hermes-agent.nousresearch.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mistral.ai/news/forge">Mistral AI 推出 Forge，支持企业从头训练 AI 模型</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Mistral AI</strong> 推出了企业级系统 <strong>Forge</strong>，支持企业利用专有数据从头训练定制化 <strong>AI</strong> 模型，覆盖从预训练到强化学习的全生命周期。</p>
+</blockquote>
+<p><strong>Mistral AI</strong> 近日推出企业级系统 <strong>Forge</strong>，支持企业基于专有知识从头训练前沿 <strong>AI</strong> 模型。该平台涵盖预训练、后训练及强化学习全阶段，提供 <code>Dense</code> 和 <code>MoE</code> 架构及多模态输入支持，采用 <code>Agent-first</code> 设计理念以提升决策可靠性。</p>
+<p><strong>ASML</strong>、<strong>Ericsson</strong> 及欧洲航天局等已成为早期合作伙伴。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/5caf5e40-dd17-450a-b0f3-cb1349a87800/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mistral.ai/news/forge">https://mistral.ai/news/forge</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ollama/status/2033993519459889505">Ollama 发布 0.18.1 版本，新增 Web 搜索功能</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Ollama</strong> 发布版本更新，为 <strong>OpenClaw</strong> 引入了原生网页搜索与获取插件，使模型具备联网抓取实时信息的能力。</p>
+</blockquote>
+<p><strong>Ollama</strong> 官方正式发布 <strong>0.18.1</strong> 版本。该版本为 <strong>OpenClaw</strong> 引入原生 Web 搜索与获取插件，支持本地或云端模型搜索最新网络内容及抓取网页可读内容。</p>
+<p>此外，更新为 <code>ollama launch</code> 命令新增非交互式模式，旨在适配 Docker 容器、CI/CD 流水线及脚本自动化任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318082903_f6998a14d6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ollama/status/2033993519459889505">https://x.com/ollama/status/2033993519459889505</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/LangChain/status/2033959303766512006">LangChain 发布 Open SWE 开源框架</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>LangChain</strong> 正式发布了开源框架 <code>Open SWE</code>，旨在帮助企业复刻 <strong>Stripe</strong> 和 <strong>Coinbase</strong> 等头部大厂经过生产验证的内部编码 Agent 架构。</p>
+</blockquote>
+<p><strong>LangChain</strong> 正式发布开源框架 <code>Open SWE</code>，专为构建内部编码 Agent 设计。该框架基于 <strong>Deep Agents</strong> 架构，灵感源于 <strong>Stripe</strong>、<strong>Ramp</strong> 和 <strong>Coinbase</strong> 等团队的技术实践。</p>
+<p>核心组件包括隔离云沙盒、<code>AGENTS.md</code> 上下文机制及子代理编排系统。</p>
+<p>其支持通过 <strong>Slack</strong>、<strong>Linear</strong> 和 <strong>GitHub</strong> 触发任务，采用 <strong>MIT 许可证</strong>，具备高度模块化特性。</p>
+<p>目前项目已上线 <strong>GitHub</strong>，提供部署指南。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318082345_adc362b09c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/LangChain/status/2033959303766512006">https://x.com/LangChain/status/2033959303766512006</a></li>
+</ul>
+<hr>
+<h2><a href="https://unsloth.ai/docs/new/studio">Unsloth AI 发布 Unsloth Studio，开源本地训练工具显存降低百分之七十</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Unsloth AI</strong> 推出开源工具 <strong>Unsloth Studio</strong> 测试版，为开发者提供从数据准备、模型训练到部署的一站式解决方案。</p>
+</blockquote>
+<p><strong>Unsloth AI</strong> 宣布推出 <strong>Unsloth Studio (Beta)</strong>，这是一个开源的本地 Web UI 界面，旨在为开发者和 AI 专业人士提供统一的工具，用于本地训练、运行和导出各种开放模型。</p>
+<p>该工具支持在 Mac、Windows 和 Linux 上本地运行 <code>GGUF</code> 和 <code>safetensors</code> 模型。</p>
+<p>其核心采用了基于 OpenAI <code>Triton</code> 语言编写的定制化反向传播内核，使 500 多种模型的训练速度提升 <strong>2 倍</strong>，同时减少 <strong>70%</strong> 的 VRAM 占用且不损失精度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/83ee1256-e24b-4ae7-84e0-42023a8f87fa/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://unsloth.ai/docs/new/studio">https://unsloth.ai/docs/new/studio</a></li>
+<li><a href="https://github.com/unslothai/unsloth">https://github.com/unslothai/unsloth</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/MatthewBerman/status/2034029477899170051">Box 推出官方 CLI 支持智能体调用云文件系统工具</a> <code>#11</code></h2>
+<blockquote>
+<p>Box 宣布推出官方 CLI 工具，支持通过 <code>Claude Code</code> 和 <code>Codex</code> 等平台将 Box 转化为 Agent 可操作的云文件系统。</p>
+</blockquote>
+<p><strong>Aaron Levie</strong> 宣布推出官方 <strong>Box CLI</strong>，旨在将 <strong>Box</strong> 转化为 Agent 专属的完整云文件系统。该工具支持通过 <code>Claude Code</code>、<code>Codex</code>、<code>Perplexity Computer</code> 和 <code>OpenClaw</code> 等平台进行调用，现已面向所有用户开放。其中包括拥有 <strong>10GB</strong> 免费存储额度的免费用户群体，均可使用该功能。</p>
+<p>开发者及用户可以通过执行 <code>npm install --global @box/cli</code> 命令全局安装该工具。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318080344_b0226862a9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/MatthewBerman/status/2034029477899170051">https://x.com/MatthewBerman/status/2034029477899170051</a></li>
+</ul>
+<hr>
+<h2><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">OpenAI 简化 ChatGPT 模型选择，优化配置并修复 5.3 问题</a> <code>#12</code></h2>
+<blockquote>
+<p>ChatGPT 近期发布更新，简化了模型选择器，将选项重组为 <strong>Instant</strong>、<strong>Thinking</strong> 和 <strong>Pro</strong> 三类。更新移除了 <strong>Nerdy</strong> 预设风格，并修复了 <code>5.3 instant</code> 模型中存在的“标题党”倾向问题。</p>
+</blockquote>
+<p>OpenAI 官方宣布简化 ChatGPT 模型选择器，重组为 <strong>Instant</strong>、<strong>Thinking</strong> 和 <strong>Pro</strong> 三类，对应日常快速、复杂深度及最先进推理能力，供 <strong>Plus</strong> 及以上账户使用。</p>
+<p>该更新优化了 <strong>Configure</strong> 菜单，支持自动切换和思考力度设置，并简化了重试菜单。</p>
+<p>个性化方面，官方正逐步淘汰 <strong>Nerdy</strong> 基础风格，原用户将被迁移至默认个性设置。</p>
+<p>此外，据 OpenAI 工程师 <strong>Mich Pokrass</strong> 透露，其团队已修复 <code>5.3 instant</code> 模型中存在的“标题党”倾向问题，承诺将继续消除此类行为。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318080710_7b5f6a033a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318080846_27761190d4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">https://help.openai.com/en/articles/6825453-chatgpt-release-notes</a></li>
+<li><a href="https://x.com/michpokrass/status/2033935238066540806">https://x.com/michpokrass/status/2033935238066540806</a></li>
+</ul>
+<hr>
+<h2><a href="https://t.co/r6OH46Ll89">Claude Cowork 推出新特性 Dispatch 支持手机远程调度</a> <code>#13</code></h2>
+<blockquote>
+<p>Claude Cowork推出了新特性 <strong>Dispatch</strong>，允许用户通过手机远程向本地电脑端分配任务，由 <strong>Claude</strong> 在本地沙箱环境中运行 <code>代码</code> 并保存文件。该功能目前正逐步向 <strong>Max</strong> 订阅者开放，即将扩展至 <strong>Pro</strong> 用户。</p>
+</blockquote>
+<p><strong>Claude Cowork</strong> 推出新特性 <strong>Dispatch</strong>，现处于研究预览阶段。该功能建立本地持久化对话，用户可手机远程发指令，电脑端查看成果。</p>
+<p>官方称其依托 <strong>Cowork</strong> 架构，代码在本地沙箱运行且文件留存，操作前需用户批准。</p>
+<p>使用时需下载 <strong>Claude Desktop</strong> 并配对手机，电脑须保持运行。</p>
+<p>目前向 <strong>Max</strong> 订阅者开放，预计未来几天扩展至 <strong>Pro</strong> 用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/faffb8f5-b08d-4ce4-82f7-c106caf3251a/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://t.co/r6OH46Ll89">https://t.co/r6OH46Ll89</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/">谷歌扩展 Personal Intelligence 功能至美国免费用户</a> <code>#14</code></h2>
+<blockquote>
+<p>Google宣布在美国地区将 <strong>Personal Intelligence</strong> 功能扩展至 <strong>AI Mode in Search</strong>、<strong>Gemini</strong> 应用及 <strong>Chrome</strong> 的免费用户。该功能支持连接 <strong>Gmail</strong>、<strong>Photos</strong> 等个人数据，仅限个人账号使用，默认关闭。</p>
+</blockquote>
+<p>Google 宣布在美国扩展 <strong>Personal Intelligence</strong> 功能，覆盖 <code>AI Mode in Search</code>、<code>Gemini app</code> 及 <code>Chrome</code> 的免费用户。该功能允许用户主动连接 <strong>Gmail</strong>、<strong>Google Photos</strong> 等数据，提供高度定制化响应。</p>
+<p>该功能默认关闭，需用户显式选择加入，仅限个人账号。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/1a9925b7-4ce6-46b4-8b27-069d08fc62f1/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/">https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/</a></li>
+</ul>
+<hr>
+<h2><a href="https://t.co/X8n78W3mI7">Perplexity 发布 Comet Enterprise 浏览器</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Perplexity</strong> 正式发布企业级 AI 浏览器 <strong>Comet Enterprise</strong>，旨在通过单一界面整合研究、自动化与办公流程。</p>
+</blockquote>
+<p><strong>Perplexity</strong> 正式发布 <strong>Comet Enterprise</strong>，官方称其为目前最强大的 AI 浏览器，面向企业团队。该产品集研究、任务自动化与办公于一体，基于 <strong>Perplexity</strong> 安全基础设施构建。</p>
+<p>管理员可通过 <code>MDM</code> 工具部署至数千台设备，并提供遥测数据和审计日志。</p>
+<p>其企业版集成 <code>CrowdStrike Falcon</code> 平台，拦截可疑文件以防钓鱼和恶意软件。<strong>Fortune</strong>、<strong>AWS</strong> 等知名企业已投入使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/1d18fc79-fca9-48bc-a524-024a57338dd4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://t.co/X8n78W3mI7">https://t.co/X8n78W3mI7</a></li>
+</ul>
+<hr>
+<h2><a href="https://ima.qq.com/agent-interface">腾讯 ima 上线 ima skills，支持笔记读写检索</a> <code>#16</code></h2>
+<blockquote>
+<p>腾讯 IMA 正式上线 <strong>IMA Skills</strong>，用户可在 <code>OpenClaw</code> 等平台实现对笔记内容的自动读取、写入及检索。</p>
+</blockquote>
+<p>腾讯 <strong>IMA</strong> 正式上线 <strong>IMA Skills</strong>，并邀请用户抢先体验。  </p>
+<p>根据官方介绍，该功能支持对笔记内容的读取、写入和检索操作。其支持 <code>OpenClaw</code>、<code>OpenClaw</code> 内网版及 <code>WorkBuddy</code> 等平台。  </p>
+<p>用户需获取 API Key，配置给模型部署的 skill，即可让 AI 助手“小龙虾”实现随时记录与查询笔记，或结合其他 skill 使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260317/20260317192734_79c670a7e0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ima.qq.com/agent-interface">https://ima.qq.com/agent-interface</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/joq2dgPfc7Gp_6r2boNcbQ">阿里巴巴发布企业级 AI 原生工作平台悟空，内置钉钉</a> <code>#17</code></h2>
+<blockquote>
+<p>阿里巴巴今日发布企业级AI原生工作平台**“悟空”**，该产品具备企业级安全沙箱与透明的成本管控能力，用户可通过AI能力市场调用阿里生态的ToB技能。</p>
+</blockquote>
+<p>阿里巴巴正式发布全球首个企业级 AI 原生工作平台 <strong>“悟空”</strong>，定位为让企业拥有全天候 <strong>"AI Agent 军团"</strong>。该产品作为独立应用开启邀测，并将内置于 <strong>钉钉</strong>，支持连接企业账号及系统。</p>
+<p>官方称，其内置企业级运行环境，Agent 自动继承权限规则，操作均在安全沙箱中运行，<code>Token</code> 消耗透明。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260317/20260317192021_853bbee536.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/joq2dgPfc7Gp_6r2boNcbQ">https://mp.weixin.qq.com/s/joq2dgPfc7Gp_6r2boNcbQ</a></li>
+</ul>
+<hr>
+<h2>Gamma 发布最大规模更新，推出 AI 原生视觉创作工具 <code>#18</code></h2>
+<blockquote>
+<p>Gamma 发布更新，核心推出 AI 原生视觉创作工具 <strong>Gamma Imagine</strong>，同时，平台重构了 AI 原生模板并上线 <code>Gamma Connectors</code>。</p>
+</blockquote>
+<p><strong>Gamma</strong> 宣布推出“有史以来最大规模”更新，核心包含 AI 原生视觉工具 <strong>Gamma Imagine</strong>、重构模板及 <strong>Gamma Connectors</strong>。官方称，此举旨在消除知识工作者“设计税”。</p>
+<p><strong>Gamma Imagine</strong> 支持通过提示词生成海报、Logo 等品牌资产，新模板允许通过提示词修改整套演示文稿。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318084613_25ec2d6606.png" alt=""></p>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework">Google DeepMind 发布 AGI 评估框架，联合 Kaggle 启动黑客松</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 发布了一套评估通用人工智能进展的认知框架，借鉴心理学定义了感知、推理等十项关键能力。</p>
+<p>与此同时，该团队启动黑客松，邀请开发者针对相关领域构建基准测试。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> 发布 <strong>AGI</strong> 进展认知框架，并联合 <strong>Kaggle</strong> 启动黑客马拉松。该框架基于心理学和神经科学，定义感知、生成、注意等 10 项关键认知能力，提出三阶段评估协议，通过人类基线对比衡量 <strong>AI</strong> 性能。</p>
+<p>针对学习、元认知等五个评估差距最大领域，官方邀请社区构建基准测试。活动总奖金池为 <strong>20 万美元</strong>，设赛道奖及整体大奖。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/41425ad3-2fea-40ea-8eca-5afd562a60fe/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318085512_2113e416bc.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/articles/openai-clinches-aws-deal-bid-win-government-contracts">OpenAI 联手 AWS 签约五角大楼，战略调整削减 Sora 投入</a> <code>#20</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>与<strong>AWS</strong>达成协议，将通过<strong>AWS</strong>云服务向<strong>五角大楼</strong>及<strong>美国政府机构</strong>提供支持涉密工作的<strong>AI工具</strong>。</p>
+<p>与此同时，<strong>OpenAI</strong>正计划进行重大战略调整，削减<code>Sora</code>视频模型及硬件产品的资源投入，转而全力聚焦编程工具与商业用户服务。</p>
+</blockquote>
+<p>据 <strong>The Information</strong> 报道，<strong>OpenAI</strong> 与 <strong>AWS</strong> 签署协议，利用 <strong>AWS</strong> 云设施向包括五角大楼的美国政府机构提供涉密及非涉密 <strong>AI</strong> 工具。</p>
+<p>另据《华尔街日报》，<strong>OpenAI</strong> 正进行战略转型，拟削减 <strong>Sora</strong> 及硬件等投入，聚焦编码工具和商业用户，以巩固核心业务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260317/20260317192428_58af25c1bd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/openai-clinches-aws-deal-bid-win-government-contracts">https://www.theinformation.com/articles/openai-clinches-aws-deal-bid-win-government-contracts</a></li>
+<li><a href="https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825">https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825</a></li>
+</ul>
+<hr>
+<h2><a href="https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/">微软 AI 重组架构，计划在未来五年内构建世界级的 SOTA 模型</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Microsoft AI</strong> 宣布重大架构调整，<strong>CEO Mustafa Suleyman</strong> 将全面转向 <strong>Superintelligence</strong> 研发，计划五年内构建世界级 <strong>SOTA</strong> 模型。</p>
+</blockquote>
+<p>Microsoft AI 日前宣布重大组织架构调整，<strong>CEO Mustafa Suleyman</strong> 将把工作重心全面转向 <strong>Superintelligence</strong> 研发，计划在未来<strong>五年内</strong>构建世界级的 <strong>SOTA</strong> 模型，以支持企业级调优谱系并提升大规模 <strong>AI</strong> 工作负载的 <strong>COGS</strong> 效率。</p>
+<p>与此同时，<strong>Microsoft AI</strong> 正在统一 <strong>Copilot</strong> 的消费者与商业业务，将其合并为单一组织，并任命 <strong>Jacob Andreou</strong> 为新负责人。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318090058_cd3088d8b9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/">https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security">Linux 基金会获 Anthropic 等 1250 万美元开源安全资助</a> <code>#22</code></h2>
+<blockquote>
+<p>Linux 基金会宣布获得来自 <strong>Anthropic</strong>、<strong>AWS</strong>、<strong>Google</strong>、<strong>微软</strong> 及 <strong>OpenAI</strong> 等科技巨头的 <strong>1250 万美元</strong> 资助，这笔资金将用于构建开源软件的可持续安全解决方案。</p>
+</blockquote>
+<p>Linux 基金会宣布获得来自 <strong>Anthropic</strong>、<strong>Amazon Web Services</strong>、<strong>GitHub</strong>、<strong>Google</strong>、<strong>Google DeepMind</strong>、<strong>Microsoft</strong> 和 <strong>OpenAI</strong> 等多家领先组织的 <strong>1250 万美元</strong>资助。该资金旨在通过 <strong>Alpha Omega</strong> 和 <strong>OpenSSF</strong> 推进开源软件的可持续安全解决方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/ca33a30a-812b-4fd4-b84c-b867e54f5a81/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security">https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security</a></li>
+<li><a href="https://x.com/AnthropicAI/status/2033939283313402138">https://x.com/AnthropicAI/status/2033939283313402138</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/qAugBVaIVDggdzIrnSegrg">阶跃星辰 Step 3.5 Flash 接入吉利超级 Eva 上线极氪 8X</a> <code>#23</code></h2>
+<blockquote>
+<p>阶跃星辰宣布其 <strong>Step 3.5 Flash</strong> 模型正式接入吉利全新发布的整车智能体 <strong>“超级Eva”</strong>，并将在 <strong>极氪8X</strong> 车型上首发搭载。</p>
+</blockquote>
+<p>阶跃星辰宣布 <strong>Step 3.5 Flash</strong> 模型接入吉利整车智能体超级 <strong>Eva</strong>，首发搭载于 <strong>极氪 8X</strong>。该智能体由 <strong>阶跃星辰</strong>、<strong>吉利</strong> 及 <strong>千里科技</strong> 共同研发，以 <code>Step 3.5 Flash</code> 为核心驱动大脑，实现大模型与智驾、底盘等底层系统原生融合。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/8d28021a-a85b-4132-a4f8-5d567c03d4bb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/qAugBVaIVDggdzIrnSegrg">https://mp.weixin.qq.com/s/qAugBVaIVDggdzIrnSegrg</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/pull/49214">小米 OpenRouter 隐形模型确认为 MiMo V2</a> <code>#24</code></h2>
+<blockquote>
+<p>据 GitHub 代码记录显示，<strong>Hunter Alpha</strong> 和 <strong>Healer Alpha</strong> 实为小米 <strong>MiMo V2</strong> 系列，前者对应纯文本推理的 <strong>MiMo V2 Pro</strong>，拥有 <code>1M</code> 超长上下文；后者对应支持图文多模态的 <strong>MiMo V2 Omni</strong>。</p>
+</blockquote>
+<p>据 GitHub 代码记录显示，OpenRouter 平台隐形模型 <strong>Hunter Alpha</strong> 与 <strong>Healer Alpha</strong> 实为小米 <strong>MiMo V2</strong> 系列。</p>
+<p><strong>Hunter Alpha</strong> 对应 <code>MiMo V2 Pro</code>，支持 <code>1M</code> 上下文及 <code>32000</code> 最大 Token 输出，仅限文本推理。</p>
+<p><strong>Healer Alpha</strong> 对应 <code>MiMo V2 Omni</code>，支持文本与图像推理，上下文为 <code>262K</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318083329_8f3390db53.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/pull/49214">https://github.com/openclaw/openclaw/pull/49214</a></li>
+<li><a href="https://linux.do/t/topic/1774131">https://linux.do/t/topic/1774131</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/MiniMaxAgent/status/2033907710501224829">MiniMax 推出 MaxClaw team，支持多 Agent 协作体系</a> <code>#25</code></h2>
+<blockquote>
+<p>MiniMax 上线了 <strong>"MaxClaw team"</strong> 功能，将服务从单 Agent 模式升级为多 Agent 协作体系。目前已向 <strong>Pro</strong> 及以上订阅用户开放。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 正式推出 <strong>"MaxClaw team"</strong> 新功能，标志着其服务从“一人一只龙虾”的单 <strong>Agent</strong> 模式演进为多 <strong>Agent</strong> 协作体系。  </p>
+<p>可实现 24/7 全天候运行且无需人工持续看管。  </p>
+<p>目前，该功能仅对订阅个人计划中 <strong>Pro</strong> 级别及以上的用户开放使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/a69157cc-74b1-4942-81b7-3843f99ba9cb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/MiniMaxAgent/status/2033907710501224829">https://x.com/MiniMaxAgent/status/2033907710501224829</a></li>
+</ul>
+<hr>
+<h2><a href="https://loomy.xunfei.cn/">讯飞推出 Loomy 桌面助理，采用目录级隔离安全机制</a> <code>#26</code></h2>
+<blockquote>
+<p>讯飞正式推出了桌面级智能助理 <strong>Loomy</strong>，这是一款基于 <code>AstronClaw</code> 打造的本地办公工具，主打下载即用和目录级安全隔离。</p>
+</blockquote>
+<p>讯飞正式推出基于 <strong>AstronClaw</strong> 打造的桌面级智能助理 <strong>Loomy</strong>，定位为“人人可用的桌面版 OpenClaw”。该产品主打零配置，用户授权后最快 <strong>1 分钟</strong>启动。其采用 <code>目录级隔离</code> 机制，仅访问授权目录以降低数据泄露风险。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/634c7f2a-54df-4f0d-b489-eaf373dd61ef/327641ad-70bd-40d4-8abf-7706f9d9f28a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://loomy.xunfei.cn/">https://loomy.xunfei.cn/</a></li>
+<li><a href="https://mp.weixin.qq.com/s/LjVl0dK00JNWo4F92aJ8kA">https://mp.weixin.qq.com/s/LjVl0dK00JNWo4F92aJ8kA</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/30</guid><pubDate>Wed, 18 Mar 2026 01:37:05 +0000</pubDate></item><item><title>2026-03-17</title><link>https://imjuya.github.io/juya-ai-daily/issue-29/</link><description>AI 早报 2026-03-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 逐步向香港用户开放 Gemini 应用 ↗ #1 模型发布 Mistral AI 发布 Mistral Small 4，开源混合专家模型 ↗ #2 Mistral AI 发布首个 Lean 4 开源代码 Agent Leanstral ↗ #3 腾讯开源 Covo-Audio-Chat 语音模型，支持原生全双工 ↗ #4 IBM 开源 Granite-4.0-1b-speech 语音模型，支持多语言互译 ↗ #5 阿里通义开源 Fun-CineForge 多模态配音模型 ↗ #6 开发生态 OpenAI Codex 支持 Subagent 机制实现并行任务处理 ↗ #7 Gemini API 的 Tier 2 门…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260317/20260317084356742197ebad_cover_9c04.png" alt=""></p>
 <h1>AI 早报 2026-03-17</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ZiwSzZEjK">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=YcH826NAA_4">YouTube</a></p>
 <h2>概览</h2>
