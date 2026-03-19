@@ -1,5 +1,411 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 18 Mar 2026 01:37:32 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-30/</link><description>AI 早报 2026-03-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型 ↗ #1 模型发布 H Company 联合 NVIDIA 发布 Holotron-12B 模型 ↗ #2 英伟达推出 120 亿参数 Nemotron 3 VoiceChat 语音模型 ↗ #3 Meta 发布 OMT 系统，支持 1600 多种语言 ↗ #4 乐天发布 Rakuten AI 3.0，基于 DeepSeek V3 ↗ #5 开发生态 Hermes Agent 发布 v0.3.0，引入插件架构 ↗ #6 Mistral AI 推出 Forge，支持企业从头训练 AI 模型 ↗ #7 Ollama 发布 0.18.1 版本，新增 W…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260318/20260318092209140630183c_cover_634c.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 19 Mar 2026 01:25:59 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-31/</link><description>AI 早报 2026-03-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 MiniMax 发布 M2.7 模型，实现自我进化，SWE-Pro 得分 56.22% ↗ #1 MiniMax 推出 Token Plan，支持全模态模型统一访问 ↗ #2 小米发布 MiMo 系列三款模型，开放 API 服务 ↗ #3 模型发布 Midjourney 开启 V8 模型早期测试，图像生成速度提升五倍 ↗ #4 英伟达发布 Nemotron 3 Nano 4B 混合架构模型 ↗ #5 百度千帆发布 40 亿参数 Qianfan-OCR ↗ #6 Datalab 发布 Chandra OCR 2，获 olmocr 基准 85.9 分 ↗ #7 开发生态 Google 更新 Gemini API，简化 Agent…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260319/20260319084959210336d34e_cover_c183.png" alt=""></p>
+<h1>AI 早报 2026-03-19</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1DjwkzbEZ4">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=FjBH8m-SJQg">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>MiniMax 发布 M2.7 模型，实现自我进化，SWE-Pro 得分 56.22% <a href="https://www.minimaxi.com/news/minimax-m27-zh">↗</a> <code>#1</code></li>
+<li>MiniMax 推出 Token Plan，支持全模态模型统一访问 <a href="https://platform.minimaxi.com/subscribe/token-plan">↗</a> <code>#2</code></li>
+<li>小米发布 MiMo 系列三款模型，开放 API 服务 <a href="https://mp.weixin.qq.com/s/GWseVZ0yDdewSEOXr1tGTw">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Midjourney 开启 V8 模型早期测试，图像生成速度提升五倍 <a href="https://x.com/midjourney/status/2034015403542974793">↗</a> <code>#4</code></li>
+<li>英伟达发布 Nemotron 3 Nano 4B 混合架构模型 <a href="https://huggingface.co/blog/nvidia/nemotron-3-nano-4b">↗</a> <code>#5</code></li>
+<li>百度千帆发布 40 亿参数 Qianfan-OCR <a href="https://huggingface.co/baidu/Qianfan-OCR">↗</a> <code>#6</code></li>
+<li>Datalab 发布 Chandra OCR 2，获 olmocr 基准 85.9 分 <a href="https://huggingface.co/datalab-to/chandra-ocr-2">↗</a> <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Google 更新 Gemini API，简化 Agent 工作流开发 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/">↗</a> <code>#8</code></li>
+<li>谷歌调整 Gemini CLI 策略，免费用户仅可使用 Flash 模型 <a href="https://github.com/google-gemini/gemini-cli/discussions/22970">↗</a> <code>#9</code></li>
+<li>火山引擎上线“火山联网搜索Skill”，个人每月免费500次调用 <a href="https://mp.weixin.qq.com/s/HN_50ugvFQtVujRkrbJHGQ">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude Cowork Dispatch 功能向 Pro 用户开放，支持启动 Claude Code <a href="https://x.com/felixrieseberg/status/2034381385134399913">↗</a> <code>#11</code></li>
+<li>Google Labs 升级 Stitch 为 vibe design AI 原生设计平台 <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/">↗</a> <code>#12</code></li>
+<li>腾讯 QClaw 发布更新，升级微信入口上线灵感广场 <a href="https://mp.weixin.qq.com/s/A9Lq4Kw7T-pXwaJizCYxiw">↗</a> <code>#13</code></li>
+<li>Perplexity 官方宣布 Comet 浏览器正式上线 iOS 移动平台 <a href="https://pplx.ai/comet-ios">↗</a> <code>#14</code></li>
+<li>LiblibAI 上线 LibTV 专业视频平台，支持人类与 Agent 创作 <a href="https://mp.weixin.qq.com/s/C7xUcSWVXLYfexbFIeI8Jw">↗</a> <code>#15</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Together AI 等发布 Mamba-3，优化推理效率设计 <a href="https://www.together.ai/blog/mamba-3">↗</a> <code>#16</code></li>
+<li>Anthropic 详解 Claude Code Skills 构建经验与九大核心分类 <a href="https://x.com/trq212/status/2033949937936085378">↗</a> <code>#17</code></li>
+<li>Anthropic 发布 8 万用户研究揭示全球 AI 期望与担忧 <a href="https://www.anthropic.com/features/81k-interviews">↗</a> <code>#18</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>微软或将起诉 OpenAI 与亚马逊 涉 500 亿美元云协议 <a href="https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/">↗</a> <code>#19</code></li>
+<li>阿里云 2026 年 4 月起调整 AI 算力价格，最高涨幅 34% <a href="https://www.aliyun.com/notice/detail?notice-id=118086">↗</a> <code>#20</code></li>
+<li>OpenAI 启动 Parameter Golf 挑战赛挖掘顶尖人才 <a href="https://openai.com/index/parameter-golf/">↗</a> <code>#21</code></li>
+<li>苹果拦截 Replit 等 Vibe Coding 应用在 App Store 的更新 <a href="https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store">↗</a> <code>#22</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>腾讯官宣混元 HY 3.0 预计 4 月上线 <a href="https://mp.weixin.qq.com/s/Vp_V_BxYsDYcXLFrtWhcJw">↗</a> <code>#23</code></li>
+<li>消息称英伟达筹备面向中国的 Groq 芯片，预计 5 月上市 <a href="https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/">↗</a> <code>#24</code></li>
+<li>Google AI Studio 将推全新 vibe coding，历时四月从零重构 <a href="https://x.com/OfficialLoganK/status/2034347641740337653">↗</a> <code>#25</code></li>
+</ul>
+<hr>
+<h2><a href="https://www.minimaxi.com/news/minimax-m27-zh">MiniMax 发布 M2.7 模型，实现自我进化，SWE-Pro 得分 56.22%</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 正式发布 <strong>M2.7</strong> 模型，官方称其能自行构建复杂 <strong>Agent</strong> 系统完成高难度生产力任务。</p>
+<p>该模型在软件工程和办公评测中表现强劲。</p>
+<p>目前，<strong>M2.7</strong> 已在 <strong>MiniMax Agent</strong> 平台及 API 开放平台全量上线，同时开源了 <strong>Agent</strong> 交互系统 <code>OpenRoom</code>。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 正式发布 <strong>M2.7</strong> 模型，将其定义为首个深度参与迭代自身的模型。该模型能够自行构建复杂的 <code>Agent Harness</code>，并利用 <code>Agent Teams</code>、复杂 <code>Skills</code> 及 <code>Tool Search Tool</code> 等能力完成高复杂度的生产力任务。</p>
+<p>在性能表现上，官方数据显示 <strong>M2.7</strong> 在软件工程基准 <strong>SWE-Pro</strong> 中得分 <strong>56.22%</strong>，接近 <strong>Opus</strong> 系列模型水平；在专业办公评测 <strong>GDPval-AA</strong> 中，其 <strong>ELO</strong> 得分达到 <strong>1495</strong>。</p>
+<p>此外，该模型增强了身份保持能力与情商，拓展至互动娱乐场景，并同步开源 <strong>Agent</strong> 交互系统 <strong>OpenRoom</strong>。</p>
+<p>目前，<strong>MiniMax M2.7</strong> 已在 <strong>MiniMax Agent</strong> 平台及 API 开放平台全量上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318183438_7325e7aee5.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318184004_615b50be5c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.minimaxi.com/news/minimax-m27-zh">https://www.minimaxi.com/news/minimax-m27-zh</a></li>
+<li><a href="https://openroom.ai/">https://openroom.ai/</a></li>
+<li><a href="https://github.com/MiniMax-AI/OpenRoom">https://github.com/MiniMax-AI/OpenRoom</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.minimaxi.com/subscribe/token-plan">MiniMax 推出 Token Plan，支持全模态模型统一访问</a> <code>#2</code></h2>
+<blockquote>
+<p>MiniMax 将原有的 Coding Plan 升级为 Token Plan。Token Plan 搭载最新的 <code>M2.7</code> 模型，并整合了文本、语音、视频等全模态模型访问权限。</p>
+<p>采用基于滚动 5 小时窗口的“请求”计费单位，不同模型的请求消耗量不同。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 正式推出了 <strong>Token Plan</strong> 订阅服务，该服务由原有的 <strong>Coding Plan</strong> 升级而来，旨在通过单一额度为用户提供对 <strong>MiniMax</strong> 全模态模型的统一访问能力。</p>
+<p>该服务涵盖了文本、语音、视频、音乐和图像等模态，并搭载最新的 <code>MiniMax M2.7</code> 模型，其中极速版订阅还提供专属的 <code>M2.7-highspeed</code> 支持。</p>
+<p><strong>Token Plan</strong> 采用基于滚动 5 小时窗口的“请求”计费单位，不同模型的请求消耗量不同。用户订阅后需获取专用 API Key 进行接入，达到用量上限后可选择切换至按量计费模式或等待额度自动恢复。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318185938_81fb3d7734.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318193404_5c8743ee21.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318185805_0ae073a877.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.minimaxi.com/subscribe/token-plan">https://platform.minimaxi.com/subscribe/token-plan</a></li>
+<li><a href="https://platform.minimaxi.com/docs/token-plan/intro">https://platform.minimaxi.com/docs/token-plan/intro</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/GWseVZ0yDdewSEOXr1tGTw">小米发布 MiMo 系列三款模型，开放 API 服务</a> <code>#3</code></h2>
+<blockquote>
+<p>小米大模型团队正式发布 <strong>MiMo</strong> 系列三款新模型，包括拥有 <strong>1T</strong> 总参数量及 <strong>1M</strong> 上下文的旗舰基座模型 <strong>MiMo-V2-Pro</strong>，全模态 Agent 模型 <strong>MiMo-V2-Omni</strong>，以及端到端语音模型 <strong>MiMo-V2-TTS</strong>。</p>
+<p>目前相关模型已开放 API，其中 <code>MiMo-V2-TTS</code> 模型 API 调用限时免费。</p>
+</blockquote>
+<p>小米正式发布 <strong>MiMo</strong> 系列三款全新模型，包括面向 Agent 时代的旗舰基座模型 <strong>MiMo-V2-Pro</strong>、全模态 Agent 基座模型 <strong>MiMo-V2-Omni</strong> 以及端到端语音合成模型 <strong>MiMo-V2-TTS</strong>。</p>
+<p>其中，<strong>MiMo-V2-Pro</strong> 拥有超过 <strong>1T</strong> 的总参数量（激活参数 <strong>42B</strong>），支持 <strong>1M</strong> 超长上下文，专为高强度 Agent 工作场景打造。在 Artificial Analysis 排行榜中位列全球第八、国内第二。官方称其使用体感已超越 <strong>Claude Sonnet 4.6</strong> 并逼近 <strong>Opus 4.6</strong>，但 API 定价仅为其 <strong>1/5</strong>。</p>
+<p>相关模型已正式开放 API 服务，其中 <strong>MiMo-V2-TTS</strong> 模型限时免费。</p>
+<p><strong>MiMo-V2-Pro</strong> 已接入金山办公、小米手机浏览器等多款产品，同时联合多个 AI 编程工具，为全球开发者提供为期一周的限时免费接口支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319083502_bd991c9be0.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319083527_71d2ea4035.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319083551_80a2a99c29.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319083615_5c02504377.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/GWseVZ0yDdewSEOXr1tGTw">https://mp.weixin.qq.com/s/GWseVZ0yDdewSEOXr1tGTw</a></li>
+<li><a href="https://platform.xiaomimimo.com">https://platform.xiaomimimo.com</a></li>
+<li><a href="https://aistudio.xiaomimimo.com">https://aistudio.xiaomimimo.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/midjourney/status/2034015403542974793">Midjourney 开启 V8 模型早期测试，图像生成速度提升五倍</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Midjourney</strong> 官方宣布，<strong>Midjourney V8</strong> 模型早期版本现已开启社区测试。</p>
+<p>其生成速度提升约 <strong>5 倍</strong>，在指令遵循、图像连贯性及文本渲染方面均有显著增强。</p>
+<p>并引入了原生 <strong>2K</strong> 分辨率的 <code>hd</code> 模式。</p>
+</blockquote>
+<p><strong>Midjourney</strong> 官方宣布，其 <strong>V8</strong> 模型的早期版本现已开始在 <code>alpha.midjourney.com</code> 上接受社区测试。</p>
+<p>根据官方博客描述，<strong>V8</strong> 生成速度相比之前提升了约 <strong>5 倍</strong>，在遵循详细指令、图像连贯性与细节方面均有显著提升，且文本渲染功能比以往任何时候都更好。</p>
+<p>该模型在理解用户审美方面表现出色，支持向后兼容 <strong>V7</strong> 的个性化配置、风格参考 和情绪板，并引入了原生 <strong>2K</strong> 分辨率的 <code>--hd</code> 模式和旨在增强连贯性的 <code>--q 4</code> 模式。</p>
+<p>为了配合这一速度提升，<strong>Midjourney</strong> 升级了 Web 界面，增加了改进的“对话模式”、“网格模式” 以及侧边栏设置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318183112_4ed01b9684.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/midjourney/status/2034015403542974793">https://x.com/midjourney/status/2034015403542974793</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/blog/nvidia/nemotron-3-nano-4b">英伟达发布 Nemotron 3 Nano 4B 混合架构模型</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 发布了专为边缘端 Agentic AI 设计的 <code>Nemotron 3 Nano 4B</code> 混合架构模型，支持 <strong>262K</strong> 上下文长度及可控推理模式。</p>
+</blockquote>
+<p><strong>NVIDIA</strong> 正式发布 <strong>Nemotron 3 Nano 4B</strong>，这是一款专为边缘端 Agentic AI 设计的混合架构语言模型。该模型拥有 <strong>39.7 亿</strong> 参数，结合 <code>Mamba-2</code> 与 <code>Transformer</code> 层，支持 <strong>262K</strong> 上下文长度。</p>
+<p>其基于 <strong>Nemotron Elastic</strong> 框架从父模型压缩而成，经过两阶段蒸馏和多阶段强化学习训练。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/c17cfe46-8377-4789-a4d7-35b1f816a4c2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/blog/nvidia/nemotron-3-nano-4b">https://huggingface.co/blog/nvidia/nemotron-3-nano-4b</a></li>
+<li><a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16">https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/baidu/Qianfan-OCR">百度千帆发布 40 亿参数 Qianfan-OCR</a> <code>#6</code></h2>
+<blockquote>
+<p>百度千帆发布了拥有<strong>40亿参数</strong>的端到端文档智能模型 <strong>Qianfan-OCR</strong>，该模型引入了 <code>Layout-as-Thought</code> 思维链机制以处理复杂文档布局，在 <strong>OmniDocBench</strong> 等基准测试中表现优异。</p>
+</blockquote>
+<p>百度千帆团队发布端到端文档智能模型 <strong>Qianfan-OCR</strong>。该模型拥有 <strong>40 亿参数</strong>，基于 <code>Qwen3-4B</code> 构建，支持 <strong>192 种语言</strong> 及图像到 Markdown 转换。</p>
+<p>其核心创新在于引入 "Layout-as-Thought" 机制，可通过 <code>⟨think⟩</code> 标记生成结构化布局表示。</p>
+<p>根据官方数据，该模型在 <strong>OmniDocBench v1.5</strong> 基准中位居端到端模型第一，并在五个关键信息提取基准上平均分达 <strong>87.9</strong>。</p>
+<p>目前，项目已依据 Apache 2.0 协议开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318184609_eb0d0e9019.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/baidu/Qianfan-OCR">https://huggingface.co/baidu/Qianfan-OCR</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/datalab-to/chandra-ocr-2">Datalab 发布 Chandra OCR 2，获 olmocr 基准 85.9 分</a> <code>#7</code></h2>
+<blockquote>
+<p>Datalab 发布了 <strong>Chandra OCR 2</strong> 模型，这款参数量约 <strong>4B</strong> 的模型能将图像和 PDF 高效转化为 <code>Markdown</code> 等格式。</p>
+</blockquote>
+<p><strong>Datalab</strong> 正式发布 <strong>Chandra OCR 2</strong> 模型，这是一款 SOTA 级光学字符识别工具，支持将图像和 PDF 转为 Markdown 等格式并保留布局。</p>
+<p>据官方显示，该模型在 <code>olmocr</code> 基准测试中得分 <strong>85.9%</strong>，支持 90 多种语言，在复杂表格和数学公式处理上性能显著提升。</p>
+<p>其参数量约为 <strong>4B</strong> 至 <strong>5B</strong>，处理速度达每秒 <strong>1.44</strong> 页。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/6cce4419-2feb-4a37-a51d-cfd2ff274240/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/datalab-to/chandra-ocr-2">https://huggingface.co/datalab-to/chandra-ocr-2</a></li>
+<li><a href="https://github.com/datalab-to/chandra">https://github.com/datalab-to/chandra</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/">Google 更新 Gemini API，简化 Agent 工作流开发</a> <code>#8</code></h2>
+<blockquote>
+<p>Google宣布更新<strong>Gemini API</strong>，支持开发者在单次请求中混合使用内置与自定义工具。新增的“上下文循环”机制允许模型自动串联多步骤任务的输入输出，同时<strong>Google Maps Grounding</strong>功能已扩展至<code>Gemini 3</code>系列模型。</p>
+</blockquote>
+<p>Google 日前宣布推出一系列 <strong>Gemini API</strong> 工具更新，旨在简化 <strong>Agent</strong> 工作流的开发与编排。开发者现在可以在单个 API 请求中混合使用内置工具（如 <strong>Google Search</strong>、<strong>Google Maps</strong> 和文件搜索）与自定义函数，无需手动编排切换逻辑。</p>
+<p>配合这一功能，官方引入了“上下文循环”机制，允许模型在多步骤任务中自动将一个工具的输出作为后续工具的输入，从而实现更复杂的推理。</p>
+<p>此外，为了提升调试效率，API 新增了工具响应 ID 功能。此次更新还将 <strong>Grounding with Google Maps</strong> 扩展到了 <strong>Gemini 3</strong> 模型家族，使其能够获取实时的空间数据和地点信息。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319073810_976ad773a4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tooling-updates/</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/tool-combination">https://ai.google.dev/gemini-api/docs/tool-combination</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/google-gemini/gemini-cli/discussions/22970">谷歌调整 Gemini CLI 策略，免费用户仅可使用 Flash 模型</a> <code>#9</code></h2>
+<blockquote>
+<p>Gemini CLI 团队宣布将于 <strong>3月25日</strong> 调整服务策略以应对算力紧张，免费层级用户将仅限使用 <code>Gemini Flash</code> 模型。</p>
+<p>流量路由机制将依据许可证类型和账户信誉度进行优先级排序，并升级检测机制，严查违规使用 OAuth 凭证。</p>
+</blockquote>
+<p>Gemini CLI 团队发布服务更新公告，宣布将调整后端服务策略以应对计算资源紧张并保障高优先级订阅用户的体验。</p>
+<p>此次更新将于 <strong>3月25日</strong> 正式生效，主要涉及模型访问权限、流量优先级及滥用检测三个方面：免费层级用户将仅限使用 <code>Gemini Flash</code> 模型，访问 <code>Gemini Pro</code> 模型需升级至 <strong>AI Pro</strong> 或 <strong>Ultra</strong> 计划，或使用来自 <strong>AI Studio</strong> 及 <strong>Vertex AI</strong> 的付费 API Key。</p>
+<p>流量路由机制将依据许可证类型和账户信誉度进行优先级排序，部分用户在高峰期可能遭遇容量限制。</p>
+<p>同时官方将严查违规用例，禁止在第三方软件中使用 Gemini CLI 的 OAuth 凭证。</p>
+<p>此外，官方确认 <strong>Gemini Code Assist</strong> 企业版不受此次个人版调整影响，仍可作为替代方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319074405_b9d1ed1f46.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/google-gemini/gemini-cli/discussions/22970">https://github.com/google-gemini/gemini-cli/discussions/22970</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/HN_50ugvFQtVujRkrbJHGQ">火山引擎上线“火山联网搜索Skill”，个人每月免费500次调用</a> <code>#10</code></h2>
+<blockquote>
+<p>火山引擎宣布上线 <strong>“火山联网搜索Skill”</strong>，该技能整合了 <strong>字节系</strong> 独家信源，能通过原生适配自动对网页内容进行摘要总结和数据结构化。个人用户注册后每月可享受 <strong>500次</strong> 的免费调用额度。</p>
+</blockquote>
+<p>火山引擎宣布将 <strong>“火山联网搜索 Skill”</strong> 接入 <strong>ArkClaw</strong> 及 <strong>OpenClaw</strong> 平台，为 AI Agent 提供现实世界信息获取能力。该技能与 <strong>豆包搜索</strong> 同源，整合 <strong>今日头条</strong> 等独家信源，支持内容摘要与数据结构化，降低 <code>Token</code> 消耗。</p>
+<p>个人用户注册后享每月 <strong>500 次</strong> 免费调用。安装需通过控制台及命令行配置 <code>API Key</code>。免费额度用尽后自动暂停，无自动扣费。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/e1226cee-321d-4b3c-804b-a72db2e295f3/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318191427_323d431cb2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/HN_50ugvFQtVujRkrbJHGQ">https://mp.weixin.qq.com/s/HN_50ugvFQtVujRkrbJHGQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/felixrieseberg/status/2034381385134399913">Claude Cowork Dispatch 功能向 Pro 用户开放，支持启动 Claude Code</a> <code>#11</code></h2>
+<blockquote>
+<p>Claude Cowork 的 <strong>Dispatch</strong> 功能现已向所有 <strong>Pro</strong> 用户开放，支持从设备端直接触发桌面任务，并能启动 <code>Claude Code</code> 会话来执行构建或改进指令。</p>
+</blockquote>
+<p>Claude Cowork 的 <strong>Dispatch</strong> 功能现已向 100% 的 <strong>Claude Pro</strong> 用户完成推送。该功能允许用户直接从设备端触发桌面 Cowork 任务，并新增支持启动 <code>Claude Code</code> 会话以执行构建、制作或改进等指令。</p>
+<p>若要使用此项特性，用户需更新 <strong>Claude</strong> 桌面应用程序，并确保已启用 <code>Code</code> 功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319072602_8f2e244f92.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/felixrieseberg/status/2034381385134399913">https://x.com/felixrieseberg/status/2034381385134399913</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/">Google Labs 升级 Stitch 为 vibe design AI 原生设计平台</a> <code>#12</code></h2>
+<blockquote>
+<p>Google 宣布将 <strong>Stitch</strong> 升级为 AI 原生的“vibe design”平台，新增智能设计 <code>Agent</code> 和无限画布功能，用户可通过自然语言就能快速生成高保真 <code>UI</code> 及交互原型。</p>
+</blockquote>
+<p>Google 宣布对其设计工具 <strong>Stitch</strong> 进行重大升级，将其转型为一款支持“vibe design”的 <strong>AI 原生</strong>软件设计平台，旨在通过自然语言处理将想法转化为高保真 UI 设计。</p>
+<p>此次更新引入了全新的 <strong>AI 原生无限画布</strong>、能够推理项目全貌的智能设计 <strong>Agent</strong>，以及用于并行管理任务的 <strong>Agent Manager</strong>。</p>
+<p>该平台支持通过 <code>DESIGN.md</code> 文件和 URL 提取来实现设计系统的便携化与复用，并具备将静态设计即时转化为交互原型的能力。</p>
+<p>此外，<strong>Stitch</strong> 还集成了语音交互模式，以支持实时设计批评与修改，并通过 <code>MCP server</code> 和 <code>SDK</code> 实现了与 <strong>AI Studio</strong>、<strong>Antigravity</strong> 等开发工具的互联互通。</p>
+<p>目前该服务仅面向 <strong>18 岁及以上</strong>用户开放，支持英语且仅限 <strong>Gemini</strong> 覆盖的地区使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/8f9a9023-f721-4532-86e3-f9f4652ef61e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/">https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/A9Lq4Kw7T-pXwaJizCYxiw">腾讯 QClaw 发布更新，升级微信入口上线灵感广场</a> <code>#13</code></h2>
+<blockquote>
+<p>腾讯发布 <strong>QClaw</strong> 更新，新上线 <strong>“QClaw管家”</strong> 小程序，可在微信端实现远程操作电脑及文件传输。</p>
+<p>同步推出了 <strong>“灵感广场”</strong>，预置了办公与研究等场景的常用技能。</p>
+</blockquote>
+<p>腾讯 <strong>QClaw</strong> 近日宣布重大版本更新。该产品基于 <code>OpenClaw</code> 极简封装，主打无需配置环境即可通过微信远程操作电脑。</p>
+<p>此次更新将微信入口升级为 "<strong>QClaw 管家</strong>" 小程序，支持文件传输。官方透露，后续将支持语音、图片多模态交互及远程切换模型。</p>
+<p>针对指令痛点，该产品上线“灵感广场”，预置针对办公、研究等场景任务的 <code>Skills</code>，用户可一键执行。</p>
+<p>此外，其优化了对话记忆与任务管理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318184323_74e0fc5a16.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/A9Lq4Kw7T-pXwaJizCYxiw">https://mp.weixin.qq.com/s/A9Lq4Kw7T-pXwaJizCYxiw</a></li>
+</ul>
+<hr>
+<h2><a href="https://pplx.ai/comet-ios">Perplexity 官方宣布 Comet 浏览器正式上线 iOS 移动平台</a> <code>#14</code></h2>
+<blockquote>
+<p>Perplexity推出的AI浏览器 <strong>Comet</strong> 现已正式登陆 <strong>iOS</strong> 平台，用户可直接在 <strong>App Store</strong> 下载安装。</p>
+</blockquote>
+<p><strong>Perplexity</strong> 推出的 <strong>Comet</strong> 现已正式登陆 iOS 平台，用户可通过 App Store 下载这款 AI 浏览器助手。</p>
+<p>官方发布了上架通知，并提供了 App Store 的直接访问链接及 <code>pplx.ai/comet-ios</code> 短链入口，支持用户即刻安装使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319072352_20e12496d7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://pplx.ai/comet-ios">https://pplx.ai/comet-ios</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/C7xUcSWVXLYfexbFIeI8Jw">LiblibAI 上线 LibTV 专业视频平台，支持人类与 Agent 创作</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>LiblibAI</strong> 正式上线专业 AI 视频创作平台 <strong>LibTV</strong>，定位为业内首个同时服务人类与 <code>Agent</code> 的创作系统。</p>
+</blockquote>
+<p><strong>LiblibAI</strong> 推出视频创作平台 <strong>LibTV</strong>。官方称其为唯一同时面向人类创作者与 <strong>Agent</strong> 设计的平台。</p>
+<p>面向人类，其提供无限画布工作流，支持五节点及 20 多项独家专业控制能力。</p>
+<p>面向 <strong>Agent</strong>，该平台开放 <code>Skill</code> 接口，支持“小龙虾”系列及 <code>Claude Code</code> 等工具调用，实现一句话指令完成剧本至成片流程。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/372f78cf-ef08-476c-8ce4-ba6e01bb603a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/C7xUcSWVXLYfexbFIeI8Jw">https://mp.weixin.qq.com/s/C7xUcSWVXLYfexbFIeI8Jw</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.together.ai/blog/mamba-3">Together AI 等发布 Mamba-3，优化推理效率设计</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>Together AI</strong> 联合卡内基梅隆等高校团队发布了专为推理效率打造的新一代状态空间模型 <strong>Mamba-3</strong>。该模型通过引入多输入多输出架构和复数值系统，在不增加推理延迟的前提下大幅提升了表达能力。</p>
+</blockquote>
+<p><strong>Together AI</strong>、<strong>卡内基梅隆大学</strong>等联合团队日前发布新一代状态空间模型 <strong>Mamba-3</strong>，专为推理效率设计。该模型引入指数梯形离散化、复数值状态空间系统及多输入多输出架构，移除短卷积层并加入 <code>QKNorm</code> 与 <code>RoPE</code>。</p>
+<p>官方数据显示，在 <strong>1.5B</strong> 规模下，其 SISO 变体全序列长度延迟优于 <strong>Mamba-2</strong> 及 <code>vLLM</code> 优化的 <strong>Llama-3.2-1B</strong>；MIMO 变体在 <strong>1B</strong> 规模下游任务中精度提升超 <strong>1</strong> 个百分点。</p>
+<p>该模型利用推理时空闲 <code>Tensor Cores</code> 提升计算密度，不影响延迟。相关内核代码已开源，论文被 <strong>ICLR 2026</strong> 接收。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/1468ae65-5763-4c2e-a445-e1b4fa261712/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.together.ai/blog/mamba-3">https://www.together.ai/blog/mamba-3</a></li>
+<li><a href="https://github.com/state-spaces/mamba">https://github.com/state-spaces/mamba</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2033949937936085378">Anthropic 详解 Claude Code Skills 构建经验与九大核心分类</a> <code>#17</code></h2>
+<blockquote>
+<p>Anthropic 官方分享了构建 <strong>Claude Code Skills</strong> 的实战经验，明确指出 <strong>Skills</strong> 是包含脚本和资源的文件夹，供 Agent 自主发现与操作，而不仅仅是 <code>Markdown</code> 文件。</p>
+</blockquote>
+<p>Anthropic 官方近期分享构建 <strong>Claude Code Skills</strong> 经验。官方指出，<strong>Skills</strong> 是包含脚本、资源和数据的文件夹，供 Agent 发现与操作，而非仅 Markdown 文件。</p>
+<p>其划分为库与 API 引用、产品验证、数据获取与分析等九大核心类别。</p>
+<p>建议利用文件系统渐进式披露，建立 <code>Gotchas</code> 板块，并通过 <code>Description</code> 字段引导模型触发。</p>
+<p>其支持通过仓库或内部插件市集分发，可通过 <code>PreToolUse Hook</code> 记录数据以度量效果。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/d3d88c57-53d9-42e8-a9e6-dbde82cda41d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2033949937936085378">https://x.com/trq212/status/2033949937936085378</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/features/81k-interviews">Anthropic 发布 8 万用户研究揭示全球 AI 期望与担忧</a> <code>#18</code></h2>
+<blockquote>
+<p>Anthropic 利用 AI 访谈工具对全球超 <strong>8万</strong> 名用户进行调研，发现人们对 AI 既期待其提升职业表现和解放时间，又高度担忧其不可靠性及对就业市场的冲击。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 近期通过 AI 访谈工具对全球 <strong>80,508</strong> 名用户进行研究。据官方博客称，系迄今规模最大、语言种类最多的定性研究。</p>
+<p>结果显示，<strong>67%</strong> 受访者对 AI 持积极态度，南美、非洲和亚洲乐观情绪高于欧美。</p>
+<p>用户最希望 AI 带来专业精进（<strong>18.8%</strong>）和个人转变（<strong>13.7%</strong>），主要担忧为不可靠性（<strong>26.7%</strong>）及就业冲击（<strong>22.3%</strong>）。</p>
+<p>研究揭示“明暗面”现象，即同一能力伴随益处与风险。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319064347_7158de7bd1.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/features/81k-interviews">https://www.anthropic.com/features/81k-interviews</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/">微软或将起诉 OpenAI 与亚马逊 涉 500 亿美元云协议</a> <code>#19</code></h2>
+<blockquote>
+<p>据报道，微软正考虑对合作伙伴 <strong>OpenAI</strong> 及 <strong>亚马逊</strong> 采取法律行动，起因是双方规避了微软的独家权益，签署了一项价值 <strong>500亿美元</strong> 的 <code>有状态运行时环境</code> 云服务协议。</p>
+</blockquote>
+<p>据英国《金融时报》消息，<strong>微软</strong>正考虑对合作伙伴<strong>OpenAI</strong>及<strong>亚马逊</strong>采取法律行动，起因是双方签署了一项价值<strong>500亿美元</strong>的云服务协议。</p>
+<p>争议核心在于<strong>OpenAI</strong>试图通过引入<code>有状态运行时环境</code>技术，将<strong>亚马逊AWS</strong>定为其企业级AI Agent平台<strong>Frontier</strong>的独家第三方云提供商，以此规避<strong>微软</strong>在“无状态”模型调用上的独家权益。</p>
+<p><strong>微软</strong>方面认为此举即便未违反合同字面条款，也违背了协议精神。目前双方正试图在产品发布前通过谈判解决这一争端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318192020_30343d9bbb.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/">https://www.reuters.com/technology/microsoft-weighs-legal-action-over-50-billion-amazon-openai-cloud-deal-ft-2026-03-18/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.aliyun.com/notice/detail?notice-id=118086">阿里云 2026 年 4 月起调整 AI 算力价格，最高涨幅 34%</a> <code>#20</code></h2>
+<blockquote>
+<p>阿里云宣布因全球AI需求爆发及供应链成本上涨，将于 <strong>2026年4月18日</strong> 起调整 <strong>AI算力</strong> 及 <code>CPFS智算版</code> 价格，最高涨幅达 <strong>34%</strong>。</p>
+</blockquote>
+<p>阿里云官方宣布，将于 <strong>4 月 18 日</strong>起正式调整 AI 算力、<code>CPFS</code>（智算版）等服务价格。该公司表示，此次调价基于全球 AI 需求爆发及供应链成本上涨背景。此次调整最高幅度达 <strong>34%</strong>，涉及平头哥<code>真武 810E</code>等算力服务及存储产品。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318190217_5c610704cd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.aliyun.com/notice/detail?notice-id=118086">https://www.aliyun.com/notice/detail?notice-id=118086</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/parameter-golf/">OpenAI 启动 Parameter Golf 挑战赛挖掘顶尖人才</a> <code>#21</code></h2>
+<blockquote>
+<p>OpenAI 宣布启动 <strong>“Parameter Golf”</strong> 挑战赛，参赛者需在 <strong>8 张 H100</strong> 算力和 <strong>10 分钟</strong> 时长内，开发出总大小不超过 <strong>16MB</strong> 的模型。表现优异者有机会获得 <strong>OpenAI</strong> 的面试机会。</p>
+</blockquote>
+<p>OpenAI 官方宣布推出名为 <strong>Parameter Golf</strong> 的开放研究挑战赛，旨在通过构建极致高效的预训练模型来发掘优秀技术人才。</p>
+<p>该挑战要求参赛者在固定的 <code>FineWeb</code> 数据集上，致力于最小化保留集损失，同时须遵守严格的资源限制：模型权重与训练代码的总大小不得超过 <strong>16MB</strong>，且训练预算限制在 <strong>8</strong> 张 <code>H100</code> GPU 上的 <strong>10</strong> 分钟内。</p>
+<p>参赛者需 Fork 官方提供的 GitHub 仓库进行改进，并提交包含代码、日志及说明的 Pull Request。通过审批后，结果将合并至自动更新的排行榜。</p>
+<p>官方表示，表现突出的参与者有机会获得面试邀请，其获胜方案也可能被公开展示。</p>
+<p>此外，参赛者可申请 <code>Runpod</code> 的免费计算积分。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319080552_30226efab0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/parameter-golf/">https://openai.com/index/parameter-golf/</a></li>
+</ul>
+<hr>
+<h2><a href="https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store">苹果拦截 Replit 等 Vibe Coding 应用在 App Store 的更新</a> <code>#22</code></h2>
+<blockquote>
+<p>据报道，苹果拦截了 <strong>Replit</strong> 等 AI 编程应用在 App Store 的更新。苹果官方表示，该措施旨在防止应用在未经审核的情况下发生根本性功能变更。</p>
+</blockquote>
+<p>据 The Information 报道，<strong>Apple</strong> 近期拦截了 <strong>Replit</strong> 和 <strong>Vibecode</strong> 等支持 <code>Vibe Coding</code> 应用的更新。该措施针对允许用户通过自然语言在设备端直接生成应用、可能绕过审核流程的工具。</p>
+<p><strong>Apple</strong> 官方表示，此举旨在防止应用在未经审核的情况下发生根本性功能变更。</p>
+<p>目前，受影响的相关应用在同意移除特定于 <strong>Apple</strong> 设备的代码生成功能或调整预览方式后，已接近重新获得批准。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319073449_03e7f9bb01.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store">https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/Vp_V_BxYsDYcXLFrtWhcJw">腾讯官宣混元 HY 3.0 预计 4 月上线</a> <code>#23</code></h2>
+<blockquote>
+<p>腾讯在发布财报后的媒体沟通会上透露，新一代混元模型 <code>HY 3.0</code> 正在内部进行业务测试，计划于 <strong>4月</strong> 正式对外推出，重点强化推理与 Agent 能力。</p>
+</blockquote>
+<p>腾讯发布了2025年第四季度及全年财报，官方宣称其<strong>混元</strong>基础模型在3D生成、文生图和世界建模等多模态能力方面已处于行业领导地位。</p>
+<p>在财报发布后的媒体沟通环节，腾讯透露代号为<code>HY 3.0</code>的新一代<strong>混元</strong>模型正在内部进行业务测试，计划于<strong>4月</strong>正式对外推出。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c18363c5-a820-4c06-bb4f-bd486c4792cf/5d1fefc3-7e62-4238-926f-7681a6efe7ba/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Vp_V_BxYsDYcXLFrtWhcJw">https://mp.weixin.qq.com/s/Vp_V_BxYsDYcXLFrtWhcJw</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/">消息称英伟达筹备面向中国的 Groq 芯片，预计 5 月上市</a> <code>#24</code></h2>
+<blockquote>
+<p>据报道，<strong>英伟达</strong>正筹备一款面向中国市场的 <strong>Groq</strong> 人工智能芯片，预计将于今年 <strong>5月</strong> 上市，这款芯片是主攻AI推理市场的新版本。与此同时，<strong>英伟达</strong>已重启 <code>H200</code> 芯片生产。</p>
+</blockquote>
+<p>据媒体报道，知情人士透露，<strong>英伟达</strong>正筹备一款面向中国市场的 <code>Groq</code> 人工智能芯片版本，预计 <strong>5 月</strong>上市。该芯片并非降级版，而是可适配系统的新版本。</p>
+<p>此外，<strong>英伟达</strong> CEO <strong>黄仁勋</strong>宣布，获美国特朗普政府出口许可及中国订单后，已重启 <code>H200</code> 芯片生产。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260318/20260318175442_48e3945419.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/">https://www.reuters.com/world/china/nvidia-preparing-groq-chips-that-can-be-sold-chinese-market-sources-say-2026-03-17/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OfficialLoganK/status/2034347641740337653">Google AI Studio 将推全新 vibe coding，历时四月从零重构</a> <code>#25</code></h2>
+<blockquote>
+<p>Google AI Studio 预告即将推出全面重构的 <strong>Vibe Coding</strong> 体验。AI Studio 负责人 <strong>Logan Kilpatrick</strong> 透露，团队耗时 <strong>4个月</strong> 从底层重建系统，旨在帮助用户实现创意。</p>
+</blockquote>
+<p><strong>Google AI Studio</strong> 即将推出一项经过全面重构的全新 <strong>vibe coding</strong> 体验。  </p>
+<p>根据 <strong>Google</strong> 开发者关系主管 <strong>Logan Kilpatrick</strong> 发布的消息，该功能将于近期正式揭晓。  </p>
+<p>为了打造这一新体验，其团队在过去 <strong>4</strong> 个月中从零开始对系统进行了重建，旨在消除使用中的生涩环节，帮助用户更顺畅地将创意转化为现实。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260319/20260319074550_e125ed1620.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OfficialLoganK/status/2034347641740337653">https://x.com/OfficialLoganK/status/2034347641740337653</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/31</guid><pubDate>Thu, 19 Mar 2026 01:25:35 +0000</pubDate></item><item><title>2026-03-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-30/</link><description>AI 早报 2026-03-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.4 mini 与 GPT-5.4 nano 模型 ↗ #1 模型发布 H Company 联合 NVIDIA 发布 Holotron-12B 模型 ↗ #2 英伟达推出 120 亿参数 Nemotron 3 VoiceChat 语音模型 ↗ #3 Meta 发布 OMT 系统，支持 1600 多种语言 ↗ #4 乐天发布 Rakuten AI 3.0，基于 DeepSeek V3 ↗ #5 开发生态 Hermes Agent 发布 v0.3.0，引入插件架构 ↗ #6 Mistral AI 推出 Forge，支持企业从头训练 AI 模型 ↗ #7 Ollama 发布 0.18.1 版本，新增 W…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260318/20260318092209140630183c_cover_634c.png" alt=""></p>
 <h1>AI 早报 2026-03-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1iQwYzCEh6">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=p8rJ7rYaEMA">YouTube</a></p>
 <h2>概览</h2>
