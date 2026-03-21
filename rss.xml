@@ -1,5 +1,290 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 20 Mar 2026 01:00:00 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-20</title><link>https://imjuya.github.io/juya-ai-daily/issue-33/</link><description>AI 早报 2026-03-20 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Cursor 发布 Composer 2 模型 ↗ #1 Claude Code 推出 Channels 支持手机远程操控 ↗ #2 Google AI Studio 上线全栈 Vibe Coding ↗ #3 模型发布 微软 AI 发布 MAI-Image-2 文生图模型 ↗ #4 小红书 rednote-hilab 发布 dots.mocr，3B 参数支持图像转 SVG ↗ #5 开发生态 TRAE IDE 登陆 Linux 平台，实现三大系统兼容 ↗ #6 Gemini API 更新计费 2026 年 4 月设支出上限 ↗ #7 Windsurf 启用新定价，推出 200 美元 Max 计划 ↗ #8 Cursor 发布…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260320/20260320083143513265f54a_cover_a01d.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 21 Mar 2026 01:01:53 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-21</title><link>https://imjuya.github.io/juya-ai-daily/issue-34/</link><description>AI 早报 2026-03-21 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作 #1 Claude Code 上线云端定时，桌面版支持直接选 DOM ↗ #2 智谱与小米均确认会继续开源模型 ↗ #3 模型发布 美团龙猫开源 LongCat-Flash-Prover ↗ #4 英伟达发布 30B MoE 模型，IMO 与 IOI 获金牌成绩 ↗ #5 开发生态 Windsurf 宣布向付费用户限免开放 Kimi K2.5 模型 ↗ #6 OpenAI 推出 Codex for Students 项目 ↗ #7 心流团队宣布 iFlow CLI 服务将于 2026 年 4 月关闭 ↗ #8 产品应用 Claude Co…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260321/20260321084351198945ad57_cover_6654.png" alt=""></p>
+<h1>AI 早报 2026-03-21</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1kQAszvEXR">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=doA8fpWYktI">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作 <code>#1</code></li>
+<li>Claude Code 上线云端定时，桌面版支持直接选 DOM <a href="https://x.com/lydiahallie/status/2035126942366867785">↗</a> <code>#2</code></li>
+<li>智谱与小米均确认会继续开源模型 <a href="https://x.com/ZixuanLi_/status/2035039071894933546">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>美团龙猫开源 LongCat-Flash-Prover <a href="https://github.com/meituan-longcat/LongCat-Flash-Prover">↗</a> <code>#4</code></li>
+<li>英伟达发布 30B MoE 模型，IMO 与 IOI 获金牌成绩 <a href="https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Windsurf 宣布向付费用户限免开放 Kimi K2.5 模型 <a href="https://x.com/windsurf/status/2035138834086932650">↗</a> <code>#6</code></li>
+<li>OpenAI 推出 Codex for Students 项目 <a href="http://chatgpt.com/codex/students">↗</a> <code>#7</code></li>
+<li>心流团队宣布 iFlow CLI 服务将于 2026 年 4 月关闭 <a href="https://platform.iflow.cn/email-collect">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude Cowork 推出 Projects 功能 <a href="https://x.com/claudeai/status/2035025492617961704">↗</a> <code>#9</code></li>
+<li>腾讯 QClaw 开启全量公测，免邀请码打通五大平台 <a href="https://mp.weixin.qq.com/s/Tu8Eskf6Pmb5Kp9GIJp-Zw">↗</a> <code>#10</code></li>
+<li>Lovable 拓展通用任务功能 <a href="https://x.com/antonosika/status/2034674308271022325">↗</a> <code>#11</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 构建 AI 研究员，2028 年拟发布全自动化系统 <a href="https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/">↗</a> <code>#12</code></li>
+<li>蓝色起源申请 FCC 部署近五万二千颗 AI 计算卫星 <a href="https://fccprod.servicenowservices.com/icfs?id=ibfs_application_summary&amp;number=SAT-LOA-20260310-00118">↗</a> <code>#13</code></li>
+<li>豆包开启 AI 电商功能内测，预计最快 3 月正式上线 <a href="https://finance.sina.com.cn/jjxw/2026-03-20/doc-inhrqtyz8132490.shtml">↗</a> <code>#14</code></li>
+<li>元宝宣布品牌标识升级，正式以全新形象面向用户 <a href="https://mp.weixin.qq.com/s/UKdHS9Da_X1h0YOrwVDuDQ">↗</a> <code>#15</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>微软宣布优化 Windows 11，削减 Copilot 集成并允许暂停更新 <a href="http://aka.ms/windowsquality2026">↗</a> <code>#16</code></li>
+<li>消息称 OpenAI 将推超级应用 整合 ChatGPT 等功能 <a href="https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?mod=author_content_page_1_pos_1">↗</a> <code>#17</code></li>
+<li>深度求索核心研究员郭达雅离职，或将加盟大厂负责 Code 业务 <a href="https://mp.weixin.qq.com/s?__biz=MzE5ODgzOTg0MQ==&amp;mid=2247484036&amp;idx=1&amp;sn=03dd704bcfb226f5925cd8710f1f6ae8&amp;chksm=9797bb293af63b4999c12145415b8b67c368cb3d4af864ba2aee001c7db0558258ac7a5def04&amp;mpshare=1&amp;scene=1&amp;srcid=0320qvpqRnOteIdJ92AQlBUW&amp;sharer_shareinfo=241654574180825d48fbb14cb281fdfe&amp;sharer_shareinfo_first=f1ddce27a9c9fc0eb56466f11ca7195d#rd">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2>Cursor 承认 Composer 2 基于 Kimi K2.5，月之暗面确认授权合作 <code>#1</code></h2>
+<blockquote>
+<p>Cursor 近日发布了新模型 <code>Composer 2</code>，但因底层被指基于 Kimi K2.5 且未注明而引发开源合规争议。</p>
+<p>Cursor 团队随后承认该模型确实以 Kimi K2.5 为基座，但强调在此基础上投入了数倍计算量进行持续预训练与强化学习，未及时披露属于失误。</p>
+<p>最终 Kimi 官方确认双方存在通过 <code>Fireworks AI</code> 达成的授权商业合作。</p>
+</blockquote>
+<p>Cursor 近日发布了新模型 <strong>Composer 2</strong>，但有开发者在调试 Cursor 的 <strong>Composer 2</strong> 模型时，发现请求体中的模型 ID 显示为 <code>kimi-k2p5-rl-0317-s515-fast</code>，即该模型是 <strong>Kimi</strong> k2.5 强化学习而来。</p>
+<p>月之暗面员工最初对此表示两个模型的 Tokenizer 完全一致，质疑 Cursor 未遵守许可证注明模型来源。</p>
+<p>对此，<strong>Cursor</strong> 官方随后承认 <strong>Composer 2</strong> 确实以 <strong>Kimi</strong> K2.5 为开源基座，但强调该团队在此基础上进行了大规模的持续预训练与强化学习，投入的计算量约为基座模型的两倍，且通过推理合作伙伴 <strong>Fireworks</strong> 的条款遵守了许可证规定。</p>
+<p><strong>Kimi</strong> 官方账号最终也确认了与 <strong>Cursor</strong> 的授权商业合作关系，并表示支持其模型集成工作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321074807_fed67e356a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321075128_3b55381ef1.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321075001_17fd4cd0fd.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/lydiahallie/status/2035126942366867785">Claude Code 上线云端定时，桌面版支持直接选 DOM</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 针对网页端和桌面端推出了新功能。</p>
+<p>网页端现已支持云端定时任务，用户可自行设定代码仓库、时间表和提示词。</p>
+<p>桌面端则新增了直接选择 DOM 元素的交互方式，<strong>Claude</strong> 能自动获取元素的代码上下文和截图。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 近期针对网页版和桌面版分别推出了新功能。</p>
+<p>在网页版方面，该产品引入了云端定时任务功能，用户只需设置代码仓库、时间表和提示词，<strong>Claude</strong> 便会通过云端基础设施按计划自动运行。这意味着用户无需在本地维持客户端运行，甚至可以关闭浏览器标签页。</p>
+<p>在桌面版方面，<strong>Claude Code</strong> 新增了直接选择 DOM 元素的交互方式。相较于以往通过文字描述指定更新组件，该功能允许 <strong>Claude</strong> 直接获取元素的标签、类名、关键样式、周围 HTML 代码以及裁剪后的截图。对于 React 应用，该功能还能进一步识别并捕获源文件、组件名称和属性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/99a278b5-9e09-4d70-8981-96dfce2170d4/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/99a278b5-9e09-4d70-8981-96dfce2170d4/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/lydiahallie/status/2035126942366867785">https://x.com/lydiahallie/status/2035126942366867785</a></li>
+<li><a href="https://x.com/trq212/status/2035102337002590718">https://x.com/trq212/status/2035102337002590718</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ZixuanLi_/status/2035039071894933546">智谱与小米均确认会继续开源模型</a> <code>#3</code></h2>
+<blockquote>
+<p>针对外界对 <strong>GLM</strong> 模型是否保持开源的疑虑，<strong>智谱</strong>员工明确回应称无需恐慌，<strong>GLM-5.1</strong> 模型将会开源。</p>
+<p><strong>小米</strong> MiMo 的负责人也在 X 上确认将在未来开源近期发布的模型。</p>
+</blockquote>
+<p>针对外界对 <strong>GLM</strong> 模型是否保持开源的疑虑，<strong>智谱</strong>员工近日在社交媒体平台 <strong>X</strong> 上发文回应。其明确表示“无需恐慌”，并确认 <strong>GLM-5.1</strong> 将会开源。</p>
+<p><strong>小米</strong> <strong>MiMo</strong> 近期发布的 V2 系列尽管未在官方公告提及开源，但相关负责人也在 <strong>X</strong> 上确认将在未来开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321082020_43eeb24753.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321082748_414737f5f4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ZixuanLi_/status/2035039071894933546">https://x.com/ZixuanLi_/status/2035039071894933546</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/meituan-longcat/LongCat-Flash-Prover">美团龙猫开源 LongCat-Flash-Prover</a> <code>#4</code></h2>
+<blockquote>
+<p>美团龙猫团队发布了拥有 <strong>5600亿</strong> 总参数的开源 <code>MoE</code> 模型 <code>LongCat-Flash-Prover</code>，该模型专注于 <code>Lean4</code> 原生形式推理，在自动形式化和定理证明任务上有优异表现。</p>
+</blockquote>
+<p>美团龙猫团队近日发布了 <strong>LongCat-Flash-Prover</strong>，这是一个拥有 <strong>5600 亿参数</strong>的旗舰级开源 <strong>Mixture-of-Experts (MoE)</strong> 模型。  </p>
+<p>该模型致力于通过 Agent 式工具集成推理（TIR），推进 <code>Lean4</code> 中的原生形式推理能力，将复杂的推理任务分解为自动形式化、草图绘制和证明三个独立环节。  </p>
+<p>官方数据显示，<strong>LongCat-Flash-Prover</strong> 在 <strong>MiniF2F-Test</strong> 上以每题 <strong>72 次推理</strong>实现了 <strong>97.1%</strong> 的通过率，并在 <strong>PutnamBench</strong> 上解决了 <strong>41.5%</strong> 的问题，确立了开源权重模型在自动形式化和定理证明任务上的新 SOTA 表现。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/98b52aa0-dd89-465a-9a45-f4f99fda1b83/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/meituan-longcat/LongCat-Flash-Prover">https://github.com/meituan-longcat/LongCat-Flash-Prover</a></li>
+<li><a href="https://huggingface.co/meituan-longcat/LongCat-Flash-Prover">https://huggingface.co/meituan-longcat/LongCat-Flash-Prover</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B">英伟达发布 30B MoE 模型，IMO 与 IOI 获金牌成绩</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 发布了 <code>Nemotron-Cascade-2-30B-A3B</code> 模型。</p>
+<p>这款拥有 <strong>30B</strong> 总参数的开源 MoE 模型，在 <strong>2025</strong> 年国际数学与信息学奥赛两项测试中均达到金牌表现。</p>
+</blockquote>
+<p><strong>NVIDIA</strong> 近日发布了 <code>Nemotron-Cascade-2-30B-A3B</code> 模型，该模型是一个拥有 <strong>30B</strong> 总参数和 <strong>3B</strong> 激活参数的开源 MoE 模型，基于 <code>Nemotron-3-Nano-30B-A3B-Base</code> 进行后训练。</p>
+<p>根据官方提供的数据，该模型在 <strong>2025</strong> 年国际数学奥林匹克（IMO）和国际信息学奥林匹克（IOI）中均取得了金牌成绩，并在 <strong>AIME 2025</strong>、<code>LiveCodeBench</code> 等基准测试中表现优异。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/2f0aff4a-cd3f-4f9d-9085-dee954e6dd8c/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260320/20260320190930_598803d3e7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B">https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/windsurf/status/2035138834086932650">Windsurf 宣布向付费用户限免开放 Kimi K2.5 模型</a> <code>#6</code></h2>
+<blockquote>
+<p>Windsurf宣布，鉴于外界对 <strong>Kimi K2.5</strong> 模型重燃兴趣，在未来 <strong>7天</strong> 内，向所有付费用户免费开放该模型的调用。</p>
+</blockquote>
+<p>鉴于外界对 <strong>Kimi K2.5</strong> 模型重新表现出浓厚兴趣，<strong>Windsurf</strong> 官方宣布将采取限时免费策略。  </p>
+<p>该公司通过社交账号发布声明称，未来 <strong>7 天</strong>内，其平台上的 <strong>Trial</strong>、<strong>Pro</strong>、<strong>Teams</strong> 以及 <strong>Max</strong> 等级用户，均可免费调用该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321083411_56ecb15619.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/windsurf/status/2035138834086932650">https://x.com/windsurf/status/2035138834086932650</a></li>
+</ul>
+<hr>
+<h2><a href="http://chatgpt.com/codex/students">OpenAI 推出 Codex for Students 项目</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布推出“Codex for Students”项目，向美国和加拿大的大学生提供价值 <strong>100 美元</strong> 的 <code>Codex</code> 额度。</p>
+</blockquote>
+<p>OpenAI Developers 官方宣布推出 <strong>“Codex for Students”</strong> 项目，面向美国和加拿大的大学生提供价值 <strong>100 美元</strong> 的 <code>Codex</code> 额度，旨在支持学生通过构建、破坏和修复事物的实践方式进行学习。</p>
+<p>符合条件的学生可通过 <code>chatgpt.com/codex/students</code> 获取相关服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321072844_f691a37f40.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://chatgpt.com/codex/students">http://chatgpt.com/codex/students</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2035033703274201109">https://x.com/OpenAIDevs/status/2035033703274201109</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.iflow.cn/email-collect">心流团队宣布 iFlow CLI 服务将于 2026 年 4 月关闭</a> <code>#8</code></h2>
+<blockquote>
+<p>心流团队宣布整合资源，<strong>iFlow CLI</strong> 及 <strong>API</strong> 服务将于 <strong>2026年4月17日</strong> 正式关停。官方建议用户尽快迁移至接力伙伴 <strong>Qoder</strong> 平台，凭已注册邮箱申请可领取 <strong>300 Credits</strong> 迁移福利。</p>
+</blockquote>
+<p>心流团队宣布其旗下 <strong>iFlow CLI</strong> 即日起停止更新，将于 <strong>4 月 17 日</strong> 正式关闭，相关 API 及模型库服务同步关停。  </p>
+<p>该团队推荐用户迁移至接力伙伴 <strong>Qoder</strong> 平台，并为符合条件的用户提供 <strong>300 Credits</strong> 迁移福利。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260320/20260320191732_503259b6b9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.iflow.cn/email-collect">https://platform.iflow.cn/email-collect</a></li>
+<li><a href="https://vibex.iflow.cn/t/topic/4714">https://vibex.iflow.cn/t/topic/4714</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2035025492617961704">Claude Cowork 推出 Projects 功能</a> <code>#9</code></h2>
+<blockquote>
+<p>Anthropic 为 <strong>Claude Cowork</strong> 正式推出了 <strong>Projects</strong> 功能，该功能支持跨任务记忆及本地化数据存储。</p>
+</blockquote>
+<p>Anthropic 正式为 <strong>Claude Cowork</strong> 推出了 <strong>"Projects"</strong> 功能。该功能现旨在帮助用户将任务与上下文集中管理，从而专注于特定的工作领域。</p>
+<p><strong>Projects</strong> 提供了跨任务的内置记忆能力，并支持为一组任务设置共享文件夹及连接。在数据处理方面，相关文件和指令均保留在用户的本地计算机专用文件夹中，确保数据本地化。</p>
+<p>此外，该功能还新增了针对项目特定计划任务的版块，用户既可以选择一键导入现有项目，也可以创建全新项目。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/77174f6c-7326-4a6d-aee1-27c0232030f6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2035025492617961704">https://x.com/claudeai/status/2035025492617961704</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/Tu8Eskf6Pmb5Kp9GIJp-Zw">腾讯 QClaw 开启全量公测，免邀请码打通五大平台</a> <code>#10</code></h2>
+<blockquote>
+<p>腾讯 <strong>QClaw</strong> 宣布开启全量公测，即日起取消邀请码，用户可直接官网下载。</p>
+<p>该产品现已打通微信、钉钉等五大平台，支持手机端跨平台远控电脑。</p>
+</blockquote>
+<p>腾讯 <strong>QClaw</strong> 宣布开启全量公测，即日起取消邀请码限制，用户可通过官网直接下载安装。</p>
+<p>该产品现已打通微信、企业微信、QQ、飞书及钉钉五大主流平台，支持手机端跨平台远控电脑。</p>
+<p>在企业微信场景中，<strong>QClaw</strong> 面向个人及 10 人以下团队，提供了消息总结、自动回复及日程会议管理等“数字分身”能力。</p>
+<p>本次更新还引入了可视化的“像素工作室”与定时任务管理功能，前者让 <code>Agent</code> 的运行状态直观可见，后者则支持对周期性任务进行集中式的独立编辑与管理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260320/20260320191607_7c6ff2a019.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/27701cb7-a49b-4a1e-abe6-6a5da9bd57e9/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Tu8Eskf6Pmb5Kp9GIJp-Zw">https://mp.weixin.qq.com/s/Tu8Eskf6Pmb5Kp9GIJp-Zw</a></li>
+<li><a href="https://qclaw.qq.com">https://qclaw.qq.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/antonosika/status/2034674308271022325">Lovable 拓展通用任务功能</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Lovable</strong> 宣布产品重大转型，将其从单一的应用构建工具升级为通用型 AI Agent，新增数据科学家、商业分析师及营销助手等角色。现在用户可以直接用它分析数据生成 <code>PDF</code> 报告或制作融资演示文稿。</p>
+</blockquote>
+<p><strong>Lovable</strong> 宣布发布重大功能扩展，从单一的应用程序构建工具转型为能够处理通用任务的 <strong>AI Agent</strong>。  </p>
+<p>除了原有的构建功能外，该产品现新增了数据科学家、商业分析师、演示文稿构建者及营销助手等角色能力，致力于成为用户的“通用型联合创始人”。  </p>
+<p>此次更新支持用户分析数据并生成 <code>PDF</code> 报告、创建营销素材以及制作融资演示文稿。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/a9e11375-f0be-433a-8445-9b00676484e4/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/antonosika/status/2034674308271022325">https://x.com/antonosika/status/2034674308271022325</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/">OpenAI 构建 AI 研究员，2028 年拟发布全自动化系统</a> <code>#12</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 将构建完全自动化的“AI 研究员”确立为未来几年的核心战略，计划于今年 <strong>9 月</strong>推出能独立承担特定研究任务的“自主 AI 研究实习生”，并预计在 <strong>2028 年</strong>发布可解决数学、物理及商业复杂难题的多 <code>Agent</code> 系统。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 将构建“AI 研究员”确立为未来几年的“北极星”目标。据媒体报道，该公司计划今年 <strong>9 月</strong>推出“自主 AI 研究实习生”，<strong>2028 年</strong>发布完全自动化多 Agent 系统。</p>
+<p><strong>OpenAI</strong> 首席科学家 <strong>Jakub Pachocki</strong> 表示，这一愿景将整合推理模型、Agent 和可解释性等多个研究方向。尽管目前的 <code>Codex</code> 工具已被视为该系统的早期雏形，且展示了显著的生产力提升，但 Pachocki 承认在长周期任务的可靠性上仍面临挑战。</p>
+<p>他指出，需通过“思维链监控”和沙盒部署来解决潜在的失控与安全风险。他强调，相比实现全知全能的通用人工智能（AGI），<strong>OpenAI</strong> 目前更专注于构建能够产生深远影响的“经济变革性技术”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260321/20260321073129_6fa2385748.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/">https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/</a></li>
+</ul>
+<hr>
+<h2><a href="https://fccprod.servicenowservices.com/icfs?id=ibfs_application_summary&amp;number=SAT-LOA-20260310-00118">蓝色起源申请 FCC 部署近五万二千颗 AI 计算卫星</a> <code>#13</code></h2>
+<blockquote>
+<p>据报道，<strong>蓝色起源</strong>正式进军太空AI基础设施领域，已向美国联邦通信委员会提交申请，计划在地球轨道部署近<strong>52万颗</strong>由太阳能驱动的<code>AI计算专用卫星</code>。</p>
+</blockquote>
+<p>据《华尔街日报》报道，<strong>杰夫·贝索斯</strong>旗下的<strong>蓝色起源</strong>正式进军太空 AI 基础设施领域。该公司近日向美国联邦通信委员会（FCC）提交申请，计划在地球轨道部署近 <strong>52,000</strong> 颗专为 AI 计算设计的卫星。</p>
+<p>这些卫星搭载先进处理芯片，完全依靠太阳能驱动，旨在直接在太空中处理复杂 AI 数据运算。<strong>蓝色起源</strong>强调，该轨道计算网络并非取代地面设施，而是作为传统数据中心的补充，通过全球覆盖网络实现高效任务分配，为激增的 AI 算力需求提供新物理空间。</p>
+<p>该计划涉及的 <code>AI</code> 模型与 <code>卫星计算架构</code> 将在轨执行端到端推理任务，减少数据回传延迟，提升实时响应能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260320/20260320191841_190e156330.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://fccprod.servicenowservices.com/icfs?id=ibfs_application_summary&amp;number=SAT-LOA-20260310-00118">https://fccprod.servicenowservices.com/icfs?id=ibfs_application_summary&amp;number=SAT-LOA-20260310-00118</a></li>
+</ul>
+<hr>
+<h2><a href="https://finance.sina.com.cn/jjxw/2026-03-20/doc-inhrqtyz8132490.shtml">豆包开启 AI 电商功能内测，预计最快 3 月正式上线</a> <code>#14</code></h2>
+<blockquote>
+<p>据报道，<strong>字节跳动</strong>旗下<strong>豆包</strong>正在内测“一句话购物”功能，用户通过对话即可让大模型推荐商品并完成下单支付闭环，预计最快本月上线。</p>
+<p>该功能依托 <code>大模型</code> 技术，实现从语音或文字输入到商品推荐、比价、下单与支付的全流程自动化，显著降低购物决策门槛。</p>
+</blockquote>
+<p>据媒体报道，<strong>字节跳动</strong>旗下<strong>豆包</strong>近期开启 AI 电商“一句话购物”内测。用户在该 APP 内通过对话提出需求，由其大模型识别意图并推荐商品，完成浏览、下单及支付闭环。</p>
+<p>接近<strong>豆包</strong>人士透露，该功能预计近期正式上线。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://finance.sina.com.cn/jjxw/2026-03-20/doc-inhrqtyz8132490.shtml">https://finance.sina.com.cn/jjxw/2026-03-20/doc-inhrqtyz8132490.shtml</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/UKdHS9Da_X1h0YOrwVDuDQ">元宝宣布品牌标识升级，正式以全新形象面向用户</a> <code>#15</code></h2>
+<blockquote>
+<p>元宝通过官方微信公众号宣布启动Logo升级，启用了更加拟人的品牌标识。</p>
+</blockquote>
+<p>近日，<strong>元宝</strong>通过其官方微信公众号宣布启动品牌标识升级，正式以“全新的<strong>元宝</strong>”形象面向用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/061f2bfa-1d29-4e1d-b844-2b8ab0e1ddc3/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/UKdHS9Da_X1h0YOrwVDuDQ">https://mp.weixin.qq.com/s/UKdHS9Da_X1h0YOrwVDuDQ</a></li>
+</ul>
+<hr>
+<h2><a href="http://aka.ms/windowsquality2026">微软宣布优化 Windows 11，削减 Copilot 集成并允许暂停更新</a> <code>#16</code></h2>
+<blockquote>
+<p>微软宣布启动 <strong>Windows 11</strong> 全面质量改进计划，旨在回应 <strong>AI</strong> 臃肿化争议并重建用户信任。</p>
+<p>该计划将从本月起逐步移除照片、记事本等应用中不必要的 <code>Copilot</code> 集成，重点降低系统内存占用，并允许用户自由调整任务栏位置及无限期暂停更新。</p>
+<p>还将改进 <code>WSL</code> 与 <strong>Windows</strong> 之间的文件性能和网络兼容性。</p>
+</blockquote>
+<p>微软宣布了一项针对 <strong>Windows 11</strong> 的全面质量改进计划，旨在通过提升性能、可靠性和用户体验来重建用户信任。根据相关博客，该计划将分阶段实施：首批改进将在本月及下月开始推出，其中包括允许用户将任务栏移动至屏幕顶部或侧边、减少截图工具、照片及记事本等应用中“不必要的” <strong>Copilot</strong> 集成、以及优化更新机制以减少自动重启和通知干扰。</p>
+<p>此外，微软承诺今年将重点改善 <strong>File Explorer</strong> 的启动速度与稳定性，降低系统基线内存占用以适应低配置设备，将开始菜单等核心组件迁移至 <strong>WinUI3</strong> 以降低交互延迟，并允许用户无限期暂停更新。</p>
+<p>微软还将改进 <strong>WSL</strong> 的体验，重点提升 Linux 与 Windows 之间的文件性能、网络兼容性及吞吐量，并简化首次设置流程。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/0b5f8c82-a97d-4d09-a611-d80ac0b92005/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/0b5f8c82-a97d-4d09-a611-d80ac0b92005/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://aka.ms/windowsquality2026">http://aka.ms/windowsquality2026</a></li>
+<li><a href="https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/">https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?mod=author_content_page_1_pos_1">消息称 OpenAI 将推超级应用 整合 ChatGPT 等功能</a> <code>#17</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>计划开发一款整合<strong>ChatGPT</strong>、<code>Codex</code>及浏览器功能的“超级应用”，以应对<strong>Anthropic</strong>的竞争。</p>
+</blockquote>
+<p>据华尔街日报等渠道信息显示，<strong>OpenAI</strong> 正计划调整产品策略，放弃独立应用模式，转而开发集成 <strong>ChatGPT</strong>、<strong>Codex</strong> 和浏览器功能的统一“超级应用”。该应用将聚焦于 <strong>Agentic AI</strong>，实现在计算机上自主执行任务。</p>
+<p>此次转型旨在简化体验并专注业务，以应对竞争对手 <strong>Anthropic</strong> 的市场势头。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/66548e3b-b3b8-4498-b317-bc5b3fe8bc69/80591e80-b95c-487b-ae06-c0173b0a24d8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?mod=author_content_page_1_pos_1">https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?mod=author_content_page_1_pos_1</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s?__biz=MzE5ODgzOTg0MQ==&amp;mid=2247484036&amp;idx=1&amp;sn=03dd704bcfb226f5925cd8710f1f6ae8&amp;chksm=9797bb293af63b4999c12145415b8b67c368cb3d4af864ba2aee001c7db0558258ac7a5def04&amp;mpshare=1&amp;scene=1&amp;srcid=0320qvpqRnOteIdJ92AQlBUW&amp;sharer_shareinfo=241654574180825d48fbb14cb281fdfe&amp;sharer_shareinfo_first=f1ddce27a9c9fc0eb56466f11ca7195d#rd">深度求索核心研究员郭达雅离职，或将加盟大厂负责 Code 业务</a> <code>#18</code></h2>
+<blockquote>
+<p>据报道，<strong>DeepSeek</strong>核心研究员、<strong>DeepSeek-R1</strong>核心作者<strong>郭达雅</strong>已离职。据知情人士透露，<strong>郭达雅</strong>正接触多家头部大厂，算力资源限制及薪资倒挂被认为是其离职的主要动因。</p>
+</blockquote>
+<p>据报道，<strong>DeepSeek</strong> 核心研究员<strong>郭达雅</strong>已离职。该研究员拥有<strong>中山大学</strong>与<strong>微软亚洲研究院</strong>联合培养博士背景，系 <strong>DeepSeek-V3</strong> 核心成员及代码与数学推理负责人，其参与的 <strong>DeepSeek-R1</strong> 研究曾登上 <strong>Nature</strong> 封面。</p>
+<p>据知情人士透露，<strong>郭达雅</strong>目前正接触多家头部大厂，大概率将加盟其中一家并负责 <code>Code</code> 业务。关于离职原因，外界传闻主要涉及算力资源限制及薪资倒挂问题。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzE5ODgzOTg0MQ==&amp;mid=2247484036&amp;idx=1&amp;sn=03dd704bcfb226f5925cd8710f1f6ae8&amp;chksm=9797bb293af63b4999c12145415b8b67c368cb3d4af864ba2aee001c7db0558258ac7a5def04&amp;mpshare=1&amp;scene=1&amp;srcid=0320qvpqRnOteIdJ92AQlBUW&amp;sharer_shareinfo=241654574180825d48fbb14cb281fdfe&amp;sharer_shareinfo_first=f1ddce27a9c9fc0eb56466f11ca7195d#rd">https://mp.weixin.qq.com/s?__biz=MzE5ODgzOTg0MQ==&amp;mid=2247484036&amp;idx=1&amp;sn=03dd704bcfb226f5925cd8710f1f6ae8&amp;chksm=9797bb293af63b4999c12145415b8b67c368cb3d4af864ba2aee001c7db0558258ac7a5def04&amp;mpshare=1&amp;scene=1&amp;srcid=0320qvpqRnOteIdJ92AQlBUW&amp;sharer_shareinfo=241654574180825d48fbb14cb281fdfe&amp;sharer_shareinfo_first=f1ddce27a9c9fc0eb56466f11ca7195d#rd</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/34</guid><pubDate>Sat, 21 Mar 2026 01:01:34 +0000</pubDate></item><item><title>2026-03-20</title><link>https://imjuya.github.io/juya-ai-daily/issue-33/</link><description>AI 早报 2026-03-20 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Cursor 发布 Composer 2 模型 ↗ #1 Claude Code 推出 Channels 支持手机远程操控 ↗ #2 Google AI Studio 上线全栈 Vibe Coding ↗ #3 模型发布 微软 AI 发布 MAI-Image-2 文生图模型 ↗ #4 小红书 rednote-hilab 发布 dots.mocr，3B 参数支持图像转 SVG ↗ #5 开发生态 TRAE IDE 登陆 Linux 平台，实现三大系统兼容 ↗ #6 Gemini API 更新计费 2026 年 4 月设支出上限 ↗ #7 Windsurf 启用新定价，推出 200 美元 Max 计划 ↗ #8 Cursor 发布…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260320/20260320083143513265f54a_cover_a01d.png" alt=""></p>
 <h1>AI 早报 2026-03-20</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1K3A7zSEA2">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=1u5yWYn8hRI">YouTube</a></p>
 <h2>概览</h2>
