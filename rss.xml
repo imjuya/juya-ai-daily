@@ -1,5 +1,121 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 22 Mar 2026 00:49:02 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-22</title><link>https://imjuya.github.io/juya-ai-daily/issue-36/</link><description>AI 早报 2026-03-22 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 发布 GPT-5.4 前端设计指南，推出配套 frontend-skill ↗ #1 OpenAI 发文详解 Responses API 的 agent 执行层构建路径 ↗ #2 Browser Use 发布 CLI 2.0，速度翻倍成本减半 ↗ #3 产品应用 WordPress.com 扩展 MCP 支持，AI Agent 获内容写入权限 ↗ #4 智谱推出 GLM-Claw，定位为成长型 AI 生命体 ↗ #5 技术与洞察 Anthropic 提出大模型时代产品管理四大核心原则 ↗ #6 行业动态 美国发布国家 AI 立法框架 ↗ #7 前瞻与传闻 OpenAI 即将向所有美国 ChatGPT 免费版和…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260322/20260322083146446389089a_cover_9ae8.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 23 Mar 2026 00:35:03 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-37/</link><description>AI 早报 2026-03-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微信正式推出ClawBot插件，支持接入OpenClaw ↗ #1 开发生态 Claude Code 测试新版/init，引入交互式配置引导 ↗ #2 阶跃星辰推出 StepPlan 套餐，月费最低二十五元起 ↗ #3 MiniMax 调整 Token Plan 额度方案，提供多模态模型每日配额 #4 MiniMax AI 开源 Skills 仓库，涵盖九大核心技能 ↗ #5 行业动态 阿里巴巴确认将持续开源 Qwen 及 Wan 新模型 ↗ #6 MiniMax 确认 M2.7 权重将开源，预计两周内发布 #7 MiniMax 确认 M3 模型将支持视觉功能 ↗ #8 微信正式推出ClawBot插件，支持接入OpenClaw…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260323/20260323080907102619783c_cover_23aa.png" alt=""></p>
+<h1>AI 早报 2026-03-23</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1avQRBBEsr">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=VsFGsR86kpQ">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>微信正式推出ClawBot插件，支持接入OpenClaw <a href="https://mp.weixin.qq.com/s/o_FPvJ0tY6aGqGn4Ea7Rpw">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 测试新版/init，引入交互式配置引导 <a href="https://x.com/trq212/status/2035799806640115806">↗</a> <code>#2</code></li>
+<li>阶跃星辰推出 StepPlan 套餐，月费最低二十五元起 <a href="https://platform.stepfun.com/docs/zh/step-plan/overview">↗</a> <code>#3</code></li>
+<li>MiniMax 调整 Token Plan 额度方案，提供多模态模型每日配额 <code>#4</code></li>
+<li>MiniMax AI 开源 Skills 仓库，涵盖九大核心技能 <a href="https://github.com/MiniMax-AI/skills/blob/main/README_zh.md">↗</a> <code>#5</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>阿里巴巴确认将持续开源 Qwen 及 Wan 新模型 <a href="https://x.com/bdsqlsz/status/2035655543453548917">↗</a> <code>#6</code></li>
+<li>MiniMax 确认 M2.7 权重将开源，预计两周内发布 <code>#7</code></li>
+<li>MiniMax 确认 M3 模型将支持视觉功能 <a href="https://x.com/SkylerMiao7/status/2035659217844285553">↗</a> <code>#8</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/o_FPvJ0tY6aGqGn4Ea7Rpw">微信正式推出ClawBot插件，支持接入OpenClaw</a> <code>#1</code></h2>
+<blockquote>
+<p>微信发布了官方龙虾插件 <strong>ClawBot</strong>，用户将微信更新至最新版并在设置中启用该插件后，即可在终端执行安装指令扫码绑定。</p>
+<p>目前该功能仅限个人单聊，不支持群聊及自动化操作。</p>
+<p>腾讯云 <strong>Lighthouse</strong>、<strong>WorkBuddy</strong> 及 <strong>QClaw</strong> 等产品也已同步适配微信通道。</p>
+</blockquote>
+<p>微信发布了 <strong>ClawBot</strong> 插件，支持将 <strong>OpenClaw</strong> 接入微信，使用户能够在微信聊天界面直接调用该AI助手处理任务。</p>
+<p>用户需将微信更新至最新版本，在“我→设置→插件”中启用 <strong>ClawBot</strong>，并执行终端指令 <code>npx -y @tencent-weixin/openclaw-weixin-cli@latest install</code> 扫码绑定账号。</p>
+<p>目前该插件正在逐步放量，仅限个人单聊，不支持加入微信群或自动化操作微信。</p>
+<p>与此同时，腾讯云 <strong>Lighthouse</strong>、自研工具 <strong>WorkBuddy</strong> 及 <strong>QClaw</strong> 等产品也已完成适配，用户可通过各产品客户端的“微信通道”扫码直连。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260322/20260322114432_27990206ab.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/23aa2a3a-699c-442b-accf-b2057d8c7081/0060ef68-7c2c-434c-a263-8dc0090f419e/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/23aa2a3a-699c-442b-accf-b2057d8c7081/0060ef68-7c2c-434c-a263-8dc0090f419e/m003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/o_FPvJ0tY6aGqGn4Ea7Rpw">https://mp.weixin.qq.com/s/o_FPvJ0tY6aGqGn4Ea7Rpw</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/trq212/status/2035799806640115806">Claude Code 测试新版/init，引入交互式配置引导</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 正在测试新版 <code>/init</code> 功能，新版引入了交互式机制，通过提问引导用户生成 <strong>Claude.MD</strong> 并定制 <code>skills</code> 和 <code>hooks</code>。开发者只需设置特定环境变量即可体验。</p>
+</blockquote>
+<p>据 Anthropic 团队成员 <strong>Thariq</strong> 透露，<strong>Claude Code</strong> 正在测试新版 <code>/init</code> 功能。</p>
+<p>该功能引入交互式机制，扫描代码库并通过多轮提问引导环境配置，支持生成 <code>Claude.MD</code> 及定制 skills 和 hooks。</p>
+<p>开发者设置环境变量 <code>CLAUDE_CODE_NEW_INIT=1</code> 即可体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323075405_12dcdabe4a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/trq212/status/2035799806640115806">https://x.com/trq212/status/2035799806640115806</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.stepfun.com/docs/zh/step-plan/overview">阶跃星辰推出 StepPlan 套餐，月费最低二十五元起</a> <code>#3</code></h2>
+<blockquote>
+<p>阶跃星辰开放平台正式推出 <strong>Step Plan</strong> 订阅套餐，设立了四个等级，限时优惠价每月 <strong>25 元</strong>起。所有方案目前支持 <code>Step 3.5 Flash</code> 模型，后续还将上线图片编辑模型和 TTS 模型。</p>
+</blockquote>
+<p>阶跃星辰开放平台正式推出了名为 <strong>Step Plan</strong> 的订阅套餐方案，包含 <strong>Flash Mini</strong>、<strong>Flash Plus</strong>、<strong>Flash Pro</strong> 及 <strong>Flash Max</strong> 四个等级。</p>
+<p>目前该套餐处于限时半价优惠期，价格分别为每月 <strong>25 元</strong>、<strong>49 元</strong>、<strong>99 元</strong> 和 <strong>349 元</strong>。</p>
+<p>所有方案目前已支持 <code>Step 3.5 Flash</code> 模型，<code>Step 1x Edit</code> 与 <code>Step tts 2</code> 模型即将上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260322/20260322193808_9594d6d45b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.stepfun.com/docs/zh/step-plan/overview">https://platform.stepfun.com/docs/zh/step-plan/overview</a></li>
+</ul>
+<hr>
+<h2>MiniMax 调整 Token Plan 额度方案，提供多模态模型每日配额 <code>#4</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 调整了 Token Plan 详细方案，文本模型依旧按请求次数计算消耗，保持每 <strong>5小时</strong> 滚动重置，多模态模型则按套餐类型提供不同的每日固定配额。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 调整了其 Token Plan 的详细用量额度方案，该方案针对不同模型实施了差异化的重置机制与分级配额。</p>
+<p>Token Plan 的额度计算依据模型类型分为两类：<strong>M2.7</strong> 及其高速版本按请求次数计，每 <strong>5 小时</strong> 滚动重置；而语音、视频、音乐及图像等其他模型则按日配额计算，每日重置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323075153_286a5af4bb.png" alt=""></p>
+<hr>
+<h2><a href="https://github.com/MiniMax-AI/skills/blob/main/README_zh.md">MiniMax AI 开源 Skills 仓库，涵盖九大核心技能</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 开源了官方 Skills 仓库，提供涵盖前端、全栈、移动端原生开发及 Office 文件处理等的九大核心技能。</p>
+</blockquote>
+<p>MiniMax AI 宣布其官方 <strong>Skills</strong> 仓库正式开源。该项目目前处于 Beta 阶段，涵盖前端、全栈、移动端原生开发（Android 与 iOS）、着色器技术以及 Office 文件处理等九大核心技能。</p>
+<p>开发者可以通过插件安装或 Git 克隆的方式，将该技能库集成至 <code>Claude Code</code>、<code>Cursor</code>、<code>Codex</code> 以及 <code>OpenCode</code> 等主流 AI 编程工具中，从而让 Agent 获得从代码生成、架构设计到多媒体资源处理的一系列专业指导能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260322/20260322185906_76a448048a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/MiniMax-AI/skills/blob/main/README_zh.md">https://github.com/MiniMax-AI/skills/blob/main/README_zh.md</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/bdsqlsz/status/2035655543453548917">阿里巴巴确认将持续开源 Qwen 及 Wan 新模型</a> <code>#6</code></h2>
+<blockquote>
+<p>在 <strong>ModelScope DevCon</strong> 大会上，<strong>阿里通义实验室</strong>负责人确认将持续开源 <strong>Qwen</strong> 和 <strong>Wan</strong> 模型，并且有更多模型即将开源。</p>
+</blockquote>
+<p>在近日于南京举办的 <strong>ModelScope DevCon</strong> 大会上，阿里通义实验室负责人公开回应了外界对于后续模型开源策略的关切。其明确确认阿里巴巴将持续致力于开源新的 <strong>Qwen</strong> 和 <strong>Wan</strong> 模型，承诺未来会有更多开源模型推出。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323073644_aa0146bcaa.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/bdsqlsz/status/2035655543453548917">https://x.com/bdsqlsz/status/2035655543453548917</a></li>
+</ul>
+<hr>
+<h2>MiniMax 确认 M2.7 权重将开源，预计两周内发布 <code>#7</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 技术负责人确认，<strong>MiniMax-M2.7</strong> 模型权重预计将在约 <strong>两周后</strong> 正式开源。目前该模型仍在持续迭代，其最新版本的表现已实现显著提升。</p>
+</blockquote>
+<p>据 <strong>MiniMax</strong> 技术负责人确认，<strong>MiniMax-M2.7</strong> 的模型权重将在约 <strong>两周后</strong> 开源。根据透露的信息，该团队目前仍在积极对模型进行迭代，近期刚刚更新了一个版本，据称在 <code>OpenClaw</code> 上的表现显著提升。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323074505_204ea71144.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/SkylerMiao7/status/2035659217844285553">MiniMax 确认 M3 模型将支持视觉功能</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 技术负责人确认，视觉能力将在 <strong>M3</strong> 模型中上线，弥补当前 <strong>2.7</strong> 版本不支持多模态的短板。</p>
+</blockquote>
+<p>近日，针对用户关于 <strong>MiniMax</strong> 模型未来是否支持视觉能力的提问，<strong>MiniMax</strong> 技术负责人 <strong>Skyler Miao</strong> 在社交媒体上回应确认，该功能将在 <code>M3</code> 版本中实现。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323074622_f368603a10.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/SkylerMiao7/status/2035659217844285553">https://x.com/SkylerMiao7/status/2035659217844285553</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/37</guid><pubDate>Mon, 23 Mar 2026 00:34:38 +0000</pubDate></item><item><title>2026-03-22</title><link>https://imjuya.github.io/juya-ai-daily/issue-36/</link><description>AI 早报 2026-03-22 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 发布 GPT-5.4 前端设计指南，推出配套 frontend-skill ↗ #1 OpenAI 发文详解 Responses API 的 agent 执行层构建路径 ↗ #2 Browser Use 发布 CLI 2.0，速度翻倍成本减半 ↗ #3 产品应用 WordPress.com 扩展 MCP 支持，AI Agent 获内容写入权限 ↗ #4 智谱推出 GLM-Claw，定位为成长型 AI 生命体 ↗ #5 技术与洞察 Anthropic 提出大模型时代产品管理四大核心原则 ↗ #6 行业动态 美国发布国家 AI 立法框架 ↗ #7 前瞻与传闻 OpenAI 即将向所有美国 ChatGPT 免费版和…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260322/20260322083146446389089a_cover_9ae8.png" alt=""></p>
 <h1>AI 早报 2026-03-22</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1VvAKzeEqs">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=JZMqLPBiWUM">YouTube</a></p>
 <h2>概览</h2>
