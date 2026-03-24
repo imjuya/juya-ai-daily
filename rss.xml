@@ -1,5 +1,133 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 23 Mar 2026 04:03:58 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-37/</link><description>AI 早报 2026-03-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微信正式推出ClawBot插件，支持接入OpenClaw ↗ #1 开发生态 Claude Code 测试新版/init，引入交互式配置引导 ↗ #2 阶跃星辰推出 StepPlan 套餐，月费最低二十五元起 ↗ #3 MiniMax 调整 Token Plan 额度方案，提供多模态模型每日配额 #4 MiniMax AI 开源 Skills 仓库，涵盖九大核心技能 ↗ #5 行业动态 阿里巴巴确认将持续开源 Qwen 及 Wan 新模型 ↗ #6 MiniMax 确认 M2.7 权重将开源，预计两周内发布 #7 MiniMax 确认 M3 模型将支持视觉功能 ↗ #8 微信正式推出ClawBot插件，支持接入OpenClaw…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260323/20260323080907102619783c_cover_23aa.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 24 Mar 2026 00:53:14 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-38/</link><description>AI 早报 2026-03-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 桌面端上线操控电脑功能，限 macOS ↗ #1 OpenClaw 连更两个版本，增加大量功能 ↗ #2 模型发布 Luma AI 发布 Uni-1，推理视觉同步 ↗ #3 产品应用 OpenAI 推出 ChatGPT Library 功能 ↗ #4 网易云音乐推出 CLI 工具，接入 OpenClaw ↗ #5 千问上线打车能力，支持自然语言叫车支付 ↗ #6 前瞻与传闻 Cursor 发文介绍新型文本索引，降低 Agent 搜索延迟 ↗ #7 Claude 桌面端上线操控电脑功能，限 macOS #1 Anthropic 宣布在 Claude 桌面端上线“Computer Use”功能，允许 Claude 通…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260324/20260324083012754570b498_cover_9b0e.png" alt=""></p>
+<h1>AI 早报 2026-03-24</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV12EXABHEmG">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=TD4S8dj8D70">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Claude 桌面端上线操控电脑功能，限 macOS <a href="https://claude.com/blog/dispatch-and-computer-use">↗</a> <code>#1</code></li>
+<li>OpenClaw 连更两个版本，增加大量功能 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.23">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Luma AI 发布 Uni-1，推理视觉同步 <a href="https://lumalabs.ai/uni-1">↗</a> <code>#3</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI 推出 ChatGPT Library 功能 <a href="https://x.com/OpenAI/status/2036183180219392103">↗</a> <code>#4</code></li>
+<li>网易云音乐推出 CLI 工具，接入 OpenClaw <a href="https://developer.music.163.com/st/developer/document?docId=2327e302009c437eb02af48f63d6e514">↗</a> <code>#5</code></li>
+<li>千问上线打车能力，支持自然语言叫车支付 <a href="https://mp.weixin.qq.com/s/7uA3YrtkMqFDUY1CjbT7UA">↗</a> <code>#6</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Cursor 发文介绍新型文本索引，降低 Agent 搜索延迟 <a href="https://cursor.com/cn/blog/fast-regex-search">↗</a> <code>#7</code></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/dispatch-and-computer-use">Claude 桌面端上线操控电脑功能，限 macOS</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布在 <strong>Claude</strong> 桌面端上线“Computer Use”功能，允许 <strong>Claude</strong> 通过鼠标和键盘操控 <code>macOS</code> 电脑，自动完成浏览网页、运行代码及填表等任务，并已支持通过手机端 <code>Dispatch</code> 远程向电脑发送指令执行后台操作。目前该功能仅面向 <strong>Pro</strong> 和 <strong>Max</strong> 订阅用户开放。</p>
+</blockquote>
+<p>Anthropic 官方宣布在桌面端的 <strong>Claude Cowork</strong> 和 <strong>Claude Code</strong> 中推出“computer use”功能，使 <strong>Claude</strong> 能够像人类一样操作用户的计算机。该功能目前处于研究预览阶段，支持 <strong>Claude</strong> 打开应用程序、浏览网页、运行开发工具及填写电子表格等。</p>
+<p>在执行逻辑上，<strong>Claude</strong> 会优先使用 <strong>Slack</strong> 或 <strong>Google Calendar</strong> 等现有连接器；若无现成连接器，则会请求权限后通过控制鼠标、键盘和屏幕来完成任务。</p>
+<p>此外，该功能与移动端 <strong>Dispatch</strong> 深度集成，允许用户通过手机分配任务，由处于唤醒状态的 <strong>macOS</strong> 电脑端后台执行。</p>
+<p>目前该功能仅面向 <strong>Claude Pro</strong> 和 <strong>Claude Max</strong> 订阅用户开放，且仅支持 <strong>macOS</strong>。</p>
+<p>官方强调已内置针对提示注入等风险的安全防护机制，但仍建议用户避免处理敏感数据。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324082201_f5a6d9f03a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9b0ea060-86e4-4d4e-9f4d-ce7fc727bd9b/f71df66f-55ce-428f-b9a5-476012465742/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/dispatch-and-computer-use">https://claude.com/blog/dispatch-and-computer-use</a></li>
+<li><a href="https://claude.com/product/cowork#dispatch-and-computer-use">https://claude.com/product/cowork#dispatch-and-computer-use</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.23">OpenClaw 连更两个版本，增加大量功能</a> <code>#2</code></h2>
+<blockquote>
+<p>OpenClaw 近日连续发布了两个版本，其中 <strong>3.22</strong> 版本上线了 <strong>ClawHub</strong> 插件市场，新增对 <code>GPT-5.4-mini</code> 等模型的支持，以及其他多项改进，但因发布包缺失导致控制台无法加载。</p>
+<p>随后的 <strong>3.23</strong> 版本不仅修复了 UI 缺失问题，还解决了部分插件的兼容性故障，建议受影响用户立即升级至最新版本。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 近日连续发布了 <strong>2026.3.22</strong> 与 <strong>2026.3.23</strong> 两个重要版本。</p>
+<p><strong>2026.3.22</strong> 版本作为一次重大更新，正式推出了 <strong>ClawHub</strong> 插件市场，并新增了对 <code>MiniMax M2.7</code>、<code>GPT-5.4-mini/nano</code> 模型的支持，同时引入了 <code>per-agent reasoning</code> 推理功能、<code>/btw</code> 侧边提问、<code>OpenShell</code> 与 <code>SSH</code> 沙箱，以及 <code>Exa</code>、<code>Tavily</code>、<code>Firecrawl</code> 等多项搜索集成。</p>
+<p>然而，在该版本发布后，官方承认由于发布流程遗漏，导致 <code>npm</code> 包缺失了 <code>dist/control-ui/</code> 目录，使得用户升级后无法加载控制台界面。</p>
+<p>针对这一问题及其他稳定性缺陷，官方随后发布了 <strong>2026.3.23</strong> 版本。</p>
+<p>该版本通过自动化流程确保了控制台 UI 资产的完整性，并针对 <code>Browser MCP</code> 连接超时、<code>ClawHub</code> 认证路径冲突、飞书与 <code>Discord</code> 插件消息格式，以及 <code>OpenRouter</code> 定价刷新死循环等多个核心模块进行了全面修复和优化。</p>
+<p>目前建议受影响用户尽快更新至该最新版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324083750_31e3cf4945.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324080027_8066174e51.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324083026_84210dd75e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.23">https://github.com/openclaw/openclaw/releases/tag/v2026.3.23</a></li>
+<li><a href="https://x.com/openclaw/status/2036043904949330407">https://x.com/openclaw/status/2036043904949330407</a></li>
+</ul>
+<hr>
+<h2><a href="https://lumalabs.ai/uni-1">Luma AI 发布 Uni-1，推理视觉同步</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Luma AI</strong> 正式发布多模态模型 <code>Uni-1</code>，该模型通过单一架构融合了逻辑推理与视觉生成能力，在 <code>RISEBench</code> 推理基准测试及人类偏好评测中均排名第一，被视为 <strong>Nano Banana</strong> 系列的有力挑战者。</p>
+</blockquote>
+<p><strong>Luma AI</strong> 正式发布了名为 <strong>Uni-1</strong> 的新型多模态模型，该模型基于“统一智能”架构，旨在将逻辑推理与视觉想象能力结合在单一系统中。</p>
+<p><strong>Uni-1</strong> 采用仅解码器自回归 <code>Transformer</code> 架构，通过单一交错序列同时处理文本与图像的输入及输出，实现了思考与像素生成的同步进行。</p>
+<p>该模型具备常识场景补全、空间推理、参考引导生成及多风格适应等核心能力。</p>
+<p>根据官方提供的数据，<strong>Uni-1</strong> 在 <code>RISEBench</code> 推理基准测试中达到了最先进（SOTA）水平，并在人类偏好 Elo 评测中的总评、风格与编辑以及参考生成类别中排名第一。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9b0ea060-86e4-4d4e-9f4d-ce7fc727bd9b/35e7e524-3808-4834-8789-3e3e32aaba9e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://lumalabs.ai/uni-1">https://lumalabs.ai/uni-1</a></li>
+<li><a href="https://x.com/LumaLabsAI/status/2036107826498544110">https://x.com/LumaLabsAI/status/2036107826498544110</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAI/status/2036183180219392103">OpenAI 推出 ChatGPT Library 功能</a> <code>#4</code></h2>
+<blockquote>
+<p>OpenAI 为 ChatGPT 推出了 <strong>Library</strong> 文件库功能，用户现在可以通过网页侧边栏的新标签页浏览所有文件，或在对话中利用工具栏快速引用历史文件进行提问。该功能目前正陆续向全球 <strong>Plus</strong>、<strong>Pro</strong> 及 <strong>Business</strong> 用户推送。</p>
+</blockquote>
+<p>OpenAI 推出了针对 ChatGPT 的 <strong>Library</strong> 功能，旨在帮助用户更便捷地查找、复用及基于其上传或创建的文件进行构建。</p>
+<p>根据官方声明，用户现可通过工具栏中的“最近文件”在对话中快速引用文件，直接向 <strong>ChatGPT</strong> 询问有关已上传内容的问题。</p>
+<p>此外，用户也可在网页版侧边栏新增的 <strong>Library</strong> 标签页中浏览所有文件。</p>
+<p>该功能目前正逐步向 <strong>Plus</strong>、<strong>Pro</strong> 和 <strong>Business</strong> 用户全球推送。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9b0ea060-86e4-4d4e-9f4d-ce7fc727bd9b/b0954bca-abc7-4b78-9b86-41048a3d6a1b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAI/status/2036183180219392103">https://x.com/OpenAI/status/2036183180219392103</a></li>
+</ul>
+<hr>
+<h2><a href="https://developer.music.163.com/st/developer/document?docId=2327e302009c437eb02af48f63d6e514">网易云音乐推出 CLI 工具，接入 OpenClaw</a> <code>#5</code></h2>
+<blockquote>
+<p>网易云音乐推出了命令行工具，同步上线相关的 <code>Skill</code> 和 <code>OpenClaw</code> 插件，正式向 AI Agent 开放核心音乐服务能力。开发者可以通过各类 Agent 利用自然语言直接指挥 AI 完成搜歌、播放及歌单管理等操作。</p>
+</blockquote>
+<p>网易云音乐开放平台近日正式推出 <strong>网易云音乐 CLI</strong>，该工具基于开放平台 API 构建，旨在为开发者提供歌曲搜索、播放控制、歌单管理及每日推荐等服务能力。</p>
+<p>网易云音乐同步上线相关的 <strong>Skill</strong>，并全面接入 <code>OpenClaw</code> 平台，使得开发者可以通过自然语言对话的方式灵活调用其音乐服务能力。</p>
+<p>目前，开发者需完成平台入驻并获取 API 凭证后方可使用相关工具。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323195852_55f42eba97.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260323/20260323195925_f72543b12d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developer.music.163.com/st/developer/document?docId=2327e302009c437eb02af48f63d6e514">https://developer.music.163.com/st/developer/document?docId=2327e302009c437eb02af48f63d6e514</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/7uA3YrtkMqFDUY1CjbT7UA">千问上线打车能力，支持自然语言叫车支付</a> <code>#6</code></h2>
+<blockquote>
+<p>阿里巴巴<strong>千问AI助手</strong>正式上线打车能力，用户仅需一句话即可完成从选车、设途经点到预约的全流程操作。</p>
+</blockquote>
+<p>阿里巴巴官方宣布，其 AI 助手 <strong>千问</strong> 正式上线打车能力。用户仅需通过自然语言即可在一句话内完成选车型、设途经点及预约时间等全流程操作。</p>
+<p>该功能具备意图理解能力，可响应价格不超过 <strong>30 元</strong>、驾驶平稳等个性化需求。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/7uA3YrtkMqFDUY1CjbT7UA">https://mp.weixin.qq.com/s/7uA3YrtkMqFDUY1CjbT7UA</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/cn/blog/fast-regex-search">Cursor 发文介绍新型文本索引，降低 Agent 搜索延迟</a> <code>#7</code></h2>
+<blockquote>
+<p>Cursor 发文介绍其基于 <strong>“稀疏 N-grams”</strong> 算法的新型文本索引技术，解决 Agent 在超大单体仓库中执行正则搜索导致耗时过长的问题。</p>
+</blockquote>
+<p><strong>Cursor</strong> 介绍其为 Agent 工具构建的新型文本索引技术，旨在解决超大仓库正则搜索延迟问题。针对 <code>ripgrep</code> 在大代码库搜索耗时超 <strong>15 秒</strong> 的瓶颈，其采用“稀疏 N-grams”算法。</p>
+<p>通过确定性哈希权重及字符对频率优化，减少查找次数。索引存于本地，利用 Git 控制状态，通过内存映射实现毫秒级响应。</p>
+<p>官方称，配合 <strong>Composer 2</strong> 模型，该技术能显著缩短代码调查和重构耗时。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/fast-regex-search">https://cursor.com/cn/blog/fast-regex-search</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/38</guid><pubDate>Tue, 24 Mar 2026 00:52:51 +0000</pubDate></item><item><title>2026-03-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-37/</link><description>AI 早报 2026-03-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微信正式推出ClawBot插件，支持接入OpenClaw ↗ #1 开发生态 Claude Code 测试新版/init，引入交互式配置引导 ↗ #2 阶跃星辰推出 StepPlan 套餐，月费最低二十五元起 ↗ #3 MiniMax 调整 Token Plan 额度方案，提供多模态模型每日配额 #4 MiniMax AI 开源 Skills 仓库，涵盖九大核心技能 ↗ #5 行业动态 阿里巴巴确认将持续开源 Qwen 及 Wan 新模型 ↗ #6 MiniMax 确认 M2.7 权重将开源，预计两周内发布 #7 MiniMax 确认 M3 模型将支持视觉功能 ↗ #8 微信正式推出ClawBot插件，支持接入OpenClaw…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260323/20260323080907102619783c_cover_23aa.png" alt=""></p>
 <h1>AI 早报 2026-03-23</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1avQRBBEsr">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=VsFGsR86kpQ">YouTube</a></p>
 <h2>概览</h2>
