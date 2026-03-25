@@ -1,5 +1,267 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 24 Mar 2026 04:28:41 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-38/</link><description>AI 早报 2026-03-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 桌面端上线操控电脑功能，限 macOS ↗ #1 OpenClaw 连更两个版本，增加大量功能 ↗ #2 模型发布 Luma AI 发布 Uni-1，推理视觉同步 ↗ #3 产品应用 OpenAI 推出 ChatGPT Library 功能 ↗ #4 网易云音乐推出 CLI 工具，接入 OpenClaw ↗ #5 千问上线打车能力，支持自然语言叫车支付 ↗ #6 技术与洞察 Cursor 发文介绍新型文本索引，降低 Agent 搜索延迟 ↗ #7 Claude 桌面端上线操控电脑功能，限 macOS #1 Anthropic 宣布在 Claude 桌面端上线“Computer Use”功能，允许 Claude 通…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260324/20260324083012754570b498_cover_9b0e.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 25 Mar 2026 01:33:06 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-39/</link><description>AI 早报 2026-03-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 官方宣布关闭 Sora 应用 ↗ #1 LiteLLM 遭遇供应链攻击 两版本含窃凭证恶意代码 ↗ #2 模型发布 阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026 ↗ #3 Ai2 发布 MolmoWeb 开源视觉模型含数据集 ↗ #4 英伟达开源 Kimodo 动作生成工具适配类人机器人 ↗ #5 开发生态 京东云 JoyBuilder 上线 AI 编程订阅服务 ↗ #6 Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策 ↗ #7 产品应用 Adobe 升级 Firefly 平台 推出自定义模型功能 ↗ #8 Linear 发文称 Issue Tracki…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260325/202603250842164855987703_cover_5618.png" alt=""></p>
+<h1>AI 早报 2026-03-25</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV17WQCB7E4d">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Rk0RQ9tg2Go">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 官方宣布关闭 Sora 应用 <a href="https://x.com/soraofficialapp/status/2036546752535470382">↗</a> <code>#1</code></li>
+<li>LiteLLM 遭遇供应链攻击 两版本含窃凭证恶意代码 <a href="https://github.com/BerriAI/litellm/issues/24512">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026 <a href="https://www.modelscope.cn/models/iic/PrismAudio">↗</a> <code>#3</code></li>
+<li>Ai2 发布 MolmoWeb 开源视觉模型含数据集 <a href="https://allenai.org/blog/molmoweb">↗</a> <code>#4</code></li>
+<li>英伟达开源 Kimodo 动作生成工具适配类人机器人 <a href="https://research.nvidia.com/labs/sil/projects/kimodo/docs">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>京东云 JoyBuilder 上线 AI 编程订阅服务 <a href="https://mp.weixin.qq.com/s/oshJTduaJ7md-G8rhcP2QA">↗</a> <code>#6</code></li>
+<li>Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策 <a href="https://claude.com/blog/auto-mode">↗</a> <code>#7</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Adobe 升级 Firefly 平台 推出自定义模型功能 <a href="https://helpx.adobe.com/firefly/web/firefly-custom-models-in-creative-cloud/best-practices-for-creating-custom-models.html">↗</a> <code>#8</code></li>
+<li>Linear 发文称 Issue Tracking 已死，推出 Agent 新功能 <a href="https://linear.app/next">↗</a> <code>#9</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 发文介绍 Harness 方案，优化 Claude 长流程开发能力 <a href="https://www.anthropic.com/engineering/harness-design-long-running-apps">↗</a> <code>#10</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>国家数据局明确词元命名，日均调用量两年增长超千倍 <a href="https://www.nda.gov.cn/sjj/ywpd/sjzg/0324/20260324132817761432606_pc.html">↗</a> <code>#11</code></li>
+<li>OpenAI 基金会启动运作，计划一年投资十亿美元推进 AGI <a href="https://openaifoundation.org/news/update-on-the-openai-foundation">↗</a> <code>#12</code></li>
+<li>OpenAI 调整 ChatGPT 电商战略，弱化结账功能转向产品发现 <a href="https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well">↗</a> <code>#13</code></li>
+<li>Arm 推出首款自研数据中心芯片 AGI CPU <a href="https://newsroom.arm.com/blog/introducing-arm-agi-cpu">↗</a> <code>#14</code></li>
+<li>Agile Robots 与 Google DeepMind 达成战略合作 <a href="https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content=">↗</a> <code>#15</code></li>
+<li>Dreamer 团队加入 Meta，技术授权专注 AI Agent 开发 <a href="https://dreamer.com/community-letter">↗</a> <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/soraofficialapp/status/2036546752535470382">OpenAI 官方宣布关闭 Sora 应用</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布将关停其 <strong>Sora</strong> 应用及相关 <strong>API</strong> 服务，并会尽快公布具体的关闭时间表及用户作品保存方案。</p>
+</blockquote>
+<p>OpenAI 官方宣布将关闭其旗下的 <strong>Sora</strong> 社交应用程序。  </p>
+<p><strong>Sora</strong> 官方团队表示，尽管用户创作的内容很有价值，但仍决定停止服务。  </p>
+<p>后续将公布关于应用程序、API 的时间表及用户作品保存的具体细节。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260325/20260325081648_ba3ac1627e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/soraofficialapp/status/2036546752535470382">https://x.com/soraofficialapp/status/2036546752535470382</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/BerriAI/litellm/issues/24512">LiteLLM 遭遇供应链攻击 两版本含窃凭证恶意代码</a> <code>#2</code></h2>
+<blockquote>
+<p>开源 AI 网关项目 <strong>LiteLLM</strong> 遭遇供应链攻击，其 PyPI 平台上的 <code>1.82.7</code> 和 <code>1.82.8</code> 版本被植入恶意代码。</p>
+<p>该恶意代码能够自动窃取 SSH 密钥、云服务及环境变量中的敏感信息。</p>
+<p>此次攻击波及 <strong>DSPy</strong>、<strong>CrewAI</strong> 等下游依赖项目。</p>
+</blockquote>
+<p>开源项目 <strong>LiteLLM</strong> 在 PyPI 上的 <strong>1.82.7</strong> 和 <strong>1.82.8</strong> 版本近期遭遇供应链攻击，被植入窃取凭证的恶意代码。</p>
+<p>该事件起因是项目的 CI/CD 流程中使用的 <code>Trivy</code> 扫描工具导致 <code>PYPI_PUBLISH</code> token 泄露，进而被攻击者 <strong>TeamPCP</strong> 利用发布恶意包。</p>
+<p>受影响版本包含的恶意载荷可在 Python 解释器启动或模块导入时自动执行，旨在窃取 SSH 密钥、云服务凭证及环境变量等敏感信息。</p>
+<p>目前 PyPI 已对相关版本实施隔离并删除。</p>
+<p>社区建议所有用户立即降级至 <strong>1.82.6</strong> 或更低版本，全面轮换 GitHub、Docker 及云服务凭据，并检查 <code>DSPy</code>、<code>CrewAI</code> 等受影响下游项目的依赖情况。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/BerriAI/litellm/issues/24512">https://github.com/BerriAI/litellm/issues/24512</a></li>
+<li><a href="https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters">https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.modelscope.cn/models/iic/PrismAudio">阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026</a> <code>#3</code></h2>
+<blockquote>
+<p>阿里通义实验室近期推出了名为 <strong>PrismAudio</strong> 的视频生成音频框架，该框架利用强化学习结合分解式思维链技术，有效解决了声画不对位的难题。</p>
+</blockquote>
+<p>阿里通义实验室近期推出了名为 <strong>PrismAudio</strong> 的视频生成音频（V2A）框架，该研究已被顶级会议 <code>ICLR 2026</code> 收录。</p>
+<p>作为首个将强化学习融入 V2A 生成并配备专门思维链规划的框架，<strong>PrismAudio</strong> 通过将推理过程分解为语义、时序、美学和空间四个专门的 <code>CoT</code> 模块，并结合多维奖励函数进行优化，解决了传统模型“声画不对位”的痛点。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324195537_df3f98da42.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.modelscope.cn/models/iic/PrismAudio">https://www.modelscope.cn/models/iic/PrismAudio</a></li>
+<li><a href="https://huggingface.co/FunAudioLLM/PrismAudio">https://huggingface.co/FunAudioLLM/PrismAudio</a></li>
+</ul>
+<hr>
+<h2><a href="https://allenai.org/blog/molmoweb">Ai2 发布 MolmoWeb 开源视觉模型含数据集</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Ai2</strong> 发布了完全开源的视觉 Web Agent 模型 <code>MolmoWeb</code>，它能仅凭识别浏览器截图就自动执行点击、输入及滚动等网页任务，无需依赖 HTML 源码。</p>
+</blockquote>
+<p>Ai2 研究机构近日发布完全开源的视觉 Web Agent <strong>MolmoWeb</strong>。该项目基于 <strong>Molmo 2</strong> 家族，推出 <strong>4B</strong> 和 <strong>8B</strong> 两种规模。该模型仅靠视觉界面模拟人类操作，无需依赖 <code>HTML</code> 等结构化数据。</p>
+<p>官方数据显示，其在 <strong>WebVoyager</strong> 等四大基准测试中达到开放权重模型最先进水平，部分任务超越基于 <strong>GPT-4o</strong> 的 Agent。</p>
+<p>同步开源的 <strong>MolmoWebMix</strong> 数据集，包含目前规模最大的公开人类浏览轨迹数据。</p>
+<p>目前，模型权重及工具已在 <strong>Hugging Face</strong> 和 <strong>GitHub</strong> 上线，采用 <strong>Apache 2.0</strong> 许可证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/561861bd-88d0-4fe3-8ee6-89639195328e/4fc932af-b811-4df7-acf1-f337065884f6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://allenai.org/blog/molmoweb">https://allenai.org/blog/molmoweb</a></li>
+<li><a href="https://huggingface.co/collections/allenai/molmoweb">https://huggingface.co/collections/allenai/molmoweb</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.nvidia.com/labs/sil/projects/kimodo/docs">英伟达开源 Kimodo 动作生成工具适配类人机器人</a> <code>#5</code></h2>
+<blockquote>
+<p>英伟达发布了 <strong>Kimodo</strong> 运动学运动扩散模型，它基于 <strong>700 小时</strong>商业级数据训练，能根据文本提示或路径约束，直接生成适用 <code>Unitree G1</code> 等类人机器人的高质量 3D 动作。</p>
+</blockquote>
+<p>英伟达近日发布了 <strong>Kimodo</strong>，这是一款基于运动学运动扩散模型的高质量 3D 动作生成工具。该模型基于 <strong>700 小时</strong>商业级光学动作捕捉数据训练，能够根据文本提示及全身姿态关键帧、末端执行器位置、2D 路径等多种约束条件，生成适用于人类及类人机器人骨骼的动作。</p>
+<p>项目已在 GitHub 上开源代码（Apache-2.0 许可），并在 Hugging Face 上提供了适配 <code>SOMA</code>、<code>Unitree G1</code> 和 <code>SMPL-X</code> 骨骼的多个模型权重。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/561861bd-88d0-4fe3-8ee6-89639195328e/373fc5ad-3867-4c23-8d26-b03e8baf46e1/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.nvidia.com/labs/sil/projects/kimodo/docs">https://research.nvidia.com/labs/sil/projects/kimodo/docs</a></li>
+<li><a href="https://github.com/nv-tlabs/kimodo">https://github.com/nv-tlabs/kimodo</a></li>
+<li><a href="https://huggingface.co/nvidia/Kimodo-SOMA-RP-v1">https://huggingface.co/nvidia/Kimodo-SOMA-RP-v1</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/oshJTduaJ7md-G8rhcP2QA">京东云 JoyBuilder 上线 AI 编程订阅服务</a> <code>#6</code></h2>
+<blockquote>
+<p>京东云上线 <strong>Coding Plan</strong>，支持 <code>Kimi-K2.5</code>、<code>GLM-5</code>、<code>DeepSeek-V3.2</code> 等模型。</p>
+<p>新用户限时享受首月特惠，Lite 套餐低至 <strong>7.9 元</strong>，Pro 套餐 <strong>39.9 元</strong>。</p>
+</blockquote>
+<p>京东云 <strong>JoyBuilder</strong> 模型开发平台近日上线 <strong>Coding Plan AI</strong> 编程订阅服务，专为个人开发者提供高性价比代码辅助。该服务支持 <code>Kimi-K2.5</code>、<code>GLM-5</code> 等主流模型自由切换，适配 <code>Claude Code</code>、<code>Cursor</code> 等工具。</p>
+<p>官方推出限时特惠，即日起至 <strong>6 月 30 日</strong>，新用户每日 <strong>10:30</strong> 可抢购首月优惠。</p>
+<p>Lite 套餐约 <strong>1.8 万次</strong> 请求/月售 <strong>7.9 元</strong>，Pro 套餐约 <strong>9 万次</strong> 请求/月售 <strong>39.9 元</strong>。</p>
+<p>官方强调，该服务仅限编程工具交互式使用，严禁 API 直接调用，用户数据将用于模型优化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260325/20260325074046_dd6438eb83.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/oshJTduaJ7md-G8rhcP2QA">https://mp.weixin.qq.com/s/oshJTduaJ7md-G8rhcP2QA</a></li>
+<li><a href="https://docs.jdcloud.com/cn/jdaip/PackageOverview">https://docs.jdcloud.com/cn/jdaip/PackageOverview</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/auto-mode">Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 推出了 <strong>auto mode</strong> 自动模式，该模式能自主决策文件写入和命令执行权限，在拦截危险指令及提示注入攻击的同时减少人工审批流程。</p>
+<p>该功能目前向 <strong>Team</strong> 计划用户开放，<strong>Enterprise</strong> 和 <strong>API</strong> 权限随后推出。</p>
+</blockquote>
+<p>Anthropic 官方宣布为 <strong>Claude Code</strong> 引入全新的 <code>auto mode</code>（自动模式），旨在让 AI 自主处理文件写入和 Bash 命令等权限决策，从而在无需用户逐个批准的情况下保持操作安全性。该功能通过内置的分类器在执行前审查每一项操作，自动放行安全行为并拦截潜在的危险指令或提示注入攻击。</p>
+<p>目前，该功能已作为研究预览版向 <strong>Team</strong> 计划用户开放，<strong>Enterprise</strong> 和 <strong>API</strong> 用户的访问权限预计将在未来几天内推出。</p>
+<p>用户需通过命令 <code>claude --enable-auto-mode</code> 启用，并通过 Shift+Tab 切换至该模式。官方建议仅在隔离环境中使用，且该功能目前仅支持 <strong>Claude Sonnet 4.6</strong> 和 <strong>Opus 4.6</strong> 模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/561861bd-88d0-4fe3-8ee6-89639195328e/b4b04dbe-6944-4a29-9c66-fcbb01982865/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/auto-mode">https://claude.com/blog/auto-mode</a></li>
+</ul>
+<hr>
+<h2><a href="https://helpx.adobe.com/firefly/web/firefly-custom-models-in-creative-cloud/best-practices-for-creating-custom-models.html">Adobe 升级 Firefly 平台 推出自定义模型功能</a> <code>#8</code></h2>
+<blockquote>
+<p>Adobe Firefly 平台推出了处于公开测试阶段的自定义模型功能，允许创作者训练捕捉特定视觉风格的专属私有模型。</p>
+</blockquote>
+<p>Adobe 近日扩展了其 <strong>Firefly</strong> AI 创意平台，除新增了 30 多个第三方 <code>AI 模型</code>访问权限及名为 <strong>Project Moonlight</strong> 的对话式 Agent 界面外，最引人注目的是推出了处于公开测试阶段的 <strong>Firefly</strong> 自定义模型功能。</p>
+<p>该功能允许创作者利用自有图像库训练专属模型，以捕捉特定的视觉风格、角色设计或摄影效果，训练后的模型默认为私有且可在多项目中重复使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324195356_b4b06bd293.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://helpx.adobe.com/firefly/web/firefly-custom-models-in-creative-cloud/best-practices-for-creating-custom-models.html">https://helpx.adobe.com/firefly/web/firefly-custom-models-in-creative-cloud/best-practices-for-creating-custom-models.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://linear.app/next">Linear 发文称 Issue Tracking 已死，推出 Agent 新功能</a> <code>#9</code></h2>
+<blockquote>
+<p>Linear 官方宣告产品开发正式转向以上下文和 Agent 为核心的新范式，并同步推出 <strong>Linear Agent</strong>、<strong>Skills</strong> 以及 <strong>Automations</strong> 三项功能，旨在通过 <code>Agent</code> 承担规划与审查等程序性工作来消除管理开销。</p>
+</blockquote>
+<p>Linear 近日发文，宣告产品开发将从传统的流程交接模式转向以上下文和 Agent 为核心的新范式，并同步推出了 <strong>Linear Agent</strong>、<strong>Skills</strong> 以及 <strong>Automations</strong> 三项核心功能。</p>
+<p>官方认为，传统的 <code>Issue tracking</code> 旨在解决工程资源稀缺带来的分工问题，但如今繁琐的流程本身已演变为负担，而 <code>Agent</code> 的普及正在改变这一现状，使其能够承担规划、实现及代码审查等程序性工作。</p>
+<p>Linear 还预告了即将推出的 <code>Code Intelligence</code>、<code>Code Diffs</code> 和 <strong>Linear Coding Agent</strong>，旨在通过理解代码库、优化审查界面及自动编写代码，进一步缩短从创意到落地的距离。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260325/20260325080846_b615960d1c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linear.app/next">https://linear.app/next</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/engineering/harness-design-long-running-apps">Anthropic 发文介绍 Harness 方案，优化 Claude 长流程开发能力</a> <code>#10</code></h2>
+<blockquote>
+<p>Anthropic 发文提出了一种面向长流程应用开发的 <strong>Harness</strong> 设计方案，用于提升 <strong>Claude</strong> 在低人工干预场景下完成端到端应用构建以及高质量前端设计的表现。</p>
+</blockquote>
+<p>Anthropic 在文中提出了一种面向长流程应用开发的 <strong>Harness</strong> 设计方案。该方案受 GAN“生成—判别”分工思路启发，并进一步演化为包含 <code>Planner</code>、<code>Generator</code> 和 <code>Evaluator</code> 在内的多 Agent 协同架构。</p>
+<p>其核心做法包括：将主观性的设计质量要求转化为可操作、可评分的评价标准，并通过独立的评估与 QA 机制对生成结果进行持续校验。</p>
+<p>文章认为，这种设计有助于缓解模型在自评过程中偏宽松的问题，并降低其在长任务执行中因上下文压力而出现的失稳现象。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260325/20260325080331_ebf536928d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/engineering/harness-design-long-running-apps">https://www.anthropic.com/engineering/harness-design-long-running-apps</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.nda.gov.cn/sjj/ywpd/sjzg/0324/20260324132817761432606_pc.html">国家数据局明确词元命名，日均调用量两年增长超千倍</a> <code>#11</code></h2>
+<blockquote>
+<p>国家数据局局长在中国发展高层论坛上将“Token”的中文表述为<strong>词元</strong>，或将使<strong>词元</strong>成为<strong>Token</strong>的正式翻译。</p>
+<p>根据其当天披露的数据，我国日均<strong>词元</strong>调用量已突破<strong>140万亿</strong>，两年增长超千倍。</p>
+</blockquote>
+<p>国家数据局局长近日出席中国发展高层论坛2026年年会期间，将“Token”的中文表述为“词元”，引发互联网关于这一译名的讨论。</p>
+<p>与此同时，据国家数据局局长披露的数据，我国日均<code>Token</code>调用量呈现爆发式增长，已从两年前的<strong>1000亿</strong>跃升至去年底的<strong>100万亿</strong>，并于本月突破<strong>140万亿</strong>，两年间增长超千倍。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324201605_4812a9afe6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.nda.gov.cn/sjj/ywpd/sjzg/0324/20260324132817761432606_pc.html">https://www.nda.gov.cn/sjj/ywpd/sjzg/0324/20260324132817761432606_pc.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://openaifoundation.org/news/update-on-the-openai-foundation">OpenAI 基金会启动运作，计划一年投资十亿美元推进 AGI</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenAI Foundation</strong> 近日宣布计划在未来一年内投资至少 <strong>10 亿美元</strong>，聚焦生命科学与治愈疾病、就业与经济影响、<strong>AI</strong> 韧性及社区项目四大领域，以推进“确保 <strong>AGI</strong> 造福全人类”的使命。</p>
+</blockquote>
+<p><strong>OpenAI Foundation</strong> 近日宣布启动全面运作，依托其持有的 <strong>OpenAI Group</strong> 约 <strong>1300 亿美元</strong> 股权，计划在未来一年内投资至少 <strong>10 亿美元</strong>，以推进“确保 AGI 造福全人类”的使命。</p>
+<p>该基金会将重点聚焦生命科学与治愈疾病、就业与经济影响、AI 韧性及社区项目四大领域。</p>
+<p>在人事任命方面，<strong>OpenAI</strong> 联合创始人 <strong>Wojciech Zaremba</strong> 将转任 <strong>AI 韧性</strong> 负责人，<strong>Jacob Trefethen</strong> 将领导生命科学部门，原 <strong>OpenAI</strong> 全球影响力副总裁 <strong>Anna Makanju</strong> 也将转任负责民间社会与慈善事务。此外，<strong>Robert Kaiden</strong> 和 <strong>Jeff Arnold</strong> 分别加入担任 <strong>CFO</strong> 和运营总监。</p>
+<p><strong>Sam Altman</strong> 在社交媒体上强调，除了利用 <strong>AI</strong> 发现新科学外，还必须通过社会层面的应对措施来解决新型生物威胁和经济剧变等挑战。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openaifoundation.org/news/update-on-the-openai-foundation">https://openaifoundation.org/news/update-on-the-openai-foundation</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-03-24/openai-nonprofit-names-leaders-aims-to-spend-1-billion-in-2026">https://www.bloomberg.com/news/articles/2026-03-24/openai-nonprofit-names-leaders-aims-to-spend-1-billion-in-2026</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well">OpenAI 调整 ChatGPT 电商战略，弱化结账功能转向产品发现</a> <code>#13</code></h2>
+<blockquote>
+<p>OpenAI 降低了 <strong>“Instant Checkout”</strong> 即时结账功能的优先级，转而专注于提供价格对比及评论等详细产品信息，引导用户跳转至商家自有网站完成交易。</p>
+</blockquote>
+<p>OpenAI 宣布调整 <strong>ChatGPT</strong> 的电商战略，放弃此前试图建立的直接购物闭环，转而将其定位为辅助决策的“产品发现”与研究工具。</p>
+<p>该公司确认将降低 <code>Instant Checkout</code> 功能的开发优先级，允许商家引导用户回到其自有网站完成结账，而 <strong>ChatGPT</strong> 将专注于提供包含并排图片、价格对比及评论在内的详细产品信息。</p>
+<p>这一调整基于官方所称的“灵活性不足”以及外界报道反映的用户实际购买转化率低下。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/561861bd-88d0-4fe3-8ee6-89639195328e/763ae0b7-a935-4762-a051-55e3776150f8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well">https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well</a></li>
+</ul>
+<hr>
+<h2><a href="https://newsroom.arm.com/blog/introducing-arm-agi-cpu">Arm 推出首款自研数据中心芯片 AGI CPU</a> <code>#14</code></h2>
+<blockquote>
+<p>Arm 正式发布首款自主设计的数据中心芯片 <strong>Arm AGI CPU</strong>，这款基于 <code>台积电3nm</code> 工艺的芯片集成 <strong>136</strong> 个高性能核心，专为 <strong>AI</strong> 智能体基础设施优化。</p>
+</blockquote>
+<p>半导体 IP 巨头 <strong>Arm</strong> 正式推出首款自主设计的数据中心芯片 <strong>Arm AGI CPU</strong>，标志其从 IP 授权商转型为芯片供应商。</p>
+<p>该芯片采用台积电 <code>3nm</code> 制程及双 <code>Chiplet</code> 设计，集成 136 个 <code>Neoverse V3</code> 核心，主频 <code>3.7GHz</code>。根据官方说法，同等功耗下单机架性能是 x86 平台的 2 倍以上。</p>
+<p><strong>Meta</strong> 作为联合开发者及首发客户，已与 <strong>OpenAI</strong> 等伙伴展开合作。</p>
+<p>该芯片现已开放订购，计划于今年年底前量产。<strong>Arm</strong> 披露产品路线图，拟于 2027 年发布二代产品。</p>
+<p><strong>永擎电子</strong>、<strong>联想</strong> 等 OEM 厂商已推出早期系统，更广泛商用部署预计下半年落地。</p>
+<p>此举被视为 <strong>Arm</strong> 进军千亿级数据中心市场的关键一步。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260325/20260325075028_852e13f0ac.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://newsroom.arm.com/blog/introducing-arm-agi-cpu">https://newsroom.arm.com/blog/introducing-arm-agi-cpu</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content=">Agile Robots 与 Google DeepMind 达成战略合作</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Agile Robots SE</strong> 与 <strong>Google DeepMind</strong> 达成战略研究合作，将 <code>Gemini Robotics</code> 基础模型深度集成至 Agile 的工业机器人硬件平台。</p>
+</blockquote>
+<p><strong>Agile Robots SE</strong> 与 <strong>Google DeepMind</strong> 宣布达成战略合作伙伴关系，旨在将 <code>Gemini Robotics</code> 基础模型与 <strong>Agile Robots</strong> 的硬件及工业机器人平台深度集成。  </p>
+<p>双方计划通过共同训练、部署及测试，利用真实运营数据构建可扩展的 AI 飞轮，以提升模型性能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/561861bd-88d0-4fe3-8ee6-89639195328e/207425c2-f17f-49e0-8cd9-c9f033d4ee3e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content=">https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/?utm_source=x&amp;utm_medium=social&amp;utm_campaign=&amp;utm_content=</a></li>
+<li><a href="https://goo.gle/4lKu7de">https://goo.gle/4lKu7de</a></li>
+</ul>
+<hr>
+<h2><a href="https://dreamer.com/community-letter">Dreamer 团队加入 Meta，技术授权专注 AI Agent 开发</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>Dreamer</strong> 团队宣布加入 <strong>Meta</strong> Superintelligence Labs，并将技术授权给 <strong>Meta</strong>，旨在构建让数十亿人创建个性化软件的未来。</p>
+</blockquote>
+<p><strong>Dreamer</strong> 团队宣布加入 <strong>Meta Superintelligence Labs</strong> 并将技术授权给 <strong>Meta</strong>，旨在构建让数十亿人创建个性化软件的未来。</p>
+<p>此前一个月，该团队发布 Beta 版，允许用户通过“英语”编程语言，借助 <code>Sidekick</code> 功能构建个人智能 <code>AI Agent</code>。</p>
+<p>官方数据显示，已有数千名用户创建了涵盖生产力、娱乐及生活方式等领域的 <code>AI Agent</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260324/20260324195438_dee1214fae.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://dreamer.com/community-letter">https://dreamer.com/community-letter</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/39</guid><pubDate>Wed, 25 Mar 2026 01:32:46 +0000</pubDate></item><item><title>2026-03-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-38/</link><description>AI 早报 2026-03-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Claude 桌面端上线操控电脑功能，限 macOS ↗ #1 OpenClaw 连更两个版本，增加大量功能 ↗ #2 模型发布 Luma AI 发布 Uni-1，推理视觉同步 ↗ #3 产品应用 OpenAI 推出 ChatGPT Library 功能 ↗ #4 网易云音乐推出 CLI 工具，接入 OpenClaw ↗ #5 千问上线打车能力，支持自然语言叫车支付 ↗ #6 技术与洞察 Cursor 发文介绍新型文本索引，降低 Agent 搜索延迟 ↗ #7 Claude 桌面端上线操控电脑功能，限 macOS #1 Anthropic 宣布在 Claude 桌面端上线“Computer Use”功能，允许 Claude 通…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260324/20260324083012754570b498_cover_9b0e.png" alt=""></p>
 <h1>AI 早报 2026-03-24</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV12EXABHEmG">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=TD4S8dj8D70">YouTube</a></p>
 <h2>概览</h2>
