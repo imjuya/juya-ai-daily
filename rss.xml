@@ -1,5 +1,309 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 25 Mar 2026 01:33:06 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-39/</link><description>AI 早报 2026-03-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 官方宣布关闭 Sora 应用 ↗ #1 LiteLLM 遭遇供应链攻击 两版本含窃凭证恶意代码 ↗ #2 模型发布 阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026 ↗ #3 Ai2 发布 MolmoWeb 开源视觉模型含数据集 ↗ #4 英伟达开源 Kimodo 动作生成工具适配类人机器人 ↗ #5 开发生态 京东云 JoyBuilder 上线 AI 编程订阅服务 ↗ #6 Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策 ↗ #7 产品应用 Adobe 升级 Firefly 平台 推出自定义模型功能 ↗ #8 Linear 发文称 Issue Tracki…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260325/202603250842164855987703_cover_5618.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 26 Mar 2026 01:22:13 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-40/</link><description>AI 早报 2026-03-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌推出 Lyria 3 Pro 音乐模型，最长生成三分钟专业音轨 ↗ #1 模型发布 美团龙猫团队开源 LongCat-Next 离散自回归多模态模型 ↗ #2 北京大学联合字节跳动发布 Helios，开源视频生成模型 ↗ #3 开发生态 Google 明确 Gemini CLI 使用权限，仍支持ACP、A2A及Headless使用 ↗ #4 GitHub 更新 Copilot 政策，个人版默认数据用于模型训练 ↗ #5 Figma 宣布向 AI agents 开放 Figma Canvas ↗ #6 谷歌推出 Vibe Coding XR 将自然语言转化为 WebXR 应用 ↗ #7 Mozilla 推出 cq 项目实现…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260326/202603260901147465946cae_cover_a234.png" alt=""></p>
+<h1>AI 早报 2026-03-26</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1fbXHB4EEa">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=wZzMMIADT8g">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>谷歌推出 Lyria 3 Pro 音乐模型，最长生成三分钟专业音轨 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>美团龙猫团队开源 LongCat-Next 离散自回归多模态模型 <a href="https://github.com/meituan-longcat/LongCat-Next">↗</a> <code>#2</code></li>
+<li>北京大学联合字节跳动发布 Helios，开源视频生成模型 <a href="https://github.com/PKU-YuanGroup/Helios">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Google 明确 Gemini CLI 使用权限，仍支持ACP、A2A及Headless使用 <a href="https://goo.gle/geminicli-update2">↗</a> <code>#4</code></li>
+<li>GitHub 更新 Copilot 政策，个人版默认数据用于模型训练 <a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/">↗</a> <code>#5</code></li>
+<li>Figma 宣布向 AI agents 开放 Figma Canvas <a href="https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/">↗</a> <code>#6</code></li>
+<li>谷歌推出 Vibe Coding XR 将自然语言转化为 WebXR 应用 <a href="https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/">↗</a> <code>#7</code></li>
+<li>Mozilla 推出 cq 项目实现 Agent 知识共享标准 <a href="https://github.com/mozilla-ai/cq">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Anthropic 宣布 Claude 移动端新增了工作相关功能 <a href="https://x.com/claudeai/status/2036850783526719610">↗</a> <code>#9</code></li>
+<li>OpenClaw 发布新版增强兼容性并支持 Microsoft Teams 与 Slack 平台 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.24">↗</a> <code>#10</code></li>
+<li>Nous Research 发布 Hermes Agent v0.4.0 <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.23">↗</a> <code>#11</code></li>
+<li>MiniMax 开源 Office Skills，覆盖四大办公文档格式 <a href="https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA">↗</a> <code>#12</code></li>
+<li>阿里云宣布 JVSClaw 全面开放，取消邀请码限制新增 5GB 存储 <a href="https://mp.weixin.qq.com/s/1UGnrKk9PSIQ0XkWKmiBPw">↗</a> <code>#13</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Google Research 发布 TurboQuant 大模型 KV 缓存降 6 倍 <a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/">↗</a> <code>#14</code></li>
+<li>OpenAI 披露 Model Spec 制定逻辑与评估套件 <a href="https://model-spec.openai.com/">↗</a> <code>#15</code></li>
+<li>ARC 发布 ARC-AGI-3 基准，所有先模型得分均不足 1% <a href="https://x.com/fchollet/status/2036861192619384989">↗</a> <code>#16</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 节省算力研发下代旗舰模型，Sam Altman 转攻筹资建数据中心 <a href="https://www.investing.com/news/economy-news/altman-steps-back-from-safety-oversight-to-focus-on-openai-fundraising--the-information-93CH-4578437">↗</a> <code>#17</code></li>
+<li>OpenAI 推出公开安全漏洞赏金计划聚焦 AI 滥用风险 <a href="https://openai.com/index/safety-bug-bounty/">↗</a> <code>#18</code></li>
+<li>英特尔推出 Arc Pro B70 等显卡，售价 949 美元配 32GB 显存 <a href="https://www.intel.com/content/www/us/en/products/sku/245797/intel-arc-pro-b70-graphics/specifications.html">↗</a> <code>#19</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>苹果据报重构 Siri，将推出独立应用 <code>#20</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/">谷歌推出 Lyria 3 Pro 音乐模型，最长生成三分钟专业音轨</a> <code>#1</code></h2>
+<blockquote>
+<p>Google 发布了音乐生成模型 <strong>Lyria 3</strong> 系列的两款新模型，包含可生成 <strong>3 分钟</strong>音乐的 <strong>Pro</strong> 版和针对速度和高并发优化的 <strong>Clip</strong> 版。开发者现可通过 <code>Gemini API</code> 和 <code>Google AI Studio</code> 付费使用，目前该模型已集成至 <code>Vertex AI</code>、<code>Google Vids</code>、<code>ProducerAI</code> 及 <code>Gemini App</code> 等产品。</p>
+</blockquote>
+<p>Google 近期面向全球开发者、企业和创作者推出了其最新的音乐生成模型 <strong>Lyria 3</strong> 系列，该系列目前包含两个面向开发者的版本：官方称为主打全长歌曲生成、最长可创建约 <strong>3分钟</strong> 专业级音轨的 <strong>Lyria 3 Pro</strong>，以及针对速度和高并发请求优化、生成 <strong>30秒</strong> 高质量片段的 <strong>Lyria 3 Clip</strong>。</p>
+<p>上述两个模型现已在 <code>Gemini API</code> 中以付费预览模式提供，并在 <code>Google AI Studio</code> 中开放测试。除了提供逼真的人声、多语言及多流派支持外，该系列模型引入了节拍条件设定、时间对齐歌词以及多模态图生音等精准控制功能，该模型还支持从文本、图像或视频提示词生成带歌词的音轨。</p>
+<p>在产品端，<strong>Lyria 3 Pro</strong> 正陆续接入 <code>Vertex AI</code>（面向企业的付费预览）、<code>Google Vids</code>（面向 Workspace 客户及 AI Pro &amp; Ultra 订阅者）、<code>Gemini app</code>（面向付费订阅者）以及 <code>ProducerAI</code>。</p>
+<p>在责任与安全方面，官方强调该模型基于 YouTube 和 Google 有权使用的数据训练，不会模仿艺术家，且所有生成的音轨均嵌入 <code>SynthID</code> 数字水印以供识别验证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/e67c8729-77da-4d77-aff5-fef6c4562d47/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326084330_5d7ddb5675.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/">https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/music-generation">https://ai.google.dev/gemini-api/docs/music-generation</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/meituan-longcat/LongCat-Next">美团龙猫团队开源 LongCat-Next 离散自回归多模态模型</a> <code>#2</code></h2>
+<blockquote>
+<p>美团龙猫团队开源了总参数量为 <strong>68.5B</strong> 的原生多模态模型 <code>LongCat-Next</code>。该模型通过引入 <code>DiNA</code> 范式，将文本、视觉和音频统一在单一自回归目标下，在多模态基准测试中表现强劲，并具备高级语音理解和声音克隆能力。</p>
+</blockquote>
+<p>美团龙猫团队开源了 <strong>LongCat-Next</strong>，这是一款总参数 <strong>68.5B</strong>、激活参数 <strong>3B</strong> 的原生多模态模型。该模型基于 <code>LongCat-Flash-Lite MoE</code> 骨干网络，引入了 <strong>DiNA</strong>（离散原生自回归范式），将文本、视觉和音频统一在单一自回归目标下，并提出 <code>dNaViT</code> 作为任意分辨率的统一视觉接口。</p>
+<p>该模型在多项多模态基准测试中表现强劲，在 <strong>28 倍压缩比</strong> 下维持生成质量，尤其在文本渲染方面表现突出。同时，它具备高级语音理解、低延迟语音对话及可定制声音克隆能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/5d09307d-9789-4e63-b0d2-d27e809a5e0d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/meituan-longcat/LongCat-Next">https://github.com/meituan-longcat/LongCat-Next</a></li>
+<li><a href="https://huggingface.co/meituan-longcat/LongCat-Next">https://huggingface.co/meituan-longcat/LongCat-Next</a></li>
+<li><a href="https://longcat.chat/longcat-next/intro">https://longcat.chat/longcat-next/intro</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/PKU-YuanGroup/Helios">北京大学联合字节跳动发布 Helios，开源视频生成模型</a> <code>#3</code></h2>
+<blockquote>
+<p>北京大学联合<strong>字节跳动</strong>发布并开源了 <strong>14B</strong> 参数视频生成模型 <code>Helios</code>，该模型无需依赖传统的防漂移策略即可生成长视频，并原生支持文生视频、图生视频和视频生视频任务。</p>
+</blockquote>
+<p>由北京大学联合<strong>字节跳动</strong>开发的视频生成模型 <strong>Helios</strong> 正式发布并开源代码与权重。该模型采用 <code>Cross DiT</code> 架构与 <code>UMT5</code> 文本编码器，无需依赖常规的长视频防漂移策略或标准视频加速技术，即可生成分钟级高质量视频，并原生支持文生视频、图生视频和视频生视频任务。</p>
+<p>官方开源了 <strong>Helios-Base</strong>、<strong>Helios-Mid</strong> 和 <strong>Helios-Distilled</strong> 三个变体，均可在 <strong>HuggingFace</strong> 和 <strong>ModelScope</strong> 下载，项目基于 <strong>Apache 2.0</strong> 许可证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326080352_e9abac0f34.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/PKU-YuanGroup/Helios">https://github.com/PKU-YuanGroup/Helios</a></li>
+<li><a href="https://huggingface.co/BestWishYsh/Helios-Base">https://huggingface.co/BestWishYsh/Helios-Base</a></li>
+</ul>
+<hr>
+<h2><a href="https://goo.gle/geminicli-update2">Google 明确 Gemini CLI 使用权限，仍支持ACP、A2A及Headless使用</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Gemini CLI</strong> 近期发布声明明确支持通过 <code>ACP</code> 和 <code>A2A</code> 协议及 <code>Headless</code> 模式的使用，但严禁利用其 OAuth 界面为第三方应用认证。同时再次明确订阅用户中仅限 <strong>AI Pro</strong> 及 <strong>Ultra</strong> 用户可使用 <strong>Pro</strong> 模型。</p>
+</blockquote>
+<p>Gemini CLI 官方针对近期变更发布说明，明确用户可继续通过 <strong>ACP</strong> 和 <strong>A2A</strong> 协议、本地或远程终端及 <strong>Headless</strong> 模式使用该工具，但严禁利用其 OAuth 登录界面为第三方应用认证。</p>
+<p>官方同时明确了 <strong>Gemini Pro</strong> 模型的访问权限，仅限 <strong>Google AI Pro</strong> 或 <strong>Ultra</strong> 订阅用户、<strong>Google Cloud</strong> 企业客户以及使用 <strong>AI Studio</strong> 或 <strong>Vertex AI</strong> API 密钥的用户访问，并限制免费层用户使用该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326075605_a3bdb88287.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://goo.gle/geminicli-update2">https://goo.gle/geminicli-update2</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/">GitHub 更新 Copilot 政策，个人版默认数据用于模型训练</a> <code>#5</code></h2>
+<blockquote>
+<p>GitHub 宣布自 <strong>4月24日</strong> 起调整策略，<strong>Copilot Free</strong>、<strong>Copilot Pro</strong> 及 <strong>Copilot Pro+</strong> 用户的交互数据将默认用于 <strong>AI模型训练</strong>，但可前往设置中的 <strong>Privacy</strong> 选项手动关闭数据共享。</p>
+</blockquote>
+<p>GitHub 官方宣布更新 GitHub Copilot 交互数据使用规定，自 <strong>4月24日</strong> 起，Copilot Free、Pro 和 Pro+ 用户在使用过程中产生的交互数据将默认被用于训练和改进其 AI 模型。用户可通过设置中的“Privacy”选项 opt out，且此前已关闭该选项的用户的偏好将被保留。而 Copilot Business 和 Enterprise 用户不受此规定影响。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326075957_339c7303d7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/">https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/">Figma 宣布向 AI agents 开放 Figma Canvas</a> <code>#6</code></h2>
+<blockquote>
+<p>Figma 近日宣布开放 <strong>Figma canvas</strong> 给 AI agents，支持通过 <code>Figma MCP</code> 服务器直接读写文件，实现了代码与设计的双向流转。</p>
+</blockquote>
+<p>Figma 近日宣布开放 <strong>canvas</strong> 给 AI agents，基于 <strong>Figma MCP server</strong>，agents 可直接写入文件。其引入以 <code>markdown</code> 编写的 <code>skills</code>，为 agents 补充团队决策等上下文。</p>
+<p>新工具 <code>use_figma</code> 负责基于组件编辑，与 <code>generate_figma_design</code> 互补。</p>
+<p>官方称该能力 beta 期间免费，未来将作为按使用量计费的付费 API。</p>
+<p>当前已支持 <strong>Claude Code</strong>、<strong>Codex</strong> 等多个客户端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/1d965c2b-c8dd-4ebc-a20b-513aea5dfa2d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/">https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/">谷歌推出 Vibe Coding XR 将自然语言转化为 WebXR 应用</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Google Research</strong> 发布了 <strong>Vibe Coding XR</strong>，结合 <code>Gemini Canvas</code> 与开源 <code>XR Blocks</code> 框架，让用户仅凭自然语言就能在 <strong>60 秒</strong> 内生成具备物理感知的 WebXR 应用。</p>
+</blockquote>
+<p>Google Research 推出 <strong>Vibe Coding XR</strong>，结合 <strong>Gemini Canvas</strong> 与开源 <strong>XR Blocks</strong> 框架。该工作流能将自然语言提示在 <strong>60 秒</strong> 内转化为具备物理感知的交互式 <strong>WebXR</strong> 应用，支持 <strong>Android XR</strong> 头显或桌面模拟测试。</p>
+<p>其利用 <strong>Gemini</strong> 长上下文推理处理空间逻辑，基于 <strong>WebXR</strong> 等技术构建。</p>
+<p>该在线演示及开源框架已面向公众开放，团队将在 <strong>ACM CHI 2026</strong> 展台演示。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/62cb34d9-ca1a-4944-b68d-52c64a826618/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/">https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/mozilla-ai/cq">Mozilla 推出 cq 项目实现 Agent 知识共享标准</a> <code>#8</code></h2>
+<blockquote>
+<p>Mozilla 推出开源项目 <code>cq</code>，定位为共享 Agent 学习的开放标准。<code>cq</code> 允许 Agent 持久化、查询并共享集体知识，避免重复发现相同故障。</p>
+</blockquote>
+<p>Mozilla 推出开源项目 <code>cq</code>，定位为共享 Agent 学习的开放标准。该项目旨在解决 AI 决策调用废弃 API 及不同 Agent 重复排错浪费算力的痛点，被媒体类比为“AI 专用 Stack Overflow”。</p>
+<p><code>cq</code> 允许 Agent 持久化、查询并共享集体知识，从而在处理新任务前获取正确策略，避免重复发现相同故障。</p>
+<p>该项目支持 Local-only 和 Team sync 两种模式，基于 MCP 协议构建，由 Local MCP Server 和可选的 Docker 容器组成，目前处于探索性阶段并在 GitHub 上开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/f7342611-a3cb-4568-93cc-e7f1f1ef9b57/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/mozilla-ai/cq">https://github.com/mozilla-ai/cq</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2036850783526719610">Anthropic 宣布 Claude 移动端新增了工作相关功能</a> <code>#9</code></h2>
+<blockquote>
+<p>Anthropic 宣布 <strong>Claude</strong> 移动端新增了工作相关功能，现已支持在手机上直接浏览 <code>Figma</code> 设计、创建 <code>Canva</code> 幻灯片以及查看 <code>Amplitude</code> 仪表盘。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布，<strong>Claude</strong> 的工作工具现已正式登陆移动端。用户可通过官方提供的 <code>claude.com/download</code> 链接下载体验，利用该功能在手机上直接浏览 <strong>Figma</strong> 设计、创建 <strong>Canva</strong> 幻灯片以及查看 <strong>Amplitude</strong> 仪表板。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/c91e6d30-d024-4db6-9667-17856694dde1/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2036850783526719610">https://x.com/claudeai/status/2036850783526719610</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.24">OpenClaw 发布新版增强兼容性并支持 Microsoft Teams 与 Slack 平台</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 正式发布 <strong>2026.3.24</strong> 版本，新版本深度优化了 <code>OpenAI API</code> 接口，并引入了原生的 <strong>Microsoft Teams</strong> 支持以及 <strong>Slack</strong> 交互式回复按钮。此外，用户可在升级后的 <code>Control UI</code> 中高效管理工具与技能。</p>
+</blockquote>
+<p>OpenClaw 近日正式发布 <strong>2026.3.24</strong> 版本，此次更新重点增强了 <strong>OpenAI API</strong> 兼容性，引入了原生的 <strong>Microsoft Teams</strong> 支持、<strong>Slack</strong> 交互式回复按钮、智能 <strong>Discord</strong> 自动线程命名，并全面升级了 Control UI 中的 Skill 与工具管理体验。</p>
+<p>此外，该版本将受支持的 <code>Node</code> 22 最低版本降至 <code>22.14+</code>，同时修复了涉及沙箱安全、多平台网关路由、媒体出站及会话唤醒等多个核心问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326084817_18a378e082.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.24">https://github.com/openclaw/openclaw/releases/tag/v2026.3.24</a></li>
+<li><a href="https://x.com/OpenWebUI/status/2036938567868391798">https://x.com/OpenWebUI/status/2036938567868391798</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.23">Nous Research 发布 Hermes Agent v0.4.0</a> <code>#11</code></h2>
+<blockquote>
+<p>Nous Research 更新了 <strong>Hermes Agent</strong>，引入了后台自我改进功能并增强了 <code>MCP server</code> 管理。该版本现可作为兼容 OpenAI 的 API 服务器运行。</p>
+</blockquote>
+<p><strong>Nous Research</strong> 正式发布了 <strong>Hermes Agent v0.4.0</strong> 版本。此次更新引入了后台自我改进功能、支持新的消息平台与提供商，并增强了 <code>MCP server</code> 管理能力。</p>
+<p>在连接性方面，<strong>Hermes</strong> 现在可以作为兼容 OpenAI 的 API 服务器运行，提供 <code>/v1/chat/completions</code> 和 <code>/v1/responses</code> 端点。后者支持通过 <code>previous_response_id</code> 进行有状态的链式调用，允许 <strong>Open WebUI</strong>、<strong>LobeChat</strong>、<strong>LibreChat</strong> 和 <strong>ChatBox</strong> 等前端直接连接，以实现完整的 Agent 功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/988a1abb-ccab-415a-8e42-f06867bba692/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.23">https://github.com/NousResearch/hermes-agent/releases/tag/v2026.3.23</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA">MiniMax 开源 Office Skills，覆盖四大办公文档格式</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 宣布开源其生产级办公文档技能 <strong>Office Skills</strong>，用户仅需一句话指令，相关技能即可完成从内容组织到最终输出的全流程。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 宣布开源其生产级办公文档技能“Office Skills”，涵盖针对 <code>Word</code>、<code>Excel</code>、<code>PDF</code> 和 <code>PPT</code> 四种格式处理的代码及自进化评测机。</p>
+<p>相关技能能解决 Agent 在处理 Office 文档时常见的“生成即损坏”痛点，如公式静默转为静态数字、编辑后格式混乱或高级功能（如数据透视表）丢失等，使生成的文档能够满足真实交付标准。</p>
+<p>该开源项目还包含一套 “Execute → Evaluate → Fix” 自动化评测体系，旨在通过持续迭代修复失败样例，驱动 <code>Skills</code> 在结构与样式上实现自我进化。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA">https://mp.weixin.qq.com/s/JKkdMqnHQUnpt0UYRsLTTA</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/1UGnrKk9PSIQ0XkWKmiBPw">阿里云宣布 JVSClaw 全面开放，取消邀请码限制新增 5GB 存储</a> <code>#13</code></h2>
+<blockquote>
+<p>阿里云 <strong>JVSClaw</strong> 现已取消邀请码限制，全面开放，用户可直接注册使用。</p>
+<p>此次更新还在手机 App 新增了语音输入入口，并支持一键接入 <strong>微博龙虾助手</strong>。</p>
+</blockquote>
+<p>阿里云宣布 <strong>JVSClaw</strong> 正式全面开放，取消了此前的邀请码限制，允许用户直接注册使用。</p>
+<p>此次更新中，<strong>JVSClaw</strong> 手机 App 新增了语音输入入口，JVS 文件空间提供了 <strong>5GB</strong> 专属存储空间，并实现了对微博龙虾助手的一键接入支持。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/1UGnrKk9PSIQ0XkWKmiBPw">https://mp.weixin.qq.com/s/1UGnrKk9PSIQ0XkWKmiBPw</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/">Google Research 发布 TurboQuant 大模型 KV 缓存降 6 倍</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Google Research</strong> 发布了名为 <strong>TurboQuant</strong> 的高级量化算法。该方法无需训练或微调，通过结合 <code>PolarQuant</code> 和 <code>QJL</code> 技术，在实现 <strong>3-bit</strong> 量化且零精度损失的同时，将 KV 内存占用降低 <strong>6 倍</strong>，并在 <strong>H100 GPU</strong> 上实现了最高 <strong>8 倍</strong> 的计算加速。</p>
+</blockquote>
+<p><strong>Google Research</strong> 近日发布 <strong>TurboQuant</strong>，并为一组以理论为基础的高级量化算法中的核心压缩方法，用于大规模压缩大语言模型与向量搜索引擎中的高维向量。根据官方说法，该方法面向两个关键场景：一是缓解 <strong>LLM</strong> 的 <code>key-value cache</code> 瓶颈，二是提升向量搜索的构建与查询效率。</p>
+<p>其核心做法是把 <strong>PolarQuant</strong> 作为主压缩阶段，再用 <code>QJL</code> 对残余误差做 1 bit 校正，从而在消除传统向量量化额外内存开销的同时，维持高精度。</p>
+<p><strong>Google Research</strong> 称，<strong>TurboQuant</strong> 可在不训练、不微调的情况下，把 <strong>KV cache</strong> 量化到 <strong>3 bit</strong>，并在长上下文基准上实现零精度损失；在官方测试中，其 <strong>KV</strong> 内存占用至少降低 <strong>6 倍</strong>，<strong>4-bit TurboQuant</strong> 在 <strong>H100 GPU</strong> 上对 <strong>32-bit</strong> 未量化 key 的 attention logits 计算可实现最高 <strong>8 倍加速</strong>。</p>
+<p>官方还表示，该方法在向量搜索中相较 <strong>PQ</strong> 与 <strong>RabbiQ</strong> 等基线取得更高 recall，并适用于语义搜索等大规模检索场景。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/f923b03a-4353-47b9-9399-baa4897d3584/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/">https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</a></li>
+</ul>
+<hr>
+<h2><a href="https://model-spec.openai.com/">OpenAI 披露 Model Spec 制定逻辑与评估套件</a> <code>#15</code></h2>
+<blockquote>
+<p>OpenAI官方博客披露了 <strong>Model Spec</strong> 模型行为框架的制定逻辑，该框架确立了“指挥链”机制，明确划分了不可逾越的安全硬规则与开发者可覆盖的默认值，并同步发布了 <code>Model Spec Evals</code> 评估套件。</p>
+</blockquote>
+<p>OpenAI 近日发布官方博文，系统说明其 <strong>Model Spec</strong> 的设计思路、结构、编写方法、落地方式与后续演进路径。OpenAI 称，<strong>Model Spec</strong> 是其关于模型行为的正式框架，用来明确模型应如何遵循指令、处理冲突、尊重用户自由并在广泛场景下安全运行。</p>
+<p>根据官方说法，这套规范与 <strong>Preparedness Framework</strong>、<strong>AI resilience</strong> 等工作互补，目标是在逐步部署更强 <strong>AI</strong> 系统的同时，让行为边界、权衡逻辑与修改机制对用户、开发者、研究者、政策制定者和公众保持可读、可检视、可争论。</p>
+<p>目前，<strong>Model Spec</strong> 本体、公开仓库以及配套的 <strong>Model Spec Evals</strong> 均已对外提供。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://model-spec.openai.com/">https://model-spec.openai.com/</a></li>
+<li><a href="https://openai.com/index/our-approach-to-the-model-spec/">https://openai.com/index/our-approach-to-the-model-spec/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/fchollet/status/2036861192619384989">ARC 发布 ARC-AGI-3 基准，所有先模型得分均不足 1%</a> <code>#16</code></h2>
+<blockquote>
+<p>ARC Prize 正式发布了 <strong>ARC-AGI-3</strong> 基准测试，旨在通过交互式环境评估模型的 Agentic Intelligence。目前所有顶级 AI 模型的得分均低于 <strong>1%</strong>。</p>
+</blockquote>
+<p>ARC Prize 正式发布了 <strong>ARC-AGI-3</strong> 基准测试，该基准通过交互式推理环境评估模型的 agentic intelligence。  </p>
+<p>而目前所有顶级 AI 推理模型得分均低于 1%。  </p>
+<p>具体得分显示，<strong>Google Gemini 3.1 Pro</strong> 以 <strong>0.37%</strong> 领先，<strong>OpenAI GPT-5.4</strong> 为 <strong>0.26%</strong>，<strong>Anthropic Claude Opus 4.6</strong> 为 <strong>0.25%</strong>，<strong>xAI Grok 4.2</strong> 为 <strong>0%</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/8cfb68da-68c6-494d-91c3-398377f92279/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/fchollet/status/2036861192619384989">https://x.com/fchollet/status/2036861192619384989</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.investing.com/news/economy-news/altman-steps-back-from-safety-oversight-to-focus-on-openai-fundraising--the-information-93CH-4578437">OpenAI 节省算力研发下代旗舰模型，Sam Altman 转攻筹资建数据中心</a> <code>#17</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 正式关停 <strong>Sora</strong> 应用以节省算力，集中资源开发代号为 <code>SPUD</code> 且已完成初步开发的下一代旗舰模型。<strong>Sora</strong> 团队重心将转向世界模型及机器人领域。</p>
+<p>同时，<strong>Sam Altman</strong> 不再直接监管安全团队，未来将专注于融资及大规模数据中心建设以应对市场竞争。</p>
+</blockquote>
+<p>据报道，<strong>OpenAI</strong> 关停 <strong>Sora</strong> 应用并非出于产品层面的考量，而是一项资源分配决定。员工称该应用消耗了大量算力，公司将把稀缺算力转向其下一代旗舰模型。</p>
+<p>与此同时，<strong>Sora</strong> 研究团队未来的重心将转向世界模型及机器人领域的相关用例。</p>
+<p>此外，<strong>OpenAI</strong> CEO <strong>Sam Altman</strong> 日前向员工宣布，已不再直接监管公司的安全与安保团队，并确认完成了代号为 <code>SPUD</code> 的下一代重大 AI 模型的初步开发。</p>
+<p>未来，他的工作重心将转向筹集资金、管理供应链以及以前所未有的规模建设数据中心，以应对与 <strong>Anthropic</strong> 和 <strong>Google</strong> 等竞争对手日益加剧的竞争。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.investing.com/news/economy-news/altman-steps-back-from-safety-oversight-to-focus-on-openai-fundraising--the-information-93CH-4578437">https://www.investing.com/news/economy-news/altman-steps-back-from-safety-oversight-to-focus-on-openai-fundraising--the-information-93CH-4578437</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/safety-bug-bounty/">OpenAI 推出公开安全漏洞赏金计划聚焦 AI 滥用风险</a> <code>#18</code></h2>
+<blockquote>
+<p>OpenAI 推出 <strong>Safety Bug Bounty program</strong>，旨在识别全线产品中的 AI 滥用风险，重点聚焦 <code>Agentic Risks</code>、专有信息泄露及账户平台完整性三大场景。</p>
+</blockquote>
+<p>OpenAI近日推出了一项公开的 <strong>Safety Bug Bounty program</strong>，旨在识别其全线产品中的AI滥用与安全风险，防范可能导致实质性伤害的滥用行为。该项目作为其现有 <strong>Security Bug Bounty program</strong> 的补充，接受不符合传统安全漏洞标准但构成重大滥用和安全风险的问题。</p>
+<p>该项目主要聚焦于 <strong>Agentic Risks</strong> 包括 <code>MCP</code>、<code>OpenAI Proprietary Information</code> 以及 <code>Account and Platform Integrity</code>（如绕过反自动化控制、操纵账户信任信号、规避账户限制等）三大AI特定安全场景。</p>
+<p>有意参与的研究人员可通过 <code>Bugcrowd</code> 平台提交漏洞。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260326/20260326082427_ac717368eb.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/safety-bug-bounty/">https://openai.com/index/safety-bug-bounty/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.intel.com/content/www/us/en/products/sku/245797/intel-arc-pro-b70-graphics/specifications.html">英特尔推出 Arc Pro B70 等显卡，售价 949 美元配 32GB 显存</a> <code>#19</code></h2>
+<blockquote>
+<p>Intel 推出了 <strong>Arc Pro B70</strong> 和 <strong>Arc Pro B65</strong> 两款工作站显卡，均配备 <strong>32GB</strong> 显存。旗舰款 <strong>B70</strong> 提供 <code>367 TOPS</code> 算力，售价 <strong>949 美元</strong>。<strong>B65</strong> 型号则将于 <strong>4 月中旬</strong> 通过 AIB 伙伴销售。</p>
+</blockquote>
+<p>Intel 推出 <strong>Arc Pro B70</strong> 与 <strong>Arc Pro B65</strong> 工作站 GPU，均搭载 <strong>32GB GDDR6</strong> 显存及 <code>BMG-G31</code> 核心，面向本地 AI 推理等应用。</p>
+<p>旗舰 <strong>B70</strong> 拥有 <strong>32</strong> 个 Xe 核心，官方称算力最高 <strong>367 TOPS</strong>，带宽 <strong>608 GB/s</strong>，起售价 <strong>949 美元</strong>，已开售。</p>
+<p><strong>B65</strong> 配备 <strong>20</strong> 个 Xe 核心，算力最高 <strong>197 TOPS</strong>，计划 <strong>4 月中旬</strong> 通过 AIB 伙伴销售。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/a2349e46-540b-4b5e-acf0-b737dbe516be/ffd6bd13-0acb-42fe-af0b-7fe517fa9d7a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.intel.com/content/www/us/en/products/sku/245797/intel-arc-pro-b70-graphics/specifications.html">https://www.intel.com/content/www/us/en/products/sku/245797/intel-arc-pro-b70-graphics/specifications.html</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/products/sku/245796/intel-arc-pro-b65-graphics/specifications.html">https://www.intel.com/content/www/us/en/products/sku/245796/intel-arc-pro-b65-graphics/specifications.html</a></li>
+</ul>
+<hr>
+<h2>苹果据报重构 Siri，将推出独立应用 <code>#20</code></h2>
+<blockquote>
+<p>据报道，苹果正在对 <strong>Siri</strong> 进行重构，计划在即将到来的 <strong>WWDC</strong> 上推出基于 <strong>iOS 27</strong> 的全新AI智能体。</p>
+<p>新版 <strong>Siri</strong> 将拥有支持连续对话和文件分析功能的独立应用。</p>
+</blockquote>
+<p>据彭博社援引知情人士报道，<strong>苹果公司</strong>正在对 <strong>Siri</strong> 进行根本性重构，计划将其从传统语音指令工具转向深度整合全系统应用的AI智能体。</p>
+<p>该重构包含推出一款支持历史对话记录、文件上传分析及连续交互的独立 <strong>Siri</strong> 应用，并在操作系统层级引入 <code>Ask Siri</code> 与 <code>Write with Siri</code> 等系统级入口。</p>
+<p>此外，<strong>苹果公司</strong>正在测试以 <strong>Siri</strong> 取代 <strong>Spotlight</strong>，实现本地内容与互联网查询的统一，并采用“液态玻璃”设计语言将 <strong>Siri</strong> 嵌入灵动岛区域。</p>
+<p>上述新版 <strong>Siri</strong>（代号 <code>Campo</code>）计划在即将到来的 <strong>WWDC</strong> 上作为 <strong>iOS 27</strong> 和 <strong>macOS 27</strong> 的一部分亮相。</p>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/40</guid><pubDate>Thu, 26 Mar 2026 01:21:52 +0000</pubDate></item><item><title>2026-03-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-39/</link><description>AI 早报 2026-03-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 官方宣布关闭 Sora 应用 ↗ #1 LiteLLM 遭遇供应链攻击 两版本含窃凭证恶意代码 ↗ #2 模型发布 阿里通义实验室发布 PrismAudio，论文入选 ICLR 2026 ↗ #3 Ai2 发布 MolmoWeb 开源视觉模型含数据集 ↗ #4 英伟达开源 Kimodo 动作生成工具适配类人机器人 ↗ #5 开发生态 京东云 JoyBuilder 上线 AI 编程订阅服务 ↗ #6 Anthropic 发布 Claude Code 自动模式，支持安全权限自主决策 ↗ #7 产品应用 Adobe 升级 Firefly 平台 推出自定义模型功能 ↗ #8 Linear 发文称 Issue Tracki…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260325/202603250842164855987703_cover_5618.png" alt=""></p>
 <h1>AI 早报 2026-03-25</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV17WQCB7E4d">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Rk0RQ9tg2Go">YouTube</a></p>
 <h2>概览</h2>
