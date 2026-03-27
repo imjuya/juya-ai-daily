@@ -19,11 +19,11 @@
 
 
 ## 最近更新
+- [2026-03-27](https://github.com/imjuya/juya-ai-daily/issues/41)--2026-03-27
 - [2026-03-26](https://github.com/imjuya/juya-ai-daily/issues/40)--2026-03-26
 - [2026-03-25](https://github.com/imjuya/juya-ai-daily/issues/39)--2026-03-25
 - [2026-03-24](https://github.com/imjuya/juya-ai-daily/issues/38)--2026-03-24
 - [2026-03-23](https://github.com/imjuya/juya-ai-daily/issues/37)--2026-03-23
-- [2026-03-22](https://github.com/imjuya/juya-ai-daily/issues/36)--2026-03-22
 
 ---
 
