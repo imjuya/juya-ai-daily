@@ -1,5 +1,203 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 27 Mar 2026 01:14:40 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-41/</link><description>AI 早报 2026-03-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌发布 Gemini 3.1 Flash Live，支持 90 种语言对话 ↗ #1 模型发布 Suno 正式推出 Suno v5.5 模型及个性化声音等新功能 ↗ #2 Cohere 发布开源语音识别模型 Cohere Transcribe ↗ #3 Mistral AI 发布 Voxtral TTS 模型 ↗ #4 OpenDataLab 发布 MinerU-Diffusion-V1 ↗ #5 Meta 发布 TRIBE v2，三模态模型预测人脑 fMRI 响应 ↗ #6 Chroma 发布 200 亿参数 Context-1，开源 agentic 搜索模型 ↗ #7 英伟达发布 gpt-oss-puzzle-88B 剪…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260327/20260327085140339486e602_cover_c58c.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 28 Mar 2026 01:13:04 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-42/</link><description>AI 早报 2026-03-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用 ↗ #1 模型发布 KwaiKAT 发布 KAT-Coder-Pro V2 模型 ↗ #2 Meta 发布 SAM 3.1，支持单次追踪 16 个目标 ↗ #3 开发生态 Claude Code 上线 Windows PowerShell 原生运行支持 ↗ #4 OpenRouter 限制多地用户调用部分模型，称遵上游要求 ↗ #5 OpenAI 重置 Codex 限额 ↗ #6 产品应用 NotebookLM 支持后台生成与移动端推送通知 ↗ #7 钉钉开源 dws 跨平台命令行工具 面向 AI Agent 场景 ↗ #8 行业动态 硅基流动推出 A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260328/202603280842529257667609_cover_6723.png" alt=""></p>
+<h1>AI 早报 2026-03-28</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1TXXgBGE6a">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=dvJxCuxvShc">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用 <a href="https://mp.weixin.qq.com/s/5g5-cJSuQumzZDVgiCaTuQ">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>KwaiKAT 发布 KAT-Coder-Pro V2 模型 <a href="https://mp.weixin.qq.com/s/5JpX2UxW-SKpyPR4yWOVEw">↗</a> <code>#2</code></li>
+<li>Meta 发布 SAM 3.1，支持单次追踪 16 个目标 <a href="https://go.meta.me/8dd321">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 上线 Windows PowerShell 原生运行支持 <a href="https://code.claude.com/docs/en/tools-reference#powershell-tool">↗</a> <code>#4</code></li>
+<li>OpenRouter 限制多地用户调用部分模型，称遵上游要求 <a href="https://www.landiannews.com/archives/112371.html">↗</a> <code>#5</code></li>
+<li>OpenAI 重置 Codex 限额 <a href="https://x.com/OpenAIDevs/status/2037354021787439197">↗</a> <code>#6</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>NotebookLM 支持后台生成与移动端推送通知 <a href="https://x.com/NotebookLM/status/2037600736440205471">↗</a> <code>#7</code></li>
+<li>钉钉开源 dws 跨平台命令行工具 面向 AI Agent 场景 <a href="https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli">↗</a> <code>#8</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>硅基流动推出 AI 算力运营服务 <a href="https://mp.weixin.qq.com/s/gW0g453oNAS4HO8U4k1VVg">↗</a> <code>#9</code></li>
+<li>Anthropic 胜诉，拟四季度筹资 600 亿美元上市 <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf">↗</a> <code>#10</code></li>
+<li>OpenAI ChatGPT 广告年化收入破 1 亿美元 <a href="https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot">↗</a> <code>#11</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Anthropic 泄露未发布模型 Claude Mythos <a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/">↗</a> <code>#12</code></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/5g5-cJSuQumzZDVgiCaTuQ">智谱向 GLM Coding Plan 用户开放 GLM-5.1 模型使用</a> <code>#1</code></h2>
+<blockquote>
+<p>智谱向 <strong>GLM Coding Plan</strong> 全体用户开放了未正式发布的 <strong>GLM-5.1</strong> 模型的使用，该模型定位为能处理长周期任务的新一代编程 Agent。根据官方发布的基准测试数据，该模型较前代 <strong>GLM-5</strong> 模型有显著提升。</p>
+<p>用户需在 Coding Agent 配置中手动将模型名称更改为 <code>glm-5.1</code> 方可接入使用。</p>
+<p>官方称计划于 <strong>4月上旬</strong> 正式发布该模型。</p>
+</blockquote>
+<p>智谱向 <strong>GLM Coding Plan</strong> 全部层级（Lite/Pro/Max）用户超前开放了尚未正式发布的 <code>glm-5.1</code> 模型。用户需在所使用的 Coding Agent 自定义配置中手动将模型名称更改为“glm-5.1”进行接入。</p>
+<p>该模型作为高阶模型采用差异化额度消耗机制，高峰期（每日 <strong>14:00-18:00 UTC+8</strong>）按 <strong>3倍</strong> 系数抵扣，非高峰期常规按 <strong>2倍</strong> 抵扣。但作为限时福利，非高峰期抵扣系数降至 <strong>1倍</strong> 并持续至 <strong>4月底</strong>。</p>
+<p>官方提示，在高负载时可能触发保护性限流，并将优先保障编程任务请求。<strong>OpenClaw</strong> 等非核心编程场景在集群繁忙时更易遇到限流。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260327/20260327205111_25e25f4bf0.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260327/20260327205237_6b6a3b346d.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/03d57bab-69ea-4e02-a3a1-d5d2c7d4ac7d/m003.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260328/20260328083750_adfe388249.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/5g5-cJSuQumzZDVgiCaTuQ">https://mp.weixin.qq.com/s/5g5-cJSuQumzZDVgiCaTuQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/5JpX2UxW-SKpyPR4yWOVEw">KwaiKAT 发布 KAT-Coder-Pro V2 模型</a> <code>#2</code></h2>
+<blockquote>
+<p>快手KwaiKAT团队发布了编程模型 <strong>KAT-Coder-Pro V2</strong>。该模型有效攻克了工具调用失败与长链路任务中断等痛点，已上线官方 <code>API</code> 平台和 <code>Coding Plan</code> 套餐。</p>
+</blockquote>
+<p>快手 KwaiKAT 正式发布旗舰级 Agentic Coding 模型 <strong>KAT-Coder-Pro V2</strong>。该模型在 Agentic 场景下具备脚手架泛化能力，兼容十多种主流 AI 编码工具，并针对 <code>OpenClaw</code> 进行了专项训练与深度优化，以解决工具调用失败及长链路任务中断等问题。</p>
+<p>同时，官方称该模型在前端美学生成方向取得突破，在 Landing Page 和 PPT 场景中支持通过口语化描述生成高品质输出。</p>
+<p>目前，<strong>KAT-Coder-Pro V2</strong> 已全量上线，用户可通过 <code>StreamLake.com</code> 平台进行 API 调用或订阅 <strong>Coding Plan</strong> 套餐使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/752d71e1-21ef-42bf-85ee-942b9cfcfe67/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/5JpX2UxW-SKpyPR4yWOVEw">https://mp.weixin.qq.com/s/5JpX2UxW-SKpyPR4yWOVEw</a></li>
+</ul>
+<hr>
+<h2><a href="https://go.meta.me/8dd321">Meta 发布 SAM 3.1，支持单次追踪 16 个目标</a> <code>#3</code></h2>
+<blockquote>
+<p>Meta 推出了 <strong>SAM 3.1</strong> 模型，引入 <code>对象多路复用</code> 技术，实现了单次计算同时追踪最多 <strong>16</strong> 个视频目标，大幅消除算力浪费。</p>
+</blockquote>
+<p>Meta 官方发布了 <strong>SAM 3.1</strong> 模型，作为 <strong>SAM 3</strong> 的直接替换版本。该模型核心引入“对象多路复用”技术，官方称其能在不牺牲准确率前提下，于单次计算中同时追踪多达 <strong>16</strong> 个目标。相较于此前需单独计算的模式，该改进消除了算力浪费，显著提升视频处理效率。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260328/20260328081319_84cecdf28b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://go.meta.me/8dd321">https://go.meta.me/8dd321</a></li>
+</ul>
+<hr>
+<h2><a href="https://code.claude.com/docs/en/tools-reference#powershell-tool">Claude Code 上线 Windows PowerShell 原生运行支持</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 针对 Windows 平台推出了更新，支持原生运行 <code>PowerShell</code> 命令以替代原有的 <code>Git Bash</code> 路由。目前该功能暂不支持自动模式与沙盒机制。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 近期面向 Windows 平台推出了一项需主动启用的预览版 <code>PowerShell</code> 工具，允许其原生运行 <code>PowerShell</code> 命令而无需经由 <code>Git Bash</code> 路由。</p>
+<p>用户可通过配置环境变量或 <code>settings.json</code> 文件来启用该功能。启用后，系统会自动检测 <code>pwsh.exe</code> (<code>PowerShell</code> 7+) 并向下回退兼容 <code>powershell.exe</code> (<code>PowerShell</code> 5.1)。</p>
+<p>同时，官方提供了在交互命令默认设置、命令挂钩及技能前言中指定使用 <code>PowerShell</code> 的相关配置项。</p>
+<p>由于处于预览阶段，该工具目前暂不支持 <code>Auto</code> 模式、配置文件加载、沙盒机制以及 <code>WSL</code> 环境，且启动 <strong>Claude Code</strong> 仍需依赖 <code>Git Bash</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260328/20260328075244_646a4fec3a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/tools-reference#powershell-tool">https://code.claude.com/docs/en/tools-reference#powershell-tool</a></li>
+<li><a href="https://x.com/felixrieseberg/status/2037591709765545985">https://x.com/felixrieseberg/status/2037591709765545985</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.landiannews.com/archives/112371.html">OpenRouter 限制多地用户调用部分模型，称遵上游要求</a> <code>#5</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenRouter</strong> 目前已限制中国大陆等地区的用户调用部分特定模型，触发该限制时会报错 <code>403 Author Banned</code>。<strong>OpenRouter</strong> 称该举措系遵守上游提供商要求。</p>
+</blockquote>
+<p>据报道，<strong>OpenRouter</strong> 近期阻止了中国大陆等地区的用户使用其平台上的部分模型。该平台针对性地限制了特定模型的调用权限，当受影响用户尝试调用这些模型时，系统会提示“403 Author Banned”等信息。</p>
+<p><strong>OpenRouter</strong> 解释称，采取上述政策是为了遵守上游模型提供商的要求。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260328/20260328082107_499cb779bf.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.landiannews.com/archives/112371.html">https://www.landiannews.com/archives/112371.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2037354021787439197">OpenAI 重置 Codex 限额</a> <code>#6</code></h2>
+<blockquote>
+<p>北京时间 <strong>3月27日</strong> 上午十点，OpenAI Codex 负责人 <strong>Thibault Sottiaux</strong> 宣布，为配合新上线的插件系统并鼓励用户体验，重置了所有套餐的 <code>Codex</code> 用量限额。</p>
+</blockquote>
+<p>北京时间3月27日上午约十点，<strong>OpenAI</strong> Codex 负责人 <strong>Thibault Sottiaux</strong> 宣布，为配合新上线的插件系统，官方已重置所有套餐的 <code>Codex</code> 用量限额。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260327/20260327173958_cd881b403c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2037354021787439197">https://x.com/OpenAIDevs/status/2037354021787439197</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NotebookLM/status/2037600736440205471">NotebookLM 支持后台生成与移动端推送通知</a> <code>#7</code></h2>
+<blockquote>
+<p>NotebookLM 现已上线后台生成与移动端推送通知功能。用户在网页或 App 端创建 <strong>Notebook</strong> 及 <strong>studio artifact</strong> 时，可直接离开当前页面，系统会在内容生成完毕后自动向移动设备发送提醒。</p>
+</blockquote>
+<p><strong>NotebookLM</strong> 现已全面支持后台生成与推送通知功能。用户在网页端或移动端 App 上发起创建 <strong>Notebook</strong> 或 <strong>studio artifact</strong> 任务后，可随时离开当前页面。</p>
+<p>该系统会在后台继续执行生成任务，并在处理完成后自动向用户移动设备发送推送通知。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260328/20260328075839_a2e1a23af1.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2037600736440205471">https://x.com/NotebookLM/status/2037600736440205471</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli">钉钉开源 dws 跨平台命令行工具 面向 AI Agent 场景</a> <code>#8</code></h2>
+<blockquote>
+<p>钉钉开源了名为 <strong>DingTalk Workspace</strong> 的跨平台命令行工具，将通讯录、审批、日历等核心产品能力统一打包，专为企业的人类员工以及 AI 智能体双重场景设计。</p>
+</blockquote>
+<p>钉钉现已开源了名为 <strong>DingTalk Workspace</strong> 的跨平台命令行工具，旨在将钉钉的全套产品能力统一打包，专为人类用户与 AI Agent 双重场景设计。该工具无需编写样板代码即可调用各项服务，所有响应默认为结构化 JSON 输出，并内置了 Agent Skills，使大语言模型（LLM）无需自定义工具即可开箱即用地管理钉钉工作台。</p>
+<p>目前，该项目已在 GitHub 上采用 <code>Apache-2.0</code> 许可证发布，提供针对 <code>macOS</code>、<code>Linux</code> 和 <code>Windows</code> 的自动化一键安装脚本。</p>
+<p>由于当前处于共创阶段，开发者在配置环境变量并创建钉钉企业内部应用后，还需加入官方共创群以完成白名单配置方可正常使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/8b1f1971-cfb0-4786-84cc-e1836d299a33/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli">https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/gW0g453oNAS4HO8U4k1VVg">硅基流动推出 AI 算力运营服务</a> <code>#9</code></h2>
+<blockquote>
+<p>硅基流动推出 <strong>AI算力运营服务</strong>，帮助企业解决算力闲置与运维成本高的痛点。企业可通过联合运营模式按量分成，或在满足安全合规的前提下，利用算力消纳模式将自有冗余算力直接转化为额外收益。</p>
+</blockquote>
+<p>硅基流动宣布推出 <strong>“AI 算力运营服务”</strong>，旨在帮助企业将现有算力转化为高效 Token 工厂，解决闲置与运维成本痛点。该服务支持 <strong>英伟达</strong>、<strong>昇腾</strong> 等多架构芯片统一接入与异构弹性调度。</p>
+<p>通过自研推理加速引擎，其在相同硬件下显著提升单卡 Token 产出与集群利用率，支持 <code>Coding</code>、<code>Agent</code> 等场景。</p>
+<p>合作模式分 <strong>“联合运营”</strong> 与 <strong>“算力消纳”</strong> 两种：前者面向 IDC 及芯片厂商，按服务量分成且试运行免服务费；后者面向政企及互联网企业，助其将冗余算力合规转化为收益。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/08bff56a-764c-4116-8a16-c5e5c8173e6c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/gW0g453oNAS4HO8U4k1VVg">https://mp.weixin.qq.com/s/gW0g453oNAS4HO8U4k1VVg</a></li>
+</ul>
+<hr>
+<h2><a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf">Anthropic 胜诉，拟四季度筹资 600 亿美元上市</a> <code>#10</code></h2>
+<blockquote>
+<p>据报道，<strong>Anthropic</strong> 取得重大法律胜利，联邦法官裁定美国国防部将 <code>Claude</code> 模型列为供应链风险并下达禁用的决定，涉嫌对该公司设置AI安全限制的非法报复。</p>
+<p>与此同时，该公司的资本化进程加速，高管已讨论于今年第四季度启动首次公开募股，拟筹资超 <strong>六百亿美元</strong>，有望成为全球第二大IPO。</p>
+</blockquote>
+<p>旧金山联邦法官批准 <strong>Anthropic</strong> 针对美国国防部的初步禁令，暂时阻止政府将其列为“供应链风险”及禁用 <code>Claude</code> 模型。法院认为相关部门措施涉嫌非法报复，裁决旨在恢复此前现状。</p>
+<p>据媒体援引知情人士称，该公司高管已讨论最早于今年第四季度进行 IPO，拟筹集超 <strong>600 亿美元</strong>资金，有望成为全球规模第二大 IPO。目前其年化收入达 <strong>190 亿美元</strong>，正与律所合作推进上市流程。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260327/20260327173719_de967370d6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf">https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf</a></li>
+<li><a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html">https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot">OpenAI ChatGPT 广告年化收入破 1 亿美元</a> <code>#11</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>大约六周前在美国地区针对<strong>ChatGPT</strong>免费版和<strong>Go</strong>版用户上线的广告业务试点，其年化收入已突破<strong>1亿美元</strong>，目前广告主数量超<strong>600家</strong>。</p>
+</blockquote>
+<p>据外媒 <strong>The Information</strong> 独家报道，<strong>OpenAI</strong> 在大约 6 周前上线的 <strong>ChatGPT</strong> 广告业务试点中，其广告年化收入（ARR）已经突破了 <strong>1 亿美元</strong>，目前广告主数量已超 <strong>600 家</strong>。</p>
+<p>该广告业务主要面向美国地区具备资格的 <strong>ChatGPT Free</strong> 和 <strong>Go</strong> 版本用户展示。</p>
+<p>为进一步扩大规模，<strong>OpenAI</strong> 计划于 <strong>4 月份</strong> 正式推出自助广告投放平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/cfa095c3-bfab-41a4-806b-90a9a53c1b0e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot">https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot</a></li>
+</ul>
+<hr>
+<h2><a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/">Anthropic 泄露未发布模型 Claude Mythos</a> <code>#12</code></h2>
+<blockquote>
+<p>Anthropic 因外部工具配置错误泄露了代号为“Capybara”的未发布新模型信息，该模型正式名称将为 <strong>Claude Mythos</strong>，定位在 <strong>Claude Opus</strong> 之上的全新第四档，在编码、推理及网络安全能力上实现了跨越式提升。</p>
+<p>鉴于其极高的网络攻击风险，<strong>Anthropic</strong> 采取了罕见的防御优先策略，目前仅向网络安全防御机构开放早期访问以建立防守优势，暂不面向公众。</p>
+<p>同时，因运行成本极高，该模型需大幅优化效率后才会考虑广泛发布。</p>
+</blockquote>
+<p>Anthropic 因外部 CMS 配置错误，意外泄露未发布模型 <code>Claude Mythos</code>（代号 Capybara）信息，涉及近 <strong>3000</strong> 份早期草稿。该事件由安全研究员发现并经媒体核实。</p>
+<p>官方确认该模型为 Claude Opus 之上的全新第四档，在编码及网络安全测试中得分大幅超越 <code>Claude Opus 4.6</code>。</p>
+<p>鉴于官方警告其网络能力“远超任何其他 AI 模型”，存在引发漏洞利用浪潮风险，该公司优先向网络安全防御机构开放早期访问。</p>
+<p>官方坦言该模型运行成本极高，需优化效率后才考虑广泛发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/67238298-2212-4a54-842c-aaea2f6fc044/3ab1600c-1ad3-4c68-add2-395849efa7c2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/">https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/</a></li>
+<li><a href="https://cybersecuritynews.com/anthropic-claude-mythos/">https://cybersecuritynews.com/anthropic-claude-mythos/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/42</guid><pubDate>Sat, 28 Mar 2026 01:12:44 +0000</pubDate></item><item><title>2026-03-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-41/</link><description>AI 早报 2026-03-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 谷歌发布 Gemini 3.1 Flash Live，支持 90 种语言对话 ↗ #1 模型发布 Suno 正式推出 Suno v5.5 模型及个性化声音等新功能 ↗ #2 Cohere 发布开源语音识别模型 Cohere Transcribe ↗ #3 Mistral AI 发布 Voxtral TTS 模型 ↗ #4 OpenDataLab 发布 MinerU-Diffusion-V1 ↗ #5 Meta 发布 TRIBE v2，三模态模型预测人脑 fMRI 响应 ↗ #6 Chroma 发布 200 亿参数 Context-1，开源 agentic 搜索模型 ↗ #7 英伟达发布 gpt-oss-puzzle-88B 剪…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260327/20260327085140339486e602_cover_c58c.png" alt=""></p>
 <h1>AI 早报 2026-03-27</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV19LX8BuE8m">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=dFZnIq3puSk">YouTube</a></p>
 <h2>概览</h2>
