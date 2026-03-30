@@ -1,5 +1,79 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 29 Mar 2026 00:26:28 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-29</title><link>https://imjuya.github.io/juya-ai-daily/issue-43/</link><description>AI 早报 2026-03-29 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 推出 Codex 用例库，展示 Codex 应用场景与使用技巧 ↗ #1 飞书开源 lark-cli，支持 AI Agent，覆盖 11 个业务域 ↗ #2 产品应用 OpenAI 明确：Sora 应用 4 月停止服务， API 9月下线 ↗ #3 fnOS 新增 OpenClaw 应用中心安装支持 #4 技术与洞察 RaBitQ 团队质疑 Google TurboQuant 论文存学术不端嫌疑 ↗ #5 行业动态 谷歌据称将出资数十亿支持 Anthropic 得州数据中心建设 #6 前瞻与传闻 Google 新一代开源模型 Gemma 4 或将发布 ↗ #7 OpenAI 推出 Codex 用例库，展示 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260329/202603290815045047752acb_cover_5162.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 30 Mar 2026 00:37:31 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-44/</link><description>AI 早报 2026-03-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 网页端与APP服务屡现异常 ↗ #1 产品应用 OpenClaw 更新，集成 xAI 及插件审批功能 ↗ #2 前瞻与传闻 传 OpenAI 拟上线 Codex-only 订阅计划 ↗ #3 Meta 测试 Avocado 模型，据称性能仍落后 ↗ #4 DeepSeek 网页端与APP服务屡现异常 #1 DeepSeek 网页与App端的聊天服务自昨晚起，经历了反复的性能异常，截至今日早晨仍未完全恢复。但提供旧模型的API服务仍保持稳定。 与此同时，据用户观察，DeepSeek在昨晚疑似更新了网页与App端提供服务的模型，大幅提升了文本质量、流畅度以及SVG生成能力。 DeepSeek 网页与 APP 的对…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260330/202603300818223015324352_cover_0b07.png" alt=""></p>
+<h1>AI 早报 2026-03-30</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1qdXoBdEYy">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=rOa6vwRQk-Q">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>DeepSeek 网页端与APP服务屡现异常 <a href="https://status.deepseek.com/">↗</a> <code>#1</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenClaw 更新，集成 xAI 及插件审批功能 <a href="https://x.com/openclaw/status/2038084923517796839">↗</a> <code>#2</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>传 OpenAI 拟上线 Codex-only 订阅计划 <a href="https://x.com/btibor91/status/2037814739519062506">↗</a> <code>#3</code></li>
+<li>Meta 测试 Avocado 模型，据称性能仍落后 <a href="https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/">↗</a> <code>#4</code></li>
+</ul>
+<hr>
+<h2><a href="https://status.deepseek.com/">DeepSeek 网页端与APP服务屡现异常</a> <code>#1</code></h2>
+<blockquote>
+<p>DeepSeek 网页与App端的聊天服务自昨晚起，经历了反复的性能异常，截至今日早晨仍未完全恢复。但提供旧模型的API服务仍保持稳定。</p>
+<p>与此同时，据用户观察，DeepSeek在昨晚疑似更新了网页与App端提供服务的模型，大幅提升了文本质量、流畅度以及SVG生成能力。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 网页与 APP 的对话服务自昨夜起出现连续异常。官方状态页显示，晚间 <strong>21 时许</strong>发生服务异常。官方团队在定位问题并实施修复后，于当夜 <strong>23 时许</strong>将此事件标记为已解决。</p>
+<p>然而，进入次日凌晨零时后不久，上述服务再次报告发生性能异常。官方团队随之多次介入处理，状态页面记录显示其在凌晨 <strong>1 时许</strong>曾实施修复并进入监控状态，但随后在凌晨 <strong>2 时许</strong>状态又回退至“调查中”。截至今日早晨，该起性能异常事件仍停留在“调查中”阶段，服务尚未完全恢复。</p>
+<p>同期据社区反馈，<strong>DeepSeek</strong> 昨夜更新了网页端与 App 端提供服务的模型，文本质量、SVG 生成能力及思维链风格均有优化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260330/20260330081133_72e54c205a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260330/20260330081736_f333563caf.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://status.deepseek.com/">https://status.deepseek.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/openclaw/status/2038084923517796839">OpenClaw 更新，集成 xAI 及插件审批功能</a> <code>#2</code></h2>
+<blockquote>
+<p>OpenClaw官方发布了 <strong>2026.3.28</strong> 版本。此次更新重点引入了 <code>Plugin approval hooks</code> 机制，让工具执行时可暂停以等待用户的确认。</p>
+<p>新增了对 <code>xAI Responses API</code> 和 <code>x_search</code> 的支持，并开放了 <code>Discord</code> 与 <code>iMessage</code> 的 <code>ACP</code> 绑定功能。</p>
+</blockquote>
+<p>OpenClaw 官方发布了标识为 <strong>2026.3.28</strong> 的最新版本更新。此次发布被官方定位于 <strong>ClawCon</strong> 大会前在东京推出的预热版本。</p>
+<p>在功能拓展方面，该版本引入了 <code>Plugin approval hooks</code>，允许任何工具在执行过程中暂停并等待用户的确认；同时增加了对 <code>xAI Responses API</code> 及 <code>x_search</code> 的支持。</p>
+<p>此外，新版还开放了 <code>ACP</code> 绑定功能，目前兼容 <code>Discord</code> 和 <code>iMessage</code> 平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260329/20260329193027_9aa7ea3723.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/openclaw/status/2038084923517796839">https://x.com/openclaw/status/2038084923517796839</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/btibor91/status/2037814739519062506">传 OpenAI 拟上线 Codex-only 订阅计划</a> <code>#3</code></h2>
+<blockquote>
+<p>开发者发现，OpenAI似乎正筹备推出全新的 <strong>“Codex-only plan”</strong> 订阅服务，旨在提供成本更低、专供 <strong>Codex</strong> 使用的专属套餐。目前 <strong>ChatGPT</strong> 网页端已出现相关字样。</p>
+</blockquote>
+<p>据开发者发现，<strong>OpenAI</strong> 似乎正在筹备推出一项全新的 <strong>“Codex-only plan”</strong> 订阅服务，旨在为用户提供一种成本更低、且专供其 AI 编码 Agent 使用的选项。</p>
+<p>目前 <strong>ChatGPT</strong> 的网页端应用及安卓端应用中已出现关于该计划的明确字样，其中包含一条提示文本写道：“如果您想使用 ChatGPT，请向您的管理员提交请求”。</p>
+<p>这暗示上述专属计划在推出后可能会与企业或团队的管理员权限配置存在关联。</p>
+<p>但目前该订阅方案的具体发布时间、定价及官方详情均尚未得到官方证实。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b072995-8733-40b3-8076-4fa1f4aa0373/fca7c27d-f069-47cf-b3ac-dddf46f63f40/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/btibor91/status/2037814739519062506">https://x.com/btibor91/status/2037814739519062506</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/">Meta 测试 Avocado 模型，据称性能仍落后</a> <code>#4</code></h2>
+<blockquote>
+<p>据报道，Meta正在内部评估下一代代号为 <strong>Avocado</strong> 的AI模型系列，该系列包含了 <strong>90亿参数</strong> 的轻量版、支持图像生成的多模态版、专注工具调用的 <code>TOMM</code> 版以及强化逻辑推理的 <code>Thinking</code> 版等多种版本。</p>
+</blockquote>
+<p>Meta 正在内部测试其代号为 <strong>Avocado</strong> 的下一代 <strong>AI 模型</strong>系列，旨在涵盖从轻量化到多模态的多种应用场景，包括 <strong>90 亿参数</strong>的 <code>Avocado 9B</code>、具备图像生成能力的 <code>Avocado Mango Agent</code>、专注于工具集成的 <code>Avocado TOMM</code> 以及强化逻辑推理的 <code>Avocado Thinking 5.6</code> 等版本。</p>
+<p>尽管内部泄露的模型选择器显示该系列已进入大规模并行实验阶段，但由于性能评估显示其在复杂任务上仍落后于 <strong>Google Gemini 3</strong> 和 <strong>OpenAI GPT-5</strong> 等竞争对手，Meta 已将原定于 <strong>2026 年 3 月</strong>的发布时间推迟至至少 <strong>5 月</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b072995-8733-40b3-8076-4fa1f4aa0373/bf4bb151-dd8b-4941-bb65-6a2ef2390d79/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/">https://www.testingcatalog.com/exclusive-meta-tests-avocado-9b-avocado-mango-agent-and-more/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/44</guid><pubDate>Mon, 30 Mar 2026 00:37:11 +0000</pubDate></item><item><title>2026-03-29</title><link>https://imjuya.github.io/juya-ai-daily/issue-43/</link><description>AI 早报 2026-03-29 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 OpenAI 推出 Codex 用例库，展示 Codex 应用场景与使用技巧 ↗ #1 飞书开源 lark-cli，支持 AI Agent，覆盖 11 个业务域 ↗ #2 产品应用 OpenAI 明确：Sora 应用 4 月停止服务， API 9月下线 ↗ #3 fnOS 新增 OpenClaw 应用中心安装支持 #4 技术与洞察 RaBitQ 团队质疑 Google TurboQuant 论文存学术不端嫌疑 ↗ #5 行业动态 谷歌据称将出资数十亿支持 Anthropic 得州数据中心建设 #6 前瞻与传闻 Google 新一代开源模型 Gemma 4 或将发布 ↗ #7 OpenAI 推出 Codex 用例库，展示 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260329/202603290815045047752acb_cover_5162.png" alt=""></p>
 <h1>AI 早报 2026-03-29</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1zQX1BfE4j">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=GaKOOmGwHgk">YouTube</a></p>
 <h2>概览</h2>
