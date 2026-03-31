@@ -1,5 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 30 Mar 2026 00:37:31 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-44/</link><description>AI 早报 2026-03-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 网页端与APP服务屡现异常 ↗ #1 产品应用 OpenClaw 更新，集成 xAI 及插件审批功能 ↗ #2 前瞻与传闻 传 OpenAI 拟上线 Codex-only 订阅计划 ↗ #3 Meta 测试 Avocado 模型，据称性能仍落后 ↗ #4 DeepSeek 网页端与APP服务屡现异常 #1 DeepSeek 网页与App端的聊天服务自昨晚起，经历了反复的性能异常，截至今日早晨仍未完全恢复。但提供旧模型的API服务仍保持稳定。 与此同时，据用户观察，DeepSeek在昨晚疑似更新了网页与App端提供服务的模型，大幅提升了文本质量、流畅度以及SVG生成能力。 DeepSeek 网页与 APP 的对…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260330/202603300818223015324352_cover_0b07.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 31 Mar 2026 01:00:44 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-31</title><link>https://imjuya.github.io/juya-ai-daily/issue-45/</link><description>AI 早报 2026-03-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里千问上线 Qwen3.6 Plus Preview 模型 ↗ #1 阿里千问发布 Qwen3.5-Omni 系列模型 ↗ #2 美团龙猫团队发布并开源 LongCat-AudioDiT 模型 ↗ #3 爱诗科技发布视频生成模 PixVerse V6 ↗ #4 微软发布 Harrier-OSS-v1 多语言嵌入模型 ↗ #5 开发生态 月之暗面将 Kimi 会员计费体系调整为统一额度 ↗ #6 Claude Code 上线 Computer Use，支持 GitHub Enterprise Server ↗ #7 Claude Code 开发者分享 Claude Code 未被充分利用的高阶功能。 ↗ #8 OpenAI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260331/202603310841252494269254_cover_ce3d.png" alt=""></p>
+<h1>AI 早报 2026-03-31</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1K1XBBDEgc">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=M-f0IAt5aeI">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>阿里千问上线 Qwen3.6 Plus Preview 模型 <a href="https://openrouter.ai/qwen/qwen3.6-plus-preview">↗</a> <code>#1</code></li>
+<li>阿里千问发布 Qwen3.5-Omni 系列模型 <a href="https://qwen.ai/blog?id=qwen3.5-omni">↗</a> <code>#2</code></li>
+<li>美团龙猫团队发布并开源 LongCat-AudioDiT 模型 <a href="https://github.com/meituan-longcat/LongCat-AudioDiT">↗</a> <code>#3</code></li>
+<li>爱诗科技发布视频生成模 PixVerse V6 <a href="https://x.com/PixVerse_/status/2038711108119281671">↗</a> <code>#4</code></li>
+<li>微软发布 Harrier-OSS-v1 多语言嵌入模型 <a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>月之暗面将 Kimi 会员计费体系调整为统一额度 <a href="https://www.kimi.com/membership-credits">↗</a> <code>#6</code></li>
+<li>Claude Code 上线 Computer Use，支持 GitHub Enterprise Server <a href="https://code.claude.com/docs/en/computer-use">↗</a> <code>#7</code></li>
+<li>Claude Code 开发者分享 Claude Code 未被充分利用的高阶功能。 <a href="https://x.com/bcherny/status/2038454336355999749">↗</a> <code>#8</code></li>
+<li>OpenAI 发布 Claude Code 的 Codex 插件 <a href="https://x.com/reach_vb/status/2038670509768839458">↗</a> <code>#9</code></li>
+<li>Hermes Agent 新增 Multi Agent Profiles 功能 <a href="https://hermes-agent.nousresearch.com/docs/user-guide/profiles/">↗</a> <code>#10</code></li>
+<li>企业微信开源 wecom-cli，支持 AI Agent 终端操作办公业务 <a href="https://github.com/WecomTeam/wecom-cli">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>智谱 Z.ai Chat 更新，支持一键接入飞书和微信 <a href="https://chat.z.ai">↗</a> <code>#12</code></li>
+<li>Microsoft 365 Copilot 研究 Agent 引入 Critique 等多模型能力 <a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011">↗</a> <code>#13</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>GitHub 遭遇投毒攻击，20 万垃圾 Issue 污染 WSL 等项目 <a href="https://github.com/microsoft/WSL/issues/40028">↗</a> <code>#14</code></li>
+<li>Mistral AI 筹集 8.3 亿美元融资 采购13800块 Nvidia GPU <a href="https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/">↗</a> <code>#15</code></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/qwen/qwen3.6-plus-preview">阿里千问上线 Qwen3.6 Plus Preview 模型</a> <code>#1</code></h2>
+<blockquote>
+<p>阿里千问在 OpenRouter 上线了 <strong>Qwen3.6 Plus Preview</strong> 模型。该模型支持百万上下文，官方称较前代具备更强的推理能力和更可靠的 <strong>Agent</strong> 行为，并在 <strong>Agentic coding</strong>、前端开发及复杂问题解决等任务上表现优异。</p>
+<p>模型预览期间，开发者可以在 <strong>OpenRouter</strong>、<strong>OpenCode</strong> 和 <strong>Kilo Code</strong> 等平台和工具免费调用该模型。</p>
+</blockquote>
+<p>阿里Qwen团队在 OpenRouter 平台正式上线了 <strong>Qwen3.6 Plus Preview</strong> 模型。该模型作为 <strong>Qwen Plus</strong> 系列的下一代演进版本，采用先进的混合架构以提升效率与可扩展性。</p>
+<p>其支持高达 <strong>1,000,000</strong> token 的上下文窗口以及最大 <strong>65,536</strong> tokens 的输出。官方表示，相较于 <strong>Qwen3.5</strong> 系列，这款新模型具备更强的推理能力和更可靠的 Agent 行为，在基准测试中表现达到或超过当前领先的 SOTA 模型，并在 Agentic coding、前端开发及复杂问题解决等任务上表现优异。</p>
+<p>模型预览期间，开发者可以在 OpenRouter、OpenCode 和 Kilo Code 等平台和工具免费调用该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331080017_aa2e2a6f6b.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331080403_9312f9566b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/qwen/qwen3.6-plus-preview">https://openrouter.ai/qwen/qwen3.6-plus-preview</a></li>
+<li><a href="https://x.com/opencode/status/2038743310559244582">https://x.com/opencode/status/2038743310559244582</a></li>
+</ul>
+<hr>
+<h2><a href="https://qwen.ai/blog?id=qwen3.5-omni">阿里千问发布 Qwen3.5-Omni 系列模型</a> <code>#2</code></h2>
+<blockquote>
+<p>阿里千问正式发布了新一代全模态大模型 <strong>Qwen3.5-Omni</strong> 系列，包含 <strong>Plus</strong>、<strong>Flash</strong> 和 <strong>Light</strong> 三种尺寸。</p>
+<p>该模型原生实现了对文本、图片、音频及音视频的统一理解，同时支持超长音视频输入、音色克隆、智能语义打断以及 <strong>113</strong> 种语种和方言的语音交互。</p>
+<p>目前，企业及开发者已可通过 <strong>Qwen Chat</strong>、阿里云百炼 API 进行体验和集成。</p>
+</blockquote>
+<p><strong>Qwen Team</strong> 近日正式发布了新一代全模态大模型 <strong>Qwen3.5-Omni</strong> 系列，包含 <strong>Plus</strong>、<strong>Flash</strong>、<strong>Light</strong> 三种尺寸。该模型原生支持文本、图片、音频及音视频的理解，其 <strong>Thinker</strong> 与 <strong>Talker</strong> 模块均升级为 <code>Hybrid-Attention MoE</code> 架构，支持 256k 长上下文，单轮可处理最长 3 小时的音频输入或 1 小时的 720P 音视频输入。</p>
+<p>根据官方提供的数据，<strong>Qwen3.5-Omni-Plus</strong> 在 215 项子任务和 Benchmark 上取得 SOTA 成绩，其通用音频能力全面超越 <strong>Gemini-3.1 Pro</strong>，音视频理解能力总体达到 <strong>Gemini-3.1 Pro</strong> 水平，视觉与文本能力则与同尺寸的 <strong>Qwen3.5</strong> 模型效果持平。</p>
+<p>新模型涌现出 <strong>Audio-Visual Vibe Coding</strong> 能力，可根据音视频指令直接生成代码，并具备剧本级音视频 Caption 生成、音色克隆、智能语义打断及原生 WebSearch 调用等特性，支持 113 种语种和方言的语音识别及 36 种语种和方言的语音生成。</p>
+<p>目前，用户可通过 <strong>Qwen Chat</strong>、阿里云百炼 API 以及 <strong>Hugging Face</strong> 和 <strong>ModelScope</strong> 的 Demo 进行体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331081909_a186ab8be4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://qwen.ai/blog?id=qwen3.5-omni">https://qwen.ai/blog?id=qwen3.5-omni</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/meituan-longcat/LongCat-AudioDiT">美团龙猫团队发布并开源 LongCat-AudioDiT 模型</a> <code>#3</code></h2>
+<blockquote>
+<p>美团龙猫团队推出了文本转语音模型 <code>LongCat-AudioDiT</code>，提供 <strong>1B</strong> 和 <strong>3.5B</strong> 两种规格。该模型直接在波形潜空间运行，支持高保真的中英双语音频生成。</p>
+</blockquote>
+<p>美团龙猫团队发布非自回归扩散 TTS 模型 <strong>LongCat-AudioDiT</strong>。其在波形潜空间运行，仅需 <code>Wav-VAE</code> 和扩散主干，规避中间声学表示依赖。</p>
+<p>官方称引入自适应投影引导（APG）取代传统 CFG，修复训练与推理不匹配问题。</p>
+<p>该模型提供 <strong>1B</strong> 和 <strong>3.5B</strong> 两种规格，支持中英高保真生成。</p>
+<p>官方数据显示，<strong>3.5B</strong> 版本在 <strong>Seed</strong> 基准测试中实现 SOTA 零样本语音克隆性能，SIM 得分在 <strong>Seed-ZH</strong> 从 <strong>0.809</strong> 升至 <strong>0.818</strong>，<strong>Seed-Hard</strong> 从 <strong>0.776</strong> 升至 <strong>0.797</strong>。</p>
+<p>目前，项目代码及权重已在 GitHub 和 Hugging Face 开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ce3deadf-6844-423f-8e61-3b86a811133f/f1d5f930-b136-413e-9184-b7c7c8e9fc1d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/meituan-longcat/LongCat-AudioDiT">https://github.com/meituan-longcat/LongCat-AudioDiT</a></li>
+<li><a href="https://huggingface.co/meituan-longcat/LongCat-AudioDiT-3.5B">https://huggingface.co/meituan-longcat/LongCat-AudioDiT-3.5B</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/PixVerse_/status/2038711108119281671">爱诗科技发布视频生成模 PixVerse V6</a> <code>#4</code></h2>
+<blockquote>
+<p>爱诗科技正式发布全新视频模型 <strong>PixVerse V6</strong>，创作者和企业能利用该模型在几十秒内极速生成具备电影级控制权的 <strong>1080P</strong> 视频，实现复杂的特效与镜头叙事。</p>
+</blockquote>
+<p><strong>PixVerse</strong>（爱诗科技）近期正式发布了全新的视频模型 <strong>PixVerse V6</strong>。该模型在视觉表现上实现了逼真动作、丰富皮肤细节与真实情绪的融合，赋予创作者从编舞到镜头的全面电影级控制权，并大幅提升了视觉特效（<code>VFX</code>）、延时摄影、变身场景、产品演示及多镜头叙事的生成能力。</p>
+<p>同时，<strong>PixVerse</strong> 推出了面向工作室的 <code>Team Plan</code> 协同功能，支持 2 至 15 人团队协作、共享积分池、角色权限管理及资产单向同步。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331075050_5806900f69.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/PixVerse_/status/2038711108119281671">https://x.com/PixVerse_/status/2038711108119281671</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">微软发布 Harrier-OSS-v1 多语言嵌入模型</a> <code>#5</code></h2>
+<blockquote>
+<p>微软发布了 <strong>Harrier-OSS-v1</strong> 多语言文本嵌入模型系列，涵盖 <strong>270M</strong> 到 <strong>27B</strong> 三种参数规模，全面采用 <code>Decoder-only</code> 架构并支持 <strong>32k</strong> 上下文窗口，突破了传统模型处理长文本的瓶颈。</p>
+</blockquote>
+<p>微软近日发布了名为 <code>Harrier-OSS-v1</code> 的多语言文本嵌入模型系列。该系列包含 <strong>270M</strong>、<strong>0.6B</strong> 和 <strong>27B</strong> 三种参数规模，全面采用与现代大语言模型相似的 <code>Decoder-only</code> 架构，并结合 <code>last-token pooling</code> 与 <code>L2 normalization</code> 技术来生成密集的文本向量。</p>
+<p>所有上述模型均统一支持高达 <strong>32,768</strong> 个 token 的上下文窗口。该系列模型可广泛应用于检索、聚类、语义相似度计算、分类、双语文本挖掘及重排等多种任务。</p>
+<p>开发者目前可通过 Hugging Face 获取该系列模型的权重，在使用时需特别注意其为指令微调模型，必须在查询端前置单句任务描述指令，而文档端则无需添加任何指令。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ce3deadf-6844-423f-8e61-3b86a811133f/9abdfe44-ce05-42ac-8cf5-f655526b68f2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">https://huggingface.co/microsoft/harrier-oss-v1-27b</a></li>
+<li><a href="https://huggingface.co/microsoft/harrier-oss-v1-0.6b">https://huggingface.co/microsoft/harrier-oss-v1-0.6b</a></li>
+<li><a href="https://huggingface.co/microsoft/harrier-oss-v1-270m">https://huggingface.co/microsoft/harrier-oss-v1-270m</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.kimi.com/membership-credits">月之暗面将 Kimi 会员计费体系调整为统一额度</a> <code>#6</code></h2>
+<blockquote>
+<p>Kimi宣布将全面升级会员计费体系，将原有的各功能独立计次变更为基于实际<code>token</code>消耗的统一额度跨功能共享机制，涵盖<code>Agent</code>、编程及图片生成等全部会员权益。现有会员权益已自动等价迁移至新额度池，按月刷新。</p>
+</blockquote>
+<p>月之暗面宣布升级会员计费体系，将原有各功能独立计次调整为统一额度、跨功能共享机制。该额度池覆盖 <strong>Agent</strong> 系列、<code>Kimi Code</code>、<code>Kimi Claw</code> 及图片生成等全部会员功能，消耗依据实际 <code>token</code> 量。</p>
+<p>现有用户权益自动迁移为等价新额度，月度与年度会员额度均按月刷新，扣费优先使用获赠额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331074204_e3ff10beae.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.kimi.com/membership-credits">https://www.kimi.com/membership-credits</a></li>
+</ul>
+<hr>
+<h2><a href="https://code.claude.com/docs/en/computer-use">Claude Code 上线 Computer Use，支持 GitHub Enterprise Server</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 上线了面向 <strong>macOS</strong> 平台 <strong>Pro</strong> 和 <strong>Max</strong> 用户的 <code>Computer Use</code> 研究预览版，允许开发者通过命令行指令控制屏幕、点击界面并完成端到端的 GUI 测试。</p>
+<p>同时，<strong>Claude Code</strong> 现已全面支持 <strong>GitHub Enterprise Server</strong>。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 近期迎来多项重要更新。在功能层面，官方正式推出了“Computer Use”研究预览版，允许 <strong>macOS</strong> 平台的 <strong>Pro</strong> 和 <strong>Max</strong> 计划用户通过内置 <code>MCP</code> 服务赋予 <code>CLI</code> 控制屏幕、点击界面及进行端到端 <code>GUI</code> 测试的能力。</p>
+<p>在企业级服务方面，<strong>Claude Code</strong> 现已全面支持 <strong>GitHub Enterprise Server (GHES)</strong>，涵盖网页端、iOS、Android 及 <code>Code Review</code> 功能。企业开发者可以直接对自托管仓库运行异步工作流而无需迁移至 github.com。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ce3deadf-6844-423f-8e61-3b86a811133f/5d307b60-596d-4919-8ac9-25e1a6b0c182/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/computer-use">https://code.claude.com/docs/en/computer-use</a></li>
+<li><a href="https://code.claude.com/docs/en/github-enterprise-server">https://code.claude.com/docs/en/github-enterprise-server</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/bcherny/status/2038454336355999749">Claude Code 开发者分享 Claude Code 未被充分利用的高阶功能。</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 开发者分享了一系列高阶冷门功能。用户不仅能利用 <code>loop</code> 和 <code>schedule</code> 命令实现长达一周的任务自动化，还能通过 <code>batch</code> 命令结合 <code>git worktrees</code> 将大规模代码迁移分发给成百上千个并行 Agent 处理。</p>
+<p>此外，开发人员还可以通过 <code>bare</code> 参数将 SDK 启动速度提升十倍，并使用 <code>agent</code> 参数挂载自定义系统提示词与工具。</p>
+</blockquote>
+<p>近期，开发者 <strong>Boris Cherny</strong> 在社交平台上分享了一系列关于 <strong>Claude Code</strong> 隐藏且未被充分利用的高阶功能。该系列功能覆盖了跨设备协同、任务自动化、Agent 生命周期管理以及高度定制化的工作流。</p>
+<p>通过这些特性，用户可以在 iOS/Android 移动端与桌面端、终端之间无缝转移或远程控制会话；利用 <code>/loop</code> 和 <code>/schedule</code> 长时间自动执行代码审查等任务；借助 Hooks 在 Agent 生命周期中注入自定义逻辑；或通过 <code>/batch</code> 结合 <code>git worktrees</code> 将大规模代码迁移任务分发给成百上千个并行 Agent 处理。</p>
+<p>此外，他还展示了如何通过 <code>--bare</code> 参数实现最高达 <strong>10 倍</strong> 的 SDK 启动加速，以及通过 <code>--agent</code> 挂载自定义系统提示词和工具。</p>
+<p>这些功能现已在 <strong>Claude Code</strong> 的各类客户端及命令行工具中向用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ce3deadf-6844-423f-8e61-3b86a811133f/ced21b1b-9c2e-4f63-9444-fa01fc4e92f1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/bcherny/status/2038454336355999749">https://x.com/bcherny/status/2038454336355999749</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/reach_vb/status/2038670509768839458">OpenAI 发布 Claude Code 的 Codex 插件</a> <code>#9</code></h2>
+<blockquote>
+<p>OpenAI发布了为<strong>Claude Code</strong>打造的插件<code>codex-plugin-cc</code>，让开发者可以在<strong>Claude Code</strong>中调用 <strong>Codex</strong>，用来进行代码审查或接管任务。该插件封装了<strong>Codex</strong> app-server，提供标准审查、对抗性审查和任务接管三大核心功能。</p>
+</blockquote>
+<p>OpenAI 官方推出了一款 <strong>Claude Code</strong> 插件 <code>codex-plugin-cc</code>，允许开发者在 <strong>Claude Code</strong> 工作流中直接调用 <strong>Codex</strong> 作为“第二意见”进行代码审查或任务接管。</p>
+<p>该插件提供了标准代码审查、对抗性审查和任务移交三大核心功能，并支持作业后台运行与审查门控设置。</p>
+<p>在技术实现上，该插件封装了 <code>Codex</code> app-server，复用现有的本地认证、配置、环境和 MCP 设置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331080743_8eaa31a20d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/reach_vb/status/2038670509768839458">https://x.com/reach_vb/status/2038670509768839458</a></li>
+<li><a href="https://github.com/openai/codex-plugin-cc">https://github.com/openai/codex-plugin-cc</a></li>
+</ul>
+<hr>
+<h2><a href="https://hermes-agent.nousresearch.com/docs/user-guide/profiles/">Hermes Agent 新增 Multi Agent Profiles 功能</a> <code>#10</code></h2>
+<blockquote>
+<p>Nous Research 推出了 Hermes Agent 的重大更新，上线了核心功能 <strong>Multi Agent Profiles</strong>。开发者只需执行 <code>hermes update</code> 命令即可获取该功能，实现在同一台机器上运行多个智能体。</p>
+</blockquote>
+<p>Nous Research 推出 Hermes Agent 更新，引入 <strong>Multi Agent Profiles</strong> 功能。官方确认，该功能允许在同一机器运行多个完全隔离的 Agent，各自拥有独立配置、API 密钥及记忆。执行 <code>hermes update</code> 即可获取。</p>
+<p>系统支持灵活管理 Profile，提供克隆配置或完整快照选项。每个 Profile 可独立运行 gateway，内置 Token 锁防止冲突。全局更新会自动同步新技能但不覆盖用户修改。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331073339_830e59f02a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hermes-agent.nousresearch.com/docs/user-guide/profiles/">https://hermes-agent.nousresearch.com/docs/user-guide/profiles/</a></li>
+<li><a href="https://x.com/Teknium/status/2038720476462342167">https://x.com/Teknium/status/2038720476462342167</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/WecomTeam/wecom-cli">企业微信开源 wecom-cli，支持 AI Agent 终端操作办公业务</a> <code>#11</code></h2>
+<blockquote>
+<p>企业微信开源了命令行工具 <code>wecom-cli</code>，允许人类与 AI Agent 直接通过终端操作其核心业务。该工具覆盖通讯录、会议、消息等 7 大业务品类，并预置了 12 个开箱即用的 Agent Skills。</p>
+</blockquote>
+<p>企业微信在 GitHub 上正式开源了其命令行工具 <strong>wecom-cli</strong>，使得人类与 AI Agent 均能直接通过终端操作企业微信的核心业务。</p>
+<p>该工具覆盖了通讯录、待办、会议、消息、日程、文档以及智能表格等 7 大业务品类，并预先封装了 12 个开箱即用的 Agent Skills。</p>
+<p>通过这一工具，AI 能够以贴近执行逻辑的方式，自动串联起“查询成员、协调闲忙时间、创建会议、发送消息、处理文档与待办”等多步骤的连贯工作流，从而减少开发者的额外代码适配工作并降低上下文消耗。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260330/20260330183212_b05276b987.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/WecomTeam/wecom-cli">https://github.com/WecomTeam/wecom-cli</a></li>
+</ul>
+<hr>
+<h2><a href="https://chat.z.ai">智谱 Z.ai Chat 更新，支持一键接入飞书和微信</a> <code>#12</code></h2>
+<blockquote>
+<p>据用户发现，<strong>智谱</strong>的 <strong>Z.ai Chat</strong> 近期新增功能，<strong>Agent</strong> 模式支持用户免费一键接入 <strong>飞书</strong> 和 <strong>微信</strong> 的 <code>ClawBot</code>。海外用户还支持接入其他聊天工具。</p>
+</blockquote>
+<p>据用户发现，<strong>智谱</strong>的 <strong>Z.ai Chat</strong> 近期完成了一次功能更新。此次更新后，<code>Agent</code> 模式为用户提供了全新的接入方式，目前已支持免费一键接入<strong>飞书</strong>及<strong>微信</strong>平台的 <code>ClawBot</code> 相关功能。海外用户还支持接入其他聊天工具。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331082605_1f8aeca40f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://chat.z.ai">https://chat.z.ai</a></li>
+<li><a href="https://linux.do/t/topic/1854294/2">https://linux.do/t/topic/1854294/2</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011">Microsoft 365 Copilot 研究 Agent 引入 Critique 等多模型能力</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Microsoft 365 Copilot</strong> 的深度研究智能体 <strong>Researcher</strong> 引入了名为 <code>Critique</code> 和 <code>Council</code> 的两项多模型新能力。其中，默认启用的 <code>Critique</code> 通过分离生成与评估环节，利用 <strong>Anthropic</strong> 和 <strong>OpenAI</strong> 的不同模型形成反馈循环来优化报告；而 <code>Council</code> 模式则让不同模型并排生成独立报告并进行对比分析。</p>
+</blockquote>
+<p><strong>Microsoft 365 Copilot</strong> 的深度研究 <strong>Agent Researcher</strong> 目前引入了名为 <code>Critique</code> 和 <code>Council</code> 的两项多模型智能新能力，旨在提升 AI 生成报告的准确性、深度和可信度。</p>
+<p>其中，<code>Critique</code> 作为默认体验，通过分离生成与评估环节，结合来自 <strong>Anthropic</strong> 和 <strong>OpenAI</strong> 的模型形成反馈循环以优化结果；而 <code>Council</code> 则通过并排运行多个模型生成独立报告并进行对比分析。</p>
+<p>根据官方提供的数据，在包含 100 个复杂研究任务的 <strong>DRACO</strong> 基准测试中，集成 <code>Critique</code> 的 <strong>Researcher</strong> 总分大幅提升，不仅显著优于传统的单模型方法，其聚合得分还比 <strong>Perplexity Deep Research</strong>（使用 <strong>Claude Opus 4.6</strong> 模型）高出约 <strong>13.88%</strong>。</p>
+<p>这两项功能现已在 <strong>Frontier</strong> 计划中正式上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ce3deadf-6844-423f-8e61-3b86a811133f/3c366fab-a3cd-4a26-b989-2f0ef4362743/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011">https://techcommunity.microsoft.com/blog/microsoft365copilotblog/introducing-multi-model-intelligence-in-researcher/4506011</a></li>
+<li><a href="https://adoption.microsoft.com/en-us/copilot/frontier-program/">https://adoption.microsoft.com/en-us/copilot/frontier-program/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/microsoft/WSL/issues/40028">GitHub 遭遇投毒攻击，20 万垃圾 Issue 污染 WSL 等项目</a> <code>#14</code></h2>
+<blockquote>
+<p>GitHub 近期遭遇了有组织的大规模垃圾信息投毒攻击，自动化脚本在 <code>WSL</code> 等数百个知名开源项目中，累计创建了超过 <strong>20 万</strong>个涉及赌博与成人内容的垃圾 Issue。</p>
+</blockquote>
+<p>GitHub 平台在 <strong>2026 年 3 月 29 日至 30 日</strong> 期间遭遇了有组织的大规模垃圾信息投毒攻击。攻击者利用自动化 bot 账号，在微软 <strong>WSL</strong>、<code>isce-framework/isce2</code>、<code>msgpack/msgpack-node</code> 等知名开源项目的 Issues 区域，累计创建了超过 <strong>20 万个</strong> 垃圾 Issue。</p>
+<p>这些内容主要涉及中文赌博、成人内容等广告，攻击速率一度高达每秒 <strong>20 条</strong>，导致 <strong>WSL</strong> 项目的 Issue 编号从 #14575 激增至 #40028。</p>
+<p>目前，微软 <strong>WSL</strong> 维护者 <strong>benhillis</strong> 已发布公告，并使用自定义脚本进行清理。GitHub 社区也向其 Trust &amp; Safety 团队提交了详细的滥用报告，请求实施更严厉的防御措施。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260330/20260330183930_aba7939e6c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/microsoft/WSL/issues/40028">https://github.com/microsoft/WSL/issues/40028</a></li>
+<li><a href="https://github.com/openai/codex/issues/11966">https://github.com/openai/codex/issues/11966</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/">Mistral AI 筹集 8.3 亿美元融资 采购13800块 Nvidia GPU</a> <code>#15</code></h2>
+<blockquote>
+<p>据报道，<strong>Mistral AI</strong> 完成了金额为 <strong>8.3 亿美元</strong> 的首次债务融资。这笔资金将专项用于在巴黎南部建设供电容量达 <strong>44 兆瓦</strong> 的数据中心，并部署包含 <strong>13800 块</strong> 英伟达新一代 <code>GB300</code> GPU 的基础设施。</p>
+</blockquote>
+<p>据报道，法国人工智能实验室 <strong>Mistral AI</strong> 筹集了 <strong>8.3 亿美元</strong>的债务融资，用于采购 <strong>Nvidia</strong> GPU 并为其在巴黎附近的数据中心建设提供资金。这是该公司首次进行债务融资。</p>
+<p>所筹资金将用于部署包含 <strong>13,800 块</strong> <strong>Nvidia GB300</strong> GPU 的 <code>Grace Blackwell</code> 基础设施，并提供 <strong>44MW</strong> 的供电容量。这些硬件将安装在由法国数据中心公司 <strong>Eclairion</strong> 拥有和运营的、位于巴黎南部 <strong>Bruyères-le-Châtel</strong> 的设施内。</p>
+<p>该数据中心预计将于 <strong>2026 年第二季度末</strong>投入运营。</p>
+<p>此次融资由包括 <strong>BNP Paribas</strong> 和 <strong>HSBC</strong> 在内的七家银行组成的财团提供，旨在支持该实验室到 <strong>2027 年底</strong>在欧洲各地确保 <strong>200MW</strong> 容量的目标，以满足政府和企业在构建与控制自主 <strong>AI</strong> 基础设施方面的需求。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/">https://www.reuters.com/business/finance/frances-mistral-raises-830-million-debt-ai-data-centre-build-up-2026-03-30/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/45</guid><pubDate>Tue, 31 Mar 2026 01:00:19 +0000</pubDate></item><item><title>2026-03-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-44/</link><description>AI 早报 2026-03-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 网页端与APP服务屡现异常 ↗ #1 产品应用 OpenClaw 更新，集成 xAI 及插件审批功能 ↗ #2 前瞻与传闻 传 OpenAI 拟上线 Codex-only 订阅计划 ↗ #3 Meta 测试 Avocado 模型，据称性能仍落后 ↗ #4 DeepSeek 网页端与APP服务屡现异常 #1 DeepSeek 网页与App端的聊天服务自昨晚起，经历了反复的性能异常，截至今日早晨仍未完全恢复。但提供旧模型的API服务仍保持稳定。 与此同时，据用户观察，DeepSeek在昨晚疑似更新了网页与App端提供服务的模型，大幅提升了文本质量、流畅度以及SVG生成能力。 DeepSeek 网页与 APP 的对…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260330/202603300818223015324352_cover_0b07.png" alt=""></p>
 <h1>AI 早报 2026-03-30</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1qdXoBdEYy">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=rOa6vwRQk-Q">YouTube</a></p>
 <h2>概览</h2>
