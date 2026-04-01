@@ -1,5 +1,300 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 31 Mar 2026 01:00:44 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-03-31</title><link>https://imjuya.github.io/juya-ai-daily/issue-45/</link><description>AI 早报 2026-03-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里千问上线 Qwen3.6 Plus Preview 模型 ↗ #1 阿里千问发布 Qwen3.5-Omni 系列模型 ↗ #2 美团龙猫团队发布并开源 LongCat-AudioDiT 模型 ↗ #3 爱诗科技发布视频生成模 PixVerse V6 ↗ #4 微软发布 Harrier-OSS-v1 多语言嵌入模型 ↗ #5 开发生态 月之暗面将 Kimi 会员计费体系调整为统一额度 ↗ #6 Claude Code 上线 Computer Use，支持 GitHub Enterprise Server ↗ #7 Claude Code 开发者分享 Claude Code 未被充分利用的高阶功能。 ↗ #8 OpenAI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260331/202603310841252494269254_cover_ce3d.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 01 Apr 2026 01:03:03 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-46/</link><description>AI 早报 2026-04-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 完成 1220 亿美元融资，官宣打造超级应用 ↗ #1 Claude Code 意外泄露源码暴露未公开功能路线 ↗ #2 模型发布 谷歌发布 Veo 3.1 Lite，Fast 版 4 月 7 日下调价格 ↗ #3 H Company 发布 Holo3 系列模型，登顶OSWorld-Verified ↗ #4 PrismML 发布 1-bit Bonsai 系列模型 ↗ #5 阿里 AgentScope 发布 CoPaw 1.0 版及配套小模型 ↗ #6 开发生态 TRAE 上线 SOLO 桌面端与网页端并开启内测 ↗ #7 axios 遭遇供应链攻击 ↗ #8 Ollama 接入 MLX 框架，优化 Mac 端…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260401/202604010841012545563240_cover_ca1f.png" alt=""></p>
+<h1>AI 早报 2026-04-01</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ya9VBjEUC">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=0wBQ3-TLQwY">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 完成 1220 亿美元融资，官宣打造超级应用 <a href="https://openai.com/index/accelerating-the-next-phase-ai/">↗</a> <code>#1</code></li>
+<li>Claude Code 意外泄露源码暴露未公开功能路线 <a href="https://www.npmjs.com/package/@anthropic-ai/claude-code">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>谷歌发布 Veo 3.1 Lite，Fast 版 4 月 7 日下调价格 <a href="https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/">↗</a> <code>#3</code></li>
+<li>H Company 发布 Holo3 系列模型，登顶OSWorld-Verified <a href="https://hcompany.ai/holo3">↗</a> <code>#4</code></li>
+<li>PrismML 发布 1-bit Bonsai 系列模型 <a href="https://prismml.com/news/bonsai-8b">↗</a> <code>#5</code></li>
+<li>阿里 AgentScope 发布 CoPaw 1.0 版及配套小模型 <a href="https://github.com/agentscope-ai/CoPaw">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>TRAE 上线 SOLO 桌面端与网页端并开启内测 <a href="https://mp.weixin.qq.com/s/iN0LUDIGsYeetq_wn1Q8FA">↗</a> <code>#7</code></li>
+<li>axios 遭遇供应链攻击 <a href="https://x.com/feross/status/2038807290422370479">↗</a> <code>#8</code></li>
+<li>Ollama 接入 MLX 框架，优化 Mac 端大模型推理性能 <a href="https://x.com/ollama/status/2038873482524811694">↗</a> <code>#9</code></li>
+<li>OpenRouter 推出 Model Fusion 实验功能 <a href="https://x.com/OpenRouter/status/2038997156347179157">↗</a> <code>#10</code></li>
+<li>支付宝上线国内首个支付集成 Skill <a href="https://www.modelscope.cn/skills/@Alipay/alipay-payment-integration">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>腾讯 WorkBuddy 上线微信小程序 <a href="https://mp.weixin.qq.com/s/ix0vO87OaB10VU-w8hlpTQ">↗</a> <code>#12</code></li>
+<li>Salesforce 为 Slackbot 推出 30 项功能转型为跨业务 AI Agent <a href="https://www.salesforce.com/slack/slackbot/agent-orchestration/">↗</a> <code>#13</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>苹果误推国行 Apple Intelligence 测试版并紧急撤回 <code>#14</code></li>
+<li>智谱发年度业绩报告，开放平台API收入约1.9亿 <code>#15</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>哔哩哔哩内测 Updream AI视频创作工具 <a href="https://mp.weixin.qq.com/s/fsFOHhb1UphULhE6r8dgIA">↗</a> <code>#16</code></li>
+<li>小米新系统输入法被曝漏洞致 AI 密钥泄露 <a href="https://mp.weixin.qq.com/s/55W-LITXl8b14_WamLUpXg">↗</a> <code>#17</code></li>
+<li>小米 MiMo 团队即将推出其 Coding Plan <a href="https://x.com/XiaomiMiMo/status/2038879404596818425">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/accelerating-the-next-phase-ai/">OpenAI 完成 1220 亿美元融资，官宣打造超级应用</a> <code>#1</code></h2>
+<blockquote>
+<p>OpenAI宣布完成<strong>1220亿美元</strong>融资，投后估值达到<strong>8520亿美元</strong>，目前月收入已达<strong>20亿美元</strong>，且企业业务占比超四成。</p>
+<p>同时，OpenAI正依托<strong>英伟达</strong>、<strong>亚马逊</strong>等构建的多云算力底座，着手打造一个以<strong>Agent</strong>为核心、将<strong>ChatGPT</strong>与<strong>Codex</strong>能力融为一体的单体超级应用。</p>
+</blockquote>
+<p>OpenAI 官方宣布已完成最新一轮融资，获得 <strong>1220 亿美元</strong> 的承诺资本，投后估值达到 <strong>8520 亿美元</strong>。该笔资金将重点用于在全球范围内扩展前沿 AI、投资下一代计算基础设施，并满足市场对 <strong>ChatGPT</strong>、<strong>Codex</strong> 及企业级 AI 日益增长的需求。</p>
+<p>本轮融资由 <strong>Amazon</strong>、<strong>NVIDIA</strong> 和 <strong>SoftBank</strong> 担任锚点投资者，长期合作伙伴 <strong>Microsoft</strong> 继续参与其中。<strong>SoftBank</strong> 则与 <strong>a16z</strong>、<strong>D. E. Shaw Ventures</strong>、<strong>MGX</strong>、<strong>TPG</strong> 以及由 <strong>T. Rowe Price Associates, Inc.</strong> 提供顾问服务的账户联合领投。</p>
+<p>根据官方提供的数据，OpenAI 目前每月创造 <strong>20 亿美元</strong> 收入，<strong>ChatGPT</strong> 拥有超过 <strong>9 亿</strong> 的周活跃用户和超 <strong>5000 万</strong> 订阅者。</p>
+<p>在产品与技术层面，官方正致力于构建一个统一的 AI 超级应用，将 <strong>ChatGPT</strong>、<strong>Codex</strong> 及浏览等能力整合到一个“Agent 优先”的单体系统中。</p>
+<p>为支撑这一庞大的生态系统，OpenAI 的基础设施版图已扩展至涵盖 <strong>Microsoft</strong>、<strong>Oracle</strong>、<strong>AWS</strong> 等多家云服务商，并在底层芯片端采用 <code>NVIDIA</code>、<code>AMD</code>、<code>Cerebras</code> 的同时，正通过与 <code>Broadcom</code> 合作研发自有芯片来确保算力优势。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401080306_ee0027f6da.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/accelerating-the-next-phase-ai/">https://openai.com/index/accelerating-the-next-phase-ai/</a></li>
+<li><a href="https://x.com/OpenAI/status/2039085161971896807">https://x.com/OpenAI/status/2039085161971896807</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code">Claude Code 意外泄露源码暴露未公开功能路线</a> <code>#2</code></h2>
+<blockquote>
+<p>3月31日下午，<strong>Claude Code</strong> 被发现在 npm registry 中暴露了 source map 文件，导致其闭源的完整 TypeScript 源码和未公开的功能被全面泄露。开发者借此复现了该项目，挖掘出项目安全机制、未发布模型的代号以及大量内部功能。</p>
+</blockquote>
+<p>3月31日下午，社区发现 Claude Code 在 npm 平台上的 <code>@anthropic-ai/claude-code</code> 包内部附带了 <code>cli.js.map</code> 文件。  </p>
+<p>对于打包后的 TypeScript/JavaScript 项目而言，source map 能够将打包代码映射回原始源码，从而轻易还原出文件路径、变量名和内部结构。  </p>
+<p>有开发者借此提取了上述文件中的 <code>sourcesContent</code> 字段，在 GitHub 上创建了非官方的还原代码库。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331184743_5b32944b50.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.npmjs.com/package/@anthropic-ai/claude-code">https://www.npmjs.com/package/@anthropic-ai/claude-code</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/">谷歌发布 Veo 3.1 Lite，Fast 版 4 月 7 日下调价格</a> <code>#3</code></h2>
+<blockquote>
+<p>Google 发布视频生成模型 <strong>Veo 3.1 Lite</strong>，现已通过 <code>Gemini API</code> 和 <code>AI Studio</code> 上线。该模型支持文生视频与图生视频，官方称该模型生成速度与前代 <code>Fast</code> 版一致，成本不到一半。</p>
+<p>此外，官方宣布将于 <strong>4月7日</strong> 下调 <strong>Veo 3.1 Fast</strong> 的价格。</p>
+</blockquote>
+<p>Google 官方正式推出 <strong>Veo 3.1 Lite</strong> 视频生成模型，现已通过 <strong>Gemini API</strong> 付费层级上线，并同步在 <strong>Google AI Studio</strong> 开放测试。据官方称，该模型是 Google 迄今为止最具成本效益的视频生成模型。</p>
+<p>它在保持与 <strong>Veo 3.1 Fast</strong> 相同生成速度的同时，成本不到后者的一半。<strong>Veo 3.1 Lite</strong> 兼顾实用性与专业能力，支持 <code>Text-to-Video</code> 和 <code>Image-to-Video</code> 生成，提供横屏（16:9）与竖屏（9:16）比例选择，支持 <code>720p</code> 和 <code>1080p</code> 分辨率，并允许开发者自定义 <code>4 秒</code>、<code>6 秒</code> 或 <code>8 秒</code> 的视频时长，费用将根据所选时长进行相应调整。</p>
+<p>此外，官方宣布将于 <strong>4 月 7 日</strong> 下调 <strong>Veo 3.1 Fast</strong> 的价格。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401081527_cae91d1b80.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/">https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/models/veo-3.1-lite-generate-preview">https://ai.google.dev/gemini-api/docs/models/veo-3.1-lite-generate-preview</a></li>
+<li><a href="https://aistudio.google.com/prompts/new_video?model=veo-3.1-lite-generate-preview">https://aistudio.google.com/prompts/new_video?model=veo-3.1-lite-generate-preview</a></li>
+<li><a href="https://x.com/AILeaksAndNews/status/2039021072591286550">https://x.com/AILeaksAndNews/status/2039021072591286550</a></li>
+<li><a href="https://x.com/altryne/status/2039017785653936614">https://x.com/altryne/status/2039017785653936614</a></li>
+<li><a href="https://x.com/ai_for_success/status/2039015884006760872">https://x.com/ai_for_success/status/2039015884006760872</a></li>
+</ul>
+<hr>
+<h2><a href="https://hcompany.ai/holo3">H Company 发布 Holo3 系列模型，登顶OSWorld-Verified</a> <code>#4</code></h2>
+<blockquote>
+<p>H Company发布了专为图形界面智能体优化的新一代视觉语言模型系列 <strong>Holo3</strong>，该系列模型基于 <code>Qwen3.5</code> 架构，在 <code>OSWorld-Verified</code> 基准测试中创下行业最高分，能够跨网页、桌面和移动端执行精准操作。</p>
+</blockquote>
+<p>AI 研究公司 <strong>H Company</strong> 于近日正式发布了 <strong>Holo3</strong>，这是其最新一代专为 <code>GUI Agent</code> 优化的大规模 <code>VLMs</code> 系列。该系列模型通过解释视觉界面、推理复杂内容并执行精确操作，能够在 Web、桌面和移动端等多样的数字环境中执行任务。</p>
+<p>官方此次推出了包括旗舰版的 <strong>Holo3-122B-A10B</strong> 以及开源的 <strong>Holo3-35B-A3B</strong>。据官方博客及 Hugging Face 模型卡详细数据显示，<strong>Holo3-122B-A10B</strong> 和 <strong>Holo3-35B-A3B</strong> 在 <code>OSWorld-Verified</code> 基准测试中分别取得了 <strong>78.85%</strong> 和 <strong>77.8%</strong> 的成绩。</p>
+<p>目前，所有模型均已通过官方 Inference API 开放使用。其中，<strong>Holo3-35B-A3B</strong> 的权重已采用 <code>Apache 2.0</code> 许可证在 Hugging Face 平台上开源，并在 API 中提供免费使用层级。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401074538_87ad387bcf.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hcompany.ai/holo3">https://hcompany.ai/holo3</a></li>
+<li><a href="https://huggingface.co/Hcompany/Holo3-35B-A3B">https://huggingface.co/Hcompany/Holo3-35B-A3B</a></li>
+</ul>
+<hr>
+<h2><a href="https://prismml.com/news/bonsai-8b">PrismML 发布 1-bit Bonsai 系列模型</a> <code>#5</code></h2>
+<blockquote>
+<p>AI实验室 <strong>PrismML</strong> 宣布推出首个端到端真1-bit大语言模型系列 <strong>1-bit Bonsai</strong>。该系列模型实现了全环节1-bit权重压缩，旗舰 <strong>8B</strong> 版内存仅占 <strong>1.15GB</strong>，较同级别全精度模型体积缩小 <strong>14</strong> 倍，在端侧最高可带来 <strong>8</strong> 倍推理提速与 <strong>5</strong> 倍能效提升。</p>
+</blockquote>
+<p>AI 实验室 <strong>PrismML</strong> 推出端到端 1-bit 大模型系列 <strong>1-bit Bonsai</strong>，含 <strong>8B</strong>、<strong>4B</strong> 和 <strong>1.7B</strong> 三种规模。</p>
+<p>该系列实现全环节真 <strong>1-bit</strong> 权重，旗舰 <strong>8B</strong> 模型内存仅 <strong>1.15 GB</strong>，体积缩小约 <strong>14</strong> 倍。</p>
+<p>官方称其在基准测试中保持竞争力，边缘设备推理提速最高 <strong>8</strong> 倍，能效提升 <strong>4</strong> 至 <strong>5</strong> 倍。</p>
+<p>模型基于 <strong>Apache 2.0</strong> 协议开源，支持多硬件平台本地运行。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401074140_bb894e91b8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://prismml.com/news/bonsai-8b">https://prismml.com/news/bonsai-8b</a></li>
+<li><a href="https://huggingface.co/prism-ml/Bonsai-8B-gguf">https://huggingface.co/prism-ml/Bonsai-8B-gguf</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/agentscope-ai/CoPaw">阿里 AgentScope 发布 CoPaw 1.0 版及配套小模型</a> <code>#6</code></h2>
+<blockquote>
+<p>阿里 <strong>AgentScope</strong> 团队发布了个人智能助理 <strong>CoPaw 1.0</strong> 及配套的轻量级模型 <strong>CoPaw Flash</strong>。
+<strong>CoPaw</strong> 新版本内置了分层安全防御和多智能体隔离机制。
+<strong>CoPaw Flash</strong> 系列模型在工具调用和多步规划上表现出色，支持在本地一键部署。</p>
+</blockquote>
+<p>阿里通义实验室 AgentScope 团队近日发布个人智能助理 <strong>CoPaw 1.0</strong> 及定制模型 <strong>CoPaw-Flash</strong>。</p>
+<p><strong>CoPaw 1.0</strong> 引入分层安全架构，包含 <code>Tool Guard</code>、<code>File Guard</code> 和 <code>Skill Scanner</code>，支持多智能体协同与 <code>ReMe</code> 记忆管理。</p>
+<p><strong>CoPaw-Flash</strong> 系列模型基于 <code>Qwen3.5</code> 架构，提供 <code>2B</code>、<code>4B</code> 和 <code>9B</code> 版本，经 <code>Trinity-RFT</code> 后训练。</p>
+<p>官方数据显示，其在工具调用等任务上性能可比肩头部大模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331195512_a04cf7a039.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/agentscope-ai/CoPaw">https://github.com/agentscope-ai/CoPaw</a></li>
+<li><a href="https://huggingface.co/collections/agentscope-ai/co-paw-flash">https://huggingface.co/collections/agentscope-ai/co-paw-flash</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/iN0LUDIGsYeetq_wn1Q8FA">TRAE 上线 SOLO 桌面端与网页端并开启内测</a> <code>#7</code></h2>
+<blockquote>
+<p>TRAE 宣布 <strong>TRAE SOLO</strong> 桌面端与网页端上线并开启内测。该产品基于双模式智能体与全新三栏式交互界面，打造了以 <code>Agent</code> 为核心的协作方式，能持续理解、拆解并执行复杂任务。目前该功能采用邀请码机制开放，且桌面端目前仅适配 <code>macOS</code>。</p>
+</blockquote>
+<p>TRAE 宣布 <strong>TRAE SOLO</strong> 全新的桌面端与网页端上线并开启内测。据官方介绍，该产品基于双模式智能体与全新三栏式 UI 交互界面，打造了以 <code>Agent</code> 为核心的协作方式，能够持续理解、拆解并执行复杂任务，支持多端协同、多任务云端并行处理以及多格式文件解析。</p>
+<p><strong>SOLO</strong> 国际版与中国版当前均因资源有限采用邀请码机制定向开放。持有对应版本邀请码的用户激活后可同时解锁双端权限，并享受限时免费的 AI 对话服务。</p>
+<p>需注意的是，其桌面端目前仅适配 <code>macOS</code> 系统。</p>
+<p>用户目前可通过官方直播间、<strong>TRAE</strong> 官方账号及社区活动，或参与 <strong>TRAE IDE</strong> 端内的抽奖活动获取对应版本的邀请码。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ca1fc551-f57a-4e27-a442-22a8bd4c3279/6c6789fb-bc9f-49c1-ba60-06b64aa97ee2/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/iN0LUDIGsYeetq_wn1Q8FA">https://mp.weixin.qq.com/s/iN0LUDIGsYeetq_wn1Q8FA</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/feross/status/2038807290422370479">axios 遭遇供应链攻击</a> <code>#8</code></h2>
+<blockquote>
+<p>近日，npm 的 <strong>axios</strong> 包遭遇供应链攻击。攻击者劫持维护者账户，绕过 CI/CD 发布带毒版本 <strong>1.14.1</strong> 和 <strong>0.30.4</strong>。</p>
+<p>该版本拉取恶意依赖 <code>plain-crypto-js</code>，内含跨平台远程访问木马。</p>
+</blockquote>
+<p>近日，npm 最受依赖的包之一 <strong>axios</strong> 遭遇了典型的供应链攻击。攻击者劫持了该项目核心维护者的 npm 账户，并绕过正常的 CI/CD 流水线，手动发布了 <strong><a href="mailto:axios@1.14">axios@1.14</a>.1</strong> 和 <strong><a href="mailto:axios@0.30">axios@0.30</a>.4</strong> 两个带毒版本。</p>
+<p>这两个版本会拉取名为 <code>plain-crypto-js@4.2.1</code> 的恶意依赖。该软件包含跨平台 RAT（远程访问木马），能在 macOS、Windows 和 Linux 系统上执行恶意 shell 命令、释放隐藏脚本，并进行自毁以销毁取证证据。</p>
+<p>目前 npm 官方已下架相关恶意版本。安全团队建议开发者立即锁定 axios 版本、审计 lockfiles。若在版本下架前曾安装过上述受影响版本，需假定系统已被攻陷，并立刻轮换所有凭证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401075141_eb7caf9da3.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/feross/status/2038807290422370479">https://x.com/feross/status/2038807290422370479</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ollama/status/2038873482524811694">Ollama 接入 MLX 框架，优化 Mac 端大模型推理性能</a> <code>#9</code></h2>
+<blockquote>
+<p>Ollama 发布更新，在 Mac 端 Apple Silicon 平台上，原生接入 <code>MLX</code> 框架作为后端，以此优化内存管理并提升推理速度。</p>
+</blockquote>
+<p>Ollama 近日宣布在 Apple Silicon 平台上预览接入 Apple 的机器学习框架 <code>MLX</code> 作为后端。  </p>
+<p>根据官方公告，此次更新旨在使该软件在 Mac 端实现最快的运行速度，通过原生接入 <code>MLX</code> 取代以往间接依赖 <code>llama.cpp</code> 的方式，以优化底层内存管理和执行效率。  </p>
+<p>官方强调，这项性能提升将加速 macOS 上的高要求工作负载，涵盖 <code>OpenClaw</code> 等个人助手，以及 <code>Claude Code</code>、<code>OpenCode</code> 等编码 Agent。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331190157_ca44025aa8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ollama/status/2038873482524811694">https://x.com/ollama/status/2038873482524811694</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenRouter/status/2038997156347179157">OpenRouter 推出 Model Fusion 实验功能</a> <code>#10</code></h2>
+<blockquote>
+<p>OpenRouter 近期推出了一项名为 <strong>Model Fusion</strong> 的全新公开实验功能，旨在通过调用多个 <code>Model</code> 并对其输出进行分析，最后将结果融合成统一响应。</p>
+</blockquote>
+<p>OpenRouter 近期推出了一项名为 <strong>Model Fusion</strong> 的全新公开实验功能，旨在通过调用多个 <code>Model</code> 并对其输出进行分析，最后将结果融合成统一响应。</p>
+<p>根据官方发布的消息，该项技术在内部测试中表现出色，所有参与测试的 <code>Deep Research Agent</code> 均表示相比其自身的原始输出，更倾向于选择 <strong>Model Fusion</strong> 生成的响应结果。</p>
+<p>目前，这项实验功能已向开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401081708_52e126afd9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2038997156347179157">https://x.com/OpenRouter/status/2038997156347179157</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.modelscope.cn/skills/@Alipay/alipay-payment-integration">支付宝上线国内首个支付集成 Skill</a> <code>#11</code></h2>
+<blockquote>
+<p>支付宝正式在魔搭社区上线<strong>支付集成Skill</strong>，<code>Vibe Coding</code>开发者可通过该Skill使用自然语言描述业务需求，由AI辅助实现配置，覆盖线下当面付、网页与各类App支付等场景。</p>
+</blockquote>
+<p>支付宝正式在魔搭社区上线国内首个“支付集成 Skill”。该产品将基础支付能力深度封装为标准化组件，旨在解决传统支付接入流程复杂、成本高昂的痛点。</p>
+<p>Vibe Coding 开发者只需在开发工具中安装该组件，即可通过自然语言描述业务需求，由 AI 辅助实现“零代码”和“开箱即用”的支付配置。</p>
+<p>该 Skill 支持八大主流支付场景的路由与接入，涵盖线下当面付（付款码与订单码）、手机与电脑网站支付、支付宝小程序及原生 App 支付，同时还包括预授权押金冻结与商家周期性扣款。</p>
+<p>为确保开发验证效率与安全，支付宝同步升级了无真实资金的“沙箱环境”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331191336_825787dd73.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.modelscope.cn/skills/@Alipay/alipay-payment-integration">https://www.modelscope.cn/skills/@Alipay/alipay-payment-integration</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/ix0vO87OaB10VU-w8hlpTQ">腾讯 WorkBuddy 上线微信小程序</a> <code>#12</code></h2>
+<blockquote>
+<p>腾讯WorkBuddy上线了微信小程序端，支持云端沙箱与本地电脑双模式运行，能云端派发任务，并全面支持语音图文交互、手机端下载产物、多任务并行及随时中止等能力。</p>
+</blockquote>
+<p>腾讯WorkBuddy微信小程序现已正式上线，用户通过该小程序可随时随地远程控制 <strong>WorkBuddy</strong> 执行任务。</p>
+<p>该产品支持 <code>云端沙箱</code> 与 <code>本地电脑</code> 双模式运行：<br>
+<code>云端模式</code> 无需本地电脑持续开机，适合出差等电脑不在身边的场景；<br>
+<code>本地模式</code> 则适用于需要读取本地文件资源的远程操作。</p>
+<p>在交互端，该小程序支持语音识别以及文字、图片、文件发送，生成的各类产物文件也可直接在手机端下载保存。</p>
+<p>用户目前可通过微信搜索“<strong>腾讯WorkBuddy</strong>”或扫码直接体验。<br>
+使用<code>本地模式</code>时，需确保小程序与电脑端使用同一微信号登录并成功连接。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331194758_995aa693fc.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/ix0vO87OaB10VU-w8hlpTQ">https://mp.weixin.qq.com/s/ix0vO87OaB10VU-w8hlpTQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.salesforce.com/slack/slackbot/agent-orchestration/">Salesforce 为 Slackbot 推出 30 项功能转型为跨业务 AI Agent</a> <code>#13</code></h2>
+<blockquote>
+<p>Salesforce 宣布为 <strong>Slackbot</strong> 引入 30 多项新功能，将其转型为全业务领域的 AI Agent。</p>
+<p>此次更新支持后台收听会议并自动更新 <strong>CRM</strong>，还能跨桌面感知上下文并作为 <code>MCP client</code> 调度 2600 多个应用。</p>
+</blockquote>
+<p>Salesforce 宣布为 <strong>Slackbot</strong> 推出 30 多项新功能，旨在将其转型为跨业务 <strong>AI Agent</strong>。该产品已成为该公司历史上采用速度最快的功能之一，部分员工每日可节省约 <strong>90 分钟</strong>。</p>
+<p>核心亮点包括支持后台收听并自动总结会议的 <code>Meeting intelligence</code>，及跨桌面感知上下文执行操作的能力。</p>
+<p>作为全新 <code>MCP client</code>，<strong>Slackbot</strong> 可无缝路由任务至 <strong>Agentforce</strong> 或 <strong>Slack Marketplace</strong> 中 <strong>2600</strong> 多个应用。</p>
+<p>此外，针对小企业推出原生 <strong>CRM</strong> 功能，企业级用户可将 <strong>Slack</strong> 作为 <strong>Salesforce</strong> 对话式入口。</p>
+<p>上述功能已向 <strong>Business+</strong> 和 <strong>Enterprise+</strong> 计划用户开放，计划从 <strong>4 月</strong> 起为免费版及专业版用户提供限额体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ca1fc551-f57a-4e27-a442-22a8bd4c3279/86bd477b-84d3-490a-8ccb-511f762aad71/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.salesforce.com/slack/slackbot/agent-orchestration/">https://www.salesforce.com/slack/slackbot/agent-orchestration/</a></li>
+</ul>
+<hr>
+<h2>苹果误推国行 Apple Intelligence 测试版并紧急撤回 <code>#14</code></h2>
+<blockquote>
+<p>3月31日凌晨，苹果误向部分国行设备短暂推送了 <strong>Apple Intelligence</strong> 测试版，涵盖了全新 <strong>Siri</strong> 界面及视觉智能等核心功能。由于尚未获得监管部门批准，苹果目前已紧急撤回该服务。</p>
+</blockquote>
+<p>苹果公司于 <strong>3月31日</strong> 凌晨误向部分升级至 <strong>iOS 26.4</strong> 及以上系统的国行 <strong>Apple</strong> 设备短暂推送了 <strong>Apple Intelligence Beta</strong> 版。该版本涵盖了全新 <strong>Siri</strong> 界面、照片消除、智绘表情、实时翻译及视觉智能等核心协作工具，但激活过程存在不稳定性，且关键的 <code>GPT</code> 扩展插件无法正常使用。</p>
+<p>据彭博社记者 <strong>Mark Gurman</strong> 及 <strong>MacRumors</strong> 报道证实，此次上线属于未获监管部门批准的意外事件。相关功能虽已在技术层面筹备数月，但目前并无明确的近期发布计划，且与正在进行的 <strong>iOS 26.5</strong> 测试周期无关。</p>
+<p>目前 <strong>苹果</strong> 已紧急撤回该服务并关闭了下载通道。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331184428_fa3c2a2c43.png" alt=""></p>
+<hr>
+<h2>智谱发年度业绩报告，开放平台API收入约1.9亿 <code>#15</code></h2>
+<blockquote>
+<p>智谱发布年度业绩报告，全年营收 <strong>7.24亿元</strong> 实现翻倍增长，但受高额研发与薪酬支出影响，净亏损扩大至 <strong>4.72亿元</strong>。</p>
+<p>其收入主要由本地化与云端部署构成，开放平台API收入约 <strong>1.9亿</strong>。</p>
+</blockquote>
+<p>智谱发布了最新年度业绩报告，官方数据显示，该公司全年实现营业收入 <strong>7.24亿元</strong>，同比增长 <strong>131.9%</strong>，净亏损则扩大至 <strong>4.72亿元</strong>。</p>
+<p>其收入结构主要由本地化部署及云端部署构成，同时涵盖企业级通用大模型、开放平台及API、企业级 <code>Agent</code> 等新业务分类。</p>
+<p>官方报告披露，该公司的毛利增至 <strong>2.97亿元</strong>，但受云端部署业务占比提升及本地化部署业务毛利率下降影响，其整体毛利率降至 <strong>41.0%</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331193827_7d11be028b.png" alt=""></p>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/fsFOHhb1UphULhE6r8dgIA">哔哩哔哩内测 Updream AI视频创作工具</a> <code>#16</code></h2>
+<blockquote>
+<p>据报道，B站目前正在小范围内测 AI 视频创作工具 <strong>Updream</strong>。UP 主输入创意关键词后，即可调用大模型获取脚本撰写、<code>图像生成</code> 及 <code>音视频剪辑</code> 建议。</p>
+</blockquote>
+<p>据媒体报道，<strong>哔哩哔哩</strong>正在内测 AI 视频创作工具 <code>Updream</code>。该工具仅限受邀用户经专属码及问卷审核使用，定位为 <strong>UP 主</strong>的智能创意助手，以“灵感从这里开始”为核心引导语，支持用户输入创意关键词调用 AI 技能库，并利用大模型能力提供脚本撰写、图像生成及音视频剪辑建议。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260331/20260331194937_8983ed8d3c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/fsFOHhb1UphULhE6r8dgIA">https://mp.weixin.qq.com/s/fsFOHhb1UphULhE6r8dgIA</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/55W-LITXl8b14_WamLUpXg">小米新系统输入法被曝漏洞致 AI 密钥泄露</a> <code>#17</code></h2>
+<blockquote>
+<p>小米的新系统输入法被曝存在基础安全漏洞，用户仅靠连续点击版本号即可进入调试页面，导致用于语音文本优化等功能的 <code>AI模型</code> 密钥及完整调用配置被明文暴露。</p>
+</blockquote>
+<p>据媒体报道，<strong>小米</strong>近日推出的一款新系统输入法被曝出存在严重的安全漏洞，导致 AI 模型密钥泄露。</p>
+<p>有网友在测试中发现，通过连续点击该输入法的版本号即可进入未设防的调试页面，其中直接明文暴露了包括 API 地址、模型提供商、模型名称、提示词以及 API Key 在内的完整 AI 调用信息。</p>
+<p>经网友验证，该密钥真实有效，支持直接调用。根据页面中暴露的提示词分析，这款输入法主要提供语音输入后的文本优化功能，如自动纠正错别字、语法错误及补充标点符号等。</p>
+<p>报道指出，这并非该团队首次出现此类安全失误，其此前在 GitHub 提交代码时也曾误将来自<strong>月之暗面</strong>平台的 <code>API Key</code> 明文上传，且相关记录自 <strong>2025 年 1 月</strong>提交以来未见更新或清理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401071812_17d14c95ba.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/55W-LITXl8b14_WamLUpXg">https://mp.weixin.qq.com/s/55W-LITXl8b14_WamLUpXg</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/XiaomiMiMo/status/2038879404596818425">小米 MiMo 团队即将推出其 Coding Plan</a> <code>#18</code></h2>
+<blockquote>
+<p>根据 <strong>Xiaomi MiMo</strong> 官方社交账号，<strong>小米 MiMo</strong> 团队即将推出其 <strong>Coding Plan</strong>，呼吁用户敬请期待。</p>
+</blockquote>
+<p>据 <strong>Xiaomi MiMo</strong> 官方社交账号动态显示，该团队宣布其 <code>coding plan</code> 正在筹备推进中，并呼吁用户保持关注。  </p>
+<p>此次更新未提及具体时间节点，仅表示计划正在进行。  </p>
+<p>用户可通过官方渠道获取后续进展，该团队未透露更多技术细节。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401075540_bb7b6805a4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/XiaomiMiMo/status/2038879404596818425">https://x.com/XiaomiMiMo/status/2038879404596818425</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/46</guid><pubDate>Wed, 01 Apr 2026 01:02:39 +0000</pubDate></item><item><title>2026-03-31</title><link>https://imjuya.github.io/juya-ai-daily/issue-45/</link><description>AI 早报 2026-03-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里千问上线 Qwen3.6 Plus Preview 模型 ↗ #1 阿里千问发布 Qwen3.5-Omni 系列模型 ↗ #2 美团龙猫团队发布并开源 LongCat-AudioDiT 模型 ↗ #3 爱诗科技发布视频生成模 PixVerse V6 ↗ #4 微软发布 Harrier-OSS-v1 多语言嵌入模型 ↗ #5 开发生态 月之暗面将 Kimi 会员计费体系调整为统一额度 ↗ #6 Claude Code 上线 Computer Use，支持 GitHub Enterprise Server ↗ #7 Claude Code 开发者分享 Claude Code 未被充分利用的高阶功能。 ↗ #8 OpenAI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260331/202603310841252494269254_cover_ce3d.png" alt=""></p>
 <h1>AI 早报 2026-03-31</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1K1XBBDEgc">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=M-f0IAt5aeI">YouTube</a></p>
 <h2>概览</h2>
