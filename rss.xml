@@ -1,5 +1,306 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 01 Apr 2026 01:05:48 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-46/</link><description>AI 早报 2026-04-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 完成 1220 亿美元融资，官宣打造超级应用 ↗ #1 Claude Code 意外泄露源码暴露未公开功能路线 ↗ #2 模型发布 谷歌发布 Veo 3.1 Lite，Fast 版 4 月 7 日下调价格 ↗ #3 H Company 发布 Holo3 系列模型，登顶OSWorld-Verified ↗ #4 PrismML 发布 1-bit Bonsai 系列模型 ↗ #5 阿里 AgentScope 发布 CoPaw 1.0 版及配套小模型 ↗ #6 开发生态 TRAE 上线 SOLO 桌面端与网页端并开启内测 ↗ #7 axios 遭遇供应链攻击 ↗ #8 Ollama 接入 MLX 框架，优化 Mac 端…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260401/202604010841012545563240_cover_ca1f.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 02 Apr 2026 01:40:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-47/</link><description>AI 早报 2026-04-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱发布 GLM-5V-Turbo 多模态模型 ↗ #1 模型发布 阿里发布 Wan2.7-Image 模型，支持交互式图像编辑 ↗ #2 Qwen3.5-Max-Preview 已上线 Qwen Chat ↗ #3 Arcee AI 发布 Trinity-Large-Thinking 模型，参数量约 398B ↗ #4 阿布扎比 TII 发布 Falcon 视觉及 OCR 模型开源 ↗ #5 Skywork AI 开源 Matrix-Game 3.0 交互式世界模型 ↗ #6 Fish Audio 推出支持百种语言及情感标注的 STT 工具 ↗ #7 开发生态 Claude Code 推出实验性 NO_FLICKER 模式解…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260402/20260402085833113174e92c_cover_2433.png" alt=""></p>
+<h1>AI 早报 2026-04-02</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1cf9WBzE7q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ZEeeXdyHjdU">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>智谱发布 GLM-5V-Turbo 多模态模型 <a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>阿里发布 Wan2.7-Image 模型，支持交互式图像编辑 <a href="https://tongyi.aliyun.com/wan/">↗</a> <code>#2</code></li>
+<li>Qwen3.5-Max-Preview 已上线 Qwen Chat <a href="https://chat.qwen.ai">↗</a> <code>#3</code></li>
+<li>Arcee AI 发布 Trinity-Large-Thinking 模型，参数量约 398B <a href="https://www.arcee.ai/blog/trinity-large-thinking">↗</a> <code>#4</code></li>
+<li>阿布扎比 TII 发布 Falcon 视觉及 OCR 模型开源 <a href="https://huggingface.co/blog/tiiuae/falcon-perception">↗</a> <code>#5</code></li>
+<li>Skywork AI 开源 Matrix-Game 3.0 交互式世界模型 <a href="https://matrix-game-v3.github.io/">↗</a> <code>#6</code></li>
+<li>Fish Audio 推出支持百种语言及情感标注的 STT 工具 <a href="https://x.com/FishAudio/status/2039383004880281785">↗</a> <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 推出实验性 NO_FLICKER 模式解决终端闪烁 <a href="https://code.claude.com/docs/en/fullscreen">↗</a> <code>#8</code></li>
+<li>Codex 团队全面重置使用限制，封禁一批欺诈账户 <a href="https://x.com/thsottiaux/status/2039248564967424483">↗</a> <code>#9</code></li>
+<li>智谱开源 GLM-skills 技能库含十七项技能 <a href="https://github.com/zai-org/GLM-skills">↗</a> <code>#10</code></li>
+<li>Google AI Studio 推出多项体验优化 <a href="https://x.com/i/status/2039137446932185266">↗</a> <code>#11</code></li>
+<li>Kaggle 推出 AI Agent 实验性标准化评估项目 SAE <a href="http://x.com/i/article/2039019573404483584">↗</a> <code>#12</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>即梦 AI 推出即梦 CLI 工具支持 Agent 自动调用生成 <a href="https://jimeng.jianying.com/cli">↗</a> <code>#13</code></li>
+<li>OpenClaw 发布 v2026.3.31 版本内置 QQ Bot 原生插件 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.31">↗</a> <code>#14</code></li>
+<li>ClawHub 上线官方中国镜像站，获火山引擎基础设施支持 <a href="https://mirror-cn.clawhub.com">↗</a> <code>#15</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>DeepReinforce 的 GrandCode 夺 Codeforces 三场竞赛冠军 <a href="https://deep-reinforce.com/cp.html">↗</a> <code>#16</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>甲骨文启动裁员释放百亿资金支持 AI 基础设施建设 <a href="https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch">↗</a> <code>#17</code></li>
+<li>OpenRouter 传拟融资 1.2 亿美元 <a href="https://www.theinformation.com/articles/startup-helps-developers-pick-ai-models-nears-1-3-billion-valuation">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo">智谱发布 GLM-5V-Turbo 多模态模型</a> <code>#1</code></h2>
+<blockquote>
+<p>智谱发布了面向视觉编程的多模态模型 <code>GLM-5V-Turbo</code>，该模型原生支持图像视频输入，拥有 <code>200K</code> 上下文窗口，能以更小参数量在编程与 GUI 操控等基准测试中取得领先表现。</p>
+<p>官方称，该模型深度适配 Agent 工作流，支持从看懂环境到执行任务的完整闭环，特别擅长设计稿代码还原与可视化迭代。</p>
+<p>该模型 API 已上线，并面向 <code>GLM Coding Plan</code> 用户开放体验申请，后续将逐步纳入该订阅。</p>
+</blockquote>
+<p>智谱发布了面向视觉编程任务打造的多模态 Coding 基座模型 <strong>GLM-5V-Turbo</strong>。该模型能够原生处理图像、视频、文本和文件等多模态输入，上下文窗口达 <strong>200K</strong>，最大输出 Tokens 为 <strong>128K</strong>。</p>
+<p>通过采用新一代 <code>CogViT</code> 视觉编码器与 <strong>30+</strong> 任务协同强化学习等技术手段，<strong>GLM-5V-Turbo</strong> 在多模态 Coding、Agentic 任务及纯文本编程等基准测试中，以更小参数量取得了领先且稳定的表现。</p>
+<p>该模型深度适配 Agent 工作流，能与 <code>Claude Code</code>、<code>OpenClaw</code> 等框架深度协同，支持从“看懂环境”到“规划动作”再到“执行任务”的完整闭环。</p>
+<p>目前，该模型的 API 已上线 <strong>BigModel</strong> 开放平台，并面向 <strong>Coding Plan</strong> 用户开放申请；后续 <strong>GLM Coding Plan</strong> 也会纳入 <strong>GLM-5V-Turbo</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/3cf214aa-2135-4475-9ca3-1aff677d58e7/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/3cf214aa-2135-4475-9ca3-1aff677d58e7/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402083342_e871b6b6c6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo">https://docs.bigmodel.cn/cn/guide/models/vlm/glm-5v-turbo</a></li>
+<li><a href="https://zhipu-ai.feishu.cn/share/base/form/shrcndgpmRlJoD5rMmIavUrPwzg">https://zhipu-ai.feishu.cn/share/base/form/shrcndgpmRlJoD5rMmIavUrPwzg</a></li>
+</ul>
+<hr>
+<h2><a href="https://tongyi.aliyun.com/wan/">阿里发布 Wan2.7-Image 模型，支持交互式图像编辑</a> <code>#2</code></h2>
+<blockquote>
+<p>阿里通义实验室发布了图像生成与编辑统一模型 <strong>Wan2.7-Image</strong> 及其 Pro 版本。该模型核心功能升级包括支持定制骨相五官的虚拟捏脸、精准提取参考图配色的调色盘、最高 <strong>3K token</strong> 的多语言印刷级文本渲染等。</p>
+<p>目前两款模型已开放 API 调用，并在万相官网开放体验。</p>
+</blockquote>
+<p>阿里巴巴正式发布图像生成与编辑统一模型 <strong>Wan2.7-Image</strong> 及其 Pro 版本。该模型将文生图、图生组图、图像指令编辑和交互式编辑整合于统一架构中。根据官方提供的数据，其在人类偏好盲测中多项能力位列国内第一，整体水平接近 <strong>Nano Banana Pro</strong>。</p>
+<p><strong>Wan2.7-Image</strong> 重点升级了人物、文字与色彩生成的控制力，推出可定制骨相五官的虚拟形象“捏脸”功能，支持提取参考图色彩分布比例的“调色盘”功能，最高支持 <code>3K token</code> 且覆盖 <code>12</code> 种语言的印刷级超长文本渲染，以及基于框选指令的像素级交互式编辑能力。</p>
+<p>此外，该模型在多主体一致性上最高支持 <code>9</code> 张参考图，并具备单次生成最多 <code>12</code> 张组图的能力。</p>
+<p>目前，上述两款模型均已在阿里云百炼平台开放 API 调用，并在万相官网开放体验，千问 App 也即将接入。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/8e994b8b-c6e8-45cc-bf09-751988599394/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401202824_aef03afc37.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://tongyi.aliyun.com/wan/">https://tongyi.aliyun.com/wan/</a></li>
+<li><a href="https://bailian.console.aliyun.com/cn-beijing?tab=api#/api/?type=model&amp;url=3026980">https://bailian.console.aliyun.com/cn-beijing?tab=api#/api/?type=model&amp;url=3026980</a></li>
+<li><a href="https://mp.weixin.qq.com/s/IgZVizTpNo1SJCFBJH9QuA">https://mp.weixin.qq.com/s/IgZVizTpNo1SJCFBJH9QuA</a></li>
+</ul>
+<hr>
+<h2><a href="https://chat.qwen.ai">Qwen3.5-Max-Preview 已上线 Qwen Chat</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Qwen3.5-Max-Preview</strong> 已上线 <strong>Qwen Chat</strong>。该模型处于预览阶段，仅提供思考模式和文本输入。官方称其在专家级推理、编程及创意写作等方面表现卓越，专为应对高复杂度任务设计。</p>
+</blockquote>
+<p><strong>Qwen3.5</strong> 系列旗舰模型的预览版 <strong>Qwen3.5-Max-Preview</strong> 已上线 <strong>Qwen Chat</strong>，但该模型目前尚处于预览阶段，未发布正式版。</p>
+<p>该模型仅支持文本模态，且仅以思考模式运行。</p>
+<p>官方表示，该预览版模型提供了目前最先进的文本能力，在专家级知识、复杂推理、数学、编程、创意写作和角色扮演等方面表现卓越。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402083922_bf65a7458b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://chat.qwen.ai">https://chat.qwen.ai</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.arcee.ai/blog/trinity-large-thinking">Arcee AI 发布 Trinity-Large-Thinking 模型，参数量约 398B</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Arcee AI</strong> 发布并开源了 <strong>Trinity-Large-Thinking</strong> 模型，这是一个 398B 参数的稀疏 MoE 架构模型，专为 Agent 工具调用和多步规划优化。</p>
+<p>在 <code>PinchBench</code> 基准测试中，该模型排名第二，仅次于 <code>Opus-4.6</code>。</p>
+</blockquote>
+<p><strong>Arcee AI</strong> 发布 <strong>Trinity-Large-Thinking</strong> 模型，该模型拥有约 <strong>398B</strong> 参数的稀疏 MoE 架构，基于 <strong>Trinity-Large-Base</strong> 构建。</p>
+<p>官方博客显示，该模型在多项 Agentic 基准测试中表现优异，在 <code>Tau2-Airline</code> 上以 <strong>88.0%</strong> 领先，<code>Tau2-Telecom</code> 达 <strong>94.7%</strong>，<code>PinchBench</code> 排名第二。</p>
+<p>该模型权重以 Apache 2.0 许可开放，兼容主流 Agent 框架。API 定价为每百万输出 token <strong>0.90 美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/adcaf314-2fd3-4bdd-920a-082025008c85/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.arcee.ai/blog/trinity-large-thinking">https://www.arcee.ai/blog/trinity-large-thinking</a></li>
+<li><a href="https://huggingface.co/arcee-ai/Trinity-Large-Thinking">https://huggingface.co/arcee-ai/Trinity-Large-Thinking</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/blog/tiiuae/falcon-perception">阿布扎比 TII 发布 Falcon 视觉及 OCR 模型开源</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Falcon Vision</strong> 团队发布了 <strong>Falcon Perception</strong> 和 <strong>Falcon OCR</strong> 两款融合视觉模型，其中 0.6B 参数的 <code>Falcon Perception</code> 在开放词汇分割基准上优于 <code>SAM 3</code>，而 0.3B 参数的 <code>Falcon OCR</code> 则在文档理解任务上性能媲美体积大 3 到 10 倍的竞品。</p>
+</blockquote>
+<p>阿布扎比技术创新研究所（<strong>TII</strong>）<strong>Falcon</strong> 视觉团队发布了 <strong>Falcon Perception</strong> 和 <strong>Falcon OCR</strong> 两款模型。</p>
+<p>前者为 <strong>0.6B</strong> 参数早期融合 Transformer，用于开放词汇定位分割。官方博客显示，其在 <strong>SA-Co</strong> 基准上 Macro-F1 分数为 <strong>68.0</strong>，优于 <strong>SAM 3</strong>。</p>
+<p>后者为 <strong>0.3B</strong> 参数模型，专攻文档理解，官方称其具备开源 OCR 模型最高吞吐量，在 <strong>OmniDocBench</strong> 上获 <strong>88.6</strong> 分。</p>
+<p>相关代码、权重已在 GitHub 开源，支持 <code>PyTorch FlexAttention</code> 及 <code>MLX</code> 框架。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/53361895-2e4a-417e-a39d-6dcd9d534b47/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/blog/tiiuae/falcon-perception">https://huggingface.co/blog/tiiuae/falcon-perception</a></li>
+<li><a href="https://github.com/tiiuae/Falcon-Perception">https://github.com/tiiuae/Falcon-Perception</a></li>
+</ul>
+<hr>
+<h2><a href="https://matrix-game-v3.github.io/">Skywork AI 开源 Matrix-Game 3.0 交互式世界模型</a> <code>#6</code></h2>
+<blockquote>
+<p>Skywork 开源了交互式世界模型 <strong>Matrix-Game 3.0</strong>，该模型基于 <code>Wan2.2</code> 模型微调而来，专为 <strong>720p</strong> 分辨率下的实时长视频流式生成设计。</p>
+</blockquote>
+<p>Skywork AI 团队日前开源了交互式世界模型 <strong>Matrix-Game 3.0</strong> 的代码、模型权重及技术报告。该模型专为 <strong>720p</strong> 分辨率下的实时长视频流式生成而设计，基于其升级的工业级数据引擎（整合虚幻引擎合成数据、3A 游戏自动化收集及真实世界视频增强）进行训练。</p>
+<p>目前，基础模型与蒸馏模型已在 HuggingFace 上线，采用 Apache 2.0 许可证，基于 <code>Wan2.2</code> 模型微调而来。而结合真实世界与虚幻数据的混合模型及 <strong>28B</strong> 大模型则预告将于后续发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/2e42f842-604e-4b65-9b50-26070b5d49d9/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://matrix-game-v3.github.io/">https://matrix-game-v3.github.io/</a></li>
+<li><a href="https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3">https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-3</a></li>
+<li><a href="https://huggingface.co/Skywork/Matrix-Game-3.0">https://huggingface.co/Skywork/Matrix-Game-3.0</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/FishAudio/status/2039383004880281785">Fish Audio 推出支持百种语言及情感标注的 STT 工具</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Fish Audio</strong> 推出专为语音生产工作流设计的 STT 工具，支持超百种语言及角色检测，能自动标注 [叹气]、[大笑] 等副语言特征。其生成的标签与 <code>S2 TTS</code> 模型格式兼容，支持导出为 <code>SRT</code>、<code>VTT</code> 或 <code>JSON</code> 格式。</p>
+</blockquote>
+<p><strong>Fish Audio</strong> 正式推出其全新的 <strong>STT</strong> 工具，该工具支持超过 <strong>100</strong> 种语言，并具备内置的角色检测与自动情感、副语言标注功能，能够实时自动捕捉并标记 <code>[叹气]</code>、<code>[大笑]</code> 和 <code>[停顿]</code> 等细微动作。</p>
+<p>其导出的情感标签格式与该公司的 <strong>S2 TTS</strong> 模型完全兼容。</p>
+<p>用户可根据需求将转录结果导出为 <strong>SRT</strong>、<strong>VTT</strong> 或 <strong>JSON</strong> 格式，并自主选择是否保留情感标签、角色标签及标点符号。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/38f742d1-2f17-483e-ac18-8ed4f8a38f74/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/FishAudio/status/2039383004880281785">https://x.com/FishAudio/status/2039383004880281785</a></li>
+</ul>
+<hr>
+<h2><a href="https://code.claude.com/docs/en/fullscreen">Claude Code 推出实验性 NO_FLICKER 模式解决终端闪烁</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 宣布推出实验性的 <code>NO_FLICKER</code> 全屏渲染模式，通过接管终端视口解决了长对话中的闪烁跳屏问题。</p>
+<p>同时引入了光标定位、点击链接及拖拽复制等鼠标交互功能。</p>
+<p>用户可通过环境变量启用该模式。</p>
+</blockquote>
+<p>近日，<strong>Claude Code</strong> 宣布推出实验性的 <strong>NO_FLICKER</strong>（全屏渲染）模式，旨在解决终端长对话中常见的闪烁与跳屏问题。该模式通过接管终端视口并启用备用屏幕缓冲区，仅渲染当前可见内容，从而实现平滑显示并保持内存和 CPU 占用的稳定。</p>
+<p>同时，其引入了鼠标交互支持，包括光标定位、展开工具输出、点击链接及拖拽文本自动复制等。用户只需在启动时添加 <code>CLAUDE_CODE_NO_FLICKER=1</code> 环境变量即可体验（需 <strong>v2.1.88</strong> 或更高版本）。</p>
+<p>由于该技术改变了传统的终端渲染逻辑，原生的 <code>Cmd+F</code> 搜索和终端选择功能将失效，需改用内置的 <code>Ctrl+o</code> 等快捷键进行交互。</p>
+<p>针对可能出现的鼠标捕获冲突或兼容性限制（如在特定 <strong>tmux</strong> 模式下），用户可通过 <code>CLAUDE_CODE_DISABLE_MOUSE=1</code> 环境变量单独禁用鼠标接管。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/b5cc108b-68a5-48e1-8123-5463b66cda13/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/fullscreen">https://code.claude.com/docs/en/fullscreen</a></li>
+<li><a href="https://x.com/bcherny/status/2039421575422980329">https://x.com/bcherny/status/2039421575422980329</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/thsottiaux/status/2039248564967424483">Codex 团队全面重置使用限制，封禁一批欺诈账户</a> <code>#9</code></h2>
+<blockquote>
+<p>北京时间 <strong>4月1日</strong> 下午约 <strong>4点</strong>，<strong>Codex</strong> 团队宣布因监测到用户触发速率限制的频率异常升高，全面重置所有用户的使用限制。同时，该团队通过封禁一批欺诈账户，成功回收了部分计算资源，以持续打击滥用行为。</p>
+</blockquote>
+<p>据 Codex 团队成员 <strong>Tibo</strong> 透露，因后台仪表板监测到用户触发速率限制的频率近期出现不明原因增加，该团队决定采取谨慎措施，全面重置跨所有平台和所有计划的使用限制。</p>
+<p>此外，该团队在平台安全维护方面取得新进展。其成员发现并成功封禁了一批存在欺诈行为的账户，此次清理行动帮助团队重新收回了一部分计算资源。<strong>Tibo</strong> 表示，平台打击滥用的行动永远不会停止。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401202547_a7f99e45b4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2039248564967424483">https://x.com/thsottiaux/status/2039248564967424483</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/zai-org/GLM-skills">智谱开源 GLM-skills 技能库含十七项技能</a> <code>#10</code></h2>
+<blockquote>
+<p>智谱在GitHub开源了GLM系列模型的官方技能库 <strong>GLM-skills</strong>。该库涵盖多模态处理、OCR及图像生成等4大类共17项功能，支持文档写作、股票分析及网页复制等生产级应用。</p>
+</blockquote>
+<p>智谱在 GitHub 上推出了针对 <strong>GLM</strong> 系列模型的官方技能库 <code>zai-org/GLM-skills</code>，将原先分散在各个独立模型仓库的技能整合为统一集合。</p>
+<p>该技能库专为 <strong>Claude Code</strong>、<strong>OpenClaw</strong> 等 AI 编程 Agent 架构设计，涵盖了多模态处理（如文档写作、股票分析、网页复制等 10 项功能）、OCR（文本、公式、表格提取及手写识别等 5 项功能）、图像生成以及元技能管理等四大类，共计 17 项具体功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402071850_4b1aa0d671.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/zai-org/GLM-skills">https://github.com/zai-org/GLM-skills</a></li>
+<li><a href="https://clawhub.ai/zai-org/glm-master-skill">https://clawhub.ai/zai-org/glm-master-skill</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/i/status/2039137446932185266">Google AI Studio 推出多项体验优化</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Google AI Studio</strong> 负责人 <strong>Logan Kilpatrick</strong> 宣布平台已全面上线一系列体验优化，涵盖交互流程简化及移动端深度适配。</p>
+</blockquote>
+<p><strong>Google AI Studio</strong> 负责人 <strong>Logan Kilpatrick</strong> 近日宣布，该平台在 <strong>Gemini</strong> 的协助下推出了一系列旨在提升用户体验的质量优化更新。</p>
+<p>此次更新涵盖了交互流程简化、界面视觉重构以及多项移动端适配。</p>
+<p>新增功能包括一键将 <strong>Playground</strong> 临时聊天转换为应用、默认媒体分辨率设置以及 <strong>STT</strong> 按钮等实用特性。</p>
+<p>目前这些改动已在 <strong>Google AI Studio</strong> 中全面生效。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402073423_165656ef20.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/i/status/2039137446932185266">https://x.com/i/status/2039137446932185266</a></li>
+</ul>
+<hr>
+<h2><a href="http://x.com/i/article/2039019573404483584">Kaggle 推出 AI Agent 实验性标准化评估项目 SAE</a> <code>#12</code></h2>
+<blockquote>
+<p>Kaggle 推出了针对 <strong>AI Agent</strong> 的标准化评估项目 <strong>SAE</strong>，测试内容涵盖推理能力与对抗性安全两个关键维度。</p>
+</blockquote>
+<p>Kaggle 宣布推出其针对 <strong>AI Agent</strong> 的实验性 MVP 项目 <strong>Standardized Agent Exams</strong>（简称 <strong>SAE</strong>），旨在提供一种轻量级、零配置（<code>zero-setup</code>）的标准化评估方案。  </p>
+<p>该方案允许开发者通过单次 API 调用为 <strong>Agent</strong> 注册，并使其在无需 Kaggle 账号的情况下自主完成包含 <strong>16</strong> 道题目的考试。  </p>
+<p>测试内容涵盖推理（<code>Reasoning</code>）能力与对抗性安全（<code>Adversarial safety</code>）两个关键维度。  </p>
+<p>考试完成后，系统会即时生成公开成绩单，并更新全球实时排行榜名次。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/f2acc8bf-349e-470c-b2d4-4294017db7be/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://x.com/i/article/2039019573404483584">http://x.com/i/article/2039019573404483584</a></li>
+</ul>
+<hr>
+<h2><a href="https://jimeng.jianying.com/cli">即梦 AI 推出即梦 CLI 工具支持 Agent 自动调用生成</a> <code>#13</code></h2>
+<blockquote>
+<p>即梦AI发布了命令行工具“<strong>即梦CLI</strong>”。用户只需一键配置授权，就能让智能体在任意环境中自动调用<strong>即梦</strong>账号，完成文生图、文生视频等创作任务，或将其嵌入自动化工作流处理批量作业。</p>
+</blockquote>
+<p><strong>即梦 AI</strong> 正式推出专为 <strong>Agent</strong> 定制的命令行工具包“<strong>即梦 CLI</strong>”。用户经一键配置及账号授权后，可使 <strong>Agent</strong> 在任意环境自动调用 <code>文生图</code>、<code>文生视频</code> 等创作任务，支持嵌入自动化工作流处理批量或定时任务。</p>
+<p>安装可通过特定指令交由 <strong>Agent</strong> 自行处理，登录后支持查询余额及任务状态。</p>
+<p>该工具提供 <code>文生图</code>、<code>文生视频</code>、<code>图生图</code> 及 <code>图生视频</code> 四大类生成命令，支持异步任务管理与本地存储维护。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260401/20260401203043_1e1f82fdf3.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://jimeng.jianying.com/cli">https://jimeng.jianying.com/cli</a></li>
+<li><a href="https://bytedance.larkoffice.com/wiki/FVTwwm0bGiishxkKOoScdHR2nsg">https://bytedance.larkoffice.com/wiki/FVTwwm0bGiishxkKOoScdHR2nsg</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.31">OpenClaw 发布 v2026.3.31 版本内置 QQ Bot 原生插件</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <code>v2026.3.31</code> 版本，官方新增内置 <strong>QQ Bot</strong> 插件。</p>
+<p>系统引入了基于 <code>SQLite</code> 的共享后台任务控制，并带来了更好的 <strong>CJK</strong> 支持。</p>
+<p>值得注意的是，此次更新包含多项破坏性变更。</p>
+</blockquote>
+<p>OpenClaw 最新发布了 <strong>v2026.3.31</strong> 版本，带来了一系列破坏性更新、功能增强与底层修复。</p>
+<p>该版本最受瞩目的变动是官方内置了 <strong>QQ Bot</strong> 插件，使其成为首个被原生集成的中国主流社交平台。该插件支持多账户管理、<code>SecretRef</code> 凭证、斜杠命令以及私聊、群组、频道等多媒体交互。</p>
+<p>此外，此次更新还引入了基于 <code>SQLite</code> 的真正共享后台任务流控制面，增强了 <strong>LINE</strong> 平台的音视频出站发送能力。</p>
+<p>并在 <strong>Agents</strong>、<code>MCP</code> 协议、<code>Sandbox</code> 网络隔离以及 <strong>OpenAI</strong>/<strong>Anthropic</strong> 模型兼容性方面进行了深度优化与安全加固。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402081850_e2939b1932.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.3.31">https://github.com/openclaw/openclaw/releases/tag/v2026.3.31</a></li>
+</ul>
+<hr>
+<h2><a href="https://mirror-cn.clawhub.com">ClawHub 上线官方中国镜像站，获火山引擎基础设施支持</a> <code>#15</code></h2>
+<blockquote>
+<p>ClawHub 上线官方中国镜像站，由<strong>字节跳动</strong>旗下<strong>火山引擎</strong>提供基础设施支持，实现了服务本土化与中文内容同步。</p>
+</blockquote>
+<p>OpenClaw 生态技能分发市场 <strong>ClawHub</strong> 近日上线官方中国镜像站。其基础设施由 <strong>字节跳动</strong> 火山引擎及 <strong>BytePlus</strong> 赞助，已完成备案且内容汉化。</p>
+<p>条款显示，火山引擎仅提供技术支持，用户需自行承担第三方技能的安全与侵权风险。</p>
+<p>平台禁止欺诈、侵犯隐私等违规技能，违者受处罚。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402070010_29e362e979.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mirror-cn.clawhub.com">https://mirror-cn.clawhub.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://deep-reinforce.com/cp.html">DeepReinforce 的 GrandCode 夺 Codeforces 三场竞赛冠军</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>DeepReinforce</strong> 团队宣布其研发的多 Agent AI 系统 <code>GrandCode</code> 在近期举办的三场 <strong>Codeforces</strong> 直播比赛中连续夺得第一名，击败了所有人类参赛者。</p>
+</blockquote>
+<p>根据 <strong>DeepReinforce</strong> 官方博客，该团队研发的多 Agent AI 系统 <strong>GrandCode</strong> 在近期举办的三场 Codeforces 直播比赛中连续夺得第一名，标志着 AI 首次在曾被视为人类最后优势领域的竞技编程中全面超越人类顶尖选手。</p>
+<p>在不到一年的时间内，AI 在该领域的排名从 <strong>OpenAI o3</strong> 的第 175 名迅速攀升至榜首。</p>
+<p><strong>GrandCode</strong> 在这三场比赛中击败了包括传奇 Grandmaster 在内的所有人类参赛者，并且是全场首个解出所有题目的选手。</p>
+<p>该系统通过编排假设生成器、主求解器、测试用例生成器和摘要等多个 Agent 模块，结合在直播比赛中实时应用的 <code>测试时强化学习</code> 技术，在严格的时间压力下实现了对复杂编程问题的最优解生成。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/2433ebac-887c-4c9f-a2e7-4e13c677ebc8/88ca6bbc-0e15-4fb6-ae5c-c832ba2d8975/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://deep-reinforce.com/cp.html">https://deep-reinforce.com/cp.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch">甲骨文启动裁员释放百亿资金支持 AI 基础设施建设</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>甲骨文</strong>为应对高达 <strong>1560亿美元</strong> 的 <strong>AI</strong> 基础设施扩张计划及由此引发的巨额债务，已启动大规模裁员，预计波及数万名员工，旨在通过削减人力释放近百亿美元现金流填补缺口。</p>
+</blockquote>
+<p>为了应对由大规模AI基础设施扩张引发的巨额资本开支与现金流不足，<strong>甲骨文</strong>近日启动了大规模裁员计划。据投资银行<strong>TD Cowen</strong>估算，此次裁员预计波及<strong>2万至3万名</strong>员工，约占该企业全球员工总数的<strong>18%</strong>，旨在释放<strong>80亿至100亿美元</strong>现金流。</p>
+<p>尽管<strong>甲骨文</strong>上季度净利润同比大涨<strong>95%<strong>至</strong>61.3亿美元</strong>，但其总债务已超过<strong>1240亿美元</strong>，且自由现金流为负<strong>100亿美元</strong>。</p>
+<p>此次裁员被视为该公司将劳动力转化为现金流、以支持其高达<strong>1560亿美元</strong>AI基础设施扩张计划的重要“节流”手段。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402070450_ff67e58fd9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch">https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/articles/startup-helps-developers-pick-ai-models-nears-1-3-billion-valuation">OpenRouter 传拟融资 1.2 亿美元</a> <code>#18</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenRouter</strong> 正在以约 <strong>13 亿美元</strong> 的估值筹集 <strong>1.2 亿美元</strong> 的新一轮融资。该平台目前年经常性收入已突破 <strong>5000万美元</strong>。</p>
+</blockquote>
+<p>据媒体报道，初创公司 <strong>OpenRouter</strong> 正筹集 <strong>1.2 亿美元</strong> 新一轮融资，由 <strong>CapitalG</strong> 领投。若完成，其估值约 <strong>13 亿美元</strong>，较上轮增长一倍以上。</p>
+<p>该公司致力于帮助开发者为 AI 应用和 <code>Agent</code> 筛选及访问模型。</p>
+<p>据媒体透露，<strong>OpenRouter</strong> 目前年度经常性收入（ARR）已超 <strong>5000 万美元</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/startup-helps-developers-pick-ai-models-nears-1-3-billion-valuation">https://www.theinformation.com/articles/startup-helps-developers-pick-ai-models-nears-1-3-billion-valuation</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/47</guid><pubDate>Thu, 02 Apr 2026 01:40:24 +0000</pubDate></item><item><title>2026-04-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-46/</link><description>AI 早报 2026-04-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 完成 1220 亿美元融资，官宣打造超级应用 ↗ #1 Claude Code 意外泄露源码暴露未公开功能路线 ↗ #2 模型发布 谷歌发布 Veo 3.1 Lite，Fast 版 4 月 7 日下调价格 ↗ #3 H Company 发布 Holo3 系列模型，登顶OSWorld-Verified ↗ #4 PrismML 发布 1-bit Bonsai 系列模型 ↗ #5 阿里 AgentScope 发布 CoPaw 1.0 版及配套小模型 ↗ #6 开发生态 TRAE 上线 SOLO 桌面端与网页端并开启内测 ↗ #7 axios 遭遇供应链攻击 ↗ #8 Ollama 接入 MLX 框架，优化 Mac 端…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260401/202604010841012545563240_cover_ca1f.png" alt=""></p>
 <h1>AI 早报 2026-04-01</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ya9VBjEUC">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=0wBQ3-TLQwY">YouTube</a></p>
 <h2>概览</h2>
