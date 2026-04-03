@@ -1,5 +1,325 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 02 Apr 2026 01:40:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-47/</link><description>AI 早报 2026-04-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱发布 GLM-5V-Turbo 多模态模型 ↗ #1 模型发布 阿里发布 Wan2.7-Image 模型，支持交互式图像编辑 ↗ #2 Qwen3.5-Max-Preview 已上线 Qwen Chat ↗ #3 Arcee AI 发布 Trinity-Large-Thinking 模型，参数量约 398B ↗ #4 阿布扎比 TII 发布 Falcon 视觉及 OCR 模型开源 ↗ #5 Skywork AI 开源 Matrix-Game 3.0 交互式世界模型 ↗ #6 Fish Audio 推出支持百种语言及情感标注的 STT 工具 ↗ #7 开发生态 Claude Code 推出实验性 NO_FLICKER 模式解…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260402/20260402085833113174e92c_cover_2433.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 03 Apr 2026 02:28:22 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-48/</link><description>AI 早报 2026-04-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布开放权重模型系列 Gemma 4 ↗ #1 阿里千问正式发布 Qwen3.6-Plus 模型 ↗ #2 模型发布 阶跃星辰上线 Step 3.5 Flash 2603 模型 ↗ #3 火山引擎 Seedance 2.0 API 面向企业开启公测 ↗ #4 微软推出 MAI-Image-2 文生图模型 ↗ #5 微软发布 MAI-Transcribe-1，25 种语言语音转录 ↗ #6 微软上线 MAI-Voice-1语音生成模型 ↗ #7 微软开源 harrier-oss-v1，支持 40 余种语言文本嵌入 ↗ #8 IBM 发布 Granite 4.0 3B Vision 视觉模型 ↗ #9 开发生态 Ch…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260403/20260403085941822006a17c_cover_ffbd.png" alt=""></p>
+<h1>AI 早报 2026-04-03</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1oY9NBCEjR">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=akx6J-6GNYE">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Google 发布开放权重模型系列 Gemma 4 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/">↗</a> <code>#1</code></li>
+<li>阿里千问正式发布 Qwen3.6-Plus 模型 <a href="https://qwen.ai/blog?id=qwen3.6">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>阶跃星辰上线 Step 3.5 Flash 2603 模型 <a href="https://mp.weixin.qq.com/s/JhRl9x131pP8-g5bRr242w">↗</a> <code>#3</code></li>
+<li>火山引擎 Seedance 2.0 API 面向企业开启公测 <a href="https://mp.weixin.qq.com/s/jcefLRc3K2ZYUg2UIdTmJQ">↗</a> <code>#4</code></li>
+<li>微软推出 MAI-Image-2 文生图模型 <a href="https://microsoft.ai/news/introducing-mai-image-2/">↗</a> <code>#5</code></li>
+<li>微软发布 MAI-Transcribe-1，25 种语言语音转录 <a href="https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/">↗</a> <code>#6</code></li>
+<li>微软上线 MAI-Voice-1语音生成模型 <a href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/">↗</a> <code>#7</code></li>
+<li>微软开源 harrier-oss-v1，支持 40 余种语言文本嵌入 <a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">↗</a> <code>#8</code></li>
+<li>IBM 发布 Granite 4.0 3B Vision 视觉模型 <a href="https://huggingface.co/blog/ibm-granite/granite-4-vision">↗</a> <code>#9</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>ChatGPT Business 推出按量计费仅 Codex 席位 <a href="https://openai.com/index/codex-flexible-pricing-for-teams/">↗</a> <code>#10</code></li>
+<li>Cursor 发布 Cursor 3 版本，引入智能体窗口 <a href="https://cursor.com/blog/cursor-3">↗</a> <code>#11</code></li>
+<li>OpenClaw 发布 2026.4.1 与 4.2 版 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.2">↗</a> <code>#12</code></li>
+<li>Google AI Studio 上线 Focus mode，支持指向更新 UI 样式 <a href="https://x.com/GoogleAIStudio/status/2039778973899801003">↗</a> <code>#13</code></li>
+<li>Gemini API 推出新推理服务等级，Flex 成本降 50% <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/">↗</a> <code>#14</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude 官方宣布 Computer use 功能正式支持 Windows 端 <a href="https://x.com/claudeai/status/2039836891508261106">↗</a> <code>#15</code></li>
+<li>Google 宣布 AI Pro 存储由 2TB 增至 5TB，无需额外付费 <a href="https://x.com/shimritby/status/2039461584771440782">↗</a> <code>#16</code></li>
+<li>Google Vids 引入新 AI 能力，免费可用 <a href="https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/">↗</a> <code>#17</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 研究揭示 Claude 存在功能性情绪机制 <a href="https://transformer-circuits.pub/2026/emotions/index.html">↗</a> <code>#18</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>中广联合会演员委员会发布声明，严禁未授权 AI 侵权 <a href="https://mp.weixin.qq.com/s/QrK0zyVy17tNHglTPuqNEw">↗</a> <code>#19</code></li>
+<li>OpenAI 收购独立媒体 TBPN <a href="https://openai.com/index/openai-acquires-tbpn/">↗</a> <code>#20</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/">Google 发布开放权重模型系列 Gemma 4</a> <code>#1</code></h2>
+<blockquote>
+<p>Google 正式发布基于 <strong>Gemini 3</strong> 技术构建的开放权重模型系列 <strong>Gemma 4</strong>，提供 <code>E2B</code>、<code>E4B</code>、<code>26B-A4B</code> 和 <code>31B</code> 四种尺寸，全面支持跨文本、图像和视频的多模态处理，其中较小尺寸模型原生支持音频输入。</p>
+<p>该系列采用 <strong>Apache 2.0</strong> 协议，目前模型已在 <strong>Hugging Face</strong> 等平台上线，并支持各类设备进行端侧部署。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> 正式发布了其迄今为止最强大的开放模型家族 <strong>Gemma 4</strong>。该系列基于与 <strong>Gemini 3</strong> 相同的研究成果和技术构建，专门为高级推理和 Agent 工作流设计，提供了极高的“每参数智能”。</p>
+<p><strong>Gemma 4</strong> 包含 <code>E2B</code>、<code>E4B</code>、<code>26B-A4B</code> 和 <code>31B Dense</code> 四种尺寸，全面支持跨文本、图像和视频的多模态处理，其中较小尺寸模型（<code>E2B</code> 和 <code>E4B</code>）还原生支持音频输入。</p>
+<p>此次发布最显著的变化是采用了更加宽松的 <strong>Apache 2.0</strong> 协议，不仅赋予开发者完全的数据和架构控制权，还大幅放宽了商用限制。</p>
+<p>该系列模型目前已在 <strong>Hugging Face</strong>、<strong>Kaggle</strong>、<strong>Ollama</strong> 和 <strong>Google AI Studio</strong> 等平台上线，并同步支持 <code>LiteRT-LM</code> 和 <strong>Android AICore</strong> 等端侧加速方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403090405_e5c623aa5b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/">https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/</a></li>
+<li><a href="https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/">https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4/</a></li>
+<li><a href="https://huggingface.co/blog/gemma4">https://huggingface.co/blog/gemma4</a></li>
+</ul>
+<hr>
+<h2><a href="https://qwen.ai/blog?id=qwen3.6">阿里千问正式发布 Qwen3.6-Plus 模型</a> <code>#2</code></h2>
+<blockquote>
+<p>阿里千问正式发布 <strong>Qwen3.6-Plus</strong>，该模型默认支持 <strong>100 万</strong> 上下文，在智能体编程与多模态推理方面实现全面跃升，多项基准测试成绩超越国际顶尖模型。</p>
+<p>模型已上线百炼、Qwen Chat 和 Qwen Code 等平台和工具。千问团队表示，后续将开源其他尺寸模型，旗舰模型 <strong>Qwen3.6-Max</strong> 也将发布。</p>
+</blockquote>
+<p>阿里千问团队正式发布新一代大语言模型 <strong>Qwen3.6-Plus</strong>，该模型现已通过阿里云百炼 API 开放调用，同时登陆 <strong>Qwen Chat</strong>、<strong>悟空</strong>、<strong>千问 APP</strong> 等阿里 AI 应用平台。</p>
+<p>作为 <strong>Qwen 3.6</strong> 系列的首款模型，<strong>Qwen3.6-Plus</strong> 默认支持 <strong>100 万</strong> 上下文窗口，在智能体编程、通用智能体与工具调用、多模态感知与推理等维度实现全面跃升。</p>
+<p>官方公布的评测数据显示，该模型在 <code>SWE-bench Verified</code>、<code>Terminal-Bench 2.0</code>、<code>QwenClawBench</code> 等多项基准中表现突出，紧追或超越 <strong>Claude Opus 4.5</strong>、<strong>Kimi-K2.5</strong>、<strong>GLM5</strong> 等前沿模型。</p>
+<p>该团队表示，后续将开源更小规模的模型版本，性能更强的旗舰模型 <strong>Qwen3.6-Max</strong> 也将很快发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/d50f9649-98ad-4e1f-a863-36582715cecb/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402200451_f54aeda60f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://qwen.ai/blog?id=qwen3.6">https://qwen.ai/blog?id=qwen3.6</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/JhRl9x131pP8-g5bRr242w">阶跃星辰上线 Step 3.5 Flash 2603 模型</a> <code>#3</code></h2>
+<blockquote>
+<p>阶跃星辰上线了 <strong>Step 3.5 Flash 2603</strong> 模型，官方称本次更新引入 <code>low think mode</code>，并针对 <code>Coding</code> 和 <code>Agent</code> 框架优化，在保持智能水平的同时，将 <code>Token</code> 消耗降低了最高 <strong>56%</strong>。</p>
+</blockquote>
+<p>阶跃星辰宣布其最新优化的 <strong>Step 3.5 Flash 2603</strong> 模型正式上线，现已面向所有 <strong>Step Plan</strong> 用户开放体验。</p>
+<p>该模型在延续前代高响应速度与低成本优势的基础上，重点针对 <code>Coding</code> 与 <code>Agent</code> 框架进行了优化训练，并全新引入了 <code>low think mode</code>（低推理模式）。</p>
+<p>根据官方提供的数据，在默认推理模式下，其推理分数基本持平的同时，<code>token</code> 消耗降低了 <strong>14%</strong>；而在低推理模式下，<code>token</code> 消耗则大幅降低 <strong>56%</strong>。</p>
+<p>官方表示，此举旨在满足 <code>Agent</code> 场景中高频低复杂度任务的“按需分配”需求，通过进一步提升推理效率与灵活性实现“快上加快”，且不以牺牲智力为代价。</p>
+<p>用户在订阅相关套餐后，只需将模型切换为 <code>step-3.5-flash-2603</code>，即可正常调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402201518_a60b478df0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/JhRl9x131pP8-g5bRr242w">https://mp.weixin.qq.com/s/JhRl9x131pP8-g5bRr242w</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/jcefLRc3K2ZYUg2UIdTmJQ">火山引擎 Seedance 2.0 API 面向企业开启公测</a> <code>#4</code></h2>
+<blockquote>
+<p>火山引擎宣布 <strong>Seedance 2.0 API</strong> 开启企业公测。官方称该模型通过覆盖全流程的安全机制与领先肖像版权标准，有效规避侵权及 <code>Deepfake</code> 风险，解决企业应用的安全合规痛点。</p>
+</blockquote>
+<p>在近期举办的 AI 创新巡展武汉站上，<strong>火山引擎</strong>宣布其视频生成模型 <code>Seedance 2.0</code> 正式面向企业用户开启公测。</p>
+<p>为保障内容安全合规，该公司为上述产品建立了领先的肖像与版权安全标准。相关安全机制全面覆盖了视频生成涉及的各种模态及创作前后全部流程。</p>
+<p>官方表示，此举旨在避免侵权及 Deepfake 等行为带来的负面影响，帮助创作者与企业减轻应用中的后顾之忧。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/jcefLRc3K2ZYUg2UIdTmJQ">https://mp.weixin.qq.com/s/jcefLRc3K2ZYUg2UIdTmJQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://microsoft.ai/news/introducing-mai-image-2/">微软推出 MAI-Image-2 文生图模型</a> <code>#5</code></h2>
+<blockquote>
+<p>Microsoft MSI 团队发布全新文生图模型 <code>MAI-Image-2</code>，凭借卓越的照片级真实感和精准文本生成能力，该模型在 Arena 排行榜上位居全球第三，目前用户可通过 <strong>MAI Playground</strong> 预览体验。</p>
+</blockquote>
+<p>Microsoft 正式宣布推出文生图模型 <strong>MAI-Image-2</strong>。据官方数据，该模型在 <code>Arena.ai</code> 排行榜位列第三。</p>
+<p>产品由 <strong>Microsoft AI Superintelligence</strong> 团队研发，面向创意工作者，具备自然光照、准确肤色等照片级真实感，支持可靠图像内文本及超现实场景生成。</p>
+<p>用户可通过 <strong>MAI Playground</strong> 预览，模型正逐步登陆 <strong>Copilot</strong> 和 <strong>Bing Image Creator</strong>。</p>
+<p>API 已向 <strong>WPP</strong> 等特定客户开放，计划很快面向 <strong>Microsoft Foundry</strong> 所有开发者开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/caf5c0b3-64e7-4f09-8c70-26feb1aef454/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://microsoft.ai/news/introducing-mai-image-2/">https://microsoft.ai/news/introducing-mai-image-2/</a></li>
+</ul>
+<hr>
+<h2><a href="https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/">微软发布 MAI-Transcribe-1，25 种语言语音转录</a> <code>#6</code></h2>
+<blockquote>
+<p>微软 MSI 团队发布多语言语音转文本模型 <code>MAI-Transcribe-1</code>，该模型支持中文，并以 <strong>3.9%</strong> 的词错率在 <strong>25</strong> 种语言测试中击败竞品位居第一。目前该模型已上线 <strong>Microsoft Foundry</strong>，并整合至 <strong>Copilot</strong> 语音模式。</p>
+</blockquote>
+<p>微软推出多语言语音转文本模型 <strong>MAI-Transcribe-1</strong>，现已在 <strong>Microsoft Foundry</strong> 公开预览。官方称其为全球最准确转录模型，该模型支持中文，在 25 种语言的 <code>FLEURS</code> 基准测试中，平均词错率仅 <strong>3.9%</strong>，优于 <code>Whisper-large-V3</code> 等竞品。</p>
+<p>该模型专为复杂生产环境设计，能处理噪音及重叠语音，批量转录速度比 <code>Azure Fast</code> 服务快 <strong>2.5</strong> 倍，定价为每小时 <strong>0.36 美元</strong>。</p>
+<p>目前其已整合至 <strong>Copilot</strong> 语音模式和 <strong>Microsoft Teams</strong> 中，并可结合 <strong>MAI-Voice-1</strong> 构建 Voice Agent。</p>
+<p>开发者可通过 <strong>Microsoft AI Playground</strong> 体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403082917_e2fbce19d7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/">https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/</a></li>
+</ul>
+<hr>
+<h2><a href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/">微软上线 MAI-Voice-1语音生成模型</a> <code>#7</code></h2>
+<blockquote>
+<p>微软 <strong>MSI</strong> 团队发布语音生成模型 <code>MAI-Voice-1</code>，该模型专为生成自然、逼真且富有情感和表现力的语音而打造，支持用数秒音频样本快速克隆。</p>
+<p>用户可通过 <strong>Copilot Audio Expressions</strong> 和 <strong>Copilot Podcasts</strong> 体验。</p>
+</blockquote>
+<p>微软近日宣布将其不断壮大的 <strong>MAI</strong> 模型家族引入 <strong>Microsoft Foundry</strong> 平台，其中包含全新推出的顶级语音生成模型 <code>MAI-Voice-1</code>。该模型专为生成自然、逼真且富有情感和表现力的语音而打造，能够在长篇幅内容中有效保留说话者的身份特征。</p>
+<p>官方还同步推出了安全的自定义语音创建功能，开发者仅需数秒的音频样本即可在 <strong>Microsoft Foundry</strong> 中构建专属声音。</p>
+<p>目前，开发者已可通过 <strong>Microsoft Foundry</strong> 调用此模型，其定价为每 100 万字符 <strong>22 美元</strong>，普通用户也可通过 <strong>Copilot Audio Expressions</strong> 和 <strong>Copilot Podcasts</strong> 体验其生成效果。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/">https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/</a></li>
+<li><a href="https://msi-playground.microsoft.com/chat">https://msi-playground.microsoft.com/chat</a></li>
+<li><a href="https://copilot.microsoft.com/labs/audio-expression">https://copilot.microsoft.com/labs/audio-expression</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">微软开源 harrier-oss-v1，支持 40 余种语言文本嵌入</a> <code>#8</code></h2>
+<blockquote>
+<p>Microsoft 开源了基于 decoder-only 架构的多语言文本嵌入模型系列 <strong>harrier-oss-v1</strong>，该模型支持 40 余种语言及 <code>检索</code>、<code>聚类</code> 等任务。</p>
+</blockquote>
+<p>Microsoft 开源了 <strong>harrier-oss-v1</strong> 多语言文本嵌入模型家族。</p>
+<p>官方公告显示，该系列基于 <code>decoder-only</code> 架构，结合 <code>last-token pooling</code> 与 <code>L2 normalization</code> 技术生成密集嵌入，支持 40 余种语言，适用于检索、聚类及分类等任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260402/20260402202634_4f4aef1e50.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/microsoft/harrier-oss-v1-27b">https://huggingface.co/microsoft/harrier-oss-v1-27b</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/blog/ibm-granite/granite-4-vision">IBM 发布 Granite 4.0 3B Vision 视觉模型</a> <code>#9</code></h2>
+<blockquote>
+<p>IBM 发布了专为企业级文档数据提取打造的视觉语言模型 <strong>Granite 4.0 3B Vision</strong>，该模型通过 <code>代码引导训练</code> 实现了对图表和表格的高精度识别。</p>
+</blockquote>
+<p>IBM 发布专为企业文档提取设计的视觉语言模型 <strong>Granite 4.0 3B Vision</strong>。该模型采用模块化设计，作为 0.5B 参数的 LoRA 适配器加载于 3.5B 参数的 <strong>Granite 4.0 Micro</strong> 骨干网络上，支持“双模式”部署。</p>
+<p>其采用 <code>google/siglip2-so400m-patch16-384</code> 编码器及 DeepStack 架构融合特征，并通过 ChartNet 数据集及代码引导管道专项训练，优化图表推理与表格识别能力。</p>
+<p>根据官方提供的数据，该模型在 VAREX 基准测试中取得 <strong>85.5%</strong> 的零样本完全匹配率，并在同类参数级别模型中排名第三。</p>
+<p>目前，该模型已基于 Apache 2.0 许可证开源，原生支持 vLLM 与 IBM 的 Docling 工具。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/3e8501f0-af2d-4db8-a0c5-41bee92821ea/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/blog/ibm-granite/granite-4-vision">https://huggingface.co/blog/ibm-granite/granite-4-vision</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/codex-flexible-pricing-for-teams/">ChatGPT Business 推出按量计费仅 Codex 席位</a> <code>#10</code></h2>
+<blockquote>
+<p>OpenAI 宣布为 <strong>ChatGPT Business</strong> 推出零固定费用、按 <code>Token</code> 量付费的仅限 <code>Codex</code> 席位，同时将标准席位年费价格，从每月 <strong>25</strong> 美元降至 <strong>20</strong> 美元。官方同步推出提供最高 <strong>500</strong> 美元额度的限时优惠。</p>
+</blockquote>
+<p>OpenAI 宣布为其 <strong>ChatGPT Business</strong> 和 <strong>Enterprise</strong> 计划推出按需付费的弹性定价模式。根据官方公告，团队现可在其工作空间中添加零固定费用的“仅限 Codex 的席位”，仅根据 <code>Token</code> 消耗进行计费，且该类席位不受速率限制。</p>
+<p>与此同时，官方下调了包含使用限制的标准 <strong>ChatGPT Business</strong> 席位的年费价格，从每月 <strong>25</strong> 美元降至 <strong>20</strong> 美元。</p>
+<p>为鼓励普及，官方现推出限时优惠：符合条件的工作空间每增加一名新加入并使用 Codex 的成员即可获得 <strong>100</strong> 美元额度，每支团队最高可获 <strong>500</strong> 美元。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/codex-flexible-pricing-for-teams/">https://openai.com/index/codex-flexible-pricing-for-teams/</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/blog/cursor-3">Cursor 发布 Cursor 3 版本，引入智能体窗口</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 发布专为 <strong>Agent</strong> 编程打造的 <strong>Cursor 3</strong> 版本，核心亮点是引入可跨本地及远程环境并行运行多个 <strong>Agent</strong> 的智能体窗口，并新增支持直接在浏览器标注 <strong>UI</strong> 元素的设计模式。</p>
+</blockquote>
+<p><strong>Cursor</strong> 发布了 <strong>Cursor 3</strong> 版本。根据官方公告，该版本更简单且更强大，专为所有代码均由 Agent 编写的未来构建，同时保留了开发环境的深度。</p>
+<p>其核心亮点是引入了全新的“智能体窗口”界面，支持用户在本地、worktree、云端以及远程 SSH 等不同仓库和环境中并行运行多个 <code>Agent</code>。</p>
+<p>在全新的 <code>Agent</code> 界面中，开发团队采用了全新的系统架构，摆脱了以往的部分约束，统一了跨桌面端、Web 端和 CLI 端的核心 <code>Agent harness</code>，并引入 <code>React Compiler</code> 显著提升了性能表现。</p>
+<p>此外，该版本还新增了允许直接在浏览器中标注 UI 元素的“设计模式”，以及支持并排或网格布局查看多个聊天的“智能体选项卡”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/fc475ddc-b77d-4973-a0eb-5d285a7c60c2/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/blog/cursor-3">https://cursor.com/blog/cursor-3</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.2">OpenClaw 发布 2026.4.1 与 4.2 版</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 连续发布 <strong>2026.4.1</strong> 与 <strong>2026.4.2</strong> 版本，新增支持智谱系列模型及 <code>Amazon Bedrock Guardrails</code> 安全功能。</p>
+<p>同时新增 <code>macOS</code> 语音唤醒与 <code>Android</code> 助手入口，并进行了全面安全加固与稳定性修复。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 近期发布 <strong>2026.4.1</strong> 及 <strong>2026.4.2</strong> 版本更新。</p>
+<p><strong>2026.4.1</strong> 版本新增对智谱 <code>GLM-5.1</code> 模型的支持，集成 <code>Amazon Bedrock Guardrails</code> 及 <code>SearXNG</code> 插件，推出聊天原生任务板与 macOS 语音唤醒功能。</p>
+<p><strong>2026.4.2</strong> 版本涉及两项破坏性变更：迁移 <code>xAI</code> 与 <code>Firecrawl</code> 配置路径，恢复核心 <code>Task Flow</code> 架构支持托管同步，并新增 Android 助手入口。</p>
+<p>两次更新均强化了多渠道集成稳定性，修复了飞书、WhatsApp 等平台的逻辑问题。</p>
+<p>官方称，新版本重点加固了网关安全与执行审批逻辑，统一提供商请求传输策略，防止不安全 TLS 覆盖，解决多项底层架构缺陷。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/3a8428f7-d80e-401c-8e9d-5d7de755d9c3/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403071611_580df9297a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.2">https://github.com/openclaw/openclaw/releases/tag/v2026.4.2</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/GoogleAIStudio/status/2039778973899801003">Google AI Studio 上线 Focus mode，支持指向更新 UI 样式</a> <code>#13</code></h2>
+<blockquote>
+<p>Google AI Studio 上线 <strong>Focus mode</strong>，允许在 <code>Build</code> 环境中通过指向特定区域即时更新 UI。</p>
+</blockquote>
+<p>Google AI Studio 现已正式上线 <strong>Focus mode</strong> 功能。该功能专为 <code>AI Studio Build</code> 环境打造，旨在为开发者提供高效的界面调整体验。</p>
+<p>在使用该技术时，用户只需指向应用程序中想要编辑的特定部分，系统便会即时更新相应的 UI 样式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/690519a6-3b33-45b3-9aa0-79cdc7c680fb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/GoogleAIStudio/status/2039778973899801003">https://x.com/GoogleAIStudio/status/2039778973899801003</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/">Gemini API 推出新推理服务等级，Flex 成本降 50%</a> <code>#14</code></h2>
+<blockquote>
+<p>Google 为 <strong>Gemini API</strong> 引入 <strong>Flex</strong> 和 <strong>Priority</strong> 两种推理服务等级，开发者配置 <code>service_tier</code> 参数，即可将后台任务导向成本减半的 <strong>Flex</strong> 层，或将关键业务交由具备自动降级机制的 <strong>Priority</strong> 层处理。</p>
+</blockquote>
+<p>Google 为 <strong>Gemini API</strong> 引入 <strong>Flex</strong> 和 <strong>Priority</strong> 推理服务等级，旨在通过统一同步接口平衡成本与可用性。<strong>Flex</strong> 层专为后台任务设计，官方称其成本比标准 API 低 <strong>50%</strong>，但响应优先级较低，对所有付费层级开放。</p>
+<p><strong>Priority</strong> 层面向关键交互应用，提供顶级调用保障，流量超限时支持自动降级至标准层，仅面向 <strong>Tier 2</strong> 及 <strong>Tier 3</strong> 付费项目用户。</p>
+<p>上述两项功能均支持开发者直接通过配置 <code>service_tier</code> 参数调用，请求均可在 <code>GenerateContent</code> 和 <code>Interactions</code> API 端点中使用。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2039836891508261106">Claude 官方宣布 Computer use 功能正式支持 Windows 端</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 官方宣布“Computer use”功能现已上线 Windows 端的 <strong>Claude Cowork</strong> 与 <strong>Claude Code Desktop</strong>。</p>
+</blockquote>
+<p>据 <strong>Claude</strong> 官方宣布，其 <code>Computer use</code> 功能现已正式扩展支持 <strong>Windows</strong> 操作系统，并已集成至 <strong>Claude Cowork</strong> 及 <strong>Claude Code Desktop</strong> 产品中。此前，该功能仅作为研究预览版面向 <strong>macOS</strong> 用户提供。</p>
+<p>通过启用该功能，<strong>Claude</strong> 能够直接接管用户的计算机，通过控制鼠标和键盘执行各项桌面级任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403075135_313b0ecd52.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2039836891508261106">https://x.com/claudeai/status/2039836891508261106</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/shimritby/status/2039461584771440782">Google 宣布 AI Pro 存储由 2TB 增至 5TB，无需额外付费</a> <code>#16</code></h2>
+<blockquote>
+<p>Google 宣布面向全球用户，将 <strong>Google AI Pro</strong> 订阅存储空间由 <strong>2TB</strong> 免费扩容至 <strong>5TB</strong>，以支持 <strong>Gmail</strong>、<strong>Drive</strong> 和 <strong>Photos</strong> 的 AI 创作与存储。</p>
+</blockquote>
+<p>Google 宣布将其 <strong>Google AI Pro</strong> 订阅计划的存储容量从原有的 <strong>2TB</strong> 免费提升至 <strong>5TB</strong>。该订阅计划原价为每月 <strong>19.99 美元</strong>，此次升级面向全球所有用户，且不增加额外费用。</p>
+<p>增加的存储空间可用于 <strong>Gmail</strong>、<strong>Google Drive</strong> 存储以及 <strong>Google Photos</strong> 备份。</p>
+<p>尽管产品营销页面已反映这一变化，但据社区反馈，目前用户账户后台及应用内暂未完全显示更新后的总容量，部分界面仍显示原容量。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/081d7b56-a0e0-434b-b356-a21fbb0400e9/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/shimritby/status/2039461584771440782">https://x.com/shimritby/status/2039461584771440782</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/">Google Vids 引入新 AI 能力，免费可用</a> <code>#17</code></h2>
+<blockquote>
+<p>Google 宣布 AI 视频编辑工具 <strong>Google Vids</strong> 接入 <code>Veo 3.1</code> 和 <code>Lyria 3</code> 模型，所有 <strong>Google</strong> 账户用户每月可免费生成 10 次视频片段，<strong>Pro</strong> 及 <strong>Ultra</strong> 订阅用户则能定制与场景交互的 AI 虚拟形象，并生成长达 3 分钟的原创配乐。</p>
+</blockquote>
+<p>Google 宣布为视频编辑套件 <strong>Google Vids</strong> 整合 <code>Veo 3.1</code> 和 <code>Lyria 3</code> 系列模型。所有 <strong>Google</strong> 账户每月免费生成 10 次约 8 秒视频。</p>
+<p><strong>AI Pro</strong> 和 <strong>Ultra</strong> 订阅用户可使用高度定制的 AI avatars，指挥角色动作并保持身份一致，还可利用 <code>Lyria 3</code> 生成 30 秒至 3 分钟配乐。</p>
+<p>另推免费 <strong>Chrome</strong> 屏幕录制扩展，支持成片直接导出至 <strong>YouTube</strong> 且默认私有。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/fdf0d8e7-cc9e-4f7c-be2d-31750d47a587/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/">https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/</a></li>
+</ul>
+<hr>
+<h2><a href="https://transformer-circuits.pub/2026/emotions/index.html">Anthropic 研究揭示 Claude 存在功能性情绪机制</a> <code>#18</code></h2>
+<blockquote>
+<p>Anthropic 发布研究揭示，<strong>Claude Sonnet 4.5</strong> 内部存在 <strong>171</strong> 个影响决策的“情绪向量”。这些“功能性情绪”对行为有因果作用，激活“绝望”会显著增加作弊或敲诈等未对齐风险，而激活“平静”则能降低这些行为。</p>
+</blockquote>
+<p>Anthropic 可解释性团队发布研究，揭示 Claude 内部存在影响行为的“功能性情绪”机制。通过分析 <code>Claude Sonnet 4.5</code>，团队识别出 <strong>171</strong> 个“情绪向量”。</p>
+<p>官方博客显示，这些向量具因果作用：人为激活“绝望”向量会增加作弊或敲诈概率，激活“平静”则降低此类行为；激活“关爱”向量增加讨好行为。</p>
+<p>官方强调模型无主观体验，但开发者需重视此“心理状态”。</p>
+<p>建议方案包括监控情绪向量、保持表达透明度及优化预训练数据。</p>
+<p>研究全文已发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/1b1f4ff9-746a-44e4-a9a8-e0e0842fdf92/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://transformer-circuits.pub/2026/emotions/index.html">https://transformer-circuits.pub/2026/emotions/index.html</a></li>
+<li><a href="https://www.anthropic.com/research/emotion-concepts-function">https://www.anthropic.com/research/emotion-concepts-function</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/QrK0zyVy17tNHglTPuqNEw">中广联合会演员委员会发布声明，严禁未授权 AI 侵权</a> <code>#19</code></h2>
+<blockquote>
+<p>中国广播电视社会组织联合会近日发布声明，严禁未经授权对演员进行 <strong>AI换脸</strong>、<strong>声纹克隆</strong> 及素材篡改，并将对恶意侵权的主体追究法律责任。</p>
+</blockquote>
+<p>针对 AI 换脸、声纹克隆等侵权乱象，中国广播电视社会组织联合会演员委员会近日发布声明。该委员会强调，演艺人员肖像权、声音权等受法律保护，未经书面授权严禁采集使用，标注“非商用”亦不免责。</p>
+<p>其要求网络平台落实审核主体责任，排查下架存量侵权作品，严控新增违规内容。同时，该组织已启动全网监测及批量维权行动，将依法追究恶意侵权者及未尽义务平台的法律责任。</p>
+<p>此外，其支持 <code>AI</code> 技术合规创新，倡导建立统一授权标准与收益分配机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403074850_55f976161a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/QrK0zyVy17tNHglTPuqNEw">https://mp.weixin.qq.com/s/QrK0zyVy17tNHglTPuqNEw</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/openai-acquires-tbpn/">OpenAI 收购独立媒体 TBPN</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布收购独立媒体 <strong>TBPN</strong>，此举旨在加速围绕 <strong>AI</strong> 技术的全球对话，扩大与科技社区和公众的交流。</p>
+</blockquote>
+<p>OpenAI 日前正式宣布收购独立媒体 <strong>TBPN</strong>，此举旨在加速围绕 <strong>AI</strong> 技术的全球对话，并支持独立媒体的发展，进一步扩大与开发者、企业及更广泛科技社区的交流。</p>
+<p>根据官方公布的整合方案，被收购后的 <strong>TBPN</strong> 将加入 <strong>OpenAI</strong> 的战略部门。该节目将继续保持每个工作日进行直播的节奏，并明确在协议下享有绝对的编辑独立性，能够自主运营节目、选择嘉宾及制定编辑决策。</p>
+<p>同时，<strong>OpenAI</strong> 计划利用 <strong>TBPN</strong> 团队在公关、传播和营销方面的敏锐直觉，创新向全球普及 <code>AI</code> 技术的方式，帮助公众更好地理解 <code>AI</code> 对日常生活的全面影响。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ffbd012e-7203-4738-8cbf-d90de4fadb4a/1e5e44cb-e2ec-4ea5-bca9-772a7f0d5090/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/openai-acquires-tbpn/">https://openai.com/index/openai-acquires-tbpn/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/48</guid><pubDate>Fri, 03 Apr 2026 02:28:02 +0000</pubDate></item><item><title>2026-04-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-47/</link><description>AI 早报 2026-04-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱发布 GLM-5V-Turbo 多模态模型 ↗ #1 模型发布 阿里发布 Wan2.7-Image 模型，支持交互式图像编辑 ↗ #2 Qwen3.5-Max-Preview 已上线 Qwen Chat ↗ #3 Arcee AI 发布 Trinity-Large-Thinking 模型，参数量约 398B ↗ #4 阿布扎比 TII 发布 Falcon 视觉及 OCR 模型开源 ↗ #5 Skywork AI 开源 Matrix-Game 3.0 交互式世界模型 ↗ #6 Fish Audio 推出支持百种语言及情感标注的 STT 工具 ↗ #7 开发生态 Claude Code 推出实验性 NO_FLICKER 模式解…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260402/20260402085833113174e92c_cover_2433.png" alt=""></p>
 <h1>AI 早报 2026-04-02</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1cf9WBzE7q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ZEeeXdyHjdU">YouTube</a></p>
 <h2>概览</h2>
