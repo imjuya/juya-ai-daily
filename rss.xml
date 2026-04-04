@@ -1,5 +1,271 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 03 Apr 2026 02:28:22 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-48/</link><description>AI 早报 2026-04-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布开放权重模型系列 Gemma 4 ↗ #1 阿里千问正式发布 Qwen3.6-Plus 模型 ↗ #2 模型发布 阶跃星辰上线 Step 3.5 Flash 2603 模型 ↗ #3 火山引擎 Seedance 2.0 API 面向企业开启公测 ↗ #4 微软推出 MAI-Image-2 文生图模型 ↗ #5 微软发布 MAI-Transcribe-1，25 种语言语音转录 ↗ #6 微软上线 MAI-Voice-1语音生成模型 ↗ #7 微软开源 harrier-oss-v1，支持 40 余种语言文本嵌入 ↗ #8 IBM 发布 Granite 4.0 3B Vision 视觉模型 ↗ #9 开发生态 Ch…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260403/20260403085941822006a17c_cover_ffbd.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 04 Apr 2026 00:58:32 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-49/</link><description>AI 早报 2026-04-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里通义实验室发布 Wan2.7-Video 视频生成模型 ↗ #1 京东开源发布 JoyAI-Image 图像编辑模型权重 ↗ #2 研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 ↗ #3 ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 ↗ #4 Willow 发布 Atlas 1 语音转文本模型 ↗ #5 Netflix 开源首个 AI 模型 VOID ↗ #6 开发生态 OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 ↗ #7 Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 ↗ #8 Claude Code 更新减少…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260404/2026040408431420198100d4_cover_d8dc.png" alt=""></p>
+<h1>AI 早报 2026-04-04</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1aVDPBoEiF">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=3dDIcpseG-M">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>阿里通义实验室发布 Wan2.7-Video 视频生成模型 <a href="https://bailian.console.aliyun.com/cn-beijing?tab=model#/model-market/all?providers=wan">↗</a> <code>#1</code></li>
+<li>京东开源发布 JoyAI-Image 图像编辑模型权重 <a href="https://github.com/jd-opensource/JoyAI-Image">↗</a> <code>#2</code></li>
+<li>研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 <a href="https://github.com/k2-fsa/OmniVoice">↗</a> <code>#3</code></li>
+<li>ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 <a href="https://elevenlabs.io/blog/scribe-v2-just-got-an-upgrade">↗</a> <code>#4</code></li>
+<li>Willow 发布 Atlas 1 语音转文本模型 <a href="https://x.com/WillowVoiceAI/status/2039393905616310659">↗</a> <code>#5</code></li>
+<li>Netflix 开源首个 AI 模型 VOID <a href="https://github.com/Netflix/void-model">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 <a href="https://developers.openai.com/codex/pricing">↗</a> <code>#7</code></li>
+<li>Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 <a href="https://x.com/bcherny/status/2040206440556826908">↗</a> <code>#8</code></li>
+<li>Claude Code 更新减少 Token 消耗、 Anthropic 回应额度异常 <a href="https://github.com/ArkNill/claude-code-cache-analysis">↗</a> <code>#9</code></li>
+<li>小米 MiMo 推出 Token Plan 订阅服务 <a href="https://platform.xiaomimimo.com">↗</a> <code>#10</code></li>
+<li>Gemini CLI 发布 v0.36.0，引入 Subagents <a href="https://x.com/geminicli/status/2040081894495437068">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude 全面开放 Microsoft 365 连接器 <a href="https://claude.ai/customize/connectors">↗</a> <code>#12</code></li>
+<li>LMArena 暂时下架 Claude Opus 4.6 等三款模型维护平台稳定 <a href="https://linux.do/t/topic/1888043">↗</a> <code>#13</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 提应用构建三模式，平衡成本延迟 <a href="https://claude.com/blog/harnessing-claudes-intelligence">↗</a> <code>#14</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>消息称 Anthropic 收购 Coefficient Bio <a href="https://www.newcomer.co/p/anthropic-buys-stealth-dimension">↗</a> <code>#15</code></li>
+<li>Sarvam AI 拟融资 3 亿至 3.5 亿美元，亚马逊英伟达或参投 <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://bailian.console.aliyun.com/cn-beijing?tab=model#/model-market/all?providers=wan">阿里通义实验室发布 Wan2.7-Video 视频生成模型</a> <code>#1</code></h2>
+<blockquote>
+<p>阿里通义实验室正式发布视频生成模型 <code>Wan2.7-Video</code>，以“戏核驱动”为核心支持全模态输入及全链路创作。</p>
+<p>该模型具备局部精准修改、指令级剧情调整、多角色锁定等六大核心能力，并在智能剧情设计、多维风格组合及复合运镜方面实现升级。</p>
+<p>目前用户已可通过阿里云百炼平台或万相官网体验该模型。</p>
+</blockquote>
+<p>阿里正式上线了全新的视频创作大模型 <strong>Wan2.7-Video</strong>。该模型不仅支持文本、图像、视频、音频全模态输入，更以“戏核驱动”为核心，实现了从生成、编辑、复刻、重塑到续写的全链路覆盖。</p>
+<p>官方公告显示，<strong>Wan2.7-Video</strong> 具备超强的局部精准修改、指令级剧情调整、多维度创意复刻、无缝剧情续写、最多支持5个主体的角色特征锁定，以及多宫格故事板控制等六大核心能力。</p>
+<p>同时，该模型在智能剧情设计、多维风格组合、超40种细分表情演绎，以及包含希区柯克式变焦等复合运镜方面实现了全面升级。</p>
+<p>目前，该产品已开放体验，用户可通过阿里云百炼平台或万相官网进行试用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403183700_48bace0c58.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://bailian.console.aliyun.com/cn-beijing?tab=model#/model-market/all?providers=wan">https://bailian.console.aliyun.com/cn-beijing?tab=model#/model-market/all?providers=wan</a></li>
+<li><a href="https://tongyi.aliyun.com/wan">https://tongyi.aliyun.com/wan</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/jd-opensource/JoyAI-Image">京东开源发布 JoyAI-Image 图像编辑模型权重</a> <code>#2</code></h2>
+<blockquote>
+<p>京东发布了统一多模态模型 <strong>JoyAI-Image</strong> 的图像编辑权重 <strong>JoyAI-Image-Edit</strong>，该模型主打理解、生成与编辑的闭环协作。</p>
+<p>支持物体移动、旋转及相机控制三种指令引导的精确空间操作。</p>
+</blockquote>
+<p>近日，京东在 Hugging Face 及 GitHub 平台发布了统一多模态基础模型 <strong>JoyAI-Image</strong> 的图像编辑权重 <strong>JoyAI-Image-Edit</strong>。该模型家族结合了 8B 参数的 <code>MLLM</code> 与 16B 参数的 <code>MMDiT</code> 架构，主打理解、生成与编辑的闭环协作能力，通过强大的空间理解提升场景解析与指令分解表现。</p>
+<p>目前官方已开放 <strong>JoyAI-Image-Und</strong> 与 <strong>JoyAI-Image-Edit</strong> 的下载，其高级多图编辑及文生图版本即将发布。</p>
+<p><strong>JoyAI-Image-Edit</strong> 支持指令引导的精确空间操作、复杂的文本渲染及多视角生成，并针对空间推理提供了物体移动、物体旋转与相机控制三种特定的提示词编辑模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/23dbf909-d863-4d6f-b07b-df0dc11fb02d/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/23dbf909-d863-4d6f-b07b-df0dc11fb02d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/jd-opensource/JoyAI-Image">https://github.com/jd-opensource/JoyAI-Image</a></li>
+<li><a href="https://huggingface.co/jdopensource/JoyAI-Image-Edit">https://huggingface.co/jdopensource/JoyAI-Image-Edit</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/k2-fsa/OmniVoice">研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型</a> <code>#3</code></h2>
+<blockquote>
+<p>研究团队推出了支持超过 <strong>600</strong> 种语言的大规模零样本文本转语音模型 <strong>OmniVoice</strong>。该模型采用 <code>扩散语言模型</code> 架构，具备零样本克隆、基于指令的语音设计及非语言声音生成能力。</p>
+</blockquote>
+<p>近日，<strong>Han Zhu</strong> 与 <strong>Daniel Povey</strong> 等研究人员推出大规模多语言零样本文本转语音模型 <strong>OmniVoice</strong>。该模型基于扩散语言模型风格的离散非自回归架构，使用 <strong>58.1 万小时</strong> 开源数据训练。</p>
+<p>官方称其支持超 <strong>600 种语言</strong>，覆盖范围最广。其直接将文本映射到多码本声学 <code>Token</code>，实时率最低达 <strong>0.025</strong>。</p>
+<p>功能包括零样本克隆、属性设计及自动语音生成，支持非语言声音插入及发音控制。</p>
+<p>项目权重、代码及论文已公开，支持 <code>PyTorch</code> 环境部署，提供多种命令行工具及在线体验方式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260404/20260404083602_d0469573c6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/k2-fsa/OmniVoice">https://github.com/k2-fsa/OmniVoice</a></li>
+<li><a href="https://huggingface.co/k2-fsa/OmniVoice">https://huggingface.co/k2-fsa/OmniVoice</a></li>
+<li><a href="https://arxiv.org/abs/2604.00688">https://arxiv.org/abs/2604.00688</a></li>
+</ul>
+<hr>
+<h2><a href="https://elevenlabs.io/blog/scribe-v2-just-got-an-upgrade">ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>ElevenLabs</strong> 语音转文本模型 <code>Scribe v2</code> 正式升级，新增自动移除敏感信息的脱敏功能。</p>
+<p>优化了印英混合语转换，并提供去除口语词模式。</p>
+<p>同时，关键词提示功能已扩容至<strong>一千个</strong>。</p>
+</blockquote>
+<p><strong>ElevenLabs</strong> 旗下的语音转文本模型 <code>Scribe v2</code> 近日迎来了重要升级，一次性推出了四项新功能。</p>
+<p>该模型新增了内置实体脱敏功能，能够在转录过程中自动检测并移除姓名、信用卡号等敏感个人身份信息。</p>
+<p>针对多语言场景，其优化了 <code>Indic-English</code>（印度语系-英语）的语码转换能力，可确保英语词汇始终以 Latin script 输出。</p>
+<p>全新的 <code>No Verbatim</code> 模式则可自动剔除语气词和口吃现象，直接生成整洁的文本。</p>
+<p>此外，其 <code>Keyterm prompting</code> 的容量限制从原先的 100 个大幅扩展至 <strong>1,000</strong> 个。</p>
+<p>目前，上述所有新功能均已在 <code>Scribe v2</code> 的 API 和 UI 中向用户全面开放使用。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://elevenlabs.io/blog/scribe-v2-just-got-an-upgrade">https://elevenlabs.io/blog/scribe-v2-just-got-an-upgrade</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/WillowVoiceAI/status/2039393905616310659">Willow 发布 Atlas 1 语音转文本模型</a> <code>#5</code></h2>
+<blockquote>
+<p>Willow 发布语音转文本模型 <code>Atlas 1</code>。官方称该模型在清晰音频和生产环境下的单词错误率分别保持在 <strong>1.2%</strong> 和 <strong>2.1%</strong>，大幅优于 OpenAI 等竞品。</p>
+</blockquote>
+<p><strong>Willow</strong> 正式推出语音转文本模型 <strong>Atlas 1</strong>，现已面向所有用户开放。官方宣称，该模型基于首个专为实时听写构建的可扩展人工转录基础设施开发，性能大幅超越 <strong>ElevenLabs</strong> 等竞品。</p>
+<p>根据官方提供的数据，<strong>Atlas 1</strong> 在清晰音频和生产环境下的单词错误率分别保持在 <strong>1.2%</strong> 和 <strong>2.1%</strong>，显著优于多数模型在真实环境中 <strong>10%</strong> 至 <strong>15%</strong> 的错误率。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/0f064299-4442-4f4d-bdf9-4fbb333c4bb2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/WillowVoiceAI/status/2039393905616310659">https://x.com/WillowVoiceAI/status/2039393905616310659</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/Netflix/void-model">Netflix 开源首个 AI 模型 VOID</a> <code>#6</code></h2>
+<blockquote>
+<p>Netflix 发布了其首个开源AI模型 <strong>VOID</strong>，该模型基于 <code>CogVideoX</code> 架构微调，通过独特的四值掩码条件化技术，能精准擦除视频中的物体并修正物理交互效果。</p>
+</blockquote>
+<p>Netflix近期在 Hugging Face 及 GitHub 平台开源了其首个公开AI模型 <strong>VOID</strong>（Video Object and Interaction Deletion）。该模型专注于视频对象的智能擦除与物理交互修正，基于 <code>CogVideoX</code> 架构微调而成，通过独特的四值掩码条件化技术，能够从视频中移除指定物体并同步处理其引发的所有物理交互效果（例如人物移除后导致吉他掉落）。</p>
+<p>模型包含基础推理与优化推理两个阶段，支持通过 CLI 或 Jupyter Notebook 进行推理，要求运行环境配备 40GB 以上显存（如 A100）。</p>
+<p>其开源仓库同时提供了完整的数据生成与训练代码，以便社区复现或进行进一步开发。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/0c5e96af-3993-4ac5-b9a6-d9c2dbc94187/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/Netflix/void-model">https://github.com/Netflix/void-model</a></li>
+<li><a href="https://huggingface.co/netflix/void-model">https://huggingface.co/netflix/void-model</a></li>
+<li><a href="https://void-model.github.io/">https://void-model.github.io/</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.openai.com/codex/pricing">OpenAI 调整 Codex 计费规则改为按 token 消耗量计价</a> <code>#7</code></h2>
+<blockquote>
+<p>OpenAI 宣布调整 <strong>Codex</strong> 计价模式，将原有的按消息估算改为直接挂钩 <code>API token</code> 消耗量。目前该机制适用于 <strong>ChatGPT Business</strong> 及新 <strong>Enterprise</strong> 客户，现有的其他用户将在未来几周内逐步迁移。</p>
+<p>新机制下，额度消耗取决于输入、缓存输入及输出 <code>token</code> 的混合比例。<strong>Fast mode</strong> 消耗双倍额度。</p>
+</blockquote>
+<p>OpenAI 近日宣布对其 <strong>Codex</strong> 工具的计价模式与使用限制进行重大调整，将原有的按消息估算计费全面转向直接与 <code>API token</code> 消耗量挂钩的定价体系。</p>
+<p>根据官方帮助中心发布的最新费率卡，此次更新的计费方式目前适用于所有 <strong>ChatGPT Business</strong> 客户以及新开通的 <strong>ChatGPT Enterprise</strong> 客户，而现有的 <strong>Plus</strong>、<strong>Pro</strong> 及 <strong>Enterprise/Edu</strong> 用户暂时继续沿用旧版计费规则，并将在未来几周内被逐步迁移至新机制。</p>
+<p>在新的基于 <code>token</code> 的计费框架下，实际额度消耗将直接取决于输入、缓存输入及输出 <code>token</code> 的混合比例。其中，<strong>Fast mode</strong> 会产生双倍的 credits 消耗，而处理高上下文任务将消耗更多额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403185136_7839919f5b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/codex/pricing">https://developers.openai.com/codex/pricing</a></li>
+<li><a href="https://help.openai.com/en/articles/20001106-codex-rate-card#codex-rate-card-token-based-pricing">https://help.openai.com/en/articles/20001106-codex-rate-card#codex-rate-card-token-based-pricing</a></li>
+<li><a href="https://linux.do/t/topic/1887781">https://linux.do/t/topic/1887781</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/bcherny/status/2040206440556826908">Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿</a> <code>#8</code></h2>
+<blockquote>
+<p>Anthropic 宣布，自太平洋时间本周五中午起，<strong>Claude</strong> 订阅额度将不再覆盖 <code>OpenClaw</code> 等第三方工具，用户需开启 <strong>extra usage</strong> 或使用 API 密钥才能继续接入。</p>
+<p>官方称此举是为缓解系统压力，以优先保障核心算力。</p>
+<p>作为过渡补偿，<strong>Anthropic</strong> 为 <strong>Pro</strong>、<strong>Max</strong> 和 <strong>Team</strong> 订阅者提供等同于订阅月费的一次性抵扣额，并推出最高 <strong>30%</strong> 折扣的预购用量包。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 宣布自本周五中午起调整 <strong>Claude</strong> 计费策略。订阅不再支持 <code>OpenClaw</code> 等第三方工具，用户需单独付费开通“extra usage”或使用 API 密钥。官方称此举因第三方工具带来系统压力，需优先保障核心产品算力。</p>
+<p>为平稳过渡，该公司向符合条件的 <strong>Pro</strong>、<strong>Max</strong> 和 <strong>Team</strong> 订阅者提供等同于订阅月费的一次性抵扣额，有效期 <strong>90</strong> 天，并推出最高 <strong>30%</strong> 折扣的预购用量包及退款渠道。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260404/20260404083255_f63bead2dd.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260404/20260404073800_7858beea75.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/bcherny/status/2040206440556826908">https://x.com/bcherny/status/2040206440556826908</a></li>
+<li><a href="https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans">https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/ArkNill/claude-code-cache-analysis">Claude Code 更新减少 Token 消耗、 Anthropic 回应额度异常</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 发布更新，通过优化 <code>Edit</code> 工具和提升 <code>MCP</code> 结果上限来减少 token 消耗。</p>
+<p>官方建议用户尽快升级至最新版本，避免恢复旧会话，并通过切换至 <strong>Sonnet 4.6</strong> 或限制上下文窗口来控制成本。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 发布了 <code>Claude Code v2.1.91</code> 版本，该版本优化了 Edit 工具的定位锚点，以减少输出 token 消耗，并将 MCP 工具结果大小上限提升至 <code>500K</code> 字符。</p>
+<p><strong>Anthropic</strong> 员工 <strong>Lydia Hallie</strong> 回应了近期用户遭遇额度异常消耗的问题，称高峰时段额度有所收紧，且 <code>100</code> 万 token 上下文会话消耗巨大。</p>
+<p>官方已修复部分 bug，但不存在多收费情况。她建议用户默认使用 <code>Sonnet 4.6</code>，限制上下文窗口大小，并避免恢复闲置超过一小时的长会话。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403184647_58ca079fad.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/ArkNill/claude-code-cache-analysis">https://github.com/ArkNill/claude-code-cache-analysis</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.xiaomimimo.com">小米 MiMo 推出 Token Plan 订阅服务</a> <code>#10</code></h2>
+<blockquote>
+<p>Xiaomi MiMo 正式推出 Token Plan 订阅套餐，提供 <strong>39 元</strong>至<strong>659 元</strong>四档方案，采用 Credit 点数按不同倍率计费。</p>
+<p>在 <strong>MiMo-V2-Pro</strong> 上，当上下文 &lt; 256k 时，消耗倍率为两倍；当上下文为 256k~1M 时，消耗倍率为四倍。</p>
+<p>该套餐还支持其他模型，目前首购可享 <strong>88 折</strong>优惠。</p>
+</blockquote>
+<p>Xiaomi MiMo 团队推出了 <strong>Xiaomi MiMo Token Plan</strong> 订阅套餐服务。该服务提供 <strong>39 元</strong> 至 <strong>659 元</strong> 四档方案，采用统一 Credit 点数体系计费，支持用户按不同 Credit 消耗倍率灵活调用覆盖全模态的 <code>MiMo-V2-Pro</code>、<code>Omni</code> 及限时免费的 TTS 模型。</p>
+<p>其中，调用 <code>MiMo-V2-Pro</code> 时，上下文 &lt; 256k 消耗 2 倍 Credit，上下文 256k~1M 消耗 4 倍 Credit。</p>
+<p>目前首购可享 <strong>88 折</strong> 优惠。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403183909_621d87672b.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403184015_b374b544a7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.xiaomimimo.com">https://platform.xiaomimimo.com</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/geminicli/status/2040081894495437068">Gemini CLI 发布 v0.36.0，引入 Subagents</a> <code>#11</code></h2>
+<blockquote>
+<p>Gemini CLI 发布 <strong>v0.36.0</strong> 版本，核心引入 <strong>Subagents</strong> 功能，用户可通过 <code>@agent</code> 指令调用。</p>
+<p>该版本还提升了启动速度与 UI 体验，集成 VSCode 工作区上下文，并新增代码分析与 UI 生成扩展。</p>
+</blockquote>
+<p><strong>Gemini CLI</strong> 发布 <strong>v0.36.0</strong> 版本。官方承认部分 <strong>Google AI Pro</strong> 和 <strong>Ultra</strong> 用户面临响应延迟及高错误率，正积极改善。</p>
+<p>该版本核心引入 <strong>Subagents</strong> 功能，支持本地、远程及并行操作，且在独立上下文窗口运行以节省主会话 token。用户可通过目录配置或 <code>@agent</code> 指令管理，内含协助配置错误的 CLI Help subagent。</p>
+<p>此外，更新优化了 <strong>Composer UI</strong> 与启动速度，支持 <strong>VSCode</strong> 工作区上下文读取。新增 <strong>SonarQube</strong> 和 <strong>Stitch</strong> 扩展，Policy engine 现已允许重定向操作符。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/geminicli/status/2040081894495437068">https://x.com/geminicli/status/2040081894495437068</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.ai/customize/connectors">Claude 全面开放 Microsoft 365 连接器</a> <code>#12</code></h2>
+<blockquote>
+<p>Claude 宣布开放 Microsoft 365 连接器，所有订阅用户均可连接 <code>Outlook</code>、<code>OneDrive</code> 及 <code>SharePoint</code>，将邮件与文档直接引入 AI 对话处理。</p>
+</blockquote>
+<p>近日，<strong>Claude</strong> 官方宣布其 <strong>Microsoft 365 connectors</strong> 现已全面面向所有 <strong>Claude</strong> 订阅计划开放。  </p>
+<p>该功能允许用户将 <strong>Outlook</strong>、<strong>OneDrive</strong> 和 <strong>SharePoint</strong> 账户与 <strong>Claude</strong> 相连，从而将其电子邮件、文档和文件等数据直接引入 AI 对话中进行交互。  </p>
+<p>目前，所有用户均可通过访问指定配置页面开始使用这项集成服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/cb623de1-531c-4706-aee3-618db03042c5/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.ai/customize/connectors">https://claude.ai/customize/connectors</a></li>
+<li><a href="https://x.com/claudeai/status/2040086268562842097">https://x.com/claudeai/status/2040086268562842097</a></li>
+</ul>
+<hr>
+<h2><a href="https://linux.do/t/topic/1888043">LMArena 暂时下架 Claude Opus 4.6 等三款模型维护平台稳定</a> <code>#13</code></h2>
+<blockquote>
+<p>LMArena为保障平台长期稳定运行，已暂时下架 <strong>Claude Opus 4.6</strong>、<strong>GPT 5.4</strong> 及 <strong>Gemini 3.1</strong> 三款尖端模型。</p>
+<p>这些模型目前已无法在该平台的直接对话和侧边对比模式中使用。</p>
+</blockquote>
+<p>Arena 近日发布官方公告，宣布对平台模型阵容进行重要调整。为确保长期稳定运行与可持续的评测服务，该平台决定暂时下架 <strong>Claude Opus 4.6</strong>、<strong>GPT 5.4</strong> 及 <strong>Gemini 3.1</strong> 三款尖端模型。</p>
+<p>上述模型将不再出现在“直接对话”及“侧边对比”模式的访问名单中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260403/20260403183202_4bc90bb843.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linux.do/t/topic/1888043">https://linux.do/t/topic/1888043</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/harnessing-claudes-intelligence">Anthropic 提应用构建三模式，平衡成本延迟</a> <code>#14</code></h2>
+<blockquote>
+<p>Anthropic 发文探讨随 <strong>Claude</strong> 智能进化构建应用的方法，提出三种核心模式平衡延迟与成本。建议优先使用模型熟练的基础工具如 <code>bash</code> 和 <code>text editor</code>，将编排与上下文管理权交还给模型，并利用优化提示词缓存及声明式工具降低成本、把控安全边界。</p>
+</blockquote>
+<p>Anthropic 官方博客近日发文探讨了在 <strong>Claude</strong> 智能不断进化的背景下，开发者应如何构建应用以平衡延迟与成本。</p>
+<p>官方提出了三种核心模式：首先是“善用其已知”，建议开发者优先使用该模型熟练掌握的基础工具（如 <code>bash tool</code> 和 <code>text editor tool</code>）来组合构建复杂功能。</p>
+<p>其次是“发问‘我可以停止做什么’”，主张将编排、上下文管理和持久化的控制权逐步交还给模型自身。例如，通过提供 <code>代码执行工具</code> 让其自主编排逻辑，利用 <code>skills</code> 和 <code>context editing</code> 动态管理上下文，以及通过 <code>compaction</code> 和 <code>memory folder</code> 让其在长周期任务中自主决定记忆内容。</p>
+<p>最后是“谨慎设定边界”，建议通过优化上下文结构以最大化提示词缓存命中率来降低成本，并利用声明式工具严格把控安全、用户体验与可观测性边界。</p>
+<p>官方表示，随着模型能力的跃升，开发者应不断审视并移除以往用于弥补模型不足的冗余架构。目前相关的工具与模式已提供至开源的 <code>claude-api skill</code> 供开发者使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d8dcc2c9-ebbe-4e3b-9219-24f97a96ca8d/131eb210-5a41-4c32-97d1-a983d7d62194/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/harnessing-claudes-intelligence">https://claude.com/blog/harnessing-claudes-intelligence</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.newcomer.co/p/anthropic-buys-stealth-dimension">消息称 Anthropic 收购 Coefficient Bio</a> <code>#15</code></h2>
+<blockquote>
+<p>据报道，<strong>Anthropic</strong> 收购了生物AI初创企业 <strong>Coefficient Bio</strong>，交易价值略高于 <strong>4亿美元</strong>。<strong>Coefficient Bio</strong> 团队将加入 <strong>Anthropic</strong> 医疗生命科学部门，加速 <code>AI</code> 在生物研究领域的应用。</p>
+</blockquote>
+<p>据媒体报道，<strong>Anthropic</strong> 通过价值略高于 <strong>4 亿美元</strong> 的股票交易，收购了受 <strong>Dimension</strong> 支持的初创企业 <strong>Coefficient Bio</strong>。该公司成立仅 <strong>8 个月</strong>，专注于为生物技术研究开发 <code>AI 模型</code>。</p>
+<p>交易完成后，其团队将加入由 <strong>Eric Kauderer-Abrams</strong> 领导的 <strong>Anthropic Health Care Life Sciences</strong> 团队。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.newcomer.co/p/anthropic-buys-stealth-dimension">https://www.newcomer.co/p/anthropic-buys-stealth-dimension</a></li>
+</ul>
+<hr>
+<h2>Sarvam AI 拟融资 3 亿至 3.5 亿美元，亚马逊英伟达或参投 <code>#16</code></h2>
+<blockquote>
+<p>印度AI初创公司 <strong>Sarvam AI</strong> 开启 <strong>3亿至3.5亿美元</strong> 融资，预计由 <strong>Bessemer</strong> 领投，<strong>亚马逊</strong>、<strong>英伟达</strong> 及 <strong>沙特阿美</strong> 参投，估值将达 <strong>15亿美元</strong>。</p>
+</blockquote>
+<p>据媒体报道，印度人工智能初创公司 <strong>Sarvam AI</strong> 已正式开启新一轮融资，计划筹集 <strong>3亿至3.5亿美元</strong> 资金。</p>
+<p>据悉，该轮融资预计由风投机构 <strong>Bessemer Venture Partners</strong> 领投，科技巨头 <strong>亚马逊</strong>、<strong>英伟达</strong> 以及沙特阿美旗下的 <strong>Prosperity7 Ventures</strong> 均在潜在大股东名单之列。</p>
+<p>若该笔融资顺利完成，该公司的估值将达到 <strong>15亿至15.5亿美元</strong>，相关交易最快有望在未来一周内尘埃落定。</p>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/49</guid><pubDate>Sat, 04 Apr 2026 00:58:09 +0000</pubDate></item><item><title>2026-04-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-48/</link><description>AI 早报 2026-04-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布开放权重模型系列 Gemma 4 ↗ #1 阿里千问正式发布 Qwen3.6-Plus 模型 ↗ #2 模型发布 阶跃星辰上线 Step 3.5 Flash 2603 模型 ↗ #3 火山引擎 Seedance 2.0 API 面向企业开启公测 ↗ #4 微软推出 MAI-Image-2 文生图模型 ↗ #5 微软发布 MAI-Transcribe-1，25 种语言语音转录 ↗ #6 微软上线 MAI-Voice-1语音生成模型 ↗ #7 微软开源 harrier-oss-v1，支持 40 余种语言文本嵌入 ↗ #8 IBM 发布 Granite 4.0 3B Vision 视觉模型 ↗ #9 开发生态 Ch…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260403/20260403085941822006a17c_cover_ffbd.png" alt=""></p>
 <h1>AI 早报 2026-04-03</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1oY9NBCEjR">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=akx6J-6GNYE">YouTube</a></p>
 <h2>概览</h2>
