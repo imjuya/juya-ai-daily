@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 05 Apr 2026 00:15:31 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-50/</link><description>AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260405/20260405075315375701453c_cover_eabd.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 05 Apr 2026 00:19:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-50/</link><description>AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260405/20260405075315375701453c_cover_eabd.png" alt=""></p>
 <h1>AI 早报 2026-04-05</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV18vDGByEc9">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=agLolzHO9cw">YouTube</a></p>
 <h2>概览</h2>
 <h3>开发生态</h3>
 <ul>
-<li>Kimi 推出 Kimi Code 抢先体验计划，已开放申请 <a href="https://code.kimi.ai/">↗</a> <code>#1</code></li>
+<li>Kimi 推出 Kimi Code 抢先体验计划，已开放申请 <a href="https://www.kimi.com/code">↗</a> <code>#1</code></li>
 </ul>
 <h3>产品应用</h3>
 <ul>
@@ -16,7 +16,7 @@
 <li>GPT-Image-2 模型在 ChatGPT 灰度开放 <code>#3</code></li>
 </ul>
 <hr>
-<h2><a href="https://code.kimi.ai/">Kimi 推出 Kimi Code 抢先体验计划，已开放申请</a> <code>#1</code></h2>
+<h2><a href="https://www.kimi.com/code">Kimi 推出 Kimi Code 抢先体验计划，已开放申请</a> <code>#1</code></h2>
 <blockquote>
 <p><strong>Kimi</strong> 现已推出 <strong>Kimi Code</strong> 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 <code>Code</code> 模型。</p>
 </blockquote>
@@ -25,7 +25,7 @@
 <p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260405/20260405075745_e27787f0c3.png" alt=""></p>
 <p>相关链接：</p>
 <ul>
-<li><a href="https://code.kimi.ai/">https://code.kimi.ai/</a></li>
+<li><a href="https://www.kimi.com/code">https://www.kimi.com/code</a></li>
 </ul>
 <hr>
 <h2><a href="https://x.com/NotebookLM/status/2040227127082295424">NotebookLM 升级测验闪卡功能，新增总结与建议工具</a> <code>#2</code></h2>
