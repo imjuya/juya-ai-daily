@@ -1,5 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 04 Apr 2026 00:58:32 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-49/</link><description>AI 早报 2026-04-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里通义实验室发布 Wan2.7-Video 视频生成模型 ↗ #1 京东开源发布 JoyAI-Image 图像编辑模型权重 ↗ #2 研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 ↗ #3 ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 ↗ #4 Willow 发布 Atlas 1 语音转文本模型 ↗ #5 Netflix 开源首个 AI 模型 VOID ↗ #6 开发生态 OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 ↗ #7 Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 ↗ #8 Claude Code 更新减少…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260404/2026040408431420198100d4_cover_d8dc.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 05 Apr 2026 00:15:31 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-50/</link><description>AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260405/20260405075315375701453c_cover_eabd.png" alt=""></p>
+<h1>AI 早报 2026-04-05</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV18vDGByEc9">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=agLolzHO9cw">YouTube</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>Kimi 推出 Kimi Code 抢先体验计划，已开放申请 <a href="https://code.kimi.ai/">↗</a> <code>#1</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>NotebookLM 升级测验闪卡功能，新增总结与建议工具 <a href="https://x.com/NotebookLM/status/2040227127082295424">↗</a> <code>#2</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>GPT-Image-2 模型在 ChatGPT 灰度开放 <code>#3</code></li>
+</ul>
+<hr>
+<h2><a href="https://code.kimi.ai/">Kimi 推出 Kimi Code 抢先体验计划，已开放申请</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 现已推出 <strong>Kimi Code</strong> 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 <code>Code</code> 模型。</p>
+</blockquote>
+<p>根据 Kimi 官方消息，<strong>Kimi</strong> 现已推出 <strong>Kimi Code</strong> 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 <code>Code</code> 模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260404/20260404194601_31e07bc486.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260405/20260405075745_e27787f0c3.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.kimi.ai/">https://code.kimi.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NotebookLM/status/2040227127082295424">NotebookLM 升级测验闪卡功能，新增总结与建议工具</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>NotebookLM</strong> 升级 <strong>Quizzes</strong> 与 <strong>Flashcards</strong> 功能，现支持练习后自动生成摘要及复习建议，并新增重生成工具，允许用户针对特定知识点定制新题，实现精准强化。</p>
+</blockquote>
+<p><strong>NotebookLM</strong> 的 <strong>Quizzes</strong> 与 <strong>Flashcards</strong> 功能迎来升级。此次更新优化了学习反馈机制，用户在完成每组测验或闪卡练习后，该系统不仅自动生成涵盖已学主题的摘要，还提供下一步学习内容的具体建议。</p>
+<p>此外，该产品同步引入了全新的 <code>re-generate tool</code>。针对需要进一步巩固的特定知识点，用户可通过该工具重新生成练习题，将后续测验重点精准聚焦于想要多加练习的主题，从而实现更具针对性的学习体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/eabde35a-edb6-40b1-bfc0-0f37f0b7d8a5/385c4600-2db6-430a-8c73-107883e4418a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2040227127082295424">https://x.com/NotebookLM/status/2040227127082295424</a></li>
+</ul>
+<hr>
+<h2>GPT-Image-2 模型在 ChatGPT 灰度开放 <code>#3</code></h2>
+<blockquote>
+<p>据用户反馈，<strong>OpenAI</strong> 正在向部分 <strong>ChatGPT</strong> 用户开放新一代图像生成模型 <code>GPT-Image-2</code>，并已在 <strong>Chatbot Arena</strong> 平台使用特定代号进行测试。</p>
+<p>早期体验者称，该模型展现了卓越的文本渲染能力和丰富的世界知识，表现或优于 <code>Nano Banana Pro</code> 等竞品。</p>
+</blockquote>
+<p>据社交媒体消息，<strong>OpenAI</strong> 新图像模型 <strong>GPT-Image-2</strong> 正向部分 <strong>ChatGPT</strong> 用户逐步推出。该模型同时在 <strong>Chatbot Arena</strong> 以 <code>maskingtape-alpha</code>、<code>gaffertape-alpha</code> 和 <code>packingtape-alpha</code> 为代号接受测试。</p>
+<p>据社区用户早期反馈，该模型具备丰富世界知识和出色文本渲染能力，表现可能优于 <strong>Nano Banana Pro</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/eabde35a-edb6-40b1-bfc0-0f37f0b7d8a5/f7331a4c-fbba-4f9d-9e6c-a09e7fe27da7/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/eabde35a-edb6-40b1-bfc0-0f37f0b7d8a5/f7331a4c-fbba-4f9d-9e6c-a09e7fe27da7/m002.png" alt=""></p>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/50</guid><pubDate>Sun, 05 Apr 2026 00:15:11 +0000</pubDate></item><item><title>2026-04-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-49/</link><description>AI 早报 2026-04-04 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阿里通义实验室发布 Wan2.7-Video 视频生成模型 ↗ #1 京东开源发布 JoyAI-Image 图像编辑模型权重 ↗ #2 研究团队开源 OmniVoice 覆盖 600 种语言零样本 TTS 模型 ↗ #3 ElevenLabs Scribe v2 升级，新增实体脱敏及关键词提示扩容 ↗ #4 Willow 发布 Atlas 1 语音转文本模型 ↗ #5 Netflix 开源首个 AI 模型 VOID ↗ #6 开发生态 OpenAI 调整 Codex 计费规则改为按 token 消耗量计价 ↗ #7 Anthropic 明确禁止第三方工具使用订阅，并提供额度补偿 ↗ #8 Claude Code 更新减少…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260404/2026040408431420198100d4_cover_d8dc.png" alt=""></p>
 <h1>AI 早报 2026-04-04</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1aVDPBoEiF">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=3dDIcpseG-M">YouTube</a></p>
 <h2>概览</h2>
