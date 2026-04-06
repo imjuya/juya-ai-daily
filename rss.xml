@@ -1,5 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 05 Apr 2026 00:19:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-50/</link><description>AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260405/20260405075315375701453c_cover_eabd.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 06 Apr 2026 00:29:15 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-06</title><link>https://imjuya.github.io/juya-ai-daily/issue-51/</link><description>AI 早报 2026-04-06 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Anthropic 加大力度限制 OpenClaw 等第三方调用 ↗ #1 苹果批准第三方驱动支持 eGPU 在 Mac 原生运行 AI ↗ #2 技术与洞察 Anthropic 称 Opus 4.6 发现 Linux 内核 23 年旧漏洞 ↗ #3 前瞻与传闻 消息称谷歌正为 Gemini 应用开发 Your day 功能 ↗ #4 Anthropic 加大力度限制 OpenClaw 等第三方调用 #1 Anthropic 被发现加大了对 OpenClaw 等第三方客户端的限制力度。当用户使用 Claude Code 的非交互模式时，如果附加的系统提示词中包含 OpenClaw 等特征词，就会被系统拦截并报错。 近日，科…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260406/202604060820084784407def_cover_b9ca.png" alt=""></p>
+<h1>AI 早报 2026-04-06</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1suS9BSECM">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=4-tzr3081KA">YouTube</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>Anthropic 加大力度限制 OpenClaw 等第三方调用 <a href="https://x.com/steipete/status/2040811558427648357">↗</a> <code>#1</code></li>
+<li>苹果批准第三方驱动支持 eGPU 在 Mac 原生运行 AI <a href="https://x.com/__tinygrad__/status/2039213719155310736">↗</a> <code>#2</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 称 Opus 4.6 发现 Linux 内核 23 年旧漏洞 <a href="https://mtlynch.io/claude-code-found-linux-vulnerability/">↗</a> <code>#3</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>消息称谷歌正为 Gemini 应用开发 Your day 功能 <a href="https://x.com/testingcatalog/status/2039490365414048182">↗</a> <code>#4</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/steipete/status/2040811558427648357">Anthropic 加大力度限制 OpenClaw 等第三方调用</a> <code>#1</code></h2>
+<blockquote>
+<p>Anthropic 被发现加大了对 <strong>OpenClaw</strong> 等第三方客户端的限制力度。当用户使用 <code>Claude Code</code> 的非交互模式时，如果附加的系统提示词中包含 <strong>OpenClaw</strong> 等特征词，就会被系统拦截并报错。</p>
+</blockquote>
+<p>近日，科技社区观察到 <strong>Anthropic</strong> 加大对 <strong>OpenClaw</strong> 等第三方客户端的封禁力度。据社区推测，该公司可能针对此类工具的 system prompts 构建了分类器。</p>
+<p>测试显示，当用户通过 CLI 使用 <code>claude -p --append-system-prompt</code> 命令，并试图附加类似“A personal assistant running inside OpenClaw.”的提示词时，该请求会直接被拒绝。</p>
+<p>并明确提示：第三方应用现在将消耗用户的额外使用额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260406/20260406080015_fb8203a9fd.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260406/20260406075510_7dd66dbb24.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/steipete/status/2040811558427648357">https://x.com/steipete/status/2040811558427648357</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/__tinygrad__/status/2039213719155310736">苹果批准第三方驱动支持 eGPU 在 Mac 原生运行 AI</a> <code>#2</code></h2>
+<blockquote>
+<p>Apple 近日批准 <strong>Tiny Corp</strong> 开发的驱动，使 <code>AMD</code> 和 <code>Nvidia</code> 外置显卡能在 <code>Apple Silicon</code> 设备上原生运行 AI 大语言模型。</p>
+</blockquote>
+<p>据媒体报道，<strong>Apple</strong> 近日批准了由 <strong>Tiny Corp</strong> 开发的第三方驱动程序，允许 <strong>AMD</strong> 和 <strong>Nvidia</strong> 的 eGPU 在 <strong>Apple silicon</strong> 设备上原生运行。</p>
+<p>根据 <strong>Tiny Corp</strong> 在其 X 平台官方账号发布的声明，<strong>Apple</strong> 最终批准了适用于 <strong>AMD</strong> 和 <strong>NVIDIA</strong> 的驱动，让用户能够将外置显卡与 Mac 结合用于 AI LLM 处理。</p>
+<p>该驱动支持 <code>Thunderbolt</code> 或 <code>USB4</code> 接口的 eGPU，此次获得官方支持意味着用户不再需要采用诸如禁用 <code>System Integrity Protection</code> 等非官方的变通方案来使硬件正常工作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260406/20260406075338_7f47515d48.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/__tinygrad__/status/2039213719155310736">https://x.com/<strong>tinygrad</strong>/status/2039213719155310736</a></li>
+</ul>
+<hr>
+<h2><a href="https://mtlynch.io/claude-code-found-linux-vulnerability/">Anthropic 称 Opus 4.6 发现 Linux 内核 23 年旧漏洞</a> <code>#3</code></h2>
+<blockquote>
+<p>近日，<strong>Anthropic</strong> 利用 <strong>Claude Code</strong> 和 <strong>Opus 4.6</strong> 模型，在 Linux 内核中挖掘出包括一个潜藏 <strong>23</strong> 年的缺陷在内的多个远程漏洞。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 科学家 <strong>Nicholas Carlini</strong> 在 AI 安全会议上称，其利用 <code>Claude Code</code> 发现 <strong>Linux</strong> 内核多个远程漏洞，含一个存在 <strong>23</strong> 年的 <strong>NFS</strong> 驱动缺陷。该漏洞允许通过网络读取敏感内核内存，触发条件为两个 <strong>NFS</strong> 客户端协同攻击导致堆缓冲区溢出。</p>
+<p>据其表示，除已确认漏洞外，手中还有数百个未验证潜在问题。此次发现主要归功于近期发布的 <code>Claude Opus 4.6</code> 模型，其能力远超旧版本。</p>
+<p><strong>Carlini</strong> 预测，随着各方意识到 <strong>AI</strong> 挖掘漏洞的威力，未来数月将涌现大量安全缺陷。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mtlynch.io/claude-code-found-linux-vulnerability/">https://mtlynch.io/claude-code-found-linux-vulnerability/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/testingcatalog/status/2039490365414048182">消息称谷歌正为 Gemini 应用开发 Your day 功能</a> <code>#4</code></h2>
+<blockquote>
+<p>据报道，<strong>Google</strong> 正在为 <strong>Gemini</strong> 应用开发名为 <strong>Your Day</strong> 的标签页功能，具体用途尚未明确。社区猜测或将提供集成日历、任务摘要及新闻的个性化每日简报，类似 <strong>OpenAI</strong> 的 <code>Pulse</code> 功能。</p>
+</blockquote>
+<p>据 TestingCatalog 报道，<strong>Google</strong> 正为 <strong>Gemini</strong> 开发名为 <code>"Your day"</code> 的新标签页，官方尚未说明具体用途。</p>
+<p>社区猜测该功能将提供含日历、任务及新闻的每日简报。有讨论期望其整合待办事项，读取 <code>Gmail</code> 和 <code>Calendar</code> 提供建议，带来类似 <strong>OpenAI</strong> 的 <code>Pulse</code> 功能体验，从而强化 <strong>Google</strong> 生态系统。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b9cabf35-7b9e-4e7c-b06e-e1f2e5519542/c1e745a9-d313-429a-9d56-ba37d4ed373e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/testingcatalog/status/2039490365414048182">https://x.com/testingcatalog/status/2039490365414048182</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/51</guid><pubDate>Mon, 06 Apr 2026 00:28:49 +0000</pubDate></item><item><title>2026-04-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-50/</link><description>AI 早报 2026-04-05 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 ↗ #1 产品应用 NotebookLM 升级测验闪卡功能，新增总结与建议工具 ↗ #2 前瞻与传闻 GPT-Image-2 模型在 ChatGPT 灰度开放 #3 Kimi 推出 Kimi Code 抢先体验计划，已开放申请 #1 Kimi 现已推出 Kimi Code 抢先体验计划，付费用户可登录控制台提交申请，通过后即可获得更多额度并抢先体验最新 Code 模型。 根据 Kimi 官方消息，Kimi 现已推出 Kimi Code 抢先体验计划。付费用户目前可通过该产品的控制台提交申请，加入该计划后，参与者不仅可以获得更多的使用额度，还能提前体验其最新的 C…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260405/20260405075315375701453c_cover_eabd.png" alt=""></p>
 <h1>AI 早报 2026-04-05</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV18vDGByEc9">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=agLolzHO9cw">YouTube</a></p>
 <h2>概览</h2>
