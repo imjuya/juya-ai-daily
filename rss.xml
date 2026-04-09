@@ -1,5 +1,290 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 08 Apr 2026 01:33:59 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-08</title><link>https://imjuya.github.io/juya-ai-daily/issue-53/</link><description>AI 早报 2026-04-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Mythos 模型，因安全风险未面向公众 ↗ #1 Anthropic 启动 Project Glasswing 网络安全倡议 ↗ #2 智谱正式发布 GLM-5.1，7540 亿参数 MIT 开源 ↗ #3 DeepSeek 网页端引入“快速模式”和“专家模式” #4 模型发布 Cognition 发布 SWE-1.6 正式版，限时免费 ↗ #5 Ai2 发布开源单目 3D 检测模型 WildDet3D ↗ #6 ACE Studio 联合 StepFun 发布 ACE-Step 1.5 XL 开源音乐模型 ↗ #7 微软开源 Harrier 文本模型，MTEB-v2 多语言榜单位列第…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260408/20260408091622083115c44b_cover_7d01.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 09 Apr 2026 01:32:14 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-09</title><link>https://imjuya.github.io/juya-ai-daily/issue-54/</link><description>AI 早报 2026-04-09 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Meta 发布 Muse Spark 模型，比肩顶级竞品 ↗ #1 Anthropic 发布 Claude Managed Agents 公测版 ↗ #2 Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 ↗ #3 模型发布 爱诗科技上线 PixVerse C1 视频生成模型 ↗ #4 Black Forest Labs 发布 FLUX.2 Small Decoder ↗ #5 Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 ↗ #6 开发生态 OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 ↗ #7 Google Colab 新…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260409/202604090900562149194791_cover_0c88.png" alt=""></p>
+<h1>AI 早报 2026-04-09</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV11jDnBfErS">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=7YYkci8Wbbk">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Meta 发布 Muse Spark 模型，比肩顶级竞品 <a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">↗</a> <code>#1</code></li>
+<li>Anthropic 发布 Claude Managed Agents 公测版 <a href="https://platform.claude.com/docs/en/managed-agents/overview">↗</a> <code>#2</code></li>
+<li>Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 <a href="https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>爱诗科技上线 PixVerse C1 视频生成模型 <a href="https://mp.weixin.qq.com/s/--kbDn0VdOIlJpsmeOOhgA">↗</a> <code>#4</code></li>
+<li>Black Forest Labs 发布 FLUX.2 Small Decoder <a href="https://huggingface.co/black-forest-labs/FLUX.2-small-decoder">↗</a> <code>#5</code></li>
+<li>Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 <a href="https://www.liquid.ai/blog/lfm2-5-vl450m">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.8">↗</a> <code>#7</code></li>
+<li>Google Colab 新增自定义指令及学习模式 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Adobe 推出 Student Spaces 测试版，AI 辅助学生学习 <a href="https://blog.adobe.com/en/publish/2026/04/07/learn-acrobat-class-career-prep-made-easier-with-new-student-spaces">↗</a> <code>#9</code></li>
+<li>腾讯云发布国内首个浏览器 QBotClaw 支持自然语言指令 <a href="https://mp.weixin.qq.com/s/Mlbj6Zsv1WLu0OP6O0Eq9g">↗</a> <code>#10</code></li>
+<li>Google 新版 AI Finance 开放覆盖全球 100 多个国家和地区 <a href="https://blog.google/products-and-platforms/products/search/google-finance-expansion/">↗</a> <code>#11</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Mercor 发布 APEX-Agents 基准 <a href="https://www.mercor.com/apex/apex-agents-leaderboard/">↗</a> <code>#12</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Mario Zechner 携开源项目 pi 正式加入 Earendil 公司 <a href="https://mariozechner.at/posts/2026-04-08-ive-sold-out/">↗</a> <code>#13</code></li>
+<li>阿里组织架构调整，通义实验室升级为事业部 <a href="https://mp.weixin.qq.com/s/GhxKusE2ZWovaqCxl11ocw">↗</a> <code>#14</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Elon Musk 透露七款 Grok 新模型，最高 10T 参数 <a href="https://x.com/elonmusk/status/2041754402239975479">↗</a> <code>#15</code></li>
+<li>HappyHorse-1.0 超越 Seedance 2.0 盲测登顶 <a href="https://zhidx.com/p/546917.html">↗</a> <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">Meta 发布 Muse Spark 模型，比肩顶级竞品</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Meta Superintelligence Labs</strong> 发布了重构技术栈后的首款原生多模态推理模型 <code>Muse Spark</code>。该模型引入了深度推理模式，在视觉及科学任务上比肩顶级竞品。</p>
+<p>目前该模型已上线 <strong>meta.ai</strong> 并集成至旗下所有社交平台，并通过私有 API 向特定合作伙伴开放。</p>
+<p>官方表示计划在未来开源后续版本。</p>
+</blockquote>
+<p>Meta Superintelligence Labs (MSL) 正式发布了 Muse 系列的首款大语言模型 <strong>Muse Spark</strong>。官方公告显示，这是该实验室在过去九个月从零重建 AI 技术栈后的首个产品，定位为迈向个人超级智能的基础模型。</p>
+<p>该原生多模态推理模型支持工具使用、视觉思维链和多智能体编排。据媒体与独立评测机构 <strong>Artificial Analysis</strong> 报道，这是 Meta 首个未提供开源权重的前沿模型，其在 <strong>Intelligence Index</strong> 中获得 <strong>52</strong> 分，跻身前五，在视觉与 token 效率方面表现优异，但在部分 <strong>Agentic</strong> 评测中稍显逊色。</p>
+<p>官方为其推出了并行推理的 <code>Contemplating</code> 模式，并已在 <strong>meta.ai</strong> 和 <strong>Meta AI app</strong> 中上线该模型。目前，该模型支持启动多个子 Agent 协同处理复杂任务、结合视觉感知进行健康数据分析以及提供个性化购物建议。</p>
+<p>官方已向特定合作伙伴开放私有 API 预览，并计划在未来几周内将相关功能推广至 <strong>WhatsApp</strong>、<strong>Instagram</strong>、<strong>Facebook</strong>、<strong>Messenger</strong> 及 AI 眼镜等全平台生态。官方还表示，计划在未来开源后续版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409082812_f950be0833.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409083414_ed01a5f091.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ai.meta.com/blog/introducing-muse-spark-msl/">https://ai.meta.com/blog/introducing-muse-spark-msl/</a></li>
+<li><a href="https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/">https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.claude.com/docs/en/managed-agents/overview">Anthropic 发布 Claude Managed Agents 公测版</a> <code>#2</code></h2>
+<blockquote>
+<p>Anthropic 发布了 <strong>Claude Managed Agents</strong>，这是一套用于大规模构建和部署 Agent 的托管式 API，旨在解决传统生产级 Agent 开发中基础设施搭建耗时数月的问题。</p>
+<p>该服务将性能优化的 <code>Agent harness</code> 与生产级基础设施相整合，开发者只需定义任务、工具和护栏，基础设施则交由 <strong>Anthropic</strong> 云端管理，从而实现快速从原型推向上线。</p>
+</blockquote>
+<p>Anthropic 宣布其托管式 Agent 构建与部署服务 <strong>Claude Managed Agents</strong> 现已进入公测阶段。该服务旨在通过将性能优化的 Agent harness 与生产级基础设施相配合，解决开发者自建生产级 Agent 基础设施耗时数月的问题，使开发者仅需定义任务、工具和护栏，即可在数天内实现从原型到上线。</p>
+<p><strong>Claude Managed Agents</strong> 核心采用了将“大脑”（<strong>Claude</strong> 及其 harness）与“双手”（沙箱和执行工具）以及“会话”（事件日志）解耦的架构设计，这不仅优化了容错性和安全性，还将首个 Token 延迟（TTFT）的 p50 耗时缩短了约 60%、p95 缩短超 90%。</p>
+<p>根据官方博客，在内部测试的结构化文件生成任务中，该服务的成功率比标准提示循环高出最多 10 个百分点。</p>
+<p>在计费方面，其 Token 费用按 <strong>Claude</strong> 平台标准收取，并对活跃会话按每小时 <strong>0.08 美元</strong> 计费。</p>
+<p>目前，<strong>Notion</strong>、<strong>Sentry</strong>、<strong>Asana</strong>、<strong>Rakuten</strong> 等多家企业已将其应用于并行任务处理、自动化代码修复和内部专用 Agent 部署等场景。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/e6497ecf-3a02-45ab-83c0-a6ea7210cdac/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/e6497ecf-3a02-45ab-83c0-a6ea7210cdac/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.claude.com/docs/en/managed-agents/overview">https://platform.claude.com/docs/en/managed-agents/overview</a></li>
+<li><a href="https://www.anthropic.com/engineering/managed-agents">https://www.anthropic.com/engineering/managed-agents</a></li>
+<li><a href="https://x.com/claudeai/status/2041927687460024721">https://x.com/claudeai/status/2041927687460024721</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/">Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步</a> <code>#3</code></h2>
+<blockquote>
+<p>Google 现已在 <strong>Gemini</strong> 应用中正式推出 <strong>Notebooks</strong> 功能，用户现可在侧边栏创建专属空间，不仅能将过往对话移入其中、添加自定义指令及相关文档和 PDF 文件，还能直接访问所有个人的、未共享的笔记本，并能实现跨平台无缝使用 <code>NotebookLM</code> 独有的 <code>Video Overviews</code> 等功能。</p>
+<p>该功能目前面向 Web 端付费订阅用户开放，并计划在未来几周扩展至移动端及免费用户。</p>
+</blockquote>
+<p>Google 官方博客与 NotebookLM 官方社交账号最新宣布，在 <strong>Gemini</strong> 应用中正式引入 <strong>Notebooks</strong> 功能，将其与 AI 研究助手 <code>NotebookLM</code> 深度打通，构建一个跨产品的个人知识库，以帮助用户轻松追踪和管理复杂项目。</p>
+<p>用户现可在 <strong>Gemini</strong> 应用侧边栏点击“New notebook”创建专属空间，不仅能将过往对话移入其中、添加自定义指令及相关文档和 PDF 文件，还能直接访问所有个人的、未共享的笔记本，并将与 <strong>Gemini</strong> 的聊天记录作为来源应用于新的或现有的未共享笔记本中。</p>
+<p>该功能实现了跨应用的双向自动同步，在一端添加的源文件会自动出现在另一端。用户可根据其订阅计划使用更多的来源数量，并跨平台无缝使用 <code>NotebookLM</code> 独有的 <code>Video Overviews</code>、<code>Infographics</code> 和 <code>Cinematic Video Overview</code> 等功能。</p>
+<p>官方表示，这项功能目前已面向 Web 端的 <strong>Google AI Ultra</strong>、<strong>Pro</strong> 和 <strong>Plus</strong> 订阅用户推出，并将在未来几周内逐步扩展至移动端、更多欧洲国家及免费用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/a9b1f69a-c372-42e7-9604-a271ac2c804d/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/a9b1f69a-c372-42e7-9604-a271ac2c804d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/">https://blog.google/innovation-and-ai/products/gemini-app/notebooks-gemini-notebooklm/</a></li>
+<li><a href="https://x.com/NotebookLM/status/2041982449387810962">https://x.com/NotebookLM/status/2041982449387810962</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/--kbDn0VdOIlJpsmeOOhgA">爱诗科技上线 PixVerse C1 视频生成模型</a> <code>#4</code></h2>
+<blockquote>
+<p>爱诗科技正式上线了定位为影视行业大模型的 <code>PixVerse C1</code>，支持将分镜图一键转化为连续成片，并具备复杂场景下的多角色精准调度能力。</p>
+</blockquote>
+<p>近日，爱诗科技正式上线了 <strong>PixVerse C1</strong> 视频生成模型。该模型定位为“全球首个影视行业大模型”，主要服务于影视、动漫及短漫剧行业。</p>
+<p><strong>PixVerse C1</strong> 支持文生视频、图生视频、参考生视频及首尾帧生成等多种能力，最高可生成<strong>15秒</strong>的<strong>1080P</strong>视频，并实现音画同步出片。</p>
+<p>此外，该模型具备跟随提示词指令自动分镜的功能，支持将多宫格分镜图一键转化为连续成片。</p>
+<p>目前，<strong>PixVerse C1</strong> 已全面登陆 <strong>PixVerse Web</strong> 端及 <strong>API</strong> 平台供用户体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/07dc539b-e5e2-4a26-b836-41d55b8361f6/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/--kbDn0VdOIlJpsmeOOhgA">https://mp.weixin.qq.com/s/--kbDn0VdOIlJpsmeOOhgA</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/black-forest-labs/FLUX.2-small-decoder">Black Forest Labs 发布 FLUX.2 Small Decoder</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Black Forest Labs</strong> 推出了 <strong>FLUX.2 Small Decoder</strong>，通过减少参数量将解码速度提升约 <strong>1.4 倍</strong>，同时降低 <strong>40%</strong> 的显存占用，且画质几乎无损，兼容所有 <strong>FLUX.2</strong> 模型。</p>
+</blockquote>
+<p><strong>Black Forest Labs</strong> 正式发布了 <strong>FLUX.2 Small Decoder</strong>，作为标准 <strong>FLUX.2</strong> 解码器的直接替代方案。官方表示，该解码器通过将参数量从约 <strong>50M</strong> 缩减至约 <strong>28M</strong>，实现了约 <strong>1.4</strong> 倍的解码速度提升，并将解码时的峰值显存占用降低了约 <strong>1.4</strong> 倍，且图像质量损失极小。</p>
+<p>该技术不仅与所有开放的 <strong>FLUX.2</strong> 模型开箱即用，尤其对实时处理和更高分辨率的图像生成管线具有显著影响。</p>
+<p>目前，该模型已在 <strong>Hugging Face</strong> 平台提供，并采用 <strong>Apache 2.0</strong> 协议开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/cb831a9c-0443-43aa-9ea1-d86c117dbce1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/black-forest-labs/FLUX.2-small-decoder">https://huggingface.co/black-forest-labs/FLUX.2-small-decoder</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.liquid.ai/blog/lfm2-5-vl450m">Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Liquid AI</strong> 发布了边缘部署专用视觉语言模型 <code>LFM2.5-VL-450M</code>，具备 <strong>4 FPS</strong> 视频实时推理能力，并新增了边界框预测、多语言理解及 <code>Function calling</code> 支持。</p>
+</blockquote>
+<p><strong>Liquid AI</strong> 发布视觉语言模型 <code>LFM2.5-VL-450M</code>。据官方博客，该模型专为边缘部署设计，处理 <code>512×512</code> 图像仅需 <strong>240 毫秒</strong>，支持 <strong>4 FPS</strong> 视频流实时推理。</p>
+<p>基于前代构建，新增边界框预测（RefCOCO-M 得分 <strong>81.28</strong>）、9 种语言理解（MMMB 得分从 <strong>54.29</strong> 提升至 <strong>68.09</strong>）及 Function calling 支持。</p>
+<p>官方称其可单次运行完成设备端定位、推理及结构化输出。</p>
+<p>支持 <code>Jetson Orin</code>、手机等设备，开放权重已上线 <code>Hugging Face</code> 等平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/08fe8452-d609-4790-ac61-b2e197bdcb04/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.liquid.ai/blog/lfm2-5-vl450m">https://www.liquid.ai/blog/lfm2-5-vl450m</a></li>
+<li><a href="https://huggingface.co/LiquidAI/LFM2.5-VL-450M">https://huggingface.co/LiquidAI/LFM2.5-VL-450M</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.8">OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> v2026.4.7 版本上线，引入了 <code>openclaw infer</code>，Webhook 驱动 <code>TaskFlow</code> 以及兼容 <strong>Obsidian</strong> 的 <code>memory-wiki</code> 功能。</p>
+<p>但因 NPM 打包缺陷导致部分扩展无法加载并阻断启动，随后通过 v2026.4.8 版本修复了相关问题。</p>
+</blockquote>
+<p>OpenClaw 官方近日推出了 <strong>v2026.4.7</strong> 版本，引入了无头推理中心 <code>openclaw infer</code>、由 Webhook 驱动的 <code>TaskFlow</code>、支持 Obsidian 的 <code>memory-wiki</code> 等多项新功能。</p>
+<p>然而，该版本在发布后被发现存在严重的 NPM 打包缺陷，导致包括 <code>Tg</code> 和 <code>Slack</code> 在内的扩展加载失败并阻断程序启动。</p>
+<p>针对此问题，OpenClaw 团队迅速更新了发布验证脚本，并将版本迭代至 <strong>v2026.4.8</strong>，修复了因打包路径缺失导致的扩展加载错误、Slack 代理连接及 bot token 验证等多项底层问题。</p>
+<p>尽管官方反应迅速，仍有社区用户反馈在升级过程中遇到了依赖缺失、控制台报错及网关无法重启等体验问题，并呼吁官方提供长期支持（LTS）版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409084717_b16f2a5e64.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409083245_acb971a9d7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.8">https://github.com/openclaw/openclaw/releases/tag/v2026.4.8</a></li>
+<li><a href="https://x.com/openclaw/status/2041759063428460762">https://x.com/openclaw/status/2041759063428460762</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/">Google Colab 新增自定义指令及学习模式</a> <code>#8</code></h2>
+<blockquote>
+<p>Google Colab 新增 <strong>Custom Instructions</strong> 与 <strong>Learn Mode</strong> 功能。前者支持用户保存上下文偏好以定制专属 AI 助手；后者则支持通过分步指导而帮助用户深度理解技术概念并提升开发能力。</p>
+</blockquote>
+<p>Google Colab 宣布扩展其 <strong>Gemini</strong> 集成，全新引入 <strong>Custom Instructions</strong> 与 <strong>Learn Mode</strong> 两项功能，旨在赋予用户对其 <strong>Gemini Agent</strong> 运作方式及辅助学习方式的更多控制权。</p>
+<p>其中，<strong>Custom Instructions</strong> 允许在 notebook 级别存储上下文偏好，用户可直接在聊天框中切换并保存设置。</p>
+<p>而 <strong>Learn Mode</strong> 则基于 <strong>Custom Instructions</strong> 运行，该模式将 <strong>Gemini</strong> 转化为个人编码导师，不再直接提供可复制粘贴的代码块来解决问题，而是通过分步指导分解复杂主题并解释底层概念，以培养用户的实际开发技能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/ac64e171-b5fe-4bda-8915-e74208e20845/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/">https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.adobe.com/en/publish/2026/04/07/learn-acrobat-class-career-prep-made-easier-with-new-student-spaces">Adobe 推出 Student Spaces 测试版，AI 辅助学生学习</a> <code>#9</code></h2>
+<blockquote>
+<p>Adobe 推出了 <strong>Student Spaces in Acrobat</strong>，利用 <code>AI</code> 将课堂笔记和文档一键转化为学习指南、思维导图及音频摘要，辅助学生学习。目前已开放免费体验。</p>
+</blockquote>
+<p>为了帮助学生群体应对繁忙的课业、考试准备、小组项目以及实习和职业规划，<strong>Adobe</strong> 推出了名为 <strong>Student Spaces in Acrobat</strong> 的全新免费测试版工具。该功能旨在为上述群体提供一个专属的平台，以实现更快速、更轻松且更高效的学习。</p>
+<p><strong>Student Spaces</strong> 允许用户将课堂笔记、文档和链接转化为学习指南、思维导图、互动式抽认卡和测验。该平台内置了全天候 <code>24/7</code> 在线的 <code>AI Assistant</code>，可提供带有交互式引用的解释以供验证。</p>
+<p>同时，该产品支持多种学习偏好，不仅支持将笔记转化为简短的音频摘要或深度播客以供听觉学习，还支持邀请学习小组进行实时协作，并提供专注模式供独立学习使用。</p>
+<p>目前，该功能已开放免费体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/fda3664a-1951-4c30-ba8b-755dcfbf49fe/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.adobe.com/en/publish/2026/04/07/learn-acrobat-class-career-prep-made-easier-with-new-student-spaces">https://blog.adobe.com/en/publish/2026/04/07/learn-acrobat-class-career-prep-made-easier-with-new-student-spaces</a></li>
+<li><a href="https://acrobat.adobe.com/studentspaces/home">https://acrobat.adobe.com/studentspaces/home</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/Mlbj6Zsv1WLu0OP6O0Eq9g">腾讯云发布国内首个浏览器 QBotClaw 支持自然语言指令</a> <code>#10</code></h2>
+<blockquote>
+<p>腾讯云发布浏览器自动化工具 <strong>“龙虾”</strong> <code>QBotClaw</code>，用户只需在 <strong>QQ浏览器</strong> 电脑端侧边栏点击 <strong>“AI”</strong> 按钮即可免费使用。目前 <strong>Mac</strong> 版本已率先上线。</p>
+</blockquote>
+<p>腾讯云正式发布了国内首个浏览器“龙虾”<strong>QBotClaw</strong>。该产品允许用户通过<strong>QQ浏览器</strong>电脑端的侧边栏“AI”按钮直接启用。</p>
+<p>目前其首期已上线<strong>Mac</strong>版本，<strong>Windows</strong>版本将于近期推出。</p>
+<p><strong>QBotClaw</strong>完全兼容<code>OpenClaw</code>技能，并支持用户自由配置国内各大主流大模型的API Key。</p>
+<p>在功能上，这款浏览器能够根据自然语言指令自动执行跨平台比价、多平台自动发帖等复杂任务，并具备文件操作、执行命令、浏览器自动化和信息搜索四大核心能力。</p>
+<p>其内置了自研的<strong>QQ浏览器Skill</strong>，以精准识别动态网页元素，且基于整个浏览器运行具备深度记忆能力，可全面掌握当前网页、账号及文件等上下文信息。</p>
+<p>此外，该产品支持通过微信<strong>Clawbot</strong>扫码直连，实现了移动端对电脑端的远程控制。</p>
+<p>为确保数据安全，官方构建了包含安全沙箱隔离、指令Markdown约束及SkillHub认证机制的三维安全防护。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/bd2e1e40-056d-4dae-b2d8-5f5ab375a7b2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/Mlbj6Zsv1WLu0OP6O0Eq9g">https://mp.weixin.qq.com/s/Mlbj6Zsv1WLu0OP6O0Eq9g</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/search/google-finance-expansion/">Google 新版 AI Finance 开放覆盖全球 100 多个国家和地区</a> <code>#11</code></h2>
+<blockquote>
+<p>Google 宣布以 <strong>AI</strong> 为核心的新版 <strong>Google Finance</strong> 将在未来几周扩展至全球 <strong>100</strong> 多个国家和地区。该服务允许用户利用 <code>AI 助手</code> 分析复杂市场动态，通过高级图表进行可视化研判。</p>
+</blockquote>
+<p>Google 官方宣布，以 AI 为核心的新版 <strong>Google Finance</strong> 正式走向全球，并将在未来几周内向 100 多个国家/地区推出。此前，这项重塑后的服务已在美国和印度上线，此次扩展将覆盖澳大利亚、巴西、加拿大、印度尼西亚、日本和墨西哥等地，并提供完整的本地语言支持。</p>
+<p>该产品集成了多项核心功能：用户可利用 <strong>AI</strong> 提出从复杂市场动态到个股详情的问题，并获得附带相关链接的综合回复；通过引入移动平均包络线和蜡烛图等高级图表工具进行深入的可视化分析；利用改版后的新闻源以及扩充的大宗商品数据获取实时情报。</p>
+<p>此外，还支持通过实时音频、同步文本记录以及 <strong>AI</strong> 生成的洞察来跟进企业财报电话会议。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/f204de0b-0b51-4757-9e0c-f6120aa07668/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/search/google-finance-expansion/">https://blog.google/products-and-platforms/products/search/google-finance-expansion/</a></li>
+<li><a href="https://finance.google.com/beta">https://finance.google.com/beta</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.mercor.com/apex/apex-agents-leaderboard/">Mercor 发布 APEX-Agents 基准</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Mercor</strong> 推出了 <strong>APEX-Agents</strong> 基准测试及开源数据集，通过投行、咨询和法律领域的 <strong>480</strong> 项专家任务，评估 <strong>AI Agent</strong> 在长周期跨应用工作中的表现。</p>
+<p>基于此，<strong>Artificial Analysis</strong> 上线了 <strong>APEX-Agents-AA</strong> 排行榜。</p>
+</blockquote>
+<p>近日，<strong>Mercor</strong> 推出 <strong>APEX-Agents</strong> 基准测试及开源数据集，评估 AI Agent 在投行、咨询和法律领域的长周期任务表现。该基准含专家构建的 <strong>33</strong> 个场景世界和 <strong>480</strong> 项任务。</p>
+<p>基于此，<strong>Artificial Analysis</strong> 上线 <strong>APEX-Agents-AA</strong> 排行榜，采用 <code>Stirrup</code> 框架运行 <strong>452</strong> 项任务。根据该机构提供的评测数据，<strong>GPT-5.4</strong> 以 <strong>33.3%</strong> 得分位居第一，<strong>Claude Opus 4.6</strong> 以 <strong>33.0%</strong> 紧随其后，<strong>Gemini 3.1 Pro Preview</strong> 得分为 <strong>32%</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/1ca8c477-bc84-457a-96c5-d7a4998611b0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.mercor.com/apex/apex-agents-leaderboard/">https://www.mercor.com/apex/apex-agents-leaderboard/</a></li>
+<li><a href="https://x.com/ArtificialAnlys/status/2041896261826310598">https://x.com/ArtificialAnlys/status/2041896261826310598</a></li>
+</ul>
+<hr>
+<h2><a href="https://mariozechner.at/posts/2026-04-08-ive-sold-out/">Mario Zechner 携开源项目 pi 正式加入 Earendil 公司</a> <code>#13</code></h2>
+<blockquote>
+<p>开源项目 <strong>pi</strong> 的创始人 <strong>Mario Zechner</strong> 宣布加入 <strong>Earendil</strong> 公司，并将该项目带入该公司，核心将永久保持 <strong>MIT</strong> 开源协议。</p>
+<p>未来，该项目计划引入增值功能及专有企业级功能，以实现平衡发展。</p>
+</blockquote>
+<p>开源项目 <strong>pi</strong> 的创始人 <strong>Mario Zechner</strong> 宣布加入 <strong>Earendil</strong> 公司，并将该项目带入该团队。根据其发布的公告，<strong>pi</strong> 的 GitHub 仓库将从 <code>badlogic/pi-mono</code> 迁移至 <code>earendil-works/pi</code>，包名也更改为 <code>@earendil/pi</code>，而官网 <code>pi.dev</code> 将保留并增加 <strong>Earendil</strong> 标识。</p>
+<p>该项目所有权现归属 <strong>Earendil</strong>，由 <strong>Mario Zechner</strong> 与联合创始人 <strong>Armin</strong>、<strong>Colin</strong> 共同主导技术决策与路线图。</p>
+<p>为平衡开源精神与商业化，<strong>pi</strong> 的核心将永久保持 MIT 协议，未来计划在此基础之上引入采用 Fair Source 协议的增值功能以及专有的企业级功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/1dc78528-3a07-4a09-ace8-e176f0dd02ec/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mariozechner.at/posts/2026-04-08-ive-sold-out/">https://mariozechner.at/posts/2026-04-08-ive-sold-out/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/GhxKusE2ZWovaqCxl11ocw">阿里组织架构调整，通义实验室升级为事业部</a> <code>#14</code></h2>
+<blockquote>
+<p>据报道，阿里发布全员信宣布<strong>通义实验室</strong>升级为事业部，由<strong>周靖人</strong>负责；同时成立由<strong>吴泳铭</strong>领衔的集团技术委员会，以统筹技术与<strong>AI</strong>基础设施建设。</p>
+</blockquote>
+<p>据报道，阿里近期发布了全员信，宣布多项重大组织架构与人事调整。</p>
+<p>该集团的<strong>通义实验室</strong>正式升级为事业部，由<strong>周靖人</strong>负责。</p>
+<p>同时，<strong>李飞飞</strong>将出任<strong>阿里云CTO</strong>，负责阿里云技术以及 <strong>AI</strong> 云基础设施建设。</p>
+<p>在机构设置方面，阿里宣布成立<strong>阿里巴巴集团技术委员会</strong>，由<strong>吴泳铭</strong>出任组长，成员包括<strong>周靖人</strong>、<strong>吴泽明</strong>与<strong>李飞飞</strong>。</p>
+<p>其中，<strong>周靖人</strong>将担任该委员会的首席 <strong>AI</strong> 架构师，<strong>吴泽明</strong>则担任召集人。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/GhxKusE2ZWovaqCxl11ocw">https://mp.weixin.qq.com/s/GhxKusE2ZWovaqCxl11ocw</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/elonmusk/status/2041754402239975479">Elon Musk 透露七款 Grok 新模型，最高 10T 参数</a> <code>#15</code></h2>
+<blockquote>
+<p>Elon Musk 透露，<strong>SpaceX</strong> 的 <strong>AI Colossus 2</strong> 正在训练从 <strong>1T</strong> 到 <strong>10T</strong> 参数规模的 7 个新模型。当前的 <code>Grok 4.20</code> 模型参数规模为 <strong>0.5T</strong>，全新 <strong>1T</strong> 参数模型预计 <strong>2 至 3 周</strong>后面世，<strong>1.5T</strong> 参数模型需 <strong>4 至 5 周</strong>发布。</p>
+</blockquote>
+<p>Elon Musk 透露了旗下 xAI 新 Grok 模型的最新训练进展与发布时间表。根据其公布的信息，<strong>SpaceXAI Colossus 2</strong> 目前共有 7 个模型正在训练中，具体包括 <strong>Imagine V2</strong>、包含 2 个版本的 <code>1T</code> 参数模型、包含 2 个版本的 <code>1.5T</code> 参数模型，以及参数规模高达 <code>6T</code> 和 <code>10T</code> 的模型。</p>
+<p>对于新模型的发布节点，Elon Musk 明确表示，<code>1T</code> 参数版本的推出大约还需要 2 到 3 周，而 <code>1.5T</code> 参数版本的发布则需要大约 4 到 5 周。</p>
+<p>此外，Elon Musk 回应评论称，当前的 <strong>Grok 4.20</strong> 模型参数规模约为 <code>0.5T</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260408/20260408191036_6f5bec672f.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409083926_0a0b68e82b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2041754402239975479">https://x.com/elonmusk/status/2041754402239975479</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhidx.com/p/546917.html">HappyHorse-1.0 超越 Seedance 2.0 盲测登顶</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>HappyHorse-1.0</strong> 在 <strong>Artificial Analysis</strong> 盲测中超越 <strong>Seedance 2.0</strong> 登顶。</p>
+<p>目前官方入口尚未开放，但已出现大量第三方虚假套壳网站。</p>
+</blockquote>
+<p>近日，匿名模型 <code>HappyHorse-1.0</code> 在 Artificial Analysis 盲测平台文生与图生视频（无音频）赛道登顶，超越 <code>Seedance 2.0</code>。</p>
+<p>关于其归属，多方传闻指向阿里淘天集团未来生活实验室，由前快手可灵负责人张迪带队，但截至目前尚无官方认领。</p>
+<p>该模型暂无官方 API 或体验入口，网上已出现第三方假冒套壳网站。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0c88a1e4-4165-44ac-b583-45b681c52772/fcfb261b-0ae6-4917-a33c-08c3bd3508b4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/546917.html">https://zhidx.com/p/546917.html</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/54</guid><pubDate>Thu, 09 Apr 2026 01:31:52 +0000</pubDate></item><item><title>2026-04-08</title><link>https://imjuya.github.io/juya-ai-daily/issue-53/</link><description>AI 早报 2026-04-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Mythos 模型，因安全风险未面向公众 ↗ #1 Anthropic 启动 Project Glasswing 网络安全倡议 ↗ #2 智谱正式发布 GLM-5.1，7540 亿参数 MIT 开源 ↗ #3 DeepSeek 网页端引入“快速模式”和“专家模式” #4 模型发布 Cognition 发布 SWE-1.6 正式版，限时免费 ↗ #5 Ai2 发布开源单目 3D 检测模型 WildDet3D ↗ #6 ACE Studio 联合 StepFun 发布 ACE-Step 1.5 XL 开源音乐模型 ↗ #7 微软开源 Harrier 文本模型，MTEB-v2 多语言榜单位列第…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260408/20260408091622083115c44b_cover_7d01.png" alt=""></p>
 <h1>AI 早报 2026-04-08</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1SyDzBpEqu">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=b6OevqJcMmk">YouTube</a></p>
 <h2>概览</h2>
