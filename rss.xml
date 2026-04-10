@@ -1,5 +1,316 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 09 Apr 2026 01:32:14 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-09</title><link>https://imjuya.github.io/juya-ai-daily/issue-54/</link><description>AI 早报 2026-04-09 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Meta 发布 Muse Spark 模型，比肩顶级竞品 ↗ #1 Anthropic 发布 Claude Managed Agents 公测版 ↗ #2 Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 ↗ #3 模型发布 爱诗科技上线 PixVerse C1 视频生成模型 ↗ #4 Black Forest Labs 发布 FLUX.2 Small Decoder ↗ #5 Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 ↗ #6 开发生态 OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 ↗ #7 Google Colab 新…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260409/202604090900562149194791_cover_0c88.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 10 Apr 2026 01:22:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-55/</link><description>AI 早报 2026-04-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 ChatGPT 100 美元 Pro 档 ↗ #1 模型发布 字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 ↗ #2 Overworld 发布实时扩散世界模型 Waypoint-1.5 ↗ #3 LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 ↗ #4 阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 ↗ #5 开发生态 Claude API 上线 Advisor 策略，平衡智能成本性能提升 ↗ #6 Claude Code 升级配置向导，引入监控工具 ↗ #7 Codex 官方上线 Build macOS Apps 插件 ↗ #8 Codex 宣布将再…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260410/202604100839005958074a88_cover_98f8.png" alt=""></p>
+<h1>AI 早报 2026-04-10</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1y8DfBeE7q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ZEdnZWM09pg">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 推出 ChatGPT 100 美元 Pro 档 <a href="https://x.com/OpenAI/status/2042295688323875316">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 <a href="https://seed.bytedance.com/zh/seeduplex">↗</a> <code>#2</code></li>
+<li>Overworld 发布实时扩散世界模型 Waypoint-1.5 <a href="https://over.world/blog/waypoint-1-5">↗</a> <code>#3</code></li>
+<li>LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 <a href="https://github.com/LG-AI-EXAONE/EXAONE-4.5">↗</a> <code>#4</code></li>
+<li>阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 <a href="https://huggingface.co/AIDC-AI/Marco-Mini-Instruct">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude API 上线 Advisor 策略，平衡智能成本性能提升 <a href="https://claude.com/blog/the-advisor-strategy">↗</a> <code>#6</code></li>
+<li>Claude Code 升级配置向导，引入监控工具 <a href="https://x.com/_catwu/status/2042345489778331915">↗</a> <code>#7</code></li>
+<li>Codex 官方上线 Build macOS Apps 插件 <a href="https://x.com/OpenAIDevs/status/2042369696608239848">↗</a> <code>#8</code></li>
+<li>Codex 宣布将再次重置使用额度 <a href="https://x.com/thsottiaux/status/2042067902392942790">↗</a> <code>#9</code></li>
+<li>OpenClaw 发布 2026.4.9，重构记忆系统与安全机制 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.9">↗</a> <code>#10</code></li>
+<li>MiniMax 发布 MMX-CLI 命令行工具 <a href="https://mp.weixin.qq.com/s/d067bWUdhqYwvfehoYKtVw">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Google 宣布 Gemini 支持生成交互式可视化及 3D 模型 <a href="https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/">↗</a> <code>#12</code></li>
+<li>Gemini 为免费用户开放使用 Lyria 3 生成完整歌曲功能 <a href="https://x.com/Google/status/2042324699955237233">↗</a> <code>#13</code></li>
+<li>Claude Cowork 结束预览，全面开放并上线企业管控功能 <a href="https://x.com/claudeai/status/2042273755485888810">↗</a> <code>#14</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>通义实验室开源 VimRAG，支持图文视频混合知识库检索 <a href="https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA">↗</a> <code>#15</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>腾讯云上调 AI 算力等产品刊例价 5% 下月起生效 <a href="https://cloud.tencent.com/announce/detail/2254">↗</a> <code>#16</code></li>
+<li>Intel 与 Google 达成合作推进 AI 云基础设施与 IPU 开发 <a href="https://newsroom.intel.com/data-center/intel-google-deepen-collaboration-to-advance-ai-infrastructure">↗</a> <code>#17</code></li>
+<li>Meta 与 CoreWeave 签 210 亿美元协议强化 AI 算力部署 <a href="https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement">↗</a> <code>#18</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Nebius 传正在洽谈收购 AI21 Labs <code>#19</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAI/status/2042295688323875316">OpenAI 推出 ChatGPT 100 美元 Pro 档</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布推出每月 <strong>100美元</strong> 的全新 <strong>Pro</strong> 档位。该层级提供 <strong>5倍</strong> Plus 的 <code>Codex</code> 使用量，并在 <strong>6月</strong> 前开展促销，提供 <strong>10倍</strong> 用量。</p>
+<p>同时，重新平衡 Plus 订阅的 <code>Codex</code> 使用量，旨在支持用户在整周内分布任务而非单日集中使用。</p>
+</blockquote>
+<p>OpenAI 官方宣布正式推出全新的每月 <strong>100 美元</strong> 的 <strong>Pro</strong> 档位。该新层级提供相较 <strong>Plus</strong> 高达 <strong>5 倍</strong> 的 <code>Codex</code> 使用量。</p>
+<p>同时，这一全新的 <strong>Pro</strong> 档位保留了所有现有的 <strong>Pro</strong> 功能，包括独享的 <strong>Pro</strong> 模型以及对 <code>Instant</code> 和 <code>Thinking</code> 模型的无限访问权限。</p>
+<p>为庆祝发布，官方将在 <strong>6 月前</strong> 提升 <code>Codex</code> 使用量，使 <strong>100 美元 Pro</strong> 订阅用户能够获得最高达 <strong>ChatGPT Plus</strong> <strong>10 倍</strong> 的使用额度。</p>
+<p>与此同时，作为调整的一部分，OpenAI 重新平衡了 <strong>Plus</strong> 计划中的 <code>Codex</code> 使用量，旨在支持用户在整周内进行更多任务，而非在单日内进行长时间任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410074223_db366a4c3f.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410074126_64e87c5582.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAI/status/2042295688323875316">https://x.com/OpenAI/status/2042295688323875316</a></li>
+</ul>
+<hr>
+<h2><a href="https://seed.bytedance.com/zh/seeduplex">字节跳动发布原生全双工语音模型 Seeduplex，豆包可用</a> <code>#2</code></h2>
+<blockquote>
+<p>字节跳动 <strong>Seed</strong> 团队正式发布了原生全双工语音大模型 <strong>Seeduplex</strong>。该模型基于自研大语言模型底座实现原生端到端建模，在复杂声学场景下将误回复率和误打断率减少一半。</p>
+<p>更新 <strong>豆包</strong> App 至最新版本，选择“打电话”功能即可体验该模型。</p>
+</blockquote>
+<p><strong>字节跳动 Seed</strong> 团队正式发布了原生全双工语音大模型 <strong>Seeduplex</strong>。该模型基于“边听边说”的全新框架设计，通过自研大语言模型底座实现原生端到端建模。</p>
+<p>相比上一代半双工方案，<strong>Seeduplex</strong> 重点实现了精准抗干扰与动态判停两大突破，在复杂声学干扰场景下将其误回复率和误打断率减少了一半，抢话比例相对下降了 <strong>40%</strong>。</p>
+<p>根据官方公布的评测数据，该模型在判停延迟降低约 <strong>250ms</strong> 的同时，判停 MOS 分提高了 <strong>8%</strong>，对话流畅度 MOS 分提升了 <strong>12%</strong>，并在大规模 A/B 测试中使整体通话满意度绝对值提升了 <strong>8.34%</strong>。</p>
+<p>用户只需将 <strong>豆包 App</strong> 更新至最新版本，在对话框内选择“打电话”功能即可体验该产品带来的高自然度实时语音交互。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/a7523b54-bc33-435a-b65a-e2db36802efc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://seed.bytedance.com/zh/seeduplex">https://seed.bytedance.com/zh/seeduplex</a></li>
+<li><a href="https://seed.bytedance.com/zh/blog/introducing-seed-full-duplex-speech-llm-attentive-listening-robust-interference-suppression-enabling-more-natural-interaction">https://seed.bytedance.com/zh/blog/introducing-seed-full-duplex-speech-llm-attentive-listening-robust-interference-suppression-enabling-more-natural-interaction</a></li>
+<li><a href="https://mp.weixin.qq.com/s/ymyF-nBO-VT7ehnGO255qg">https://mp.weixin.qq.com/s/ymyF-nBO-VT7ehnGO255qg</a></li>
+</ul>
+<hr>
+<h2><a href="https://over.world/blog/waypoint-1-5">Overworld 发布实时扩散世界模型 Waypoint-1.5</a> <code>#3</code></h2>
+<blockquote>
+<p>Overworld 发布了其新版 <strong>Waypoint</strong> 实时扩散世界模型。官方称该版本训练数据量增至前代近 <strong>100 倍</strong>，采用双层级架构，能在最低 <strong>NVIDIA RTX 3070</strong> 显卡上实现最高 <strong>720p</strong> 分辨率与 <strong>60</strong> 帧每秒的实时环境生成。</p>
+</blockquote>
+<p>Overworld 近日正式发布了其实时扩散世界模型的最新版本 <strong>Waypoint-1.5</strong>。该版本旨在解决初代系统在视觉保真度和硬件兼容性方面的局限，通过引入近 <strong>100 倍</strong>于前代的训练数据以及更高效的视频建模技术，实现了最高 <strong>720p</strong> 分辨率与 <strong>60</strong> 帧每秒的实时环境生成。</p>
+<p>为适应广泛的消费级硬件，该模型推出了 <strong>720p</strong> 与 <strong>360p</strong> 双层级架构，本地运行的最低显卡要求设定为 <strong>NVIDIA RTX 3070</strong>，并计划在未来支持 <strong>Apple Silicon Mac</strong> 平台。</p>
+<p>目前，用户可通过其开源的桌面客户端 <strong>Biome</strong> 在本地进行快速部署体验，或通过 <strong>Overworld.stream</strong> 网页端实现免配置的即时游玩。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/539d44c4-4af5-443c-8400-46b0c734f277/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://over.world/blog/waypoint-1-5">https://over.world/blog/waypoint-1-5</a></li>
+<li><a href="https://github.com/Overworldai/Biome">https://github.com/Overworldai/Biome</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/LG-AI-EXAONE/EXAONE-4.5">LG AI Research 发布 EXAONE 4.5 开源视觉语言模型</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>LG AI Research</strong> 发布开源视觉语言模型 <code>EXAONE 4.5</code>，该模型共 <strong>330 亿</strong> 参数，在文档理解与韩语推理方面超越了同级别的模型。</p>
+</blockquote>
+<p><strong>LG AI Research</strong> 发布了其首个开源视觉语言模型 <strong>EXAONE 4.5</strong>。该模型在现有的 <strong>EXAONE 4.0</strong> 框架中集成了专用的视觉编码器，总参数量为 <strong>330 亿</strong>（其中视觉编码器约 <strong>12.9 亿</strong>，语言模型 <strong>317 亿</strong>）。</p>
+<p>官方称，<strong>EXAONE 4.5</strong> 在通用基准测试中表现强劲，并在文档理解和韩语上下文推理方面超越了同等规模的 SOTA 模型。</p>
+<p>该模型支持最大 <strong>262,144 tokens</strong> 的上下文长度，知识截止至 <strong>2024 年 12 月</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409200611_bd34cb5a17.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/LG-AI-EXAONE/EXAONE-4.5">https://github.com/LG-AI-EXAONE/EXAONE-4.5</a></li>
+<li><a href="https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B">https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/AIDC-AI/Marco-Mini-Instruct">阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型</a> <code>#5</code></h2>
+<blockquote>
+<p>阿里 AIDC-AI 团队开源了 Marco 系列两款稀疏多语言大模型，分别是总参数 <strong>173 亿</strong>、激活参数 <strong>8.6 亿</strong>的 <code>Marco-Mini-Instruct</code> 和总参数 <strong>80 亿</strong>、激活参数 <strong>6 亿</strong>的 <code>Marco-Nano-Instruct</code>。</p>
+</blockquote>
+<p>Alibaba International Digital Commerce 近日推出了两款属于 <strong>Marco-MoE</strong> 家族的新型高度稀疏多语言大语言模型：<strong>Marco-Mini-Instruct</strong> 与 <strong>Marco-Nano-Instruct</strong>。</p>
+<p>这两款模型均采用 <code>Decoder-only Transformer</code> 架构，并利用 <code>Drop-Upcycling</code> 技术从 <code>Qwen3-0.6B-Base</code> 升级改造而来，以极低的激活参数量实现了高效的推理能力。</p>
+<p>其中，<strong>Marco-Mini-Instruct</strong> 拥有 <strong>17.3B</strong> 总参数，每个 token 仅激活 <strong>0.86B</strong> 参数；而 <strong>Marco-Nano-Instruct</strong> 拥有 <strong>8B</strong> 总参数，每个 token 仅激活 <strong>0.6B</strong> 参数。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/d7d85ddf-53be-4409-ac98-efe0ec1233d2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/AIDC-AI/Marco-Mini-Instruct">https://huggingface.co/AIDC-AI/Marco-Mini-Instruct</a></li>
+<li><a href="https://huggingface.co/AIDC-AI/Marco-Nano-Instruct">https://huggingface.co/AIDC-AI/Marco-Nano-Instruct</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/the-advisor-strategy">Claude API 上线 Advisor 策略，平衡智能成本性能提升</a> <code>#6</code></h2>
+<blockquote>
+<p>Claude API 上线了 Beta 版的 <code>advisor tool</code>，让低成本的 <code>Sonnet</code> 或 <code>Haiku</code> 模型作为执行者处理主要任务，仅在遇到复杂决策时才向顶级 <code>Opus</code> 模型寻求顾问指导。官方数据显示，这种组合完美兼顾了业务性能与开发成本。</p>
+</blockquote>
+<p>Anthropic 在 Claude Platform 的 API 中上线了全新的 <strong>advisor</strong> 策略及其对应的 <strong>advisor tool</strong>。该策略旨在平衡 Agent 的智能与成本，通过将 <strong>Claude Opus</strong> 作为 <strong>Advisor</strong>（顾问），与作为 <strong>Executor</strong>（执行者）的 <strong>Sonnet</strong> 或 <strong>Haiku</strong> 配对，使 Agent 在保持低成本的同时获得接近 <strong>Opus</strong> 级别的智能。</p>
+<p>在该模式下，<strong>Executor</strong> 负责端到端执行任务、调用工具并迭代方案。当其遇到无法合理解决的复杂决策时，会通过单次 API 请求咨询 <strong>Advisor</strong> 以获取改进建议、计划或停止信号。</p>
+<p>官方数据显示，<strong>Sonnet</strong> 配搭 <strong>Opus Advisor</strong> 在 <strong>SWE-bench Multilingual</strong> 评测中比 <strong>Sonnet</strong> 独立运行时表现提升了 <strong>2.7</strong> 个百分点。同时，由于减少了处理复杂任务时的无效 Token 消耗，单次任务成本降低了 <strong>11.9%</strong>。</p>
+<p>目前该功能已在 <strong>Claude Platform</strong> 开启 Beta 测试，支持通过 <strong>Messages API</strong> 进行一键部署。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/20f9075f-e0f4-487e-a922-5b96cd68ebe8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/the-advisor-strategy">https://claude.com/blog/the-advisor-strategy</a></li>
+<li><a href="https://platform.claude.com/docs/en/agents-and-tools/tool-use/advisor-tool">https://platform.claude.com/docs/en/agents-and-tools/tool-use/advisor-tool</a></li>
+<li><a href="https://x.com/claudeai/status/2042308622181339453">https://x.com/claudeai/status/2042308622181339453</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/_catwu/status/2042345489778331915">Claude Code 升级配置向导，引入监控工具</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 推出了 <strong>Setup Wizard</strong> 和 <strong>Monitor Tool</strong> 两项更新。</p>
+<p>全新的 <code>Setup Wizard</code> 实现了第三方云服务的自动化配置。</p>
+<p>同时，开发者现在可以通过调用 <code>Monitor Tool</code> 来创建后台脚本并唤醒 Agent，从而在执行日志监控等高级任务时告别低效轮询，节省 Token 消耗。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 推出了全新的 <strong>Setup Wizard</strong> 以及 <strong>Monitor Tool</strong>。  </p>
+<p>针对过去需手动编写配置文件和环境变量才能将 <strong>Claude Code</strong> 与 <strong>Amazon Bedrock</strong> 或 <strong>Google Vertex</strong> 搭配使用的痛点，新推出的安装向导可自动代为处理这些流程。该向导还能主动建议用户升级至其有权限访问的较新模型。  </p>
+<p>与此同时，<strong>Claude Code</strong> 还引入了 <strong>Monitor Tool</strong>。这项工具允许 <strong>Claude</strong> 创建后台脚本并在必要时唤醒 <strong>Agent</strong>，不仅避免了在 <strong>Agent</strong> 循环中进行低效轮询，还能极大节省 <strong>Token</strong> 消耗。  </p>
+<p>在实际操作中，开发者需要显式地对 <strong>Claude Code</strong> 进行提示才能调用该工具，例如指示其“启动开发服务器并使用 <code>MonitorTool</code> 观察错误”。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/cc0ff207-cb5c-4937-a1fd-c1b783a21502/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/_catwu/status/2042345489778331915">https://x.com/_catwu/status/2042345489778331915</a></li>
+<li><a href="https://x.com/trq212/status/2042335178388103559">https://x.com/trq212/status/2042335178388103559</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2042369696608239848">Codex 官方上线 Build macOS Apps 插件</a> <code>#8</code></h2>
+<blockquote>
+<p>Codex官方正式上线了 <strong>Build macOS Apps</strong> 插件，为开发者提供基于 <code>SwiftUI</code> 和 <code>AppKit</code> 的原生应用构建支持。该插件将本地构建脚本与UI运行按钮打通，让开发者无需离开界面即可一键完成应用的构建、打包与快速迭代。</p>
+</blockquote>
+<p>Codex 官方近日上线 <strong>"Build macOS Apps"</strong> 插件，支持构建基于 <code>SwiftUI</code> 和 <code>AppKit</code> 的原生 macOS 应用。该插件赋予 Codex 对窗口行为、工具栏惯例等桌面端细节的深度理解。</p>
+<p>其将本地构建脚本与 UI 运行按钮连接，实现构建、打包和启动闭环。</p>
+<p>此外，插件增强 <code>Agentic Debugging</code> 支持，引导添加遥测与结构化日志，使 Agent 能基于实时信号修复运行期 Bug。</p>
+<p>内置技能集涵盖 <code>Liquid Glass</code> 设计规范、应用签名和测试流程，确保代码符合 Apple 人机交互指南。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/798c505f-ef8b-4883-afce-a67496d38e0f/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2042369696608239848">https://x.com/OpenAIDevs/status/2042369696608239848</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/thsottiaux/status/2042067902392942790">Codex 宣布将再次重置使用额度</a> <code>#9</code></h2>
+<blockquote>
+<p>Codex 负责人于 <strong>4月9日</strong> 上午十点半发文表示，由于意识到近期的 Codex 重置与上一次重置的时间间隔刚好是一周，因此将于次日再次重置 <strong>Codex</strong> 的使用额度。</p>
+</blockquote>
+<p>Codex 负责人 <strong>@thsottiaux</strong> 北京时间 <strong>4月9日</strong> 上午十点半表示，鉴于近期 Codex 重置与上一次（约一周前）间隔较短，时机显得不太凑巧，该用户宣布将于次日再次重置 <code>Codex</code>。此举旨在真正庆祝 Codex 活跃用户达到 <strong>3M</strong> 节点。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409195742_1f23594cba.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/thsottiaux/status/2042067902392942790">https://x.com/thsottiaux/status/2042067902392942790</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.9">OpenClaw 发布 2026.4.9，重构记忆系统与安全机制</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.9</strong> 版本。</p>
+<p>本次更新深度重构了记忆与梦境系统，引入支持历史路径的 <code>REM</code> 回填通道与结构化日记视图。</p>
+<p>并新增支持并行运行的评估报告，以加速开发者测试时的模型行为比对。</p>
+</blockquote>
+<p>OpenClaw 官方正式发布了 <strong>2026.4.9</strong> 版本，这是一项涵盖多项重大功能新增、安全强化及平台体验修复的全面更新。</p>
+<p>在核心功能方面，该版本为其记忆与梦境系统引入了带有历史路径支持的 <code>REM</code> 回填通道及日记提交重置流程，使旧的每日笔记能够直接重放至 <code>Dreams</code> 和持久记忆中。同时，同步推出了带有时间线导航和提升提示的结构化日记视图 UI。</p>
+<p>新增了支持并行运行的 <code>character-vibes</code> 评估报告，以加速模型行为比对。并允许 iOS 版本显式固定 <code>CalVer</code>，以优化 <code>TestFlight</code> 发布列车工作流。</p>
+<p>在安全性上，官方重点封堵了浏览器交互中可能绕过 <code>SSRF</code> 隔离的漏洞，净化了远程节点的执行事件以防止受信内容注入，并严格限制了不受信任工作区环境变量及插件对核心授权选项的非法覆盖。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410082250_6fe3445e28.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.9">https://github.com/openclaw/openclaw/releases/tag/v2026.4.9</a></li>
+<li><a href="https://x.com/openclaw/status/2042072722902077938">https://x.com/openclaw/status/2042072722902077938</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/d067bWUdhqYwvfehoYKtVw">MiniMax 发布 MMX-CLI 命令行工具</a> <code>#11</code></h2>
+<blockquote>
+<p>MiniMax 发布面向 AI Agent 的命令行工具 <strong>MMX-CLI</strong>，支持在任意 Agent 中原生调用 MiniMax 旗下不同模型，生成文字、图像、视频、语音和音乐。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 发布了名为 <strong>MMX-CLI</strong> 的命令行工具，该产品专为 <strong>AI Agent</strong> 设计，旨在让 Agent 能够原生调用 <strong>MiniMax</strong> 的所有模态的模型。</p>
+<p><strong>MMX-CLI</strong> 集成了涵盖多回合文本对话、批量图像生成与理解、异步视频生成、多音色语音合成以及带歌词的音乐创作等七项核心能力。</p>
+<p>针对 Agent 在非交互式环境下的运行痛点，该工具实现了纯数据输出隔离、语义化状态码返回、非阻塞与异步任务控制等底层优化。</p>
+<p>且生成消耗可直接无缝计入用户现有的 Token Plan 配额。</p>
+<p>目前该工具已在 GitHub 开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409200246_26c448380d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/d067bWUdhqYwvfehoYKtVw">https://mp.weixin.qq.com/s/d067bWUdhqYwvfehoYKtVw</a></li>
+<li><a href="https://github.com/MiniMax-AI/cli">https://github.com/MiniMax-AI/cli</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/">Google 宣布 Gemini 支持生成交互式可视化及 3D 模型</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Gemini</strong> 应用现已向全球用户逐步推出全新交互式可视化功能，允许直接在聊天界面生成可调整的 3D 模型与功能性模拟。</p>
+<p>用户需选择 <strong>Pro</strong> 模型并输入特定指令或点击可视化按钮即可体验。</p>
+</blockquote>
+<p>Google 官方宣布其 <strong>Gemini</strong> 应用推出全新功能，现已开始向全球所有用户逐步推出，允许用户直接在聊天界面中生成包含交互式图表、3D 模型和功能性模拟的可视化内容。</p>
+<p>此项技术打破了以往仅依赖文本和静态图表的回复模式，使用户能够通过拖动滑块、输入具体数值来调整系统变量，或旋转 3D 模型，以更沉浸的方式直观探索诸如月球运行轨道等复杂概念。</p>
+<p>用户只需在提示词栏中选择 <strong>Pro</strong> 模型并输入 <code>show me</code> 或 <code>help me visualize</code> 等指令，或在部分特定问题下方点击 <code>Show me the visualization</code> 按钮即可体验该功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/ba465842-2484-415b-9b5e-54dde2452089/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/">https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Google/status/2042324699955237233">Gemini 为免费用户开放使用 Lyria 3 生成完整歌曲功能</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Gemini</strong> 宣布，免费用户每天可通过工具菜单的 <strong>Create music</strong> 功能生成最多 <strong>5</strong> 首长约 <strong>3</strong> 分钟的完整歌曲。若达到每日限额，仍可继续生成 <strong>30</strong> 秒的短片。</p>
+</blockquote>
+<p><strong>Gemini</strong> 应用正式向免费用户开放其音乐模型 <strong>Lyria 3</strong>，免费用户每天可以生成最多五首时长约为三分钟的完整歌曲；若达到每日限额，上述用户仍可继续生成 30 秒的短片，或通过升级获取更多配额。</p>
+<p>据官方数据显示，<strong>Gemini</strong> 音乐生成功能上线不足 <strong>50</strong> 天，其平台已累计产出超过 <strong>1 亿</strong> 首歌曲。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410084436_874f385577.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Google/status/2042324699955237233">https://x.com/Google/status/2042324699955237233</a></li>
+<li><a href="https://x.com/GeminiApp/status/2042316630253076945">https://x.com/GeminiApp/status/2042316630253076945</a></li>
+<li><a href="https://x.com/joshwoodward/status/2042318148851188151">https://x.com/joshwoodward/status/2042318148851188151</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/claudeai/status/2042273755485888810">Claude Cowork 结束预览，全面开放并上线企业管控功能</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布 <strong>Claude Cowork</strong> 结束预览，正式向所有付费计划开放桌面端应用。针对企业版用户，该产品同步推出一系列管控功能。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 宣布 <strong>Claude Cowork</strong> 现已在所有付费计划中全面上线，结束了为期 <strong>12 周</strong> 的研究预览阶段。该产品目前支持 <code>macOS</code> 和 <code>Windows</code> 桌面端，主要被应用于团队运营、处理任务、起草项目交付物以及保持团队信息同步。</p>
+<p>为了满足企业级部署的治理和可见性需求，官方同步推出了针对企业版的一整套管控功能，包括基于角色的访问控制（<code>RBAC</code>）、团队支出限制、使用情况分析以及扩展的 <code>OpenTelemetry</code> 监控支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/98f88a9e-b6cc-48b8-84c4-d1607dcf28f1/3d8c1277-65e8-47b3-9a49-bfd048628a73/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/claudeai/status/2042273755485888810">https://x.com/claudeai/status/2042273755485888810</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA">通义实验室开源 VimRAG，支持图文视频混合知识库检索</a> <code>#15</code></h2>
+<blockquote>
+<p>通义实验室正式开源了面向文本、图像和视频混合知识库的统一RAG框架 <strong>VimRAG</strong>，该框架利用动态有向无环图替代线性拼接，配合 <code>视觉能量分配</code> 与 <code>图引导策略优化</code>，有效解决了多模态检索中的状态盲区与重复循环问题。</p>
+</blockquote>
+<p>通义实验室正式开源了面向“文本+图像+视频”混合知识库的统一 RAG 框架 <strong>VimRAG</strong>。该框架通过引入动态有向无环图替代传统的线性拼接，旨在解决多模态长上下文场景下的状态盲区和重复检索问题。</p>
+<p>其核心机制包括支持分支试错的动态记忆图、动态分配视觉 Token 的视觉能量机制，以及降低梯度方差的图引导策略优化（<code>GGPO</code>）。</p>
+<p>根据官方提供的数据，在 <code>Qwen3-VL-8B</code> 模型上的端到端评测中，<strong>VimRAG</strong> 达到 <strong>50.1%</strong> 的平均准确率，官方称其显著优于 <strong>Mem1</strong> 和 <strong>ReAct</strong> 等基线，并在整体上提升了推理效率。</p>
+<p>目前该框架的核心机制正逐步集成到阿里云百炼知识库中，相关项目已开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409201250_3e3cb1b63a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA">https://mp.weixin.qq.com/s/VyE8ayVY2DI5UYzliWp7aA</a></li>
+<li><a href="https://github.com/Alibaba-NLP/VRAG">https://github.com/Alibaba-NLP/VRAG</a></li>
+</ul>
+<hr>
+<h2><a href="https://cloud.tencent.com/announce/detail/2254">腾讯云上调 AI 算力等产品刊例价 5% 下月起生效</a> <code>#16</code></h2>
+<blockquote>
+<p>受全球AI算力需求激增及硬件成本上涨影响，<strong>腾讯云</strong>宣布自下月起将上调<strong>AI算力</strong>以及弹性<strong>MapReduce</strong>等核心产品的刊例价，涨幅统一为 <strong>5%</strong>。</p>
+</blockquote>
+<p>腾讯云发布公告宣布，受全球AI算力需求持续激增及核心硬件供应链成本大幅上涨的影响，为保障服务质量与算力资源的持续供给，其将对<strong>AI算力</strong>、<strong>容器服务TKE-原生节点</strong>以及<strong>弹性MapReduce (EMR)</strong> 等相关产品的刊例价统一上调<strong>5%</strong>。这项价格调整计划将于下个月起正式生效，涉及上述多项核心云服务产品。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260409/20260409201406_1517194aaa.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cloud.tencent.com/announce/detail/2254">https://cloud.tencent.com/announce/detail/2254</a></li>
+</ul>
+<hr>
+<h2><a href="https://newsroom.intel.com/data-center/intel-google-deepen-collaboration-to-advance-ai-infrastructure">Intel 与 Google 达成合作推进 AI 云基础设施与 IPU 开发</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>Intel</strong> 与 <strong>Google</strong> 宣布达成多年期合作，<strong>Google Cloud</strong> 将继续部署 <strong>Intel Xeon</strong> 处理器，以满足 AI 训练及推理需求。双方还将扩大基于定制 ASIC 的基础设施处理单元联合开发。</p>
+</blockquote>
+<p><strong>Intel</strong>与<strong>Google</strong>近期宣布达成一项多年期合作。根据官方公告，双方将跨越多代<strong>Intel Xeon</strong>处理器进行技术对齐，并在基于定制<strong>ASIC</strong>的基础设施处理单元（<code>IPU</code>）联合开发上扩大合作。</p>
+<p><strong>Google Cloud</strong>将继续在其工作负载优化的实例中部署<strong>Intel Xeon</strong>处理器，包括搭载最新<strong>Intel Xeon 6</strong>处理器的<strong>C4</strong>和<strong>N4</strong>实例，以满足从大规模<strong>AI</strong>训练协调到延迟敏感型推理及通用计算等多种需求。</p>
+<p>同时，新扩大的联合开发项目将利用<code>IPU</code>卸载网络、存储和安全任务，从而释放主机<strong>CPU</strong>的有效计算能力，提升超大规模环境的效率与性能可预测性。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://newsroom.intel.com/data-center/intel-google-deepen-collaboration-to-advance-ai-infrastructure">https://newsroom.intel.com/data-center/intel-google-deepen-collaboration-to-advance-ai-infrastructure</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement">Meta 与 CoreWeave 签 210 亿美元协议强化 AI 算力部署</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Meta</strong>与<strong>CoreWeave</strong>宣布达成一项价值<strong>210亿美元</strong>的云计算新协议，将合作期限延长至<strong>2032年底</strong>。根据协议，<strong>Meta</strong>获得了英伟达下一代<code>Vera Rubin</code>芯片的初始部署权，为其超级智能团队扩充大模型研发算力。</p>
+</blockquote>
+<p><strong>Meta</strong>与<strong>CoreWeave</strong>近日宣布达成一项价值<strong>210亿美元</strong>的新协议，旨在为前者提供额外的云计算能力，以支持其快速增长的人工智能工作负载。该协议的有效期将延长至<strong>2032年12月</strong>，是在双方去年9月签署的<strong>142亿美元</strong>类似协议基础上的进一步深化合作。</p>
+<p>根据协议内容，<strong>Meta</strong>将获得<strong>Nvidia</strong>下一代<code>Vera Rubin</code>芯片的初始部署权。</p>
+<p>受此合作消息影响，两家公司的股价均出现了上涨。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410082713_b29a80741b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement">https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement</a></li>
+</ul>
+<hr>
+<h2>Nebius 传正在洽谈收购 AI21 Labs <code>#19</code></h2>
+<blockquote>
+<p>AI云服务商 <strong>Nebius</strong> 正在洽谈收购以色列大模型及Agent开发商 <strong>AI21 Labs</strong>，旨在整合其 <code>Jamba</code> 模型与企业级AI平台，从算力租赁向算力加软件的全栈AI云转型。</p>
+</blockquote>
+<p>据 The Information 报道，AI 云服务商 <strong>Nebius</strong> 正洽谈收购以色列初创公司 <strong>AI21 Labs</strong>，谈判仍在进行，价格未披露。<strong>Nebius</strong> 回应称不对传闻评论，但正构建全栈 AI 云。</p>
+<p>此前据 Calcalist 报道，<strong>英伟达</strong>曾考虑约 <code>30 亿美元</code> 收购 <strong>AI21 Labs</strong> 未果。</p>
+<p><strong>AI21 Labs</strong> 专注大模型及企业级 <code>Agent</code>。</p>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/55</guid><pubDate>Fri, 10 Apr 2026 01:21:53 +0000</pubDate></item><item><title>2026-04-09</title><link>https://imjuya.github.io/juya-ai-daily/issue-54/</link><description>AI 早报 2026-04-09 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Meta 发布 Muse Spark 模型，比肩顶级竞品 ↗ #1 Anthropic 发布 Claude Managed Agents 公测版 ↗ #2 Google 为 Gemini 引入 Notebooks 功能并与 NotebookLM 同步 ↗ #3 模型发布 爱诗科技上线 PixVerse C1 视频生成模型 ↗ #4 Black Forest Labs 发布 FLUX.2 Small Decoder ↗ #5 Liquid AI 发布 LFM2.5-VL-450M 边缘视觉语言模型 ↗ #6 开发生态 OpenClaw 连发 v2026.4.7 和 v2026.4.8 两版 ↗ #7 Google Colab 新…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260409/202604090900562149194791_cover_0c88.png" alt=""></p>
 <h1>AI 早报 2026-04-09</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV11jDnBfErS">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=7YYkci8Wbbk">YouTube</a></p>
 <h2>概览</h2>
