@@ -1,5 +1,266 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 10 Apr 2026 01:22:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-55/</link><description>AI 早报 2026-04-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 ChatGPT 100 美元 Pro 档 ↗ #1 模型发布 字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 ↗ #2 Overworld 发布实时扩散世界模型 Waypoint-1.5 ↗ #3 LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 ↗ #4 阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 ↗ #5 开发生态 Claude API 上线 Advisor 策略，平衡智能成本性能提升 ↗ #6 Claude Code 升级配置向导，引入监控工具 ↗ #7 Codex 官方上线 Build macOS Apps 插件 ↗ #8 Codex 宣布将再…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260410/202604100839005958074a88_cover_98f8.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 11 Apr 2026 01:17:03 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-11</title><link>https://imjuya.github.io/juya-ai-daily/issue-56/</link><description>AI 早报 2026-04-11 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 智谱就 GLM Coding Plan 体验问题致歉，开启专项退款通道 ↗ #1 模型发布 MiniMax 发布 Music 2.6 音乐模型，新增 Cover 功能 ↗ #2 Anuttacon 发布 LPM 1.0 模型，仅供学术交流 ↗ #3 开发生态 Claude Code 推出 ultraplan 支持云端规划本地执行 ↗ #4 Qwen Code 更新，支持远程控制及定时任务 ↗ #5 产品应用 Anthropic 推出 Claude for Word 插件测试版 ↗ #6 谷歌搜索 AI Mode 餐厅预订功能扩展至全球多地 ↗ #7 Qwen Chat 更名为 Qwen Studio ↗ #8 行业动态 Cor…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260411/20260411084035153888c3b0_cover_68ec.png" alt=""></p>
+<h1>AI 早报 2026-04-11</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1z5QTBmEJH">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ENsjoNBhxkE">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>智谱就 GLM Coding Plan 体验问题致歉，开启专项退款通道 <a href="https://zhipu-ai.feishu.cn/share/base/form/shrcn8hoW11cnI0PRd7H5VEd9Kc">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>MiniMax 发布 Music 2.6 音乐模型，新增 Cover 功能 <a href="https://www.minimaxi.com/news/music-26">↗</a> <code>#2</code></li>
+<li>Anuttacon 发布 LPM 1.0 模型，仅供学术交流 <a href="https://large-performance-model.github.io/">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 推出 ultraplan 支持云端规划本地执行 <a href="https://code.claude.com/docs/en/ultraplan">↗</a> <code>#4</code></li>
+<li>Qwen Code 更新，支持远程控制及定时任务 <a href="https://x.com/Alibaba_Qwen/status/2042551216769765449">↗</a> <code>#5</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Anthropic 推出 Claude for Word 插件测试版 <a href="https://claude.com/claude-for-word">↗</a> <code>#6</code></li>
+<li>谷歌搜索 AI Mode 餐厅预订功能扩展至全球多地 <a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/">↗</a> <code>#7</code></li>
+<li>Qwen Chat 更名为 Qwen Studio <a href="https://studio.qwen.ai/">↗</a> <code>#8</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>CoreWeave 与 Anthropic 达成多年期合作协议 <a href="https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic">↗</a> <code>#9</code></li>
+<li>美财政部联储召集银行，研讨 Anthropic 模型安全风险 <a href="https://news.bloomberglaw.com/ip-law/bessent-urgently-summons-bank-ceos-to-discuss-anthropics-new-ai">↗</a> <code>#10</code></li>
+<li>OpenAI 暂停英国 Stargate 计划，架构师相继离职 <a href="https://www.bbc.com/news/articles/clyd032ej70o">↗</a> <code>#11</code></li>
+<li>生数科技完成近 20 亿元 B 轮融资，阿里云领投 <a href="https://mp.weixin.qq.com/s/JwVjjqEzE7MChEl4IRvsVg">↗</a> <code>#12</code></li>
+<li>阿里确认 HappyHorse 系其研发 <a href="https://linux.do/t/topic/1936734">↗</a> <code>#13</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>媒体称 DeepSeek 预计本月下旬正式发布 DeepSeek V4 <a href="https://www.ithome.com/0/937/682.htm">↗</a> <code>#14</code></li>
+</ul>
+<h3>其他</h3>
+<ul>
+<li>Anthropic 误封 OpenClaw 开发者 Peter Steinberger 账号 <a href="https://x.com/steipete/status/2042648934238097842">↗</a> <code>#15</code></li>
+</ul>
+<hr>
+<h2><a href="https://zhipu-ai.feishu.cn/share/base/form/shrcn8hoW11cnI0PRd7H5VEd9Kc">智谱就 GLM Coding Plan 体验问题致歉，开启专项退款通道</a> <code>#1</code></h2>
+<blockquote>
+<p>因服务体验不佳，<strong>智谱</strong>官方发文致歉，并为国内版 <code>GLM Coding Plan</code> 开启了为期 <strong>七天</strong> 的专项退款通道。</p>
+<p>目前仍持有生效套餐的用户可通过指定表单，按剩余价值申请原路退款。退款成功后，套餐失效。</p>
+</blockquote>
+<p>因 <strong>GLM Coding Plan</strong> 正式发布后用户体验不佳，<strong>智谱</strong>官方发文致歉并宣布开启专项退款通道。</p>
+<p>在官方开启的为期七天的退款窗口期内，申请时仍持有生效国内版 <strong>GLM Coding Plan</strong> 套餐的用户，可于 <strong>4 月 16 日 23 时 59 分 59 秒</strong> 前通过指定表单链接 <code>i3f.cc/v-tvILS</code> 申请按当日套餐剩余价值原路退款。退款成功后，对应套餐将失效。</p>
+<p>官方每日将集中处理前一日 0 至 24 点的申请批次，并承诺若遇退款失败将主动联系相关用户解决。</p>
+<p>未来，该团队将继续致力于提供流畅的服务体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410183532_44f55ee2d4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhipu-ai.feishu.cn/share/base/form/shrcn8hoW11cnI0PRd7H5VEd9Kc">https://zhipu-ai.feishu.cn/share/base/form/shrcn8hoW11cnI0PRd7H5VEd9Kc</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.minimaxi.com/news/music-26">MiniMax 发布 Music 2.6 音乐模型，新增 Cover 功能</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 发布了 <code>Music 2.6</code> 音乐模型并开启限免。</p>
+<p>该版本在底层能力上进行了系统性升级，重点优化了中低频声学表现、指令控制能力以及首包延迟，并新增 <strong>Cover</strong> 功能。</p>
+<p>此外，同步开源了三个 <code>Music Skill</code>，赋能 <strong>AI Agent</strong>。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 官方发布 <strong>Music 2.6</strong> 音乐模型并宣布开启全球创作内测，提供为期 <strong>14</strong> 天的限免政策。</p>
+<p>该版本在底层能力上进行了系统性升级，重点优化了中低频声学表现、指令控制能力以及首包延迟。</p>
+<p>新增的 <strong>Cover</strong> 功能允许用户精准提取上传歌曲的旋律骨架，并自由改变原曲的风格、编曲甚至歌词。</p>
+<p>此外，官方同步开源了三个 <code>Music Skill</code>，旨在赋能 <strong>AI Agent</strong> 开发者。</p>
+<p>目前，C 端产品用户每日拥有 <strong>500</strong> 首免费创作额度，现有的 Token Plan 开发者用户每日额外获赠 <strong>100</strong> 首免费调用额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410184923_bc694fdb63.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410184903_51bc3bdeca.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.minimaxi.com/news/music-26">https://www.minimaxi.com/news/music-26</a></li>
+</ul>
+<hr>
+<h2><a href="https://large-performance-model.github.io/">Anuttacon 发布 LPM 1.0 模型，仅供学术交流</a> <code>#3</code></h2>
+<blockquote>
+<p>由米哈游创始人<strong>蔡浩宇</strong>创立的AI公司<strong>Anuttacon</strong>正式公布了自研视频角色表演生成模型<code>LPM 1.0</code>。该模型采用<strong>17B</strong>参数扩散架构，支持多模态导演级控制与零样本泛化，可作为虚拟主播和游戏NPC等场景的实时视觉引擎。</p>
+<p>官方称，该项目现阶段仅用于学术交流，无任何开源计划，也不提供任何API与产品服务。</p>
+</blockquote>
+<p>近日，视频角色表演生成模型 <strong>LPM 1.0</strong> 的研究论文及项目主页正式公布。该模型由米哈游创始人<strong>蔡浩宇</strong>创立的 AI 公司 <strong>Anuttacon</strong> 自研。</p>
+<p>根据官方论文与项目主页显示，该模型专注于单人全双工音视频对话表演，采用 <strong>17B</strong> 参数量的 <code>Diffusion Transformer</code> 架构，并蒸馏出因果流式生成器以实现低延迟、无限时长的实时交互。</p>
+<p><strong>LPM 1.0</strong> 旨在解决生成高表现力、实时推理与长期身份稳定之间的“表演三难困境”。其通过多模态输入（图像、音频、文本）实现了对角色说话、聆听及演唱等细腻表演的导演级控制，并具备对写实真人、2D/3D 及非人形等任意风格角色的零样本泛化能力。</p>
+<p>官方称，该模型在其提出的首个交互式角色表演基准 <strong>LPM-Bench</strong> 的所有评估维度上均达到了 SOTA 水平，可作为对话代理、虚拟主播和游戏 NPC 的视觉引擎。</p>
+<p>然而，官方同时明确声明，该项目目前仅用于学术交流，尚无计划向公众开源模型权重、源代码或提供任何 API 及产品服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/68ec2fb5-432a-40c1-929b-b0c855f336c8/9e9a75f5-f845-4e66-b906-497876cf4ed9/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://large-performance-model.github.io/">https://large-performance-model.github.io/</a></li>
+<li><a href="https://arxiv.org/abs/2604.07823">https://arxiv.org/abs/2604.07823</a></li>
+</ul>
+<hr>
+<h2><a href="https://code.claude.com/docs/en/ultraplan">Claude Code 推出 ultraplan 支持云端规划本地执行</a> <code>#4</code></h2>
+<blockquote>
+<p>Claude Code 推出了名为 <code>ultraplan</code> 的研究预览版新功能，将代码分析与方案起草转移至云端处理，以释放本地资源。</p>
+<p>用户在本地终端输入指令发起规划后，可直接在浏览器中对云端生成的方案进行批注和迭代审阅。</p>
+<p>确认后，既能在云端执行并创建 PR，也可传回本地继续实施。</p>
+</blockquote>
+<p><strong>Claude Code</strong> 推出了一项名为 <strong>ultraplan</strong> 的新功能。该功能允许用户在本地 CLI 中发起规划任务，并将代码库分析与方案起草工作交由 <strong>Anthropic</strong> 云端处理，从而释放本地终端资源。</p>
+<p>在云端生成方案后，用户可在浏览器内对其进行段落批注、表情反馈及基于大纲的审阅迭代。方案确认后，用户既可选择在云端环境中直接执行并创建 pull request，也可将其“传送”回本地终端继续实施。</p>
+<p>该功能目前处于研究预览阶段，要求使用 <strong>Claude Code</strong> <code>v2.1.91</code> 或更高版本，且需配置 <strong>Claude Code on the web</strong> 账户及 <strong>GitHub</strong> 仓库。</p>
+<p>用户可通过 <code>/ultraplan</code> 命令、提示词包含关键词或在本地计划审批对话框选择发送三种方式启动。</p>
+<p>任务提交后，终端显示状态指示器，用户可运行 <code>/tasks</code> 查看详情或停止。</p>
+<p>由于运行依赖于 <strong>Anthropic</strong> 的云基础设施，该功能不支持 <strong>Amazon Bedrock</strong>、<strong>Google Cloud Vertex AI</strong> 或 <strong>Microsoft Foundry</strong> 环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/68ec2fb5-432a-40c1-929b-b0c855f336c8/a88e359e-8554-43cf-bca3-a0856066cfe1/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/ultraplan">https://code.claude.com/docs/en/ultraplan</a></li>
+<li><a href="https://x.com/trq212/status/2042671370186973589">https://x.com/trq212/status/2042671370186973589</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Alibaba_Qwen/status/2042551216769765449">Qwen Code 更新，支持远程控制及定时任务</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Qwen Code</strong> 发布更新，开发者现在能通过<strong>钉钉</strong>或<strong>微信</strong>等社交平台用手机远程控制执行代码，并可利用定时任务功能让<strong>AI</strong>自动运行循环测试。</p>
+<p>同时，新版支持在执行前进行全局规划，并为不同子任务灵活分配模型。</p>
+</blockquote>
+<p>Qwen Code 的 <strong>v0.14.0</strong> 至 <strong>v0.14.2</strong> 版本现已全面上线。</p>
+<p>此次更新引入了多项重磅功能：用户不仅可以通过 <strong>DingTalk</strong> 或 <strong>WeChat</strong> 等平台远程控制该工具，实现“手机发消息、服务器收结果”的联动。</p>
+<p>还能借助新增的 <code>Cron Jobs</code> 功能，安排如每 <strong>30 分钟</strong>自动运行测试或每日清晨定时拉取构建等循环 AI 任务。</p>
+<p>在任务调度与执行层面，新版支持通过 <code>/plan</code> 命令进入“先规划后执行”模式，并允许用户为不同 <code>Sub-agent</code> 灵活分配模型，以兼顾性能与消耗。</p>
+<p>此外，该工具还增加了任务完成后的智能后续建议、默认 <strong>8K</strong> 且截断时自动扩容至 <strong>64K</strong> 的 <code>Adaptive Output Tokens</code>。</p>
+<p>以及通过 <code>Ctrl+O</code> 快捷键切换输出详细程度等高度实用的交互特性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260411/20260411080419_d1bbeb535f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Alibaba_Qwen/status/2042551216769765449">https://x.com/Alibaba_Qwen/status/2042551216769765449</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/claude-for-word">Anthropic 推出 Claude for Word 插件测试版</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 推出了 <strong>Claude for Word</strong> 插件测试版，该插件能以原生修订模式提供保留原格式的修改建议，还能自动总结修改记录并标记文档错误。目前仅向 <strong>Claude</strong> 的 Team 和 Enterprise 付费用户开放。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方正式推出了 <strong>Claude for Word</strong> 插件的测试版。该插件使 <strong>Claude</strong> 能够直接在 Word 文档的侧边栏内运行，该工具即会以 Word 原生的“修订模式”呈现修改建议，供用户在审阅面板中接受或拒绝。</p>
+<p>在处理文档时，该插件能智能继承原有的标题、编号和项目符号等格式，支持基于模板起草内容并引用上传的参考文档。它还具备完善的审阅辅助功能，包括处理评论互动、总结文档修订记录，以及自动标记不一致的术语和编号错误。</p>
+<p>为提升团队协作效率，该产品引入了 <strong>Skills</strong> 功能，允许将特定工作流打包供团队成员一键复用。同时，该插件还实现了与 <strong>Excel</strong> 和 <strong>PowerPoint</strong> 加载项共享同一个对话上下文，支持跨应用连贯处理任务。</p>
+<p>目前，上述功能仅面向 <strong>Claude Team</strong> 和 <strong>Enterprise</strong> 计划的付费用户开放，官方提醒用户在接受修改建议前务必进行人工审查。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/68ec2fb5-432a-40c1-929b-b0c855f336c8/2ce111aa-45ed-4b73-8dff-7f520a3040b6/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/claude-for-word">https://claude.com/claude-for-word</a></li>
+<li><a href="https://x.com/dotey/status/2042714553004245254">https://x.com/dotey/status/2042714553004245254</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/">谷歌搜索 AI Mode 餐厅预订功能扩展至全球多地</a> <code>#7</code></h2>
+<blockquote>
+<p>谷歌宣布将其 <strong>AI Mode</strong> 餐厅预订功能扩展至 <strong>澳大利亚</strong>、<strong>加拿大</strong> 和 <strong>中国香港</strong> 等地。</p>
+<p>用户只需在 <strong>AI Mode</strong> 中用自然语言输入人数、时间等特定偏好，系统就会提供 <code>OpenTable</code> 等八个合作方的预订链接。</p>
+</blockquote>
+<p>Google 宣布将其 Search 中的 <strong>AI Mode</strong> 的餐厅预订功能首次扩展至美国以外的全球多地，涵盖 <strong>澳大利亚</strong>、<strong>加拿大</strong>、<strong>中国香港</strong>、<strong>印度</strong>、<strong>新西兰</strong>、<strong>新加坡</strong>、<strong>南非</strong> 和 <strong>英国</strong>。</p>
+<p>该功能通过引入基于 <strong>Agent</strong> 的能力，允许用户直接输入包含人数、时间、特定偏好（如宠物友好、饮食需求等）的自然语言指令，系统将跨多个平台和网站实时扫描可用餐位，并提供包含 <code>TheFork</code>、<code>OpenTable</code> 等八个合作方直接预订链接的精选列表。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/68ec2fb5-432a-40c1-929b-b0c855f336c8/e28dd788-dc69-4041-95fc-2462cfb6d062/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/ai-mode-restaurants-uk/</a></li>
+</ul>
+<hr>
+<h2><a href="https://studio.qwen.ai/">Qwen Chat 更名为 Qwen Studio</a> <code>#8</code></h2>
+<blockquote>
+<p>阿里 <strong>Qwen</strong> 宣布其旗下 <strong>Qwen Chat</strong> 正式更名为 <strong>Qwen Studio</strong>。未来，其团队将继续优化该平台的界面与体验，并依据用户反馈制定路线图，以帮助用户更便捷地发现、测试并挖掘 <code>Qwen</code> 模型的全部潜力。</p>
+</blockquote>
+<p><strong>Qwen</strong> 官方宣布其旗下 <strong>Qwen Chat</strong> 现已正式更名为 <strong>Qwen Studio</strong>。  </p>
+<p><strong>Qwen Studio</strong> 旨在为日常用户和开发者提供支持，允许其统一访问 <strong>Qwen</strong> 系列的开源和专有模型。  </p>
+<p>该平台现已全面集成高级多模态理解、实时音视频交互、工具调用，以及 AI 图像与视频生成等核心能力。  </p>
+<p>未来，其团队将继续优化该平台的界面与体验，并依据用户反馈制定路线图，以帮助用户更便捷地发现、测试并挖掘 <strong>Qwen</strong> 模型的全部潜力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260411/20260411084946_0faabc7bc7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://studio.qwen.ai/">https://studio.qwen.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic">CoreWeave 与 Anthropic 达成多年期合作协议</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>CoreWeave</strong> 与 <strong>Anthropic</strong> 宣布达成一项多年期合作协议，<strong>Anthropic</strong> 将采用 <strong>CoreWeave</strong> 的高性能云平台，以生产级规模支持其 <code>Claude</code> 系列 AI 模型的开发与部署。</p>
+</blockquote>
+<p>云服务提供商 <strong>CoreWeave</strong> 与 <strong>Anthropic</strong> 近日宣布达成一项多年期合作协议。根据该协议，<strong>Anthropic</strong> 将采用 <strong>CoreWeave</strong> 的云平台，以生产级规模运行工作负载，从而支持其 <strong>Claude</strong> 系列 AI 模型的开发与部署。</p>
+<p>这项合作的算力预计将于今年晚些时候开始上线。双方的合作初期将专注于分阶段的基础设施部署，并具备未来进一步扩展的潜力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260411/20260411073532_d488d3c2f5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic">https://www.coreweave.com/news/coreweave-announces-multi-year-agreement-with-anthropic</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude">https://www.bloomberg.com/news/articles/2026-04-10/anthropic-agrees-to-rent-coreweave-ai-capacity-to-power-claude</a></li>
+</ul>
+<hr>
+<h2><a href="https://news.bloomberglaw.com/ip-law/bessent-urgently-summons-bank-ceos-to-discuss-anthropics-new-ai">美财政部联储召集银行，研讨 Anthropic 模型安全风险</a> <code>#10</code></h2>
+<blockquote>
+<p>据彭博社报道，美国财政部部长与美联储主席在华盛顿紧急召集<strong>花旗</strong>和<strong>高盛</strong>等多家银行CEO举行会议，重点讨论防范<code>Anthropic Mythos</code>模型可能带来的网络攻击风险。</p>
+</blockquote>
+<p>据彭博社报道，知情人士透露，美国财政部部长 <strong>Scott Bessent</strong> 与美联储主席 <strong>Jerome Powell</strong> 近日在华盛顿财政部总部紧急召集了多家系统重要性金融机构的首席执行官举行会议，讨论 <strong>Anthropic</strong> 最新发布的 AI 模型 <code>Mythos</code> 可能引发的网络安全风险。</p>
+<p>受邀参会的高管包括来自 <strong>花旗</strong>、<strong>摩根士丹利</strong>、<strong>美国银行</strong>、<strong>富国银行</strong> 和 <strong>高盛</strong> 的负责人，而 <strong>摩根大通</strong> 的 CEO 则因故未能出席。</p>
+<p>官方称，该模型在接收到用户指令时，具备识别并利用所有主要操作系统和网络浏览器漏洞的能力。</p>
+<p>为防范黑客滥用该技术，监管机构希望确保各银行采取防御措施。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://news.bloomberglaw.com/ip-law/bessent-urgently-summons-bank-ceos-to-discuss-anthropics-new-ai">https://news.bloomberglaw.com/ip-law/bessent-urgently-summons-bank-ceos-to-discuss-anthropics-new-ai</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bbc.com/news/articles/clyd032ej70o">OpenAI 暂停英国 Stargate 计划，架构师相继离职</a> <code>#11</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 的 <strong>Stargate</strong> 架构师正相继离职，因该公司战略转向倾向于租用而非自建 AI 基础设施。</p>
+<p>同时，<strong>OpenAI</strong> 近期宣布暂停英国 <strong>Stargate</strong> 项目。根据官方声明，此举归咎于能源成本高企导致投资超出预期及监管政策的不确定性。</p>
+</blockquote>
+<p>据报道，<strong>OpenAI</strong> 的 <strong>Stargate</strong> 架构师正在相继离职，其原因是该公司的战略发生转移，正加倍倾向于租用而非自行建造 AI 基础设施。</p>
+<p>与此同时，<strong>OpenAI</strong> 暂停 <strong>Stargate</strong> 人工智能基础设施项目在英国的推进计划。根据该公司的官方声明，这一曾旨在打造“超级算力中心”的计划被按下暂停键，主要归咎于高企的能源成本导致长期投资超出商业预期，以及当地大型数据中心监管政策的不确定性。</p>
+<p>尽管在英国受挫，<strong>OpenAI</strong> 重申仍看好该国在 AI 领域的巨大潜力，并表示将在能源成本等条件允许时，重新推进在该地的长期基础设施投资。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bbc.com/news/articles/clyd032ej70o">https://www.bbc.com/news/articles/clyd032ej70o</a></li>
+<li><a href="https://seekingalpha.com/news/4573915-openai-stargate-leaders-including-peter-hoeschele-depart-in-latest-shakeup-to-data-center-strategy-report">https://seekingalpha.com/news/4573915-openai-stargate-leaders-including-peter-hoeschele-depart-in-latest-shakeup-to-data-center-strategy-report</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/JwVjjqEzE7MChEl4IRvsVg">生数科技完成近 20 亿元 B 轮融资，阿里云领投</a> <code>#12</code></h2>
+<blockquote>
+<p>生数科技宣布完成近<strong>20亿元人民币</strong>B轮融资，由<strong>阿里云</strong>领投。该公司致力于构建贯通数字与物理世界的通用世界模型。</p>
+</blockquote>
+<p>生数科技宣布完成近<strong>20亿元人民币</strong>B轮融资，该轮融资由<strong>阿里云</strong>领投，<strong>中网投</strong>、<strong>九安海棠</strong>、<strong>好未来</strong>、<strong>光合创投</strong>等机构参与战略投资，<strong>星连资本</strong>、<strong>达泰资本</strong>、<strong>建发新兴投资</strong>、<strong>BV百度风投</strong>、<strong>卓源亚洲</strong>等原有股东持续追投。</p>
+<p>该公司致力于以基座世界模型为核心底层，推进数字世界与物理世界统一的通用世界模型架构。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/JwVjjqEzE7MChEl4IRvsVg">https://mp.weixin.qq.com/s/JwVjjqEzE7MChEl4IRvsVg</a></li>
+</ul>
+<hr>
+<h2><a href="https://linux.do/t/topic/1936734">阿里确认 HappyHorse 系其研发</a> <code>#13</code></h2>
+<blockquote>
+<p>阿里巴巴正式确认，在第三方盲测登顶的视频生成模型 <strong>HappyHorse</strong> 由其 <strong>ATH</strong> 创新事业部研发。目前正处于内测阶段，计划后续对外提供 <code>API</code> 接口。</p>
+</blockquote>
+<p>近日，阿里巴巴通过官方渠道正式宣布，此前在第三方测评平台登顶的视频生成模型 <strong>HappyHorse</strong> 系由阿里 <strong>ATH</strong> 旗下创新事业部研发。</p>
+<p>根据官方声明，该模型目前正处于内测阶段，其 <code>API</code> 将于近期对外开放。</p>
+<p>官方同时透露，后续还将陆续推出更多相关产品。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410183853_2333ffecdf.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linux.do/t/topic/1936734">https://linux.do/t/topic/1936734</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.ithome.com/0/937/682.htm">媒体称 DeepSeek 预计本月下旬正式发布 DeepSeek V4</a> <code>#14</code></h2>
+<blockquote>
+<p>据IT之家报道，<strong>DeepSeek</strong>创始人<strong>梁文锋</strong>在内部沟通中透露，其新一代旗舰大模型<code>DeepSeek V4</code>预计将于本月下旬正式发布。</p>
+</blockquote>
+<p>据媒体报道称，<strong>DeepSeek</strong> 创始人<strong>梁文锋</strong>在近日的内部沟通中透露，该公司新一代旗舰大模型 <code>DeepSeek V4</code> 预计将于本月下旬正式发布。</p>
+<p>与此同时，据用户观察，<strong>DeepSeek</strong> 网页端和 App 端近期频繁对界面进行改动。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260410/20260410183651_91bb6d4e53.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ithome.com/0/937/682.htm">https://www.ithome.com/0/937/682.htm</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/steipete/status/2042648934238097842">Anthropic 误封 OpenClaw 开发者 Peter Steinberger 账号</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 封禁了 <strong>OpenClaw</strong> 开发者 <strong>Peter Steinberger</strong> 的 <strong>Claude</strong> 账户及 API 访问权限。</p>
+<p>在引发社区广泛关注后，<strong>Anthropic</strong> 员工迅速介入澄清误会，并恢复了该账户权限。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 撤销了 OpenClaw 开发者 <strong>Peter Steinberger</strong> 对 <strong>Claude</strong> 的访问权限，官方理由是其账户存在违反使用政策的可疑信号，该封禁同时影响了其 API 密钥及 <code>Claude Code</code> 的使用。</p>
+<p>事件在社交平台上引发广泛关注，<strong>Anthropic</strong> 员工随后在讨论区澄清，公司并未因使用 OpenClaw 而封禁用户，此次情况极可能是由触发判定严格的风控系统所致。</p>
+<p>经沟通，该开发者的账户现已恢复正常访问权限，其表示 OpenClaw 将继续通过多种方式保障对多模型的兼容性测试。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260411/20260411083638_4d73cec5ee.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260411/20260411083654_cf5051fd0e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/steipete/status/2042648934238097842">https://x.com/steipete/status/2042648934238097842</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/56</guid><pubDate>Sat, 11 Apr 2026 01:16:42 +0000</pubDate></item><item><title>2026-04-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-55/</link><description>AI 早报 2026-04-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 ChatGPT 100 美元 Pro 档 ↗ #1 模型发布 字节跳动发布原生全双工语音模型 Seeduplex，豆包可用 ↗ #2 Overworld 发布实时扩散世界模型 Waypoint-1.5 ↗ #3 LG AI Research 发布 EXAONE 4.5 开源视觉语言模型 ↗ #4 阿里AIDC-AI开源两款 Marco-MoE 稀疏大模型 ↗ #5 开发生态 Claude API 上线 Advisor 策略，平衡智能成本性能提升 ↗ #6 Claude Code 升级配置向导，引入监控工具 ↗ #7 Codex 官方上线 Build macOS Apps 插件 ↗ #8 Codex 宣布将再…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260410/202604100839005958074a88_cover_98f8.png" alt=""></p>
 <h1>AI 早报 2026-04-10</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1y8DfBeE7q">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ZEdnZWM09pg">YouTube</a></p>
 <h2>概览</h2>
