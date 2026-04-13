@@ -1,5 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 12 Apr 2026 00:38:20 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-12</title><link>https://imjuya.github.io/juya-ai-daily/issue-57/</link><description>AI 早报 2026-04-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 澄清 ChatGPT Pro 额度规则，承认定价页面表述有误将更新 ↗ #1 阿里云百炼停售并清退 Coding Plan Lite 套餐 ↗ #2 模型发布 MiniMax 今日正式开源 MiniMax-M2.7 模型 ↗ #3 开发生态 GitHub Copilot 宣布将引入全新速率限制 ↗ #4 智谱国际版 GLM Coding Plan 大幅涨价，引发热议 #5 产品应用 OpenClaw 发布 2026.4.10 版，优化记忆功能 ↗ #6 Nous Research 宣布 Hermes Agent 原生支持微信 #7 OpenAI 响应 Axios 事件，撤销证书敦促四款应用升级 ↗ #8 行业动态…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260412/20260412082956593747817a_cover_b7a6.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 13 Apr 2026 00:53:30 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-58/</link><description>AI 早报 2026-04-13 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 MiniMax 开源 M2.7 模型，明确非商业用途限制 ↗ #1 MOSI.AI 与 OpenMOSS 开源 MOSS-TTS-Nano 语音模型 ↗ #2 开发生态 微信支付开源 wechatpay-skills，支持 AI IDE 接入辅助开发 ↗ #3 技术与洞察 伯克利团队揭露八大 AI 评测基准存在刷分漏洞 ↗ #4 行业动态 日本经产省追加 6315 亿日元助 Rapidus 推进 2 纳米 ↗ #5 MiniMax 开源 M2.7 模型，明确非商业用途限制 #1 MiniMax 已正式开源其 M2.7 模型，该模型在多项基准测试中达到当前最优水平，采用 Agentic-first 设计，能够高效完成复杂的生…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260413/20260413084300534316ad4e_cover_f694.png" alt=""></p>
+<h1>AI 早报 2026-04-13</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV14UQpBzEF1">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=l5OKx4pqycg">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>MiniMax 开源 M2.7 模型，明确非商业用途限制 <a href="https://huggingface.co/MiniMaxAI/MiniMax-M2.7">↗</a> <code>#1</code></li>
+<li>MOSI.AI 与 OpenMOSS 开源 MOSS-TTS-Nano 语音模型 <a href="https://github.com/OpenMOSS/MOSS-TTS-Nano">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>微信支付开源 wechatpay-skills，支持 AI IDE 接入辅助开发 <a href="https://pay.weixin.qq.com/doc/v3/merchant/4019638116">↗</a> <code>#3</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>伯克利团队揭露八大 AI 评测基准存在刷分漏洞 <a href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/">↗</a> <code>#4</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>日本经产省追加 6315 亿日元助 Rapidus 推进 2 纳米 <a href="https://www.asahi.com/articles/ASV4C2QYWV4CULFA022M.html">↗</a> <code>#5</code></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/MiniMaxAI/MiniMax-M2.7">MiniMax 开源 M2.7 模型，明确非商业用途限制</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 已正式开源其 <strong>M2.7</strong> 模型，该模型在多项基准测试中达到当前最优水平，采用 <code>Agentic-first</code> 设计，能够高效完成复杂的生产力任务。</p>
+<p>但其采用非商业用途许可协议，任何商业应用均须事先获得 <strong>MiniMax</strong> 的单独书面授权，引发广泛关注。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 官方宣布其 <strong>M2.7</strong> 模型现已正式开源。</p>
+<p>官方表示，<strong>MiniMax-M2.7</strong> 是该公司首个深度参与自身进化过程的模型，能够构建复杂的代理框架，并利用 <code>Agent Teams</code>、复杂技能管理以及动态工具搜索等功能完成高度复杂的生产力任务。</p>
+<p>目前，用户可以在 <code>Hugging Face</code> 和 <code>ModelScope</code> 平台上获取该模型。</p>
+<p>在授权与规范方面，该模型采用基于 MIT 的非商业用途许可协议，任何商业用途均须事先获得 <strong>MiniMax</strong> 的书面授权并在相关界面展示特定标识。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/f6945bc6-06b7-4707-89b3-38a9af8df8ab/c8993614-6491-4317-86a0-42525fcb375f/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260413/20260413081313_8ac0c0eefd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/MiniMaxAI/MiniMax-M2.7">https://huggingface.co/MiniMaxAI/MiniMax-M2.7</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/OpenMOSS/MOSS-TTS-Nano">MOSI.AI 与 OpenMOSS 开源 MOSS-TTS-Nano 语音模型</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>MOSI.AI</strong> 与 <strong>OpenMOSS</strong> 团队联合开源了仅有 <strong>0.1B</strong> 参数的多语言微型语音生成模型 <code>MOSS-TTS-Nano</code>。该模型能在无需 GPU 的 4 核 CPU 环境下运行，并支持 20 种语言。</p>
+</blockquote>
+<p><strong>MOSI.AI</strong> 与 <strong>OpenMOSS</strong> 团队联合开源了名为 <code>MOSS-TTS-Nano</code> 的多语言微型语音生成模型。该模型仅包含 <strong>0.1B</strong> 参数，专为实时语音生成设计，能够在无需 GPU 的 <strong>4 核 CPU</strong> 环境下运行，并保持极简的部署栈，适用于本地演示、网络服务及轻量级产品集成。</p>
+<p>该模型采用纯自回归的 <code>Audio Tokenizer</code> + <code>LLM</code> 架构，支持流式推理和长文本自动分块的语音克隆，能够输出 <strong>48 kHz</strong>、<strong>2 声道</strong>的原生音频格式，并兼容包括中文、英文、日语、韩语、阿拉伯语、法语和德语在内的 20 种语言。</p>
+<p>为配合该模型，官方同步推出了包含约 <strong>20M</strong> 参数的轻量级分词器 <code>MOSS-Audio-Tokenizer-Nano</code>，以实现高保真音频压缩。</p>
+<p>目前，开发者和用户可以通过 GitHub 获取源码、通过 Hugging Face 及 ModelScope 获取模型权重，或直接访问官方提供的在线演示页面进行体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/f6945bc6-06b7-4707-89b3-38a9af8df8ab/a67dcc07-6de6-4a9b-adfc-d241f58b39cc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/OpenMOSS/MOSS-TTS-Nano">https://github.com/OpenMOSS/MOSS-TTS-Nano</a></li>
+<li><a href="https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano">https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano</a></li>
+<li><a href="https://openmoss.github.io/MOSS-TTS-Nano-Demo/">https://openmoss.github.io/MOSS-TTS-Nano-Demo/</a></li>
+</ul>
+<hr>
+<h2><a href="https://pay.weixin.qq.com/doc/v3/merchant/4019638116">微信支付开源 wechatpay-skills，支持 AI IDE 接入辅助开发</a> <code>#3</code></h2>
+<blockquote>
+<p>微信支付官方开源了 <strong>wechatpay-skills</strong>，开发者只需将其引入项目并描述业务场景，即可精准匹配支付方式并获取官方预验证的代码示例，同时还能直接体验业务知识速查、质量评估及自动排错等全流程智能指引。</p>
+</blockquote>
+<p>微信支付官方开源了 <strong>wechatpay-skills</strong> 项目，旨在为开发者在支持 <code>Skill</code> 的 AI IDE 中为项目接入基础支付提供一站式智能辅助。该工具深度集成了支付方式选型、示例代码检索、业务知识速查、接入质量评估及接口排障五项核心能力。</p>
+<p>引入该工具后，开发者在对话框内描述业务场景即可获得精准匹配，其选型范围覆盖 <code>JSAPI</code>、<code>APP</code>、<code>H5</code>、<code>Native</code>、<code>小程序</code>、<code>付款码</code> 及 <code>合单支付</code> 等多种模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260413/20260413083144_e5a083e591.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://pay.weixin.qq.com/doc/v3/merchant/4019638116">https://pay.weixin.qq.com/doc/v3/merchant/4019638116</a></li>
+<li><a href="https://github.com/wechatpay-apiv3/wechatpay-skills">https://github.com/wechatpay-apiv3/wechatpay-skills</a></li>
+</ul>
+<hr>
+<h2><a href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/">伯克利团队揭露八大 AI 评测基准存在刷分漏洞</a> <code>#4</code></h2>
+<blockquote>
+<p>加州大学伯克利分校研究团队发布审计报告指出，当前主流评测基准存在严重漏洞。其构建的 <code>Agent</code> 在未解决任何实际任务的情况下，通过各种手段，在 <strong>SWE-bench</strong> 等八大主流基准上获得了最高达满分的分数。</p>
+</blockquote>
+<p>近日，加州大学伯克利分校<strong>负责任去中心化智能中心</strong>在官方博客发布了一项关于AI Agent评测基准的审计报告。研究团队构建了一个自动化扫描Agent，针对 <code>SWE-bench</code>、<code>WebArena</code>、<code>OSWorld</code>、<code>GAIA</code>、<code>Terminal-Bench</code>、<code>FieldWorkArena</code> 和 <code>CAR-bench</code> 等8个主流的AI Agent评测基准进行了系统性攻防测试。</p>
+<p>结果显示，该Agent在没有解决任何实际任务且多数情况下未调用大语言模型的前提下，利用评测机制的漏洞，在所有测试基准上均获得了**73%至接近100%**的分数。</p>
+<p>这项研究揭示了当前基准测试中反复出现的7个系统性脆弱性模式，并指出这些分数操纵行为正在现实中发生。</p>
+<p>为解决这一问题，官方正将该扫描Agent开发为名为 <code>BenchJack</code> 的基准漏洞自动化扫描工具，并发布了“Agent-Eval检查清单”，以指导开发者构建更加健壮且隔离的评测机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/f6945bc6-06b7-4707-89b3-38a9af8df8ab/e528c7e2-98dc-4a01-ad85-94bb6d29ba6c/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/f6945bc6-06b7-4707-89b3-38a9af8df8ab/e528c7e2-98dc-4a01-ad85-94bb6d29ba6c/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/">https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.asahi.com/articles/ASV4C2QYWV4CULFA022M.html">日本经产省追加 6315 亿日元助 Rapidus 推进 2 纳米</a> <code>#5</code></h2>
+<blockquote>
+<p>日本经济产业省宣布向国策企业 <strong>Rapidus</strong> 提供 <strong>6315亿日元</strong> 追加补贴，该项目的总注资额将达到超 <strong>2万亿日元</strong>。</p>
+<p>这笔资金将用于提升试制品的性能与良品率，以加速日本 <strong>2纳米</strong> 先进半导体与 <strong>AI芯片</strong> 的国产化进程。</p>
+</blockquote>
+<p>据媒体报道，日本经济产业省近日宣布，将向目标实现 <strong>2纳米</strong> 先进半导体国产化的国策企业 <strong>Rapidus</strong> 提供最多 <strong>6315亿日元</strong> 的追加支援，以加速其进军高风险的 AI 芯片制造领域。</p>
+<p>这笔资金将作为本财年的研究开发委托费，主要用于提升试制品的性能与良品率。</p>
+<p>根据官方声明及外部委员会对其北海道千岁市工厂技术进展的认可，加上此次追加的补贴，日本政府对该项目的直接支援总额已达约 <strong>2.354万亿日元</strong>。</p>
+<p>该企业正加速推进其位于北海道的工厂建设，并新开设了解析中心与后工程研发基地，目标在未来的量产年度内实现先进半导体的量产。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.asahi.com/articles/ASV4C2QYWV4CULFA022M.html">https://www.asahi.com/articles/ASV4C2QYWV4CULFA022M.html</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/58</guid><pubDate>Mon, 13 Apr 2026 00:53:09 +0000</pubDate></item><item><title>2026-04-12</title><link>https://imjuya.github.io/juya-ai-daily/issue-57/</link><description>AI 早报 2026-04-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 澄清 ChatGPT Pro 额度规则，承认定价页面表述有误将更新 ↗ #1 阿里云百炼停售并清退 Coding Plan Lite 套餐 ↗ #2 模型发布 MiniMax 今日正式开源 MiniMax-M2.7 模型 ↗ #3 开发生态 GitHub Copilot 宣布将引入全新速率限制 ↗ #4 智谱国际版 GLM Coding Plan 大幅涨价，引发热议 #5 产品应用 OpenClaw 发布 2026.4.10 版，优化记忆功能 ↗ #6 Nous Research 宣布 Hermes Agent 原生支持微信 #7 OpenAI 响应 Axios 事件，撤销证书敦促四款应用升级 ↗ #8 行业动态…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260412/20260412082956593747817a_cover_b7a6.png" alt=""></p>
 <h1>AI 早报 2026-04-12</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1SZDmB1E7p">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=vQ7EfAJ-RnA">YouTube</a></p>
 <h2>概览</h2>
