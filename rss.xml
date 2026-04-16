@@ -1,5 +1,261 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 15 Apr 2026 01:18:33 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-60/</link><description>AI 早报 2026-04-15 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI 扩大网络安全信任访问计划，发布 GPT-5.4-Cyber 模型 ↗ #1 Google DeepMind 发布 Gemini Robotics-ER 1.6 机器人模型 ↗ #2 百度开源 ERNIE-Image 模型，8B 参数支持中文长文本渲染 ↗ #3 微软发布 MAI-Image-2-Efficient 模型 ↗ #4 Midjourney 发布 V8.1，生成速度提升 3 倍成本降低 3 倍 ↗ #5 NVIDIA 联合发布 Audio Flamingo Next，支持 128K 音频上下文 ↗ #6 NVIDIA 发布 Ising 开放模型 开源助力量子计算纠错 ↗ #7 Seedance 2.…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260415/20260415085753038027a416_cover_10ba.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 16 Apr 2026 01:21:59 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-16</title><link>https://imjuya.github.io/juya-ai-daily/issue-61/</link><description>AI 早报 2026-04-16 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini 3.1 Flash TTS 模型 ↗ #1 Google 发布 macOS 版 Gemini 原生桌面应用支持屏幕共享 ↗ #2 Anthropic 为 Claude 平台启用身份验证机制 ↗ #3 模型发布 NVIDIA 发布 Lyra 2.0，支持单图生成可探索 3D 世界 ↗ #4 World Labs 开源 Spark 2.0 支持网页端亿级 3D 场景渲染 ↗ #5 Nucleus AI 开源 Nucleus-Image，17B 参数激活 2B #6 开发生态 Claude Code 更新支持自主配置 Prompt Caching 的 TTL ↗ #7 Google 官方宣布为 Ge…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260416/202604160846388112967e37_cover_0b2c.png" alt=""></p>
+<h1>AI 早报 2026-04-16</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV11gd4BdE3L">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ckHlAambRg0">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Google 发布 Gemini 3.1 Flash TTS 模型 <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts">↗</a> <code>#1</code></li>
+<li>Google 发布 macOS 版 Gemini 原生桌面应用支持屏幕共享 <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/">↗</a> <code>#2</code></li>
+<li>Anthropic 为 Claude 平台启用身份验证机制 <a href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>NVIDIA 发布 Lyra 2.0，支持单图生成可探索 3D 世界 <a href="https://research.nvidia.com/labs/sil/projects/lyra2/">↗</a> <code>#4</code></li>
+<li>World Labs 开源 Spark 2.0 支持网页端亿级 3D 场景渲染 <a href="https://www.worldlabs.ai/blog/spark-2.0">↗</a> <code>#5</code></li>
+<li>Nucleus AI 开源 Nucleus-Image，17B 参数激活 2B <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 更新支持自主配置 Prompt Caching 的 TTL <a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md">↗</a> <code>#7</code></li>
+<li>Google 官方宣布为 Gemini API 推出预付费计费功能 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/">↗</a> <code>#8</code></li>
+<li>Windsurf 发布 2.0 版本，集成 Devin 解决多 Agent 管理瓶颈 <a href="https://windsurf.com/blog/windsurf-2-0">↗</a> <code>#9</code></li>
+<li>Cursor 在最新版中上线交互式画布 <a href="https://cursor.com/cn/blog/canvas">↗</a> <code>#10</code></li>
+<li>OpenAI 升级 Agents SDK，引入沙箱环境保障安全运行 <a href="https://x.com/OpenAIDevs/status/2044497392557560165">↗</a> <code>#11</code></li>
+<li>Cloudflare 发布 Mesh 服务 支持 AI Agent 安全私有网络访问 <a href="https://blog.cloudflare.com/mesh/">↗</a> <code>#12</code></li>
+<li>OpenRouter 视频生成功能上线 <a href="https://x.com/OpenRouter/status/2044501484050472972">↗</a> <code>#13</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Google 宣布扩大 Personal Intelligence 功能开放范围 <a href="https://x.com/GeminiApp/status/2044439179225190906">↗</a> <code>#14</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Anthropic 调整 Claude Enterprise 计费模式为按量计费 <code>#15</code></li>
+<li>OpenAI 计划为 ChatGPT 广告业务引入按点击计费 <a href="https://x.com/theinformation/status/2044419664810283500">↗</a> <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts">Google 发布 Gemini 3.1 Flash TTS 模型</a> <code>#1</code></h2>
+<blockquote>
+<p>谷歌发布了文本转语音模型 <strong>Gemini 3.1 Flash TTS</strong>。该模型原生支持多说话人对话及超过 <strong>70</strong> 种语言，并创新引入了 <code>Audio Tags</code> 功能，允许用户通过自然语言指令精细调控声音风格与语速。</p>
+<p>该模型在相关基准测试中取得了 <strong>1211</strong> 的 Elo 分。</p>
+<p>开发者与企业现已可通过相关平台接入测试，同时所有生成的音频均自带 <code>SynthID</code> 水印。</p>
+</blockquote>
+<p>Google 发布了名为 <strong>Gemini 3.1 Flash TTS</strong> 的全新文本转语音模型。官方称 <strong>Gemini 3.1 Flash TTS</strong> 是 Google 迄今为止最自然、最具表现力的模型，其原生支持多说话人对话以及超过 <strong>70</strong> 种语言，并创新性地引入了 <code>Audio Tags</code> 功能，允许用户通过自然语言指令对声音风格、语速和表达方式进行精细调控。</p>
+<p>此外，该模型生成的所有音频均带有 <code>SynthID</code> 水印，以确保内容透明度并防止虚假信息的传播。</p>
+<p>该模型现已进入预览阶段，开发者可通过 <strong>Gemini API</strong> 和 <strong>Google AI Studio</strong> 进行接入与测试，企业用户能在 <strong>Vertex AI</strong> 平台上体验，而 Workspace 用户则可以直接在 <strong>Google Vids</strong> 中使用该功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/ea215918-8f7f-4151-bba9-cd486687a0f0/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416075641_bfa8e497dd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts</a></li>
+<li><a href="http://aistudio.google.com/generate-speech">http://aistudio.google.com/generate-speech</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/speech-generation#transcript-tags">https://ai.google.dev/gemini-api/docs/speech-generation#transcript-tags</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/">Google 发布 macOS 版 Gemini 原生桌面应用支持屏幕共享</a> <code>#2</code></h2>
+<blockquote>
+<p>Google 推出了 macOS 版 <strong>Gemini</strong> 原生桌面应用，用户安装后可通过全局快捷键一键唤出 AI 助手，还能直接共享屏幕或本地文件作为上下文。</p>
+</blockquote>
+<p>Google 正式推出了 macOS 版 <strong>Gemini</strong> 原生桌面应用，这款应用向运行 <strong>macOS 15</strong> 及以上版本的用户免费开放，支持所有 <strong>Gemini</strong> 应用支持的语言和国家/地区。</p>
+<p>该应用完全采用原生 <code>Swift</code> 构建，主打无缝融入用户的桌面工作流。用户不仅可以通过全局快捷键（默认为 <code>Option + Space</code>）在任意界面唤出 AI 助手，还能通过屏幕共享功能让 <strong>Gemini</strong> 读取本地文件或实时画面以获取上下文，直接生成针对当前工作内容的回答、图像或视频。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416080713_be88672ad8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/</a></li>
+</ul>
+<hr>
+<h2><a href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude">Anthropic 为 Claude 平台启用身份验证机制</a> <code>#3</code></h2>
+<blockquote>
+<p>Anthropic 官方近期正在其 <strong>Claude</strong> 平台逐步推行身份验证机制。当用户访问特定功能、触发平台完整性检查或进行其他安全合规验证时，需通过第三方平台提供实体护照等证件并拍摄实时自拍。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 被发现近期正在其 <strong>Claude</strong> 平台逐步推行身份验证机制。当用户访问特定功能、触发平台完整性检查或进行其他安全合规验证时，系统将要求通过第三方合作伙伴 <code>Persona Identities</code> 进行身份核实。</p>
+<p>用户需提供原始的实体政府签发证件（如护照或驾照等）并拍摄实时自拍，不接受复印件、数字证件及非政府签发证件。</p>
+<p><strong>Anthropic</strong> 承诺，验证数据仅用于确认身份、防欺诈及法律合规，由 <code>Persona</code> 负责加密收集与持有，绝不用于模型训练或第三方营销，且仅在审查申诉等必要时由 <strong>Anthropic</strong> 访问记录。</p>
+<p>若用户未满 <strong>18</strong> 岁、来自不支持地区或多次违规，其账号仍可能被封禁，误封可交由 <strong>Safeguards</strong> 团队申诉。</p>
+<p>据社区及社交媒体用户反馈，目前开通 <strong>Claude Max</strong> 时已有概率触发此项 KYC 验证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416072659_ca0b8bbbb3.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260415/20260415200618_733c332d4a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://support.claude.com/en/articles/14328960-identity-verification-on-claude">https://support.claude.com/en/articles/14328960-identity-verification-on-claude</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.nvidia.com/labs/sil/projects/lyra2/">NVIDIA 发布 Lyra 2.0，支持单图生成可探索 3D 世界</a> <code>#4</code></h2>
+<blockquote>
+<p>英伟达研究院正式发布了 <strong>Lyra 2.0</strong> 框架，这项技术实现了从单张图像大规模生成可探索的3D世界。该框架通过生成式重建新范式，成功克服了复杂大场景的空间遗忘与时间漂移难题，可自动生成并输出高质量的3D资产。</p>
+</blockquote>
+<p><strong>NVIDIA Research</strong> 近日发布了 <strong>Lyra 2.0</strong> 框架，该框架旨在从单张图像大规模生成持久且可探索的 3D 世界。这项技术通过结合摄像机控制的视频生成与前向重建技术，确立了“生成式重建”的新范式，并成功克服了复杂大场景生成中常见的空间遗忘与时间漂移两大技术瓶颈。</p>
+<p>具体而言，<strong>Lyra 2.0</strong> 利用逐帧 3D 几何进行信息路由以检索过往帧并建立密集对应关系，同时依托自增强历史记录进行训练以纠正合成误差。</p>
+<p>用户可通过其提供的交互式 GUI 实时规划摄像机轨迹。随着用户的移动，系统会迭代生成视频片段并转换为 3D 点云进行持续导航，最终输出可导出至物理引擎（如 <code>NVIDIA Isaac Sim</code>）的 <code>3D Gaussians</code> 或 <code>meshes</code>。</p>
+<p>该框架为具身 AI 仿真、实时渲染及沉浸式应用提供了极具潜力的基础设施。目前其代码与模型均已公开，研究论文亦可在线查阅。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/dfa8f31f-9dde-48a2-8923-5bb41445ba61/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.nvidia.com/labs/sil/projects/lyra2/">https://research.nvidia.com/labs/sil/projects/lyra2/</a></li>
+<li><a href="https://huggingface.co/nvidia/Lyra-2.0">https://huggingface.co/nvidia/Lyra-2.0</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.worldlabs.ai/blog/spark-2.0">World Labs 开源 Spark 2.0 支持网页端亿级 3D 场景渲染</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>World Labs</strong> 开源了其动态3D高斯泼溅渲染器 <code>Spark 2.0</code>，该引擎通过引入连续细节层级树、全新 <code>RAD</code> 数据格式以及GPU虚拟内存管理三大核心技术，成功突破了超大规模3D场景在网页端渲染的算力与传输瓶颈。</p>
+</blockquote>
+<p>AI 世界模型公司 <strong>World Labs</strong> 近日正式开源了其内部使用的动态 3D 高斯泼溅（3DGS）渲染器 <code>Spark 2.0</code>。该引擎旨在解决超大规模 3D 场景在网页端渲染的算力与传输瓶颈。</p>
+<p>根据官方博客介绍，<code>Spark 2.0</code> 基于最流行的网页端 3D 框架 <code>THREE.js</code> 和 <code>WebGL2</code> 构建，通过引入连续细节层级树、全新设计的 <code>.RAD</code> 数据格式以及 GPU 虚拟内存管理这三项核心技术，使其能够在任意搭载浏览器的设备（包括 iOS、Android、桌面端及 VR 设备）上，以固定且有限的显存流式传输并流畅渲染包含超过 <strong>1 亿个</strong>高斯泼溅的超大 3D 场景。</p>
+<p>该技术现已与 <strong>World Labs</strong> 的创作平台 <strong>Marble</strong> 深度绑定，形成从内容生成到网页端交付的完整闭环。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/be3c89a5-4d98-469c-85e3-5e9c02c87b1e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.worldlabs.ai/blog/spark-2.0">https://www.worldlabs.ai/blog/spark-2.0</a></li>
+</ul>
+<hr>
+<h2>Nucleus AI 开源 Nucleus-Image，17B 参数激活 2B <code>#6</code></h2>
+<blockquote>
+<p><strong>Nucleus AI</strong> 发布了开源文本生成图像模型 <strong>Nucleus-Image</strong>。该模型采用 MoE 架构，总参数达 <strong>170亿</strong>，激活参数约 <strong>20亿</strong>。</p>
+<p>据官方数据，其核心评测表现已匹配或超越 <strong>GPT Image 1</strong> 和 <strong>Imagen 4</strong> 等模型。</p>
+</blockquote>
+<p><strong>Nucleus AI</strong> 团队近期发布了完全开源的文本生成图像模型 <strong>Nucleus-Image</strong>。该模型拥有 <strong>17B</strong> 总参数量，激活约 <strong>2B</strong> 参数，官方宣称其参数效率比同类主流模型高出 <strong>10</strong> 倍。</p>
+<p>作为一个未经任何后训练优化（无 DPO、无强化学习、无人类偏好微调）的基础模型，根据官方公布的基准测试数据，其在 <strong>GenEval</strong>、<strong>DPG-Bench</strong> 和 <strong>OneIG-Bench</strong> 等评测中匹配或超越了 <strong>GPT Image 1</strong>、<strong>Imagen 4</strong> 以及 <strong>Qwen-Image</strong> 等模型。</p>
+<p>该模型采用 <strong>Apache 2.0</strong> 协议，公开了完整的模型权重、训练代码及数据集配方。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/23d615d8-0000-4930-940d-728a170ee9fb/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416081338_2337e5d8be.png" alt=""></p>
+<hr>
+<h2><a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md">Claude Code 更新支持自主配置 Prompt Caching 的 TTL</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude Code</strong> 近期更新的版本已支持自主配置 <code>Prompt Caching</code> 的 TTL ，开发者可通过新增环境变量启用 <strong>1小时</strong> 或强制设定 <strong>5分钟</strong> 的缓存机制。</p>
+</blockquote>
+<p>Claude Code 在 <strong>2.1.108</strong> 版本的官方更新日志中宣布，该产品现已支持通过环境变量自定义设置 Prompt Caching 的 TTL。</p>
+<p>该版本引入了 <code>ENABLE_PROMPT_CACHING_1H</code> 环境变量，允许用户在使用 API key、Bedrock、Vertex 以及 Foundry 时启用时长为 <strong>1 小时</strong> 的 Prompt Caching TTL。</p>
+<p>此外，该更新还新增了 <code>FORCE_PROMPT_CACHING_5M</code> 变量，用于强制设定 <strong>5 分钟</strong> 的 TTL。</p>
+<p>此前专用于 Bedrock 的 <code>ENABLE_PROMPT_CACHING_1H_BEDROCK</code> 变量现已弃用，但目前仍被系统兼容支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260415/20260415200749_25194f5ec4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md">https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/">Google 官方宣布为 Gemini API 推出预付费计费功能</a> <code>#8</code></h2>
+<blockquote>
+<p>Google宣布为 <strong>Gemini API</strong> 推出预付费计费功能，开发者可通过预先购买积分来调用 <code>Gemini API</code>，有效避免产生意外高额账单。这项功能目前已在美国地区启用并支持自动充值，未来几周将向全球推广。</p>
+</blockquote>
+<p>Google 官方宣布在 <strong>Google AI Studio</strong> 为 <strong>Gemini API</strong> 推出预付费计费功能。该功能目前面向美国地区新启用该 API 的 <strong>Google Cloud Billing Accounts</strong> 上线，将在未来几周内全球推广。</p>
+<p>开发者可预先购买积分，基于余额调用 <strong>Gemini API</strong>，提供支出可预测性，避免意外账单。系统支持余额不足时自动充值。</p>
+<p>建立付款记录并升级 <strong>Usage Tiers</strong> 后，可无缝切换至标准后付费账户，以解锁更高速率限制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416080228_26bf5f4d64.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/">https://blog.google/innovation-and-ai/technology/developers-tools/prepay-gemini-api/</a></li>
+</ul>
+<hr>
+<h2><a href="https://windsurf.com/blog/windsurf-2-0">Windsurf 发布 2.0 版本，集成 Devin 解决多 Agent 管理瓶颈</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Windsurf</strong> 正式发布 <strong>2.0</strong> 版本，通过引入全新的看板视图 <code>Agent Command Center</code>，帮助开发者集中监控并管理本地与云端 Agent 的状态。</p>
+<p>同时，自主云端 Agent “<strong>Devin</strong>” 被集成到编辑器中，它能在独立的云端虚拟机中持续运行端到端的复杂任务。</p>
+</blockquote>
+<p><strong>Windsurf</strong> 官方发布了 <strong>2.0</strong> 版本，通过引入全新的 <strong>Agent Command Center</strong> 和将自主云端 Agent <code>Devin</code> 直接集成到编辑器中，旨在解决开发者管理大量并行 Agent 时的注意力和记忆瓶颈。</p>
+<p><strong>Agent Command Center</strong> 提供单一的看板视图以监控所有本地和云端 Agent 的状态，而 <strong>Windsurf Spaces</strong> 功能则允许开发者按项目对会话、PR、文件和上下文进行分组，并支持上下文的无缝继承。</p>
+<p><code>Devin</code> 可以在独立的云端虚拟机中运行端到端的复杂任务，即便用户关闭设备也会继续执行，其生成的 PR 可直接在 <strong>Windsurf</strong> 内部进行审查和测试。</p>
+<p>该云端功能被包含在所有 <strong>Windsurf</strong> 订阅计划中，其访问权限将在未来 <strong>48 小时</strong> 内逐步向用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416082250_9f3b9016de.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://windsurf.com/blog/windsurf-2-0">https://windsurf.com/blog/windsurf-2-0</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/cn/blog/canvas">Cursor 在最新版中上线交互式画布</a> <code>#10</code></h2>
+<blockquote>
+<p>Cursor在最新版中上线了交互式画布功能，用可视化界面替代传统的纯文本交互。用户现在可以通过 <code>canvas</code> 指令或自定义技能，让智能体直接生成包含图表的自定义数据看板。</p>
+</blockquote>
+<p><strong>Cursor</strong> 推出了全新的交互式画布功能，旨在通过可视化方式呈现信息，从而替代传统聊天或 Markdown 文件中难以消化的大段文本。</p>
+<p>该功能允许智能体生成比纯文本更丰富的仪表盘和自定义界面，以展示现实世界数据并执行特定逻辑。</p>
+<p>该产品在底层使用基于 <code>React</code> 的 UI 库进行渲染，原生支持表格、框体、示意图和图表等组件，并作为持久化产物与终端、浏览器等工具一同集成在智能体窗口中。</p>
+<p>用户不仅可以借此进行 PR 代码审查和学习新库，还能通过创建“技能”来教会智能体生成特定类型的画布，例如为代码库生成交互式架构图。</p>
+<p>目前，该功能已在 <strong>Cursor 3.1</strong> 版本中上线供用户试用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/c32fcea1-f417-4c40-bc64-0e2d3686f1c8/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/canvas">https://cursor.com/cn/blog/canvas</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2044497392557560165">OpenAI 升级 Agents SDK，引入沙箱环境保障安全运行</a> <code>#11</code></h2>
+<blockquote>
+<p>OpenAI 宣布 <strong>Agents SDK</strong> 迎来重大升级，将其拓展为完整的智能体开发平台。开发者现在可以直接利用其内置的 <code>Sandbox</code> 沙箱隔离环境和开源 <code>Harness</code> 架构，构建能长时间安全运行且支持防崩溃恢复的智能体，无需再从头搭建底层框架。</p>
+</blockquote>
+<p>OpenAI 宣布对其 <strong>Agents SDK</strong> 进行了一次重大升级。根据官方公告，该 SDK 现支持在受控的 <code>Sandbox</code> 中运行 <code>Agent</code>。</p>
+<p>此次更新采用了模型原生的 <code>Harness</code> 架构，将状态保存与计算执行分离，不仅能在容器崩溃时快速恢复任务，还能通过状态外置保护敏感数据免受提示注入等漏洞影响。</p>
+<p>此外，SDK 增加了名为 <code>Manifest</code> 的统一配置层，以便使用同一套配置在本地开发和生产环境中挂载 <code>S3</code>、<code>Google Cloud Storage</code> 和 <code>Azure Blob</code> 等存储。</p>
+<p>新版本还内置了 <code>MCP</code> 工具调用、<code>Skills</code> 渐进式能力暴露、<code>AGENTS.md</code> 自定义指令、<code>Shell</code> 工具、<code>Apply Patch</code> 文件编辑以及可灵活控制存储位置和创建时机的记忆系统。</p>
+<p>目前该 SDK 支持 <code>Python</code>，<code>TypeScript</code> 支持正在开发中，所有 OpenAI API 用户均可直接使用，计费维持基于 Token 和工具调用的标准不变。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/8b562521-7017-4d93-9c4f-8cbdc21d924c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2044497392557560165">https://x.com/OpenAIDevs/status/2044497392557560165</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.cloudflare.com/mesh/">Cloudflare 发布 Mesh 服务 支持 AI Agent 安全私有网络访问</a> <code>#12</code></h2>
+<blockquote>
+<p>Cloudflare 正式上线了全新安全私有网络服务 <strong>Cloudflare Mesh</strong>，通过单一轻量级连接器构建双向多对多的零信任网络，专为解决 AI Agent 的安全联网难题而设计。该服务支持免费使用。</p>
+</blockquote>
+<p><strong>Cloudflare</strong> 发布了名为 <strong>Cloudflare Mesh</strong> 的全新安全私有网络服务，旨在为用户、节点及自主 <strong>AI Agent</strong> 提供统一的网络访问能力。</p>
+<p>该服务通过单一轻量级连接器，将个人设备、远程服务器及用户端点整合为一个双向、多对多的私有网络，并直接集成至 <strong>Cloudflare Developer Platform</strong>，使基于 <strong>Workers</strong>、<strong>Durable Objects</strong> 和 <strong>Agents SDK</strong> 构建的 <strong>Agent</strong> 能够通过 <strong>Workers VPC</strong> 直接访问私有数据库、API 及 <strong>MCP</strong>，无需手动配置隧道。</p>
+<p>该服务现已上线，每个 <strong>Cloudflare</strong> 账户可免费支持最多 <strong>50</strong> 个节点和 <strong>50</strong> 个用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/b1407930-1ead-48f2-ad67-3034f9d561e3/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.cloudflare.com/mesh/">https://blog.cloudflare.com/mesh/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenRouter/status/2044501484050472972">OpenRouter 视频生成功能上线</a> <code>#13</code></h2>
+<blockquote>
+<p>OpenRouter正式上线视频生成功能，开发者现在可以通过单一的标准API调用顶级视频模型，统一处理分辨率、时长等原本碎片化的参数，并与文本、图像等多模态功能无缝结合使用。</p>
+</blockquote>
+<p>OpenRouter 正式宣布其平台的视频生成功能已上线。通过该平台提供的通用 API，开发者可以使用单一的标准化 schema 访问顶级的视频模型，并将其与现有的文本、图像、音频、嵌入和重排器生成功能结合使用。</p>
+<p>该接口统一了原本碎片化的视频接口请求，标准化了分辨率、时长、宽高比及音频生成等参数，并支持在调用前以编程方式查询模型的具体能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260416/20260416081850_09ffc619e7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2044501484050472972">https://x.com/OpenRouter/status/2044501484050472972</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/GeminiApp/status/2044439179225190906">Google 宣布扩大 Personal Intelligence 功能开放范围</a> <code>#14</code></h2>
+<blockquote>
+<p>谷歌宣布在 <strong>Gemini</strong> 及本周晚些时候在 <strong>Chrome</strong> 中，向全球更多用户开放 <strong>Personal Intelligence</strong> 功能。该功能能让用户获取专属的个性化 AI 响应。</p>
+</blockquote>
+<p>Google 宣布即日起向全球更多用户推广其 <strong>Personal Intelligence</strong> 功能，该功能将率先在 <code>GeminiApp</code> 中上线，并计划于本周晚些时候集成至 <code>Google Chrome</code>。  </p>
+<p>通过这项技术，用户能够安全地跨应用（如 <code>Gmail</code> 和 <code>Google Photos</code>）建立连接并梳理信息脉络，从而无需反复提供背景信息，即可直接获得与其高度相关的个性化响应。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/79a536fa-4d0b-422a-aed4-a9e068b80da1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/GeminiApp/status/2044439179225190906">https://x.com/GeminiApp/status/2044439179225190906</a></li>
+</ul>
+<hr>
+<h2>Anthropic 调整 Claude Enterprise 计费模式为按量计费 <code>#15</code></h2>
+<blockquote>
+<p>Anthropic 最近调整了 <strong>Claude Enterprise</strong> 的计费模式，从每人每月最高 <strong>200 美元</strong> 的固定订阅制，改为了按用量计费。新标准为每月每人 <strong>20 美元</strong> 的基础席位费，再加上实际使用的算力消耗额外计费。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 近期将 <strong>Claude Enterprise</strong> 的计费模式从最高 <strong>200</strong> 美元/人/月的固定订阅制，改为按用量计费的新标准：每月 <strong>20</strong> 美元/人的基础席位费，加上实际算力消耗的额外费用。</p>
+<p>官方表示，此次调整是为了更好地反映工作负载向代理式使用转变的实际情况，直接推动因素是 <code>Claude Code</code> 和 <code>Claude Cowork</code> 等产品的算力消耗激增。</p>
+<p>该计费变更目前适用于 <strong>150</strong> 人以上的企业客户，<strong>Team</strong> 订阅及 <strong>150</strong> 人以下企业不受影响。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/64fe777c-0d50-4028-a66e-480f03d01578/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/theinformation/status/2044419664810283500">OpenAI 计划为 ChatGPT 广告业务引入按点击计费</a> <code>#16</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong>计划将其广告业务从当前的按展示计费模式，引入按点击次数计费的 <code>CPC</code> 模式，推出以转化为导向的广告活动，并将广告业务逐步扩展至<strong>加拿大</strong>等国际市场。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 计划在 <strong>ChatGPT</strong> 广告试点中引入按点击计费（CPC）模式，并规划转化导向广告，旨在与 <strong>Meta</strong> 和 <strong>Google</strong> 竞争。</p>
+<p>该业务始于 <strong>2026</strong> 年初，面向美国免费版及 <strong>Go</strong> 订阅用户，广告展示于回答底部。</p>
+<p>官方称，试点启动不到两个月已实现超 <strong>1</strong> 亿美元年化经常性收入。</p>
+<p>初始采用每千次展示约 <strong>60</strong> 美元定价，现正寻求调整。</p>
+<p>据媒体报道，该公司计划向加拿大、澳大利亚和新西兰扩张，<strong>2026</strong> 年广告收入目标为 <strong>24</strong> 亿美元。</p>
+<p>官方强调用户对话内容不与广告商共享。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/0b2c18c0-093d-473b-9cb7-a2ab6e9cf546/f9f22559-6f57-45f7-bbe6-0c6e621d3edb/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/theinformation/status/2044419664810283500">https://x.com/theinformation/status/2044419664810283500</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/61</guid><pubDate>Thu, 16 Apr 2026 01:21:36 +0000</pubDate></item><item><title>2026-04-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-60/</link><description>AI 早报 2026-04-15 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 OpenAI 扩大网络安全信任访问计划，发布 GPT-5.4-Cyber 模型 ↗ #1 Google DeepMind 发布 Gemini Robotics-ER 1.6 机器人模型 ↗ #2 百度开源 ERNIE-Image 模型，8B 参数支持中文长文本渲染 ↗ #3 微软发布 MAI-Image-2-Efficient 模型 ↗ #4 Midjourney 发布 V8.1，生成速度提升 3 倍成本降低 3 倍 ↗ #5 NVIDIA 联合发布 Audio Flamingo Next，支持 128K 音频上下文 ↗ #6 NVIDIA 发布 Ising 开放模型 开源助力量子计算纠错 ↗ #7 Seedance 2.…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260415/20260415085753038027a416_cover_10ba.png" alt=""></p>
 <h1>AI 早报 2026-04-15</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1JUQ5BqEMP">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=BOUlHcu2zrE">YouTube</a></p>
 <h2>概览</h2>
