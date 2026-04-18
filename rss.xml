@@ -1,5 +1,176 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 17 Apr 2026 01:45:29 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-17</title><link>https://imjuya.github.io/juya-ai-daily/issue-62/</link><description>AI 早报 2026-04-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Opus 4.7 模型 ↗ #1 OpenAI 发布 Codex 桌面端重大升级 ↗ #2 Qwen 开源 Qwen3.6-35B-A3B 模型 ↗ #3 模型发布 OpenAI 发布 GPT-Rosalind 生命科学专用推理模型 ↗ #4 阿里推出开放式世界模型 Happy Oyster 启动早期体验 ↗ #5 腾讯发布并开源混元世界模型 HY-World 2.0 ↗ #6 阶跃星辰正式发布 StepAudio 2.5 TTS 语音生成模型 ↗ #7 Google DeepMind 发布 TIPSv2 模型，入选 CVPR 2026 且开源 ↗ #8 开发生态 Claude Code…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260417/20260417091142349873d853_cover_7985.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 18 Apr 2026 00:43:52 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-63/</link><description>AI 早报 2026-04-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 推出 Claude Design 工具 ↗ #1 模型发布 xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 ↗ #2 QuiverAI 发布 Arrow 1.1 SVG 生成模型 ↗ #3 开发生态 Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 ↗ #4 产品应用 Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 ↗ #5 Opera 推出 Browser Connector 功能，支持外部AI读取标签页 ↗ #6 前瞻与传闻 Google AI Studio 将接入 Google AI 订阅体…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260418/202604180818253770354062_cover_ddb6.png" alt=""></p>
+<h1>AI 早报 2026-04-18</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1RZdEBDEHy">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=bS3jSbrne88">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Anthropic 推出 Claude Design 工具 <a href="https://www.anthropic.com/news/claude-design-anthropic-labs">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 <a href="https://x.com/testingcatalog/status/2045071630154535363">↗</a> <code>#2</code></li>
+<li>QuiverAI 发布 Arrow 1.1 SVG 生成模型 <a href="https://quiver.ai/blog/introducing-arrow-1-1">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 <a href="https://developers.cloudflare.com/email-service/">↗</a> <code>#4</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 <a href="https://x.com/GoogleLabs/status/2045250788864495874">↗</a> <code>#5</code></li>
+<li>Opera 推出 Browser Connector 功能，支持外部AI读取标签页 <a href="https://press.opera.com/2026/04/16/opera-announces-browser-connector/">↗</a> <code>#6</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Google AI Studio 将接入 Google AI 订阅体系 <a href="https://linux.do/t/topic/1989089">↗</a> <code>#7</code></li>
+<li>消息称 DeepSeek 筹划融资，目标估值超 100 亿美元 <a href="https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation">↗</a> <code>#8</code></li>
+<li>OpenAI 传向 Cerebras 采购超 200 亿美元算力 <a href="https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/">↗</a> <code>#9</code></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">Anthropic 推出 Claude Design 工具</a> <code>#1</code></h2>
+<blockquote>
+<p>Anthropic推出了由 <strong>Opus 4.7</strong> 模型驱动的实验性视觉创作产品 <strong>Claude Design</strong>。</p>
+<p><strong>Claude</strong> 订阅用户现在只需通过对话，就能快速生成并微调符合企业品牌风格的交互原型和幻灯片。</p>
+<p>该工具不仅与 <code>Canva</code> 实现了无缝对接，还能将最终设计一键打包交接给 <code>Claude Code</code> 进行后续代码开发。</p>
+</blockquote>
+<p>Anthropic 旗下 <strong>Anthropic Labs</strong> 近日推出了名为 <strong>Claude Design</strong> 的实验性新产品，旨在让用户通过与 <strong>Claude</strong> 对话来创建交互原型、幻灯片、单页文档等精美的视觉设计作品。</p>
+<p>该产品由 <strong>Anthropic</strong> 目前最强大的视觉设计模型 <code>Claude Opus 4.7</code> 驱动，以研究预览版的形式向 <strong>Claude Pro</strong>、<strong>Max</strong>、<strong>Team</strong> 和 <strong>Enterprise</strong> 订阅用户逐步开放。</p>
+<p>根据官方博客显示，用户只需描述需求，<strong>Claude</strong> 便会构建初版视觉内容，随后可通过对话、行内评论、直接编辑或自定义滑块进行微调。</p>
+<p>在初始引导阶段，该产品能够读取团队的代码库和设计文件，自动构建专属的设计系统，从而确保后续生成的内容与企业的整体视觉风格保持一致。</p>
+<p>此外，<strong>Claude Design</strong> 还内置了网页捕获、文档导入（DOCX、PPTX、XLSX）等丰富的输入方式，并支持将最终成果导出为 <strong>Canva</strong> 项目、PDF、PPTX、独立 HTML 文件，或直接打包成交接包无缝传递给 <code>Claude Code</code> 进行下一步开发。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/826131ea-f1ed-451d-a8d7-12d8165edf72/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-design-anthropic-labs">https://www.anthropic.com/news/claude-design-anthropic-labs</a></li>
+<li><a href="http://claude.ai/design">http://claude.ai/design</a></li>
+<li><a href="https://www.canva.com/newsroom/news/canva-claude-design/">https://www.canva.com/newsroom/news/canva-claude-design/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/testingcatalog/status/2045071630154535363">xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作</a> <code>#2</code></h2>
+<blockquote>
+<p>xAI 现向部分用户开启新模型 <strong>Grok 4.3</strong> 测试版的早期访问。据用户观察，该版本放弃了前代的 16 Agent 架构，转型为原生配备 <code>shell</code> 与持久化文件层的 Agent，能一键生成结构化的幻灯片、PDF 以及高完成度的 Web 前端页面。</p>
+</blockquote>
+<p><strong>xAI</strong> 旗下新一代模型 <code>Grok 4.3 (beta)</code> 现已面向部分用户开启 Early Access 测试，并在官方应用及网页端的模型选择菜单中上线。</p>
+<p>据用户观察，与此前采用 16 Agent 架构的主力版本 <code>Grok 4.20</code> 不同，该版本转型为云 Computer 模式，原生配备了 shell 与持久化文件层。</p>
+<p>测试表明，其支持直接从视频中提取音频文件，或深入分析视频片段提取核心论点，进而自动匹配视觉基调并生成结构化的 PowerPoint 幻灯片。</p>
+<p>此外，该模型还能创建 PDF、Sheets、Docs 等多种格式的文件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/51a28d1d-c7c0-41d9-83e1-6eda73d8b63d/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/51a28d1d-c7c0-41d9-83e1-6eda73d8b63d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/testingcatalog/status/2045071630154535363">https://x.com/testingcatalog/status/2045071630154535363</a></li>
+</ul>
+<hr>
+<h2><a href="https://quiver.ai/blog/introducing-arrow-1-1">QuiverAI 发布 Arrow 1.1 SVG 生成模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>QuiverAI</strong> 发布了最新 SVG 生成模型 <code>Arrow 1.1</code> 及其高精度版 <code>Arrow 1.1 Max</code>。该系列模型能通过代码直接生成高精确性和高一致性的矢量图形。</p>
+<p>相关模型价格较前代有大幅降低，目前已在官方平台开放公测。</p>
+</blockquote>
+<p><strong>QuiverAI</strong> 最近正式发布了其最新的 SVG 生成模型 <code>Arrow 1.1</code> 及其高精度版本 <code>Arrow 1.1 Max</code>。</p>
+<p>该系列模型的核心理念是通过代码有意识地生成矢量图形，而非对像素进行简单的近似处理。</p>
+<p>与上一代相比，<code>Arrow 1.1</code> 在生成效率、输出质量、结构细节把控以及指令遵循方面均实现了显著提升。其通过增加基础几何图形的使用比例，减少了对复杂路径的依赖，从而输出了更易于编辑和扩展的结构化 SVG。</p>
+<p>根据官方博客公布的数据，其生成和矢量化单价分别降至 <strong>$0.20</strong> 美元和 <strong>$0.15</strong> 美元。</p>
+<p>此外，针对需要极高精度的技术图表等场景同步推出的 <code>Arrow 1.1 Max</code>，在色彩还原与形状对齐上表现出更高的稳定性，但其运行时间与成本也相应增加。</p>
+<p>目前，上述模型已在 <strong>QuiverAI</strong> 的官方平台开放公开测试。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/d9078907-2efc-4b66-9ee2-956c39c8bc23/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/d9078907-2efc-4b66-9ee2-956c39c8bc23/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://quiver.ai/blog/introducing-arrow-1-1">https://quiver.ai/blog/introducing-arrow-1-1</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.cloudflare.com/email-service/">Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成</a> <code>#4</code></h2>
+<blockquote>
+<p>Cloudflare 宣布专为 AI Agent 打造的双向邮件通信基础设施 <strong>Email Service</strong> 正式开启公测。同时，官方还开源了具备人机协作功能的参考应用 <strong>Agentic Inbox</strong>，并全面兼容 <code>Claude Code</code> 等外部 Agent 快速接入。</p>
+</blockquote>
+<p><strong>Cloudflare</strong> 宣布其 <strong>Email Service</strong> 正式进入公开测试阶段。该服务将 <strong>AI Agent</strong> 作为核心目标，提供完整的双向邮件通信基础设施。</p>
+<p>通过结合免费的 <strong>Email Routing</strong> 与现已公测的 <strong>Email Sending</strong>，开发者可以在 <strong>Cloudflare</strong> 平台内实现接收、处理并异步回复邮件的完整闭环。官方表示，系统会自动配置 <strong>SPF</strong>、<strong>DKIM</strong> 和 <strong>DMARC</strong> 记录以确保高送达率。</p>
+<p>在 <strong>Agent</strong> 架构方面，其深度集成了 <strong>Agents SDK</strong> 的 <code>onEmail</code> hook，利用 <strong>Durable Objects</strong> 实现跨邮件的状态持久化，并支持基于地址的智能路由以及 <strong>HMAC-SHA256</strong> 安全回复路由。</p>
+<p>为了进一步降低开发门槛，<strong>Cloudflare</strong> 还开源了具备完整邮件客户端和人机协作功能的 "<strong>Agentic Inbox</strong>" 参考应用。</p>
+<p>根据官方文档显示，该功能目前包含在 <strong>Workers Paid plan</strong> 中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/6578fc83-db80-4bc4-a914-9aee2dfae9d0/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/6578fc83-db80-4bc4-a914-9aee2dfae9d0/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.cloudflare.com/email-service/">https://developers.cloudflare.com/email-service/</a></li>
+<li><a href="https://blog.cloudflare.com/email-for-agents/">https://blog.cloudflare.com/email-for-agents/</a></li>
+<li><a href="https://github.com/cloudflare/agentic-inbox">https://github.com/cloudflare/agentic-inbox</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/GoogleLabs/status/2045250788864495874">Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具</a> <code>#5</code></h2>
+<blockquote>
+<p>谷歌上线了基于最新 <strong>Lyria 3 Pro</strong> 模型的 AI 音乐生成工具 <strong>Flow Music</strong>。用户只需输入自然语言提示词，就能一站式完成原创音轨的生成、混音与分享。</p>
+</blockquote>
+<p>Google 宣布推出名为 <strong>Flow Music</strong> 的 AI 音乐生成工具。该产品由 Google 最新的 <code>Lyria 3 Pro</code> 模型提供支持，其前身是 Google 早前收购的 <strong>ProducerAI</strong>。</p>
+<p>目前，<strong>Flow Music</strong> 已作为一个独立网站正式上线，主要帮助用户进行原创音乐的创作、分享与混音。通过使用自然语言提示词，用户可以将想象力直接转化为完全制作好的音轨。</p>
+<p>根据 <strong>Google Labs</strong> 的官方声明，<strong>Flow</strong> 家族的产品矩阵正在不断扩展，官方明确了该生态的分工：<strong>Flow</strong> 主要负责图像与视频的处理，而 <strong>Flow Music</strong> 则专注于歌曲与播放列表的生成。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/f79eefb7-b24f-4260-9ee7-e121919685a0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/GoogleLabs/status/2045250788864495874">https://x.com/GoogleLabs/status/2045250788864495874</a></li>
+</ul>
+<hr>
+<h2><a href="https://press.opera.com/2026/04/16/opera-announces-browser-connector/">Opera 推出 Browser Connector 功能，支持外部AI读取标签页</a> <code>#6</code></h2>
+<blockquote>
+<p>Opera 为其 <strong>Opera One</strong> 和 <strong>Opera GX</strong> 浏览器推出一项名为 <strong>Browser Connector</strong> 的功能。该功能基于 <code>MCP</code>，允许用户将 <strong>ChatGPT</strong> 等外部 AI 直接接入浏览器实时会话，使 AI 能够读取标签页内容及截图分析。</p>
+</blockquote>
+<p>Opera近日为其 <strong>Opera One</strong> 和 <strong>Opera GX</strong> 浏览器推出了一项名为“Browser Connector”的全新免费功能。该功能基于 <code>MCP</code> 标准，允许用户将 <strong>ChatGPT</strong> 和 <strong>Claude</strong> 等外部AI工具直接接入其浏览器的实时会话中，赋予这些AI获取完整上下文的能力。</p>
+<p>通过这项技术，AI能够实时读取打开的标签页及页面内容，甚至通过截图来分析图像与图表，从而彻底免去了过去使用外部AI服务时需要人工频繁复制粘贴、充当“中间人”传递信息的繁琐步骤。</p>
+<p>目前，该功能已在浏览器的 <strong>Early Bird</strong> 测试环境中上线。用户需在设置中开启 <strong>Early Bird</strong> 模式并重启浏览器，随后在“AI Services”选项中安装该扩展，登录 <strong>Opera</strong> 账号并按照指引完成与 <strong>ChatGPT</strong> 或 <strong>Claude</strong> 的授权连接即可体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/15ec4883-d697-4b02-9e15-e3de5101f8a8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://press.opera.com/2026/04/16/opera-announces-browser-connector/">https://press.opera.com/2026/04/16/opera-announces-browser-connector/</a></li>
+<li><a href="https://investor.opera.com/news-releases/news-release-details/operas-new-browser-connector-lets-chatgpt-and-claude-see-your">https://investor.opera.com/news-releases/news-release-details/operas-new-browser-connector-lets-chatgpt-and-claude-see-your</a></li>
+<li><a href="https://blogs.opera.com/news/2026/04/opera-new-browser-connector-brings-claude-and-chatgpt-into-the-browser/">https://blogs.opera.com/news/2026/04/opera-new-browser-connector-brings-claude-and-chatgpt-into-the-browser/</a></li>
+</ul>
+<hr>
+<h2><a href="https://linux.do/t/topic/1989089">Google AI Studio 将接入 Google AI 订阅体系</a> <code>#7</code></h2>
+<blockquote>
+<p>据用户发现，<strong>Google AI Studio</strong> 正在接入 <strong>Google AI</strong> 订阅会员体系，在 <strong>Google AI Studio</strong> 界面和 <strong>Google One</strong> 套餐订阅界面出现过相关标识。其中 <strong>Google AI Pro</strong> 用户将在 <strong>Google AI Studio</strong> 中获得更高的用量限额，而 <strong>Google AI Ultra</strong> 用户将获得最高的用量限额。</p>
+</blockquote>
+<p>据用户发现，<strong>Google AI Studio</strong> 目前正在接入 <strong>Google AI</strong> 付费订阅体系，在 <strong>Google AI Studio</strong> 界面和 <strong>Google One</strong> 套餐订阅界面出现过相关标识。</p>
+<p>按相关说明，该平台将在原有通过 <code>Gemini API</code> 进行“按量计费”使用的基础上，接入“<strong>Google AI 订阅</strong>”作为使用额度来源。</p>
+<p><strong>Google AI 订阅</strong>提供对最新 <code>Gemini</code> 模型和 AI 功能的分层访问权限，其中 <strong>Google AI Pro</strong> 用户在该平台中将获得更高的用量限额，而 <strong>Google AI Ultra</strong> 用户将获得最高的用量限额。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260417/20260417191138_defff8ed6d.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260417/20260417191109_fb691e7bda.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260417/20260417191051_edd4322091.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linux.do/t/topic/1989089">https://linux.do/t/topic/1989089</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation">消息称 DeepSeek 筹划融资，目标估值超 100 亿美元</a> <code>#8</code></h2>
+<blockquote>
+<p>据报道，<strong>DeepSeek</strong>正筹划首次对外融资，计划筹集至少<strong>3亿美元</strong>资金，目标估值超过<strong>100亿美元</strong>。</p>
+<p>报道称，这笔资金将重点用于扩大算力建设，推进下一代旗舰模型<strong>DeepSeek-V3</strong>发布，同时缓解研发成本攀升与核心研发人员流失带来的双重压力。</p>
+</blockquote>
+<p>据 The Information 报道，<strong>DeepSeek</strong> 正筹划其成立以来首次对外融资，计划筹集至少 <strong>3 亿美元</strong>资金，目标估值超过 <strong>100 亿美元</strong>。</p>
+<p>该轮融资标志着该公司从此前依赖母公司<strong>幻方量化</strong>的“自我供血”模式正式转向引入外部资本。</p>
+<p>据多位知情人士透露，<strong>DeepSeek</strong> 已开始与投资人接触，所筹资金将主要用于补充资金储备、扩大算力建设，并推进因底层硬件适配等原因多次推迟发布的下一代旗舰模型 <code>DeepSeek V4</code> 的研发。</p>
+<p>报道称，此次寻求外部融资的背后，反映出该团队正面临研发成本攀升与核心人员流失的双重压力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/ddb69a66-aac4-4e8a-895c-95abc95421a4/d7d0f95b-90a5-48d2-ab30-a57b41b9f190/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation">https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/">OpenAI 传向 Cerebras 采购超 200 亿美元算力</a> <code>#9</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 与 <strong>Cerebras</strong> 达成重磅协议，未来三年将支出超 <strong>200亿美元</strong> 采购其芯片算力，并注资约 <strong>10亿美元</strong> 建设数据中心，同时有望获得 <strong>Cerebras</strong> 最高 <strong>10%</strong> 的股权。</p>
+</blockquote>
+<p>据路透社援引 The Information 报道，<strong>OpenAI</strong> 同意未来三年向 <strong>Cerebras</strong> 支付超 <strong>200 亿美元</strong>，使用其芯片驱动服务器。该协议可能使 <strong>OpenAI</strong> 获得 <strong>Cerebras</strong> 少数股权认股权证，若总支出达 <strong>300 亿美元</strong>，持股比例或升至约 <strong>10%</strong>。</p>
+<p><strong>OpenAI</strong> 还将提供约 <strong>10 亿美元</strong> 资助数据中心建设。此前双方已有超 <strong>100 亿美元</strong> 算力协议，新承诺规模约为此前两倍。</p>
+<p>路透社称无法独立核实上述报道，<strong>OpenAI</strong> 与 <strong>Cerebras</strong> 均未置评。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260418/20260418074101_1c890b30fd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/">https://www.reuters.com/technology/openai-spend-more-than-20-billion-cerebras-chips-receive-equity-stake-2026-04-17/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/63</guid><pubDate>Sat, 18 Apr 2026 00:43:30 +0000</pubDate></item><item><title>2026-04-17</title><link>https://imjuya.github.io/juya-ai-daily/issue-62/</link><description>AI 早报 2026-04-17 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Opus 4.7 模型 ↗ #1 OpenAI 发布 Codex 桌面端重大升级 ↗ #2 Qwen 开源 Qwen3.6-35B-A3B 模型 ↗ #3 模型发布 OpenAI 发布 GPT-Rosalind 生命科学专用推理模型 ↗ #4 阿里推出开放式世界模型 Happy Oyster 启动早期体验 ↗ #5 腾讯发布并开源混元世界模型 HY-World 2.0 ↗ #6 阶跃星辰正式发布 StepAudio 2.5 TTS 语音生成模型 ↗ #7 Google DeepMind 发布 TIPSv2 模型，入选 CVPR 2026 且开源 ↗ #8 开发生态 Claude Code…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260417/20260417091142349873d853_cover_7985.png" alt=""></p>
 <h1>AI 早报 2026-04-17</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1obdBBGEqp">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=9TtEAvawNLc">YouTube</a></p>
 <h2>概览</h2>
