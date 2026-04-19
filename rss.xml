@@ -1,5 +1,139 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 18 Apr 2026 00:53:50 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-63/</link><description>AI 早报 2026-04-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 推出 Claude Design 工具 ↗ #1 模型发布 xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 ↗ #2 QuiverAI 发布 Arrow 1.1 SVG 生成模型 ↗ #3 开发生态 Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 ↗ #4 产品应用 Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 ↗ #5 Opera 推出 Browser Connector 功能，支持外部AI读取标签页 ↗ #6 前瞻与传闻 Google AI Studio 将接入 Google AI 订阅体…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260418/202604180818253770354062_cover_ddb6.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 19 Apr 2026 00:39:17 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-64/</link><description>AI 早报 2026-04-19 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 ↗ #1 Cloudflare 推出 Agent Memory 托管服务 ↗ #2 xAI 推出 Grok 语音转写与合成两款音频 API ↗ #3 技术与洞察 月之暗面联合清华提出 Prefill-as-a-Service 架构 ↗ #4 行业动态 OpenAI 人事动荡，三名核心高管同日宣布离职 ↗ #5 前瞻与传闻 xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 ↗ #6 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 #1 Cloudflare官方宣布推出检测工具 isi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260419/202604190826089268597315_cover_5234.png" alt=""></p>
+<h1>AI 早报 2026-04-19</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1b9d9B3E8L">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=_QX8wgbYHQk">YouTube</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 <a href="https://isitagentready.com">↗</a> <code>#1</code></li>
+<li>Cloudflare 推出 Agent Memory 托管服务 <a href="https://blog.cloudflare.com/introducing-agent-memory/">↗</a> <code>#2</code></li>
+<li>xAI 推出 Grok 语音转写与合成两款音频 API <a href="https://x.ai/news/grok-stt-and-tts-apis">↗</a> <code>#3</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>月之暗面联合清华提出 Prefill-as-a-Service 架构 <a href="https://arxiv.org/html/2604.15039v1">↗</a> <code>#4</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 人事动荡，三名核心高管同日宣布离职 <a href="https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4">↗</a> <code>#5</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 <a href="https://x.com/elonmusk/status/2045590599206875216">↗</a> <code>#6</code></li>
+</ul>
+<hr>
+<h2><a href="https://isitagentready.com">Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Cloudflare</strong>官方宣布推出检测工具 <code>isitagentready.com</code>，帮助站长评估网站对 <strong>AI Agent</strong> 的适配程度。</p>
+<p>该工具不仅提供多维度评分，还会直接生成提示词供编码 <strong>Agent</strong> 进行自动优化。</p>
+</blockquote>
+<p><strong>Cloudflare</strong> 宣布推出检测工具 <code>isitagentready.com</code> 及 <strong>Cloudflare Radar</strong> 相关数据集，旨在帮助站长评估其网站对 AI Agent 的就绪程度。</p>
+<p>根据官方对全网 <strong>20 万</strong> 顶级域名的扫描数据，当前互联网的 Agent 就绪度普遍极低。传统 SEO 基础设施普及率较高，但面向 Agent 的语义层、授权层及支付层等新兴标准几乎处于空白状态。</p>
+<p>该工具基于可发现性、内容可访问性、Bot 访问控制和协议发现四个维度对网站进行评分，并单独检查 <strong>Agentic Commerce</strong> 支付协议兼容性。</p>
+<p>对于未通过检查的项，该平台会直接生成提示词，供开发者交给编码 Agent 进行自动修复。</p>
+<p>同时，<strong>Cloudflare</strong> 以身作则，通过构建分形结构的 <code>llms.txt</code>、实现 Markdown 内容协商回退、引入 AI 训练爬虫重定向以及隐藏 Agent 指令等方式重构了其开发者文档。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5234f32c-1037-40c6-afae-93530e0c8c3f/75d252dc-b7db-4a1a-ae2a-01c3a84ae6f1/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5234f32c-1037-40c6-afae-93530e0c8c3f/75d252dc-b7db-4a1a-ae2a-01c3a84ae6f1/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://isitagentready.com">https://isitagentready.com</a></li>
+<li><a href="https://blog.cloudflare.com/agent-readiness/">https://blog.cloudflare.com/agent-readiness/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.cloudflare.com/introducing-agent-memory/">Cloudflare 推出 Agent Memory 托管服务</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Cloudflare</strong> 推出了名为 <strong>Agent Memory</strong> 的托管服务私有测试版。</p>
+<p>这项服务能够提取并按需提供关键信息，赋予智能体持久化记忆能力。</p>
+<p>它不仅能记住重要内容，还能自动遗忘无用信息。</p>
+</blockquote>
+<p>根据 <strong>Cloudflare</strong> 官方博客公布的信息，该公司正式推出了名为"<strong>Agent Memory</strong>"的托管服务私有测试版。</p>
+<p>该服务旨在解决 <code>AI Agent</code> 在长期运行中面临的“上下文污染”问题。通过从对话中提取关键信息并在需要时提供，从而避免无用地填满上下文窗口。</p>
+<p>"<strong>Agent Memory</strong>"赋予了 <code>Agent</code> 持久化记忆能力，使其能够记住重要信息、遗忘无用内容，并随时间推移不断优化。</p>
+<p>这项技术主要通过固定的 API 和基于检索的架构运作，支持单个 <code>Agent</code> 记忆、自定义 <code>Agent</code> 框架以及跨人员与工具的共享记忆。</p>
+<p>目前该服务已接入 <strong>Cloudflare Workers</strong> 并提供 REST API，用户可通过官方渠道申请加入候补名单以获取早期访问权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5234f32c-1037-40c6-afae-93530e0c8c3f/fb4f227c-1147-41fa-88d4-99baf245f3a9/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.cloudflare.com/introducing-agent-memory/">https://blog.cloudflare.com/introducing-agent-memory/</a></li>
+<li><a href="https://developers.cloudflare.com/agents/concepts/memory/">https://developers.cloudflare.com/agents/concepts/memory/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-stt-and-tts-apis">xAI 推出 Grok 语音转写与合成两款音频 API</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>xAI</strong>宣布推出<code>Grok</code>语音转文本和文本转语音两款独立音频API，帮助开发者轻松集成高质量的语音功能。</p>
+<p>官方数据显示，这两项服务不仅具备高精度、低延迟和细粒度情感控制等特性，其词错率和收费标准也均低于多家同业竞品。</p>
+</blockquote>
+<p><strong>xAI</strong> 近日正式宣布推出音频 API：<code>Grok Speech to Text (STT)</code> 和 <code>Grok Text to Speech (TTS)</code>。</p>
+<p>上述两款 API 基于驱动 <code>Grok Voice</code>、<code>Tesla</code> 车载系统以及 <code>Starlink</code> 客户支持的同一底层技术栈构建，旨在帮助开发者将高质量的语音功能轻松集成到包括语音 Agent、实时转录工具、无障碍辅助方案、播客及交互式音频体验在内的各类应用中。</p>
+<p>其中，<code>Grok STT</code> API 现已正式上线可用，具备高精度与低延迟特性，支持 <strong>25 种以上</strong>语言的无缝切换，并提供字级时间戳、说话人分离及多通道支持等高级功能。</p>
+<p>根据官方博客公布的数据，其企业级转录能力在多种场景的词错率表现中优于官方列出的 <strong>ElevenLabs</strong>、<strong>Deepgram</strong> 和 <strong>AssemblyAI</strong> 的相关测试数据。且官方声称该产品在批量与流式转录的每小时定价上均低于上述同业竞品。</p>
+<p>与此同时，<code>Grok TTS</code> API 支持通过简单的内联或包裹式语音标签实现对韵律和情感的细粒度控制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260418/20260418193741_17a9c8c302.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419072923_9e7dc2d699.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419073125_e43a9db96e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-stt-and-tts-apis">https://x.ai/news/grok-stt-and-tts-apis</a></li>
+</ul>
+<hr>
+<h2><a href="https://arxiv.org/html/2604.15039v1">月之暗面联合清华提出 Prefill-as-a-Service 架构</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>月之暗面</strong>与<strong>清华大学</strong>提出 <code>Prefill-as-a-Service</code> 架构。该架构利用 <strong>Kimi Linear</strong> 等混合注意力模型能大幅减小 <code>KVCache</code> 的特性，结合选择性路由与带宽和缓存感知调度，打破了异构 <code>Prefill</code>/<code>Decode</code> 必须同处 <code>RDMA</code> 网络的限制。</p>
+<p>它将超过阈值的长 <code>Prefill</code> 请求路由至独立的算力密集型集群，再经普通以太网将 <code>KVCache</code> 传回本地集群进行 <code>Decode</code>。该方案相较同构 <code>PD</code> baseline 吞吐更高、<code>TTFT</code> 更低。</p>
+</blockquote>
+<p><strong>月之暗面</strong>与<strong>清华大学</strong>的发布预印本提出了 <code>Prefill-as-a-Service</code>（<code>PrfaaS</code>），其核心是基于 <code>cross-datacenter KVCache</code> 的异构 <code>Prefill/Decode</code> 解耦 serving 架构。</p>
+<p>论文的出发点是，传统 <code>dense-attention</code> 模型在 <code>Prefill</code> 阶段会生成体量很大的 <code>KVCache</code>，跨节点传输成本高，因而现实中的 <code>PD disaggregation</code> 往往仍受限于单个数据中心内的高带宽、低时延 <code>RDMA</code> 网络域。</p>
+<p>随着以 <strong>Kimi Linear</strong> 为代表的混合注意力架构逐步普及，模型在长上下文场景下的 <code>KVCache</code> 规模与 <code>KV throughput</code> 明显下降，跨集群、跨数据中心传输 <code>KVCache</code> 开始进入可行区间。</p>
+<p>基于这一前提，<code>PrfaaS</code> 将 模型侧的 <code>KVCache</code> 缩减 与 系统侧的调度和缓存管理 结合起来：对增量未缓存长度超过阈值的长请求，系统会选择性地将 <code>Prefill</code> 路由到独立的、算力密集型 <code>Prefill</code> 集群；对较短请求，则继续保留在本地 <code>PD</code> 路径上执行。</p>
+<p>远端 <code>Prefill</code> 完成后，生成的 <code>KVCache</code> 通过 commodity Ethernet 传回本地 <code>PD</code> 集群，由后者继续承担 <code>Decode</code>。</p>
+<p>为使这一流程在真实负载下稳定运行，论文进一步引入了 长度阈值路由、带宽感知调度、缓存感知请求放置、全局 <code>KVCache manager</code>、<code>hybrid prefix cache pool</code>，并配合 <code>layer-wise prefill pipelining</code>、<code>multi-connection TCP</code> 与拥塞监控 来平滑跨集群传输流量。</p>
+<p>这样一来，异构的 <code>Prefill</code> 与 <code>Decode</code> 资源可以部署在松耦合的不同集群、不同机房甚至不同区域中，部署条件不再要求它们处于同一个 <code>RDMA</code> 高带宽网络域内，同时也便于分别扩展 compute-oriented 的 <code>Prefill</code> 能力与 bandwidth-oriented 的 <code>Decode</code> 能力。</p>
+<p>论文中的 case study 使用了一个遵循 <strong>Kimi Linear</strong> 架构的内部 <strong>1T</strong> hybrid model，在约 <strong>100 Gbps</strong> 的跨集群链路、<strong>32 张 H200</strong> 组成的 <code>PrfaaS</code> 集群和 <strong>64 张 H20</strong> 组成的本地 <code>PD</code> 集群配置下，得到的最优策略会将约一半的长请求路由到 <code>PrfaaS</code>，平均跨集群带宽占用约 <strong>13 Gbps</strong>。</p>
+<p>相较 homogeneous <code>PD</code> baseline，系统吞吐提升 <strong>54%</strong>，相较 naive heterogeneous baseline 提升 <strong>32%</strong>，同时 平均 <code>TTFT</code> 降低 <strong>50%</strong>，<code>P90 TTFT</code> 降低 <strong>64%</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5234f32c-1037-40c6-afae-93530e0c8c3f/dba1815a-fdc1-46ab-bc30-2ba0a1556834/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://arxiv.org/html/2604.15039v1">https://arxiv.org/html/2604.15039v1</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4">OpenAI 人事动荡，三名核心高管同日宣布离职</a> <code>#5</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 于当地时间周五发生重大人事震荡。</p>
+<p>前首席产品官 <strong>Kevin Weil</strong>、<strong>Sora</strong> 负责人 <strong>Bill Peebles</strong> 以及 B2B Applications 首席技术官 <strong>Srinivas Narayanan</strong> 三名核心高管同日宣布离职。</p>
+</blockquote>
+<p>据媒体报道，<strong>OpenAI</strong> 日前发生重大人事震荡，三名核心高管于当地时间周五同日宣布离职。</p>
+<p>此次离职的高管包括前首席产品官兼 <strong>OpenAI for Science</strong> 负责人 <strong>Kevin Weil</strong>、<code>Sora</code> 负责人 <strong>Bill Peebles</strong>，以及 <strong>B2B Applications</strong> 首席技术官 <strong>Srinivas Narayanan</strong>。</p>
+<p>这一系列人事变动发生在该公司整合内部资源、削减边缘项目并将战略重心转向企业级 <code>AI</code> 业务及拟议“超级应用”的大背景下。</p>
+<p>根据官方发言人的声明，<strong>OpenAI</strong> 正在统一其业务和产品战略，其中 <strong>Weil</strong> 负责的科学项目将被分散并整合至其他研究团队，其旗下的科学家人工智能工作区 <code>Prism</code> 将并入 <code>AI</code> 开发者助手 <code>Codex</code>。</p>
+<p>此外，<strong>Peebles</strong> 离职前负责的 <code>Sora</code> 已于上个月因成本和算力限制被彻底关停。</p>
+<p>据知情人士透露，<strong>Narayanan</strong> 的离职与另外两人无关。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419081440_9b44cf8873.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4">https://www.businessinsider.com/openai-executive-departures-shake-up-leadership-team-2026-4</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/elonmusk/status/2045590599206875216">xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 已经向部分订阅用户开放了 <strong>0.5T</strong> 参数规模的 <code>Grok 4.3</code> 测试版。</p>
+<p><strong>马斯克</strong>澄清，这并非网传的 <strong>1T</strong> 模型。</p>
+<p>他透露，预计 <strong>5月</strong> 会陆续推出 <strong>1T</strong> 和 <strong>1.5T</strong> 版本的升级模型。</p>
+<p>未来计划每两周更新一次基础模型。</p>
+</blockquote>
+<p><strong>xAI</strong> 日前向 <strong>SuperGrok Heavy</strong> 订阅用户开放了 <code>Grok 4.3 (beta)</code> 的 Early Access。</p>
+<p>尽管有用户推测该版本拥有 <strong>1T</strong> 参数，但 <strong>Elon Musk</strong> 随后澄清，当前的 <code>Grok 4.3</code> 仍是 <strong>0.5T</strong> 模型。</p>
+<p>Musk 透露，真正的 <strong>1T</strong> 旗舰模型距离完成初始训练还需约 <strong>5</strong> 天。</p>
+<p>根据其公布的路线图，基于该 <strong>1T</strong> 架构的 <code>Grok 4.4</code> 预计于 <strong>5</strong> 月初发布，而 <strong>1.5T</strong> 规模的 <code>Grok 4.5</code> 则有望在 <strong>5</strong> 月底推出。</p>
+<p>此外，Musk 表示 <strong>SpaceXAI</strong> 模型工厂已跑通，未来预计每 <strong>两周</strong> 下线一版改进后的基础模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260418/20260418194433_b950462884.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419073427_26927acf18.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2045590599206875216">https://x.com/elonmusk/status/2045590599206875216</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/64</guid><pubDate>Sun, 19 Apr 2026 00:38:56 +0000</pubDate></item><item><title>2026-04-18</title><link>https://imjuya.github.io/juya-ai-daily/issue-63/</link><description>AI 早报 2026-04-18 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 推出 Claude Design 工具 ↗ #1 模型发布 xAI 上线 Grok 4.3 测试版，启用云计算机模式支持文件操作 ↗ #2 QuiverAI 发布 Arrow 1.1 SVG 生成模型 ↗ #3 开发生态 Cloudflare 宣布 Email Service 公测 支持 AI Agent 集成 ↗ #4 产品应用 Google 推出 Flow Music，基于 Lyria 3 Pro 模型的 AI 音乐工具 ↗ #5 Opera 推出 Browser Connector 功能，支持外部AI读取标签页 ↗ #6 前瞻与传闻 Google AI Studio 将接入 Google AI 订阅体…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260418/202604180818253770354062_cover_ddb6.png" alt=""></p>
 <h1>AI 早报 2026-04-18</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1RZdEBDEHy">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=bS3jSbrne88">YouTube</a></p>
 <h2>概览</h2>
