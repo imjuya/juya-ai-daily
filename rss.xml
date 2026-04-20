@@ -1,5 +1,129 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 19 Apr 2026 00:39:17 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-64/</link><description>AI 早报 2026-04-19 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 ↗ #1 Cloudflare 推出 Agent Memory 托管服务 ↗ #2 xAI 推出 Grok 语音转写与合成两款音频 API ↗ #3 技术与洞察 月之暗面联合清华提出 Prefill-as-a-Service 架构 ↗ #4 行业动态 OpenAI 人事动荡，三名核心高管同日宣布离职 ↗ #5 前瞻与传闻 xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 ↗ #6 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 #1 Cloudflare官方宣布推出检测工具 isi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260419/202604190826089268597315_cover_5234.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 20 Apr 2026 00:49:23 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-20</title><link>https://imjuya.github.io/juya-ai-daily/issue-65/</link><description>AI 早报 2026-04-20 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 谷歌推出 Android 开发工具集，优化 Agent 工作流 ↗ #1 browser-use 推出 Browser Harness 开源工具 ↗ #2 前瞻与传闻 传闻称 DeepSeek 本周发布 V4 模型，总参数或达 1600B ↗ #3 传闻称 ChatGPT 上正在测试 GPT-5.5 Pro ↗ #4 其他 Vercel 官方证实内部系统遭未授权访问，仅小部分客户受影响 ↗ #5 Cherry Studio 被曝无视设置仍上传遥测数据 ↗ #6 谷歌推出 Android 开发工具集，优化 Agent 工作流 #1 Google 发布了一套全新的 Android 开发工具集，包含 Android CLI、An…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260420/20260420082446973720a913_cover_e7ec.png" alt=""></p>
+<h1>AI 早报 2026-04-20</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1m8owBfEef">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=9O2XgzzbuNE">YouTube</a></p>
+<h2>概览</h2>
+<h3>开发生态</h3>
+<ul>
+<li>谷歌推出 Android 开发工具集，优化 Agent 工作流 <a href="https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html">↗</a> <code>#1</code></li>
+<li>browser-use 推出 Browser Harness 开源工具 <a href="https://github.com/browser-use/browser-harness">↗</a> <code>#2</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>传闻称 DeepSeek 本周发布 V4 模型，总参数或达 1600B <a href="https://x.com/yifan_zhang_/status/2045694320993276133">↗</a> <code>#3</code></li>
+<li>传闻称 ChatGPT 上正在测试 GPT-5.5 Pro <a href="https://x.com/ericmitchellai/status/2045742449939951699">↗</a> <code>#4</code></li>
+</ul>
+<h3>其他</h3>
+<ul>
+<li>Vercel 官方证实内部系统遭未授权访问，仅小部分客户受影响 <a href="https://vercel.com/kb/bulletin/vercel-april-2026-security-incident">↗</a> <code>#5</code></li>
+<li>Cherry Studio 被曝无视设置仍上传遥测数据 <a href="https://github.com/CherryHQ/cherry-studio/pull/14390">↗</a> <code>#6</code></li>
+</ul>
+<hr>
+<h2><a href="https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html">谷歌推出 Android 开发工具集，优化 Agent 工作流</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布了一套全新的 <strong>Android</strong> 开发工具集，包含 <code>Android CLI</code>、<code>Android skills</code> 和 <code>Android Knowledge Base</code> 三大组件。</p>
+<p>该工具集旨在帮助开发者优化 <code>Agent</code> 工作流并提升开发效率。</p>
+</blockquote>
+<p><strong>Google</strong> 近日发布了一套全新的 <strong>Android</strong> 开发工具与资源，旨在优化 <code>Agent</code> 工作流并提升开发效率。</p>
+<p>这套工具由焕新设计的 <strong>Android CLI</strong>、<strong>Android skills</strong> 模块以及 <strong>Android Knowledge Base</strong> 组成。它全面支持 <code>Gemini in Android Studio</code>、<code>Gemini CLI</code>、<code>Antigravity</code> 以及 <strong>Claude Code</strong> 和 <strong>Codex</strong> 等第三方 <code>Agent</code>。</p>
+<p>官方内部实验数据显示，通过 <strong>Android CLI</strong> 引导 <code>Agent</code> 进行环境配置和项目创建，可将 <strong>LLM Token</strong> 使用量降低 <strong>70%</strong> 以上，任务完成速度提升达 <strong>3</strong> 倍。</p>
+<p>此外，<strong>Android Knowledge Base</strong> 为 <code>Agent</code> 提供了来自 <strong>Android</strong>、<strong>Firebase</strong> 和 <strong>Kotlin</strong> 官方文档的实时权威参考，确保其输出符合最新的技术规范。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/e7ec89c9-9f45-40f2-a081-ab08eb4e9d96/027dbe55-0005-4c25-b61d-63273f173df9/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html">https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/browser-use/browser-harness">browser-use 推出 Browser Harness 开源工具</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>browser-use</strong>团队推出了名为<strong>Browser Harness</strong>的开源工具。</p>
+<p>这款工具能让大语言模型自由执行各类浏览器任务，并能在运行中自动修补缺失代码。</p>
+<p>目前该工具已支持接入<strong>Claude Code</strong>和<strong>Codex</strong>。</p>
+</blockquote>
+<p><strong>browser-use</strong> 团队推出了名为 <strong>Browser Harness</strong> 的开源工具。官方称其为能让 <code>LLM</code> 完成任何浏览器任务的 <code>Self-healing browser harness</code>。</p>
+<p>该工具直接基于 <code>CDP</code> 构建，通过单一的 <code>websocket</code> 连接 <strong>Chrome</strong>。它能在任务执行过程中动态编辑并补充缺失的代码。<strong>Browser Harness</strong> 可无缝接入 <strong>Claude Code</strong> 和 <strong>Codex</strong>，其底层逻辑由约 <code>592</code> 行 <code>Python</code> 代码构成。</p>
+<p>此外，该工具还配套提供免费远程浏览器服务。其免费层级支持 <code>3</code> 个并发浏览器且无需绑定信用卡。用户可自行获取 <code>API</code> 密钥或让 <code>Agent</code> 自动注册。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260420/20260420073459_78f7372604.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/browser-use/browser-harness">https://github.com/browser-use/browser-harness</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/yifan_zhang_/status/2045694320993276133">传闻称 DeepSeek 本周发布 V4 模型，总参数或达 1600B</a> <code>#3</code></h2>
+<blockquote>
+<p>据非官方消息透露，<strong>DeepSeek</strong> 预计将于<strong>本周</strong>发布参数规模达 <strong>1.6T</strong> 的 <code>DeepSeek V4</code>。</p>
+<p>爆料指出该模型将采用 <code>Sparse MQA</code>、<code>Fused MoE Mega Kernel</code> 以及 <code>Hyper-Connections</code> 三项关键技术优化推理表现。</p>
+<p>还有传闻称此前的发布延期是因为内部测试未达预期。上述信息均未获得官方确认。</p>
+</blockquote>
+<p>据非官方消息透露，<strong>DeepSeek</strong> 的下一代旗舰模型 <code>V4</code> 预计将于 <strong>本周</strong> 发布，其参数规模据称为 <code>1600B</code>（即 <code>1.6T</code>）。</p>
+<p>该发布节点及核心架构由普林斯顿 AI Lab Fellow <strong>Yifan Zhang</strong> 率先在社交媒体披露。其指出新模型将采用 <code>Sparse MQA</code>、<code>Fused MoE Mega Kernel</code> 和 <code>Hyper-Connections</code> 三项关键组件来优化长上下文推理与显存开销。</p>
+<p>针对该模型此前的延期猜测，据另一位博主援引神秘消息源称，延期纯粹是因为内部测试结果未达预期，与国产 GPU 硬件及近期融资事宜无关。</p>
+<p>且 <strong>DeepSeek</strong> 创始人 <strong>梁文锋</strong> 正面临 <strong>智谱</strong>、<strong>Kimi</strong> 和 <strong>Minimax</strong> 等竞品公司相继上市所带来的竞争压力。值得注意的是，上述信息均未获得官方确认。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260420/20260420075303_017ca07ffd.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419183337_f7b538605d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/yifan_zhang_/status/2045694320993276133">https://x.com/yifan_zhang_/status/2045694320993276133</a></li>
+<li><a href="https://x.com/sheriyuo/status/2045744980954960282">https://x.com/sheriyuo/status/2045744980954960282</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ericmitchellai/status/2045742449939951699">传闻称 ChatGPT 上正在测试 GPT-5.5 Pro</a> <code>#4</code></h2>
+<blockquote>
+<p>有用户发现，<strong>OpenAI</strong> 疑似正在 <strong>ChatGPT</strong> 中测试新模型 <code>GPT-5.5 Pro</code>。</p>
+<p>用户在使用 <code>GPT-5.4 Pro</code> 时可能会触发该模型。</p>
+<p>据部分用户反馈，其响应速度和编码能力有大幅提升。</p>
+</blockquote>
+<p>近日，大量社区用户发现 <strong>ChatGPT</strong> 中的 <code>GPT-5.4 Pro</code> 响应速度显著提升且输出风格发生变化。</p>
+<p><strong>OpenAI</strong> 员工 <strong>Eric Mitchell</strong> 随后发帖询问该模型的质量问题，此举被外界视为官方变相承认正在灰度测试新模型。</p>
+<p>据部分用户透露，代号为 <code>crest-pro-alpha</code> 的模型目前已在 <strong>ChatGPT</strong> 后台秘密路由上线，当用户选择 <code>GPT-5.4 Pro</code> 时可能会触发该模型。</p>
+<p>社区广泛推测这款新模型即为 <code>GPT-5.5 Pro</code>，也有观点认为其为 <code>GPT-5.5</code>。</p>
+<p>据多名用户反馈，该模型生成时间从此前的数十分钟大幅缩短至 <strong>5 到 20 分钟</strong> 不等。</p>
+<p>其编码、<code>SVG</code> 及 <code>Three.js</code> 等能力有所增强，但也存在广度降低、跳过研究步骤、未完成响应等局限性问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260419/20260419180630_9e779a3bc9.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260420/20260420083217_e1489793d0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ericmitchellai/status/2045742449939951699">https://x.com/ericmitchellai/status/2045742449939951699</a></li>
+<li><a href="https://x.com/whylifeis4/status/2045679291413799416">https://x.com/whylifeis4/status/2045679291413799416</a></li>
+<li><a href="https://x.com/petergostev/status/2045926630422409667">https://x.com/petergostev/status/2045926630422409667</a></li>
+</ul>
+<hr>
+<h2><a href="https://vercel.com/kb/bulletin/vercel-april-2026-security-incident">Vercel 官方证实内部系统遭未授权访问，仅小部分客户受影响</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Vercel</strong> 官方发布公告称其部分内部系统遭到未经授权访问，但目前各项服务保持正常运行。</p>
+<p>此次事件仅波及少数客户，影响范围相对有限。</p>
+<p>官方正联合专家展开调查，并建议所有用户检查环境变量、按需轮换密钥以确保账户安全。</p>
+</blockquote>
+<p><strong>Vercel</strong> 官方发布公告证实其部分内部系统遭到未经授权的访问，发生了一起安全事件。</p>
+<p>该公司已聘请事件响应专家协助进行调查与补救工作，并已将此事通知执法部门。官方确认此次事件仅波及了一小部分客户，目前正在与受影响的客户直接沟通。</p>
+<p>尽管遭遇此安全事件，<strong>Vercel</strong> 的各项服务目前依然保持正常运行。</p>
+<p>为保障账户安全，官方建议所有客户遵循最佳实践，审查自身的环境变量，并充分利用“敏感环境变量”功能。</p>
+<p>需要轮换密钥或获取其他技术支持的用户可通过官方帮助渠道联系其支持团队。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260420/20260420080257_b695eedce5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://vercel.com/kb/bulletin/vercel-april-2026-security-incident">https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/CherryHQ/cherry-studio/pull/14390">Cherry Studio 被曝无视设置仍上传遥测数据</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Cherry Studio</strong> 被曝在用户关闭相关设置后，依然发送应用版本和系统标识等遥测数据。</p>
+<p>目前已有用户提交了修复代码。</p>
+</blockquote>
+<p>近日，<strong>Cherry Studio</strong> 被曝出在用户明确关闭相关开关的情况下，依然无视用户设置向 <code>analytics.cherry-ai.com</code> 发送遥测数据。</p>
+<p>据 <strong>GitHub</strong> 上的 Issue 记录和社区用户分析，该应用在启动和检查更新时触发的 <code>trackAppLaunch</code> 和 <code>trackAppUpdate</code> 事件绕过了 <code>enableDataCollection</code> 设置。</p>
+<p>这导致匿名 UUIDv7 Client-Id、版本号和操作系统等信息被强制上传。此外，早期版本的迁移代码还被发现静默将所有用户的数据收集选项设置为开启状态。</p>
+<p>目前，已有用户提交了修复 PR 以补全缺失的开关检查逻辑。而社区对此事的严重性存在不同看法，部分观点认为实际传输的数据维度有限，未涉及聊天内容等敏感信息。</p>
+<p>但普遍呼吁官方对开关失效及强制同意机制等问题作出正面回应。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260420/20260420074415_da5488232c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/CherryHQ/cherry-studio/pull/14390">https://github.com/CherryHQ/cherry-studio/pull/14390</a></li>
+<li><a href="https://linux.do/t/topic/2005227">https://linux.do/t/topic/2005227</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/65</guid><pubDate>Mon, 20 Apr 2026 00:49:00 +0000</pubDate></item><item><title>2026-04-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-64/</link><description>AI 早报 2026-04-19 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 ↗ #1 Cloudflare 推出 Agent Memory 托管服务 ↗ #2 xAI 推出 Grok 语音转写与合成两款音频 API ↗ #3 技术与洞察 月之暗面联合清华提出 Prefill-as-a-Service 架构 ↗ #4 行业动态 OpenAI 人事动荡，三名核心高管同日宣布离职 ↗ #5 前瞻与传闻 xAI 澄清 Grok 4.3 非 1T，1T 版 Grok 4.4 预计五月初发布 ↗ #6 Cloudflare 推出检测工具，帮助评估网站 AI Agent 适配程度 #1 Cloudflare官方宣布推出检测工具 isi…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260419/202604190826089268597315_cover_5234.png" alt=""></p>
 <h1>AI 早报 2026-04-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1b9d9B3E8L">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=_QX8wgbYHQk">YouTube</a></p>
 <h2>概览</h2>
