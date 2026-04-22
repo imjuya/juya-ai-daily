@@ -1,5 +1,274 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 21 Apr 2026 01:09:16 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-21</title><link>https://imjuya.github.io/juya-ai-daily/issue-66/</link><description>AI 早报 2026-04-21 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面正式发布并开源了 Kimi K2.6 模型 ↗ #1 Google AI Studio 正式接入 Google AI 订阅 ↗ #2 OpenAI 为 Codex 上线 Chronicle，支持屏幕上下文记忆功能 ↗ #3 模型发布 Qwen 团队发布 Qwen3.6-Max-Preview 模型 ↗ #4 阿里发布 Fun-ASR1.5，支持 30 种语言及方言识别 ↗ #5 开发生态 GitHub 调整 Copilot 订阅计划 ↗ #6 ZCode 发布 1.0.0，推出自研ZCode Agent ↗ #7 阿里云百炼推出 Token Plan 团队版服务 ↗ #8 产品应用 谷歌将 Chrome AI 功能扩展…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260421/2026042108434744761669d0_cover_bcc4.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 22 Apr 2026 01:26:06 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-22</title><link>https://imjuya.github.io/juya-ai-daily/issue-67/</link><description>AI 早报 2026-04-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 ↗ #1 SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 ↗ #2 Anthropic 调整 Claude Code 订阅档位引社区争议 #3 模型发布 Gemini API 上线 Gemini Deep Research 两个新版本 ↗ #4 蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha ↗ #5 腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 ↗ #6 开发生态 OpenAI Codex 周活破 400 万，重置速率限制 ↗ #7 OpenAI 发布 Euphony…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260422/2026042208503365596571b2_cover_c8da.png" alt=""></p>
+<h1>AI 早报 2026-04-22</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1MPoHBJEr7">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=gu5l3NFVnzQ">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 <a href="https://openai.com/index/introducing-chatgpt-images-2-0/">↗</a> <code>#1</code></li>
+<li>SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 <a href="https://cursor.com/cn/blog/spacex-model-training">↗</a> <code>#2</code></li>
+<li>Anthropic 调整 Claude Code 订阅档位引社区争议 <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Gemini API 上线 Gemini Deep Research 两个新版本 <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research">↗</a> <code>#4</code></li>
+<li>蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha <a href="https://x.com/AntLingAGI/status/2046660999491858521">↗</a> <code>#5</code></li>
+<li>腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 <a href="https://jeoyal.github.io/MegaStyle/">↗</a> <code>#6</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenAI Codex 周活破 400 万，重置速率限制 <a href="https://x.com/sama/status/2046604989527912590">↗</a> <code>#7</code></li>
+<li>OpenAI 发布 Euphony 开源工具 可视化 Harmony 会话日志 <a href="https://openai.github.io/euphony/">↗</a> <code>#8</code></li>
+<li>OpenClaw 发布 2026.4.20 版本更新 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.20">↗</a> <code>#9</code></li>
+<li>开源 AI 编程工具 Roo Code 宣布关闭，代码合并回 Cline <a href="https://x.com/roocode/status/2046648808457585028">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Open WebUI 发布 v0.9.0，推原生桌面及后端重构 <a href="https://github.com/open-webui/open-webui/releases/tag/v0.9.0">↗</a> <code>#11</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Kimi.ai 开源 FlashKDA 内核，H20 硬件预填充提速 1.72 倍 <a href="https://github.com/MoonshotAI/FlashKDA">↗</a> <code>#12</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>美团 LongCat API 平台上线 Sphynx 模型，向受邀开发者开放内测 <a href="https://longcat.chat/platform/docs/zh/ChangeLog.html">↗</a> <code>#13</code></li>
+<li>阿里 HappyHorse-1.0 模型将于 27 日开放 API 邀测 <code>#14</code></li>
+<li>消息称 Claude Mythos 遭未授权用户访问 <a href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users">↗</a> <code>#15</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/introducing-chatgpt-images-2-0/">OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正式发布了 <strong><code>ChatGPT Images 2.0</code></strong>，目前已在 <strong><code>ChatGPT</code></strong>、<strong><code>Codex</code></strong> 和 <strong><code>API</code></strong> 中上线。</p>
+<p>作为 <strong>OpenAI</strong> 首个具备思考能力的图像模型，该模型在思考模式下能联网搜索并自检输出，支持根据单句提示词一次性生成最多八张连贯图像，在多语言密集文本渲染及高达 <strong><code>2K</code></strong> 分辨率输出上表现优异。</p>
+<p>该模型在相关盲测中夺得断档第一。其高级思考输出功能目前仅限 <strong><code>ChatGPT Plus</code></strong>、<strong><code>Pro</code></strong> 和 <strong><code>Business</code></strong> 订阅用户使用。</p>
+</blockquote>
+<p><strong>OpenAI</strong>官方正式发布了 <strong>ChatGPT Images 2.0</strong> 及其底层图像生成模型 <code>gpt-image-2</code>。该模型现已面向 <strong>ChatGPT</strong> 和 <strong>Codex</strong> 用户开放，开发者可通过 API 接入，移动端用户需更新至最新版本。</p>
+<p>作为 <strong>OpenAI</strong> 首个具备思考能力的图像模型，当在 <strong>ChatGPT</strong> 中选择思考模式时，<strong>Images 2.0</strong> 能够联网搜索实时信息、自检输出结果，甚至生成可扫描的功能性二维码，且能根据单句提示词一次性生成最多八张具备角色与物体连贯性的不同图像。</p>
+<p>此次升级带来了前所未有的精确度与控制力，在复杂指令遵循、密集文本渲染、UI 元素生成及高达 2K 分辨率的图像输出方面表现优异。模型在多语言支持上取得重大突破，特别针对中、日、韩、印地语和孟加拉语等非拉丁语系的文本渲染实现了语义连贯。</p>
+<p>其真实世界知识库更新至 2025 年 12 月，支持从 3:1 到 1:3 的灵活宽高比，并在照片级真实感、电影静止画面、像素艺术等多种视觉风格上展现出极高的保真度。据 Arena.ai 评测数据显示，<code>gpt-image-2</code> 在文生图、单图编辑和多图编辑三大排行榜上均以创纪录的分数夺得第一，其中在文生图领域以 1512 的 Elo 得分领先第二名 242 分。</p>
+<p>目前，高级思考输出功能仅限 <strong>ChatGPT Plus</strong>、<strong>Pro</strong> 和 <strong>Business</strong> 用户使用。在 <strong>Codex</strong> 工作空间中，用户可以直接利用 <strong>ChatGPT</strong> 的订阅权限进行图像生成，无需额外配置 API 密钥。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c8da06a0-b9a6-4b34-8e31-0c8dad167f14/13063300-c270-4a41-bce4-da8aa4cdc3d1/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422074525_d4e639f5a9.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422074407_495ce9196c.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-chatgpt-images-2-0/">https://openai.com/index/introducing-chatgpt-images-2-0/</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/image-generation">https://developers.openai.com/api/docs/guides/image-generation</a></li>
+</ul>
+<hr>
+<h2><a href="https://cursor.com/cn/blog/spacex-model-training">SpaceX 与 Cursor 宣布合作，获六百亿美元收购权</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>SpaceX</strong>与<strong>Cursor</strong>宣布达成深度合作，双方将结合<strong>Cursor</strong>的编程产品优势与<strong>SpaceX</strong>旗下的庞大算力，联合开发面向编码的下一代人工智能。</p>
+<p>根据交易条款，<strong>Cursor</strong>已授予<strong>SpaceX</strong>一项选择权，允许其在今年晚些时候以<strong>600亿美元</strong>收购<strong>Cursor</strong>。</p>
+<p>或者，<strong>Cursor</strong>可直接收取<strong>100亿美元</strong>作为双方合作的对价。</p>
+</blockquote>
+<p><strong>SpaceX</strong>与<strong>Cursor</strong>日前共同宣布达成深度合作，双方将整合<strong>Cursor</strong>面向专家软件工程师的产品与分发能力，以及<strong>SpaceX</strong>旗下号称具备百万张<code>Nvidia H100</code>等效算力的<code>Colossus</code>训练超级计算机，联合开发面向编码与知识工作的下一代AI。</p>
+<p><strong>Cursor</strong>在其官方博客中披露，此次合作将使其得以借助xAI的<code>Colossus</code>基础设施打破长期算力瓶颈，大幅提升模型智能水平。</p>
+<p>根据<strong>SpaceX</strong>官方公布的信息，<strong>Cursor</strong>已授予<strong>SpaceX</strong>在<code>今年晚些时候</code>以<code>600亿美元</code>将其收购，或支付<code>100亿美元</code>作为双方合作对价的选择权。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422084911_5ca5ea8e26.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422090228_85dcb3dd7e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cursor.com/cn/blog/spacex-model-training">https://cursor.com/cn/blog/spacex-model-training</a></li>
+<li><a href="https://x.com/SpaceX/status/2046713419978453374">https://x.com/SpaceX/status/2046713419978453374</a></li>
+</ul>
+<hr>
+<h2>Anthropic 调整 Claude Code 订阅档位引社区争议 <code>#3</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 因悄悄调整定价页面引发争议，据页面显示，<code>Claude Code</code> 权益已从 <strong>20 美元</strong> 的 Pro 计划中移除。</p>
+<p>官方工作人员回应称，这仅是在少数新用户中进行的定价测试，现有订阅用户不受影响，最终方案尚未确定。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 因测试调整其命令行编程工具 <code>Claude Code</code> 的订阅权益引发广泛争议。有用户在社交平台指出，该公司似乎已将 <code>Claude Code</code> 从月费 <strong>20 美元</strong> 的 Pro plan 中移除，仅在月费 <strong>100 美元</strong> 的 Max plan 中提供。定价页面与支持文档出现相应变更，意味着新用户获取该功能的成本可能上涨 <strong>5 倍</strong>。</p>
+<p>面对社区对静默改动的质疑，<strong>Anthropic</strong> 员工 <strong>Amol Avasare</strong> 出面回应称，当前仅对约 <strong>2%</strong> 的新 prosumer 注册者进行小范围测试，现有 Pro 与 Max 订阅者不受影响。他解释称，自 Max plan 推出以来，<code>Claude Code</code>、<code>Cowork</code> 及长时间运行 Agent 等功能使订阅者使用模式发生根本变化，当前套餐架构已难以承载，因此团队正在探索新选项。他还承诺，若最终方案影响现有用户，官方将提前充分通知。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422085902_c49fbfb5fc.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422085940_226a071ffd.png" alt=""></p>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research">Gemini API 上线 Gemini Deep Research 两个新版本</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布升级 <strong>Gemini</strong> API 上的 <strong>Gemini Deep Research Agent</strong>。</p>
+<p>此次更新推出了基于 <code>Gemini 3.1 Pro</code> 模型的 <strong>Deep Research</strong> 和 <strong>Deep Research Max</strong>。</p>
+<p>新服务引入了 <strong>MCP</strong> 支持、多模态输入以及协同规划等核心功能。</p>
+</blockquote>
+<p><strong>Google</strong> 宣布对其 <strong>Gemini Deep Research Agent</strong> 进行重大升级，推出了名为 <strong>Deep Research</strong> 和 <strong>Deep Research Max</strong> 的两个独立版本。这两个版本均由 <strong>Gemini 3.1 Pro</strong> 模型提供支持。</p>
+<p>其中，<strong>Deep Research</strong> 主打速度和效率，适用于需要低延迟的交互式用户界面；而 <strong>Deep Research Max</strong> 则利用扩展的测试时计算能力进行迭代推理、搜索和报告打磨，旨在实现最高的全面性和最优质的合成效果。</p>
+<p>此次更新的核心亮点是引入了 <code>MCP</code> 支持，允许开发者将智能体安全地连接到自定义数据和专业数据流。此外，该智能体还增加了多模态输入支持、协同规划功能、实时流式推理输出，并原生支持通过 HTML 或 <strong>Nano Banana</strong> 生成图表和信息图。</p>
+<p>从即日起，这两项配置已在 <strong>Gemini API</strong> 的付费层中通过 <code>Interactions API</code> 以公开预览版的形式提供，并支持在 <strong>Google AI Studio</strong> 中以对话形式调用，其企业版也即将在 <strong>Google Cloud</strong> 上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c8da06a0-b9a6-4b34-8e31-0c8dad167f14/dbe4d9d0-1ca8-4d10-92b5-49751fb3f76e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research">https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research</a></li>
+<li><a href="https://ai.google.dev/gemini-api/docs/deep-research">https://ai.google.dev/gemini-api/docs/deep-research</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/AntLingAGI/status/2046660999491858521">蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>发布了 <code>Ling-2.6-flash</code> 模型，该模型拥有 <strong>104B</strong> 总参数和 <strong>7.4B</strong> 激活参数，无推理模式。</p>
+<p>目前已通过多个平台提供为期 <strong>一周</strong> 的免费 API 访问。<strong>蚂蚁集团</strong>官方确认未来将开源多种精度的版本。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>正式发布了 <code>Ling-2.6-flash</code> 模型。该模型此前曾以代号"<strong>Elephant Alpha</strong>"在 <strong>OpenRouter</strong>上进行测试。</p>
+<p>作为一款拥有 <strong>104B</strong> 总参数和 <strong>7.4B</strong> 激活参数的非推理模型，其上下文窗口达到 <strong>256K</strong>。该模型专为高 Token 效率、Agent 场景和极速执行而设计。</p>
+<p>目前，该模型由 <strong>Novita AI</strong>作为独家托管提供商，通过<strong>OpenRouter</strong>、官方平台、<strong>Kilo</strong>以及<strong>OpenCode</strong>等渠道向开发者提供为期一周的免费 API 访问。</p>
+<p>官方同时宣布未来将开源该模型并推出 <code>BF16</code>、<code>FP8</code> 和 <code>INT4</code> 等多种版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c8da06a0-b9a6-4b34-8e31-0c8dad167f14/0e5f5d60-c33a-464d-aa0f-306c9cf3c105/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422080856_c4c46f4628.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/AntLingAGI/status/2046660999491858521">https://x.com/AntLingAGI/status/2046660999491858521</a></li>
+<li><a href="https://openrouter.ai/inclusionai/ling-2.6-flash:free">https://openrouter.ai/inclusionai/ling-2.6-flash:free</a></li>
+</ul>
+<hr>
+<h2><a href="https://jeoyal.github.io/MegaStyle/">腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>腾讯团队</strong>发布并开源了名为 <code>MegaStyle</code> 的可扩展风格数据生成框架，用于实现泛化的图像风格迁移与相似度测量。</p>
+<p>团队同步公开了包含 <strong>140 万张</strong>图像的 <code>MegaStyle-1.4M</code> 数据集以及相关模型代码。</p>
+</blockquote>
+<p><strong>腾讯团队</strong>正式发布了名为 <strong>MegaStyle</strong> 的可扩展风格数据生成框架，该框架主要探索当前大型生成模型中一致的文本到图像（<code>T2I</code>）风格映射能力，旨在构建风格内一致、风格间多样且高质量的风格数据集。</p>
+<p>伴随该框架，团队同步开源了完整的训练与推理代码、模型以及包含 <strong>140 万张</strong>图像的 <strong>MegaStyle-1.4M</strong> 数据集。</p>
+<p>该数据集利用了 <strong>Qwen-Image</strong> 的风格映射能力，结合 <strong>17 万条</strong>精选风格提示词与 <strong>40 万条</strong>内容提示词生成，具备强烈的风格内一致性并覆盖多样化的细粒度风格。</p>
+<p>基于该数据集训练的 <strong>MegaStyle-FLUX</strong> 与 <strong>MegaStyle-Encoder</strong> 模型，分别用于实现泛化的图像风格迁移与可靠的风格相似度测量。</p>
+<p>目前，上述所有资源均已在 <strong>GitHub</strong> 和 <strong>Hugging Face</strong> 平台对公众开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c8da06a0-b9a6-4b34-8e31-0c8dad167f14/752bdeba-9eac-42ca-ab02-4c6639a17e1b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://jeoyal.github.io/MegaStyle/">https://jeoyal.github.io/MegaStyle/</a></li>
+<li><a href="https://huggingface.co/Gaojunyao/MegaStyle">https://huggingface.co/Gaojunyao/MegaStyle</a></li>
+<li><a href="https://huggingface.co/datasets/tencent/MegaStyle-1.4M">https://huggingface.co/datasets/tencent/MegaStyle-1.4M</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/sama/status/2046604989527912590">OpenAI Codex 周活破 400 万，重置速率限制</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布 <strong>Codex</strong> 周活跃用户突破 <strong>400万</strong>。</p>
+<p>为庆祝这一增长，官方于昨夜重置了速率限制。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 官方宣布其产品 <strong>Codex</strong> 的周活跃用户数已突破 <code>400</code> 万。</p>
+<p>根据 <strong>Sam Altman</strong> 的说法，该产品在 <code>4</code> 月上旬达到 <code>300</code> 万周活跃用户后，仅用不到两周时间便新增了超过 <code>100</code> 万用户。</p>
+<p>为庆祝这一增长里程碑，<strong>OpenAI</strong> 官方于昨夜对 <strong>Codex</strong> 的速率限制进行重置。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422073942_f90afba835.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/sama/status/2046604989527912590">https://x.com/sama/status/2046604989527912590</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.github.io/euphony/">OpenAI 发布 Euphony 开源工具 可视化 Harmony 会话日志</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>OpenAI Developers</strong> 推出名为 <strong>Euphony</strong> 的开源工具，专门用于在浏览器中可视化 <code>Harmony</code> 聊天对话和 <code>Codex</code> session 日志。</p>
+<p>该工具旨在帮助开发者更便捷地检查和操作结构化聊天数据。</p>
+</blockquote>
+<p><strong>OpenAI Developers</strong> 官方宣布推出名为 <code>Euphony</code> 的开源工具，该工具主要用于在浏览器中可视化 <code>Harmony</code> 聊天对话和 <code>Codex</code> session 日志。</p>
+<p>通过粘贴公共 URL、从剪贴板粘贴或上传本地 JSON 及 JSONL 文件，<code>Euphony</code> 可将原始数据转化为易于浏览的视图。</p>
+<p>该工具提供了丰富的功能，包括对话及消息级元数据检查、Markdown 与 HTML 渲染、翻译功能、基于 <code>JMESPath</code> 的数据过滤、网格与编辑器模式、<code>Harmony token</code> 渲染，以及支持在 <strong>React</strong> 等任意框架中集成的 Web Components。</p>
+<p><code>Euphony</code> 提供独立应用和 JavaScript 库两种使用方式，支持纯前端和后端辅助两种运行模式，并基于 <strong>Apache 2.0</strong> 许可证发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/c8da06a0-b9a6-4b34-8e31-0c8dad167f14/50a337d9-e248-44a8-9090-dc6739ffa4b5/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.github.io/euphony/">https://openai.github.io/euphony/</a></li>
+<li><a href="https://github.com/openai/euphony">https://github.com/openai/euphony</a></li>
+<li><a href="https://x.com/OpenAIDevs/status/2046620363568890230">https://x.com/OpenAIDevs/status/2046620363568890230</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.20">OpenClaw 发布 2026.4.20 版本更新</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.20</strong> 版本更新。</p>
+<p>新版本新增了对 <code>Kimi K2.6</code> 模型的支持，并优化了 <code>GPT-5</code> 系列模型的推理配置。</p>
+<p>同时，该版本全面修复了跨平台消息通道稳定性问题。</p>
+<p>此外，更新还大幅强化了网关安全隔离与系统底层状态管理机制。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.20</strong> 版本。该版本全面优化了模型支持、跨平台消息通道稳定性以及网关安全与调度机制。</p>
+<p>本次更新新增了对 <code>Kimi K2.6</code> 模型的默认支持与分层定价计费，并引入了基于 Provider 感知的 <code>/think</code> 命令与 <code>reasoning</code> 逻辑设定。这使得 <code>GPT-5</code> 及 <code>Codex</code> 等模型能更精准地遵循 <strong>SOUL/IDENTITY</strong> 指导与推理配置。</p>
+<p>在消息渠道方面，<strong>BlueBubbles</strong> 全面修复了 iMessage 发送超时、回退降级与 Tapback 反应问题，提升了 <strong>macOS 26</strong> 环境下的兼容性。同时，Tg、<strong>Discord</strong>、<strong>Matrix</strong> 和 <strong>Mattermost</strong> 等通道的轮询、斜杠命令及流式消息传输也得到了显著增强。</p>
+<p>此外，新版本重写了 Cron 状态与投递机制，强化了 <strong>Gateway</strong> 设备配对的权限隔离、<strong>WebSocket</strong> 广播安全与 <strong>Plugin</strong> 启动依赖项隔离。系统通过拦截工作区环境变量注入等一系列底层安全修复，大幅提升了长时间运行的内存与状态管理健壮性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422082419_c0a779d236.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.20">https://github.com/openclaw/openclaw/releases/tag/v2026.4.20</a></li>
+<li><a href="https://x.com/openclaw/status/2046686809367708123">https://x.com/openclaw/status/2046686809367708123</a></li>
+<li><a href="https://x.com/steipete/status/2046729332563841164">https://x.com/steipete/status/2046729332563841164</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/roocode/status/2046648808457585028">开源 AI 编程工具 Roo Code 宣布关闭，代码合并回 Cline</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Roo Code</strong> 宣布项目正式关闭，团队将转向开发新项目 <strong>Roomote</strong>。</p>
+<p><strong>Roo Code</strong> 相关资产将合并回上游项目 <code>Cline</code>。</p>
+</blockquote>
+<p><strong>Matt Rubens</strong>，<strong>Roo Code</strong>的创始人宣布，该项目已达到 <strong>300 万次</strong>安装量，并将正式关闭。</p>
+<p>团队未来将全力投入新项目<code>Roomote</code>的开发，而 <code>Roo Code</code> 的相关资产将合并回其原始上游项目<code>Cline</code>。</p>
+<p><code>Cline</code>官方对此表示欢迎，并乐意接纳该项目的现有用户。</p>
+<p>与此同时，基于 <code>Roo Code</code>开发的另一款扩展工具<code>Kilo</code>也发文致谢，并承诺将继续打造开源<code>AI</code>编程体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422082710_1dbff453e8.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/roocode/status/2046648808457585028">https://x.com/roocode/status/2046648808457585028</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/open-webui/open-webui/releases/tag/v0.9.0">Open WebUI 发布 v0.9.0，推原生桌面及后端重构</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Open WebUI</strong> 正式发布 <strong>v0.9.0</strong> 版本，首次推出支持多系统的原生桌面应用，并新增定时自动化、任务管理及日历工作区功能。</p>
+<p>此次更新完成了后端异步重写以提升性能，但官方提醒涉及数据库架构变更，升级前务必备份数据。</p>
+</blockquote>
+<p><strong>Open WebUI</strong> 官方正式发布了 <strong>v0.9.0</strong> 版本更新，该版本首次推出了官方原生桌面应用程序。</p>
+<p>它全面支持 <strong>Mac</strong>、<strong>Windows</strong> 和 <strong>Linux</strong> 系统，允许用户在无 Docker 或服务器配置的环境下本地运行，并配备了系统级浮动聊天栏及一键语音通话功能。</p>
+<p>核心功能方面，<strong>Open WebUI</strong> 新增了定时聊天自动化功能、任务管理工具以及完整的日历工作区，支持周期性事件管理与系统级提醒。</p>
+<p>同时，该版本进行了全面的后端异步重写。此外，更新还强化了对 <code>Azure OpenAI</code> 和 <code>Ollama Responses API</code> 的支持，并修复了大量涉及数据安全、OAuth 验证和权限控制的问题。</p>
+<p>官方公告强烈提示，由于此版本包含数据库架构变更，生产环境升级前需备份数据库，多实例部署必须同时更新，且自定义插件可能需要进行异步代码迁移。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422082211_81a5dd85e2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/open-webui/open-webui/releases/tag/v0.9.0">https://github.com/open-webui/open-webui/releases/tag/v0.9.0</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/MoonshotAI/FlashKDA">Kimi.ai 开源 FlashKDA 内核，H20 硬件预填充提速 1.72 倍</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 宣布开源高性能内核 <code>FlashKDA</code>。该内核在 <strong>H20</strong> 硬件上最高能实现 <strong>2.22</strong> 倍的 <code>prefill</code> 提速。</p>
+</blockquote>
+<p><strong>Kimi.ai</strong> 官方宣布开源高性能 <strong>Kimi Delta Attention</strong> 内核 <code>FlashKDA</code>。</p>
+<p>根据官方公告，这款基于 <code>CUTLASS</code> 构建的产品在 <code>H20</code> 硬件上，相较于 <code>flash-linear-attention</code> 基线可实现 <strong>1.72</strong> 倍至 <strong>2.22</strong> 倍的 prefill 提速。</p>
+<p>该技术能作为即插即用的后端直接应用于 <code>flash-linear-attention</code>。</p>
+<p>该技术的运行需要 <code>SM90</code> 及以上架构、<code>CUDA 12.9</code> 及以上版本以及 <code>PyTorch 2.4</code> 及以上版本的支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422075604_ab77299705.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/MoonshotAI/FlashKDA">https://github.com/MoonshotAI/FlashKDA</a></li>
+</ul>
+<hr>
+<h2><a href="https://longcat.chat/platform/docs/zh/ChangeLog.html">美团 LongCat API 平台上线 Sphynx 模型，向受邀开发者开放内测</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>美团</strong>旗下 <strong>LongCat</strong> API 开放平台上线了名为 <code>Sphynx</code> 的新模型。</p>
+<p>该模型目前处于内测阶段，仅向部分受邀开发者开放。</p>
+</blockquote>
+<p><strong>美团</strong>旗下<strong>龙猫API开放平台</strong>近日上线名为 <strong>Sphynx</strong> 的新模型。</p>
+<p>据官方介绍，该模型主要面向 <code>Agent</code> 开发场景，原生支持工具调用、多步推理和长上下文任务。其在代码生成、自动化工作流及复杂指令执行方面表现突出，并深度适配了 <strong>Claude Code</strong>、<strong>OpenClaw</strong>、<strong>OpenCode</strong> 和 <strong>Kilo Code</strong> 等生产力工具。</p>
+<p>目前，<strong>Sphynx</strong> 正处于内测阶段，其使用权限仅向部分受邀开发者开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260421/20260421170708_5fb71ca97a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://longcat.chat/platform/docs/zh/ChangeLog.html">https://longcat.chat/platform/docs/zh/ChangeLog.html</a></li>
+</ul>
+<hr>
+<h2>阿里 HappyHorse-1.0 模型将于 27 日开放 API 邀测 <code>#14</code></h2>
+<blockquote>
+<p><strong>阿里 ATH</strong>宣布，其 AI 视频生成模型 <code>HappyHorse-1.0</code> 将于本月 <strong>27</strong> 日通过<strong>阿里云百炼平台</strong>开启企业级 API 邀测。</p>
+<p>商业版本计划于下个月发布。</p>
+</blockquote>
+<p><strong>阿里 ATH 创新事业部</strong>宣布，其联合<strong>阿里平台技术</strong>、<strong>通义实验室</strong>及<strong>淘天技术</strong>等团队协同打造的 AI 视频生成模型 <code>HappyHorse-1.0</code>（欢乐马），将于本月<strong>27 日</strong>通过<strong>阿里云百炼平台</strong>逐步开放 API 测试。</p>
+<p>首批邀测对象为<strong>企业级客户</strong>。该模型的商业版本计划于<strong>下个月</strong>公开发布。</p>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users">消息称 Claude Mythos 遭未授权用户访问</a> <code>#15</code></h2>
+<blockquote>
+<p>据报道，一小群未经授权的用户在 <strong>Anthropic</strong> 宣布 <code>Claude Mythos</code> 模型测试计划当天，通过私有论坛获取了访问权限。</p>
+<p>这被视为 <strong>Anthropic</strong> 的又一次重大安全漏洞。</p>
+</blockquote>
+<p>据媒体报道及知情人士透露，一小群未经授权的用户在 <strong>Anthropic</strong> 首次宣布其全新 <strong>Claude Mythos</strong> AI 模型测试计划的同一天，通过一个私有在线论坛获取了该模型的访问权限。</p>
+<p>根据官方说法，该模型非常强大，甚至能够促成危险的网络攻击。据知情人士提供的截图与现场演示，以及 <strong>彭博社</strong> 查阅的相关文件显示，这群用户自获取权限起便一直在定期使用该模型，但并未将其用于网络安全目的。</p>
+<p>目前，非官方渠道及社交媒体已将此次未经授权的访问视为 <strong>Anthropic</strong> 遭遇的又一次重大安全漏洞。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422082000_31b8355f87.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users">https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/67</guid><pubDate>Wed, 22 Apr 2026 01:25:47 +0000</pubDate></item><item><title>2026-04-21</title><link>https://imjuya.github.io/juya-ai-daily/issue-66/</link><description>AI 早报 2026-04-21 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 月之暗面正式发布并开源了 Kimi K2.6 模型 ↗ #1 Google AI Studio 正式接入 Google AI 订阅 ↗ #2 OpenAI 为 Codex 上线 Chronicle，支持屏幕上下文记忆功能 ↗ #3 模型发布 Qwen 团队发布 Qwen3.6-Max-Preview 模型 ↗ #4 阿里发布 Fun-ASR1.5，支持 30 种语言及方言识别 ↗ #5 开发生态 GitHub 调整 Copilot 订阅计划 ↗ #6 ZCode 发布 1.0.0，推出自研ZCode Agent ↗ #7 阿里云百炼推出 Token Plan 团队版服务 ↗ #8 产品应用 谷歌将 Chrome AI 功能扩展…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260421/2026042108434744761669d0_cover_bcc4.png" alt=""></p>
 <h1>AI 早报 2026-04-21</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1jyd2BNEEQ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=eWPWLJpVrh4">YouTube</a></p>
 <h2>概览</h2>
