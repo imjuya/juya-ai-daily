@@ -1,5 +1,438 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 22 Apr 2026 01:26:06 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-22</title><link>https://imjuya.github.io/juya-ai-daily/issue-67/</link><description>AI 早报 2026-04-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 ↗ #1 SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 ↗ #2 Anthropic 调整 Claude Code 订阅档位引社区争议 #3 模型发布 Gemini API 上线 Gemini Deep Research 两个新版本 ↗ #4 蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha ↗ #5 腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 ↗ #6 开发生态 OpenAI Codex 周活破 400 万，重置速率限制 ↗ #7 OpenAI 发布 Euphony…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260422/2026042208503365596571b2_cover_c8da.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 23 Apr 2026 01:51:24 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-68/</link><description>AI 早报 2026-04-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 ↗ #1 GLM 调整老套餐计划，月底强制终止续订并送两月权益 ↗ #2 模型发布 Qwen 团队开源 Qwen3.6-27B 模型 ↗ #3 OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 ↗ #4 开发生态 Kimi 致歉 K2.6 上线波动并重置用户额度 #5 小米 MiMo 升级 Token 计划，调整计费及订阅模式 #6 Claude 开放 ultrareview 功能，订阅用户享三次免费审查 ↗ #7 Zed 推出 Parallel Agents，支持多 Agent 并行运行 ↗ #8 Google 开源 DESIGN.md 规范 ↗ #9 火山方舟…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260423/20260423093424878487f3fa_cover_068a.png" alt=""></p>
+<h1>AI 早报 2026-04-23</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1BfobBREug">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Ozv_WP6ISUk">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 <a href="https://platform.xiaomimimo.com/docs/news/v2.5-news">↗</a> <code>#1</code></li>
+<li>GLM 调整老套餐计划，月底强制终止续订并送两月权益 <a href="https://docs.bigmodel.cn/cn/coding-plan/transition">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Qwen 团队开源 Qwen3.6-27B 模型 <a href="https://qwenlm.github.io/zh/blog/qwen3.6-27b/">↗</a> <code>#3</code></li>
+<li>OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 <a href="https://openai.com/index/introducing-openai-privacy-filter/">↗</a> <code>#4</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Kimi 致歉 K2.6 上线波动并重置用户额度 <code>#5</code></li>
+<li>小米 MiMo 升级 Token 计划，调整计费及订阅模式 <code>#6</code></li>
+<li>Claude 开放 ultrareview 功能，订阅用户享三次免费审查 <a href="https://x.com/ClaudeDevs/status/2046999435239133246">↗</a> <code>#7</code></li>
+<li>Zed 推出 Parallel Agents，支持多 Agent 并行运行 <a href="https://zed.dev/blog/parallel-agents">↗</a> <code>#8</code></li>
+<li>Google 开源 DESIGN.md 规范 <a href="https://github.com/google-labs-code/design.md">↗</a> <code>#9</code></li>
+<li>火山方舟上线 GLM-5.1 模型，ArkClaw 集成 Hermes Agent <a href="https://mp.weixin.qq.com/s/PGH22zYObkTHVZRXr9-I4Q">↗</a> <code>#10</code></li>
+<li>Hermes Agent 限时免费开放 Kimi K2.6 与 Step 3.5 Flash <a href="https://x.com/NousResearch/status/2046811525118132557">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI 宣布 ChatGPT 上线 Workspace agents 功能 <a href="https://openai.com/business/workspace-agents/">↗</a> <code>#12</code></li>
+<li>OpenAI 发布 ChatGPT for Google Sheets 插件 <a href="https://chatgpt.com/apps/spreadsheets/">↗</a> <code>#13</code></li>
+<li>Google 推出 Gemini Enterprise Agent Platform 统一 AI 技术栈 <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform">↗</a> <code>#14</code></li>
+<li>谷歌宣布 Workspace Intelligence 全面上线 <a href="https://x.com/demishassabis/status/2046994882150154369">↗</a> <code>#15</code></li>
+<li>Google 升级 Google Earth AI 及 Google Maps Platform <a href="https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/">↗</a> <code>#16</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Claude 官方详解 MCP 连接方案，SDK 月下载超三亿次 <a href="https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp">↗</a> <code>#17</code></li>
+<li>谷歌推出 TorchTPU 支持 PyTorch 原生运行 TPU <a href="https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/">↗</a> <code>#18</code></li>
+<li>Hugging Face 发布 ml-intern 开源 AI Agent 自动化大模型后训练 <a href="https://github.com/huggingface/ml-intern">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 规划 2030 年实现 30GW 算力 <a href="https://x.com/OpenAINewsroom/status/2046951726683455866">↗</a> <code>#20</code></li>
+<li>Google Cloud 发布第八代 TPU，采用双芯片架构设计 <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/">↗</a> <code>#21</code></li>
+<li>马斯克宣布建 Terafab 超级芯片工厂，确认采用英特尔 14A 工艺 <a href="https://www.reuters.com/business/autos-transportation/tesla-ceo-musk-says-company-plans-use-intels-14a-process-terafab-2026-04-22/">↗</a> <code>#22</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>媒体称腾讯阿里洽谈投资 DeepSeek，估值目标超两百亿美元 <a href="https://www.theinformation.com/articles/tencent-alibaba-talks-invest-deepseek-20-billion-plus-valuation">↗</a> <code>#23</code></li>
+<li>OpenAI Codex 误曝 GPT-5.5 <a href="https://x.com/chetaslua/status/2046849830367191187">↗</a> <code>#24</code></li>
+<li>Meta 被曝采集员工操作数据训练 AI <a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">↗</a> <code>#25</code></li>
+</ul>
+<hr>
+<h2><a href="https://platform.xiaomimimo.com/docs/news/v2.5-news">小米发布 MiMo-V2.5 系列四款模型，两款模型将开源</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>小米</strong>宣布开启<code>MiMo-V2.5</code>系列大模型公测，该系列包含<code>MiMo-V2.5</code>、<code>V2.5-Pro</code>、<code>V2.5-TTS Series</code>及<code>V2.5-ASR</code>四款模型。</p>
+<p>其中，<code>MiMo-V2.5-Pro</code>专为复杂的长程<code>Agent</code>任务打造。官方数据显示其在通用智能体能力、复杂软件工程等维度已能媲美前沿闭源模型。</p>
+<p>而<code>MiMo-V2.5</code>则是为<code>Agent</code>场景而生的原生全模态模型。相关模型已上线<code>API</code>和<code>Token Plan</code>。</p>
+<p>其中<code>MiMo-V2.5</code>和<code>V2.5-Pro</code>两款模型即将开源。</p>
+</blockquote>
+<p><strong>小米</strong>宣布 <strong>Xiaomi MiMo-V2.5</strong> 系列大模型开启公测。该系列包含 <code>MiMo-V2.5</code>、<code>V2.5-Pro</code>、<code>V2.5-TTS Series</code> 及 <code>V2.5-ASR</code> 四款模型。</p>
+<p>官方表示此次升级重点增强了模型的推理能力、<code>Agent</code> 稳定性、上下文长度、指令遵循与模糊指令理解，以及全模态感知和理解。</p>
+<p>其中，定位更高端的 <strong>MiMo-V2.5-Pro</strong> 专为复杂的长程 Agent 任务打造。官方数据显示其在通用智能体能力、复杂软件工程等维度已能媲美 <strong>Claude Opus 4.6</strong> 和 <strong>GPT-5.4</strong> 等前沿模型，可稳定完成涉及近千轮工具调用的长程专业任务。</p>
+<p>而 <strong>MiMo-V2.5</strong> 则是为 Agent 场景而生的原生全模态模型。它能同时处理视觉、听觉与文本信息，以约一半的 API 成本实现超越上一代 <strong>MiMo-V2-Pro</strong> 的智能体性能。</p>
+<p>官方同时宣布 <strong>MiMo-V2.5</strong> 与 <strong>MiMo-V2.5-Pro</strong> 即将开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/375585ed-872e-4d53-82a0-b072e5468629/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423084402_be2f66700b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.xiaomimimo.com/docs/news/v2.5-news">https://platform.xiaomimimo.com/docs/news/v2.5-news</a></li>
+<li><a href="https://mimo.xiaomi.com/mimo-v2-5/">https://mimo.xiaomi.com/mimo-v2-5/</a></li>
+</ul>
+<hr>
+<h2><a href="https://docs.bigmodel.cn/cn/coding-plan/transition">GLM 调整老套餐计划，月底强制终止续订并送两月权益</a> <code>#2</code></h2>
+<blockquote>
+<p>智谱宣布，将在<strong>4 月 30 日</strong>起停止 <code>GLM Coding Plan</code>无周限额老套餐的自动续订，并向受影响用户自动赠送<strong>2 个月</strong>同等级新套餐作为补偿。</p>
+<p>尽管当前订阅周期的价格和权益不受影响，但针对此次调整，不少社区用户认为此举有背刺早期支持者的嫌疑。</p>
+</blockquote>
+<p><strong>GLM Coding Plan</strong> 官方发布老套餐迁移及补偿方案公告，宣布由于原有供给方式难以支撑长期稳定服务，将对老套餐（无周限额）进行调整。</p>
+<p>此次变动影响当前订阅该老套餐且已开启自动续订的用户。其老套餐将于本月底（<strong>4月30日</strong>）<strong>10:00</strong>起停止自动续订。</p>
+<p>官方指出上述用户当前生效套餐订阅周期的价格和权益不受影响，并将自动获赠<strong>2个月</strong>同等级的新套餐权益作为补偿。</p>
+<p>后续若需继续使用，需自行订阅最新套餐方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422174931_37fabbd9d1.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423080833_4d3c3ae86f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://docs.bigmodel.cn/cn/coding-plan/transition">https://docs.bigmodel.cn/cn/coding-plan/transition</a></li>
+<li><a href="https://mp.weixin.qq.com/s/5_8RUEKVqTkRQBt2SGhRVw">https://mp.weixin.qq.com/s/5_8RUEKVqTkRQBt2SGhRVw</a></li>
+</ul>
+<hr>
+<h2><a href="https://qwenlm.github.io/zh/blog/qwen3.6-27b/">Qwen 团队开源 Qwen3.6-27B 模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Qwen团队</strong>正式发布了拥有<strong>270亿</strong>参数的开源稠密模型 <code>Qwen3.6-27B</code>。</p>
+<p>该模型原生支持多模态及思考模式，编程能力全面超越了前代开源旗舰 <code>Qwen3.5-397B-A17B</code>。</p>
+<p>目前开源权重已在各大平台开放，用户可通过 <strong>Qwen Studio</strong> 直接体验。</p>
+</blockquote>
+<p>阿里 <strong>Qwen</strong> 团队近日正式发布了开源稠密模型 <code>Qwen3.6-27B</code>。</p>
+<p>该模型拥有 <strong>270 亿</strong> 参数，原生支持多模态及思考模式。</p>
+<p>根据官方提供的数据，其具备旗舰级智能体编程能力，在所有主要编程基准上全面超越了前代开源旗舰 <code>Qwen3.5-397B-A17B</code>。</p>
+<p>目前，<code>Qwen3.6-27B</code> 的开源权重已在 <strong>Hugging Face</strong> 和 <strong>ModelScope</strong> 平台开放。</p>
+<p>用户可通过 <strong>Qwen Studio</strong> 直接体验，或通过 <strong>阿里云百炼 API</strong> 进行调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/3083e2a4-8292-4903-9ece-4416a5edf61b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://qwenlm.github.io/zh/blog/qwen3.6-27b/">https://qwenlm.github.io/zh/blog/qwen3.6-27b/</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.6-27B">https://huggingface.co/Qwen/Qwen3.6-27B</a></li>
+<li><a href="https://chat.qwen.ai/">https://chat.qwen.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/introducing-openai-privacy-filter/">OpenAI 发布开源隐私过滤模型，支持本地检测脱敏</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 发布了名为 <strong>OpenAI Privacy Filter</strong> 的开放权重模型。</p>
+<p>该模型总参数量为 <code>1.5B</code>，激活参数为 <code>50M</code>。</p>
+<p>它主要用于检测和脱敏文本中的个人身份信息。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 发布了名为 <strong>OpenAI Privacy Filter</strong> 的开放权重模型，该模型采用 <code>Apache-2.0</code> 协议，旨在检测和脱敏文本中的个人身份信息 (<code>PII</code>)。</p>
+<p>据官方博客描述，这是一个基于 <code>GPT-OSS</code> 架构的双向 token 分类模型，具备前沿的个人数据检测能力。它专为高吞吐量隐私工作流设计，能够对非结构化文本进行上下文感知的单次快速脱敏。</p>
+<p>该模型采用了 <code>MoE</code> 架构，总参数量为 <strong>1.5B</strong>，激活参数为 <strong>50M</strong>，并支持 <strong>128k</strong> 上下文。由于体积小巧，该模型支持本地运行，甚至能够在浏览器中执行，从而确保敏感数据不会离开用户设备。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423090101_d61b16b58e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-openai-privacy-filter/">https://openai.com/index/introducing-openai-privacy-filter/</a></li>
+<li><a href="https://huggingface.co/openai/privacy-filter">https://huggingface.co/openai/privacy-filter</a></li>
+<li><a href="https://github.com/openai/privacy-filter">https://github.com/openai/privacy-filter</a></li>
+</ul>
+<hr>
+<h2>Kimi 致歉 K2.6 上线波动并重置用户额度 <code>#5</code></h2>
+<blockquote>
+<p><strong>Kimi</strong>因上线<code>K2.6</code>新模型引发服务波动和用户额度误扣向公众致歉。</p>
+<p>官方目前已紧急修复系统异常，并将所有用户的当月额度全额重置。</p>
+</blockquote>
+<p><strong>Kimi</strong> 因新模型上线引发的服务波动及额度误扣问题向用户致歉。</p>
+<p>根据 <strong>Kimi</strong> 智能助手官方说明，在 <strong><code>Kimi K2.6</code></strong> 模型上线期间，由于访问量激增，部分用户遭遇了高峰期会员排队及功能短暂不可用的情况。</p>
+<p>同时，因后台系统的 <strong>Agent</strong> 额度统计存在偏差，导致用户权益被误扣。</p>
+<p>为此，官方已紧急修复相关异常，并将所有用户的当月额度统一重置补充、恢复至全量状态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423085643_754801273d.png" alt=""></p>
+<hr>
+<h2>小米 MiMo 升级 Token 计划，调整计费及订阅模式 <code>#6</code></h2>
+<blockquote>
+<p><strong>Xiaomi MiMo</strong> 宣布全面升级 <code>Token Plan</code>，上线了最新的 <code>MiMo-V2.5</code> 系列模型。</p>
+<p>此举简化了 <code>Credits</code> 计费方式，并推出了夜间八折优惠。此外，官方还新增了连续包月和包年等订阅折扣。</p>
+<p>同时，官方已重置已购用户的 <code>Credits</code> 额度。</p>
+</blockquote>
+<p><strong>Xiaomi MiMo</strong> 官方宣布对其 <code>Token Plan</code> 进行焕新升级，上线了最新的 <strong>MiMo-V2.5</strong> 系列模型并推出包括调整 <code>Credits</code> 计费倍率、新增夜间优惠以及丰富订阅折扣等多项优化措施。</p>
+<p>在计费机制上，该计划取消了 <code>256k</code> 与 <code>1 M</code> 上下文窗口的 <code>Credit</code> 倍率差异及 <code>1 Token</code> 等于 <code>4 Credits</code> 的计费方式。此次调整将 <code>MiMo-V2.5</code> 和 <strong>MiMo-V2.5-Pro</strong> 的消耗速率分别设定为 <code>1x</code> 与 <code>2x</code>。</p>
+<p>此外，此次升级引入了北京时间每日 <code>00:00</code> 至 <code>08:00</code> 的全模型夜间优惠 <strong>8 折</strong> 机制。</p>
+<p>在订阅模式方面，官方新增了「连续包月」与「包年」选项。开通连续包月自动续费的老用户和新用户可分别享受一次性的次月 <strong>7 折</strong> 与 <strong>77 折</strong> 优惠，而包年订阅则提供全年 <strong>88 折</strong>，该折扣不再叠加其他首购或自动续费优惠。</p>
+<p>与此同时，官方将已购买该套餐的所有用户进行 <code>Credits</code> 额度重置清零。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423090210_1e43900595.png" alt=""></p>
+<hr>
+<h2><a href="https://x.com/ClaudeDevs/status/2046999435239133246">Claude 开放 ultrareview 功能，订阅用户享三次免费审查</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 官方宣布，<strong>Claude Code</strong> 的代码审查功能 <code>/ultrareview</code> 现面向 <strong>Pro</strong> 和 <strong>Max</strong> 用户提供截至 <strong>5月5日</strong> 的 <strong>3次</strong> 免费使用机会。</p>
+</blockquote>
+<p><strong>Claude</strong> 宣布，此前已推出的 <strong>Claude Code</strong> 功能 <code>/ultrareview</code>（研究预览版）现面向 <strong>Pro</strong> 和 <strong>Max</strong> 用户提供截止至 <strong>5 月 5 日</strong> 的 <strong>3</strong> 次免费审查机会。</p>
+<p>该功能旨在通过在云端运行一组寻找 Bug 的 <code>Agent</code> 来审查代码，运行结果会自动反馈至 CLI 或 Desktop 客户端。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423082700_2ff85f96b0.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ClaudeDevs/status/2046999435239133246">https://x.com/ClaudeDevs/status/2046999435239133246</a></li>
+</ul>
+<hr>
+<h2><a href="https://zed.dev/blog/parallel-agents">Zed 推出 Parallel Agents，支持多 Agent 并行运行</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Zed</strong>编辑器在最新版本中推出了<code>Parallel Agents</code>功能，允许开发者在单一窗口内并行编排多个<strong>Agent</strong>。</p>
+<p>用户可以通过全新的侧边栏对它们进行集中管理。</p>
+</blockquote>
+<p><strong>Zed</strong> 编辑器在最新版本中推出了 <strong>Parallel Agents</strong> 功能，允许用户在同一个窗口内并行运行和编排多个 <strong>Agent</strong>。</p>
+<p>根据官方博客显示，该功能通过全新的 <code>Threads Sidebar</code> 提供集中管理。它支持按项目分组、跨仓库读写、按线程组合不同 <strong>Agent</strong> 以及按需隔离工作树。</p>
+<p>这项更新引入了针对 <strong>Agent</strong> 工作优化的全新默认面板布局，现有用户需手动选择启用该布局。</p>
+<p>目前该功能已适配 <strong>macOS</strong>、<strong>Windows</strong> 和 <strong>Linux</strong> 平台。用户可通过相应的快捷键快速唤醒侧边栏。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/ce108290-bf67-4b2b-970b-427f6d5fc5f2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zed.dev/blog/parallel-agents">https://zed.dev/blog/parallel-agents</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/google-labs-code/design.md">Google 开源 DESIGN.md 规范</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Google</strong> 开源了其专门用于帮助 <strong>AI</strong> 编程智能体准确理解和执行项目设计的 <code>DESIGN.md</code> 规范。</p>
+<p>该规范结合了机器可读的设计 token 与人类可读的文本说明，并同步推出了配套的命令行工具。</p>
+</blockquote>
+<p><strong>Google</strong> 旗下 <strong>Stitch</strong> 团队近期开源 <code>DESIGN.md</code> 规范，旨在为编程 Agent 建立视觉识别共享格式。</p>
+<p>据官方称，该规范通过结合机器可读的 <code>设计 token</code> 与人类可读的设计原理，让 Agent 在跨工具和平台操作时无需再猜测设计意图。</p>
+<p>该规范提供了一个配套的命令行工具，支持结构校验、无障碍对比度检查、版本差异对比以及向 <code>Tailwind</code> 或 <code>W3C DTCG</code> 标准的导出功能。</p>
+<p>目前该格式仍处于 <code>alpha</code> 版本，官方表示规范正在积极开发中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/fd54295d-a267-42f0-b832-da0dfd21556e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/google-labs-code/design.md">https://github.com/google-labs-code/design.md</a></li>
+<li><a href="https://x.com/stitchbygoogle/status/2046624729403142320">https://x.com/stitchbygoogle/status/2046624729403142320</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/PGH22zYObkTHVZRXr9-I4Q">火山方舟上线 GLM-5.1 模型，ArkClaw 集成 Hermes Agent</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>火山方舟</strong> <strong>Coding Plan</strong> 上线了 <code>GLM-5.1</code> 和 <code>Kimi K2.6</code> 等模型，同时 <strong>ArkClaw</strong> 平台推出了 <code>Hermes Agent</code> 插件。</p>
+</blockquote>
+<p>近日，<strong>火山方舟</strong> <strong>Coding Plan</strong>正式上线<code>GLM-5.1</code>模型。</p>
+<p>官方宣称该模型对齐原厂满血能力且不限购。</p>
+<p>同时宣布其<strong>ArkClaw</strong>平台推出<code>Hermes Agent</code>插件以支持一键开启具备自我进化能力的 Agent。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/b6fafc42-afb4-45b1-90b4-e1a0ceecb8ca/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/PGH22zYObkTHVZRXr9-I4Q">https://mp.weixin.qq.com/s/PGH22zYObkTHVZRXr9-I4Q</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NousResearch/status/2046811525118132557">Hermes Agent 限时免费开放 Kimi K2.6 与 Step 3.5 Flash</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Hermes Agent</strong> 宣布限时免费提供 <code>Kimi K2.6</code> 和 <code>Step 3.5 Flash</code> 两款模型。</p>
+<p>其中，<code>Kimi K2.6</code> 在接下来的 <strong>24 小时</strong> 内免费。</p>
+<p><code>Step 3.5 Flash</code> 在 <strong>10 天</strong> 内免费。</p>
+</blockquote>
+<p><strong>Nous Research</strong> 宣布在 <strong>Nous Portal</strong> 上限时免费提供 <code>Kimi K2.6</code> 和 <code>Step 3.5 Flash</code> 两款模型。</p>
+<p>其中，<code>Kimi K2.6</code> 由 <strong>Vercel AI Gateway</strong> 和 <strong>Kimi Moonshot</strong> 提供支持。该服务将在接下来的 <strong>24 小时</strong> 内免费开放，官方称其为最令人印象深刻的开放模型发布之一。</p>
+<p>而 <code>Step 3.5 Flash</code> 则在 <strong>10 天</strong> 内免费向用户开放。<strong>Nous Research</strong> 对 <strong>StepFun AI</strong> 促成了该项服务表示感谢。</p>
+<p>用户可通过运行 <code>Hermes Agent</code>，执行 <code>hermes update</code> 后在 <code>hermes model</code> 中选择 <strong>Nous Portal</strong> 及对应的模型名称来配置并体验这些服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/ec196344-b503-4dfd-bc7c-60709e69e34e/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423083523_dc41af6baa.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NousResearch/status/2046811525118132557">https://x.com/NousResearch/status/2046811525118132557</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/business/workspace-agents/">OpenAI 宣布 ChatGPT 上线 Workspace agents 功能</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>面向企业版和教育版等订阅用户在 <strong>ChatGPT</strong> 中推出了 <code>Workspace agents</code> 功能。</p>
+<p>通过该功能，团队可一次性构建具备特定工作能力的 <code>Agent</code> 并在工作区内共享。</p>
+<p>且能将其设定为按计划自动执行重复性任务。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 宣布在 <strong>ChatGPT</strong> 中推出 <code>Workspace agents</code> 功能。</p>
+<p>该功能现已作为研究预览版向 <strong>ChatGPT Business</strong>、<strong>Enterprise</strong>、<strong>Edu</strong> 和 <strong>Teachers</strong> 订阅计划提供，旨在处理跨工具和团队的复杂任务与长期工作流。</p>
+<p>通过该系统，团队可一次性构建具备特定工作能力的 Agent 并在工作区内共享，且能将其设定为按计划自动执行重复性任务。</p>
+<p>这些 Agent 能够在云端持续运行，并跨文档、电子邮件、<strong>Slack</strong> 及 <code>Linear</code> 等外部工具收集上下文并执行已批准的操作。</p>
+<p>在赋能团队实现跨销售、IT 等多部门自动化的同时，该功能为管理员提供了集中的控制台，支持基于角色的访问控制、审计日志追踪以及针对敏感操作的人工审批门禁。</p>
+<p>从而确保企业内部的自动化工作流具备完整的可见性与合规性。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/a4444d79-1326-4cf6-86b6-b647b8fb88bb/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/business/workspace-agents/">https://openai.com/business/workspace-agents/</a></li>
+<li><a href="https://x.com/OpenAI/status/2047008987665809771">https://x.com/OpenAI/status/2047008987665809771</a></li>
+</ul>
+<hr>
+<h2><a href="https://chatgpt.com/apps/spreadsheets/">OpenAI 发布 ChatGPT for Google Sheets 插件</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 推出了 <strong>ChatGPT for Google Sheets</strong> 插件。</p>
+<p>用户现在可以直接在 <strong>Google Sheets</strong> 里向 <code>ChatGPT</code> 提问或完成各类操作。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 发布了 <strong>ChatGPT for Google Sheets</strong>。</p>
+<p>该工具现已作为附加组件在 <strong>Google Marketplace</strong> 上架。</p>
+<p>这款插件允许用户创建新的表格、跨标签页和公式提出问题，并能够直接在表格内执行更新操作。</p>
+<p>相关访问入口已指向 <strong>chatgpt.com/apps/spreadsheets/</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/183915b0-dabb-4242-89f8-562cf96763e1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://chatgpt.com/apps/spreadsheets/">https://chatgpt.com/apps/spreadsheets/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform">Google 推出 Gemini Enterprise Agent Platform 统一 AI 技术栈</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Google</strong> 官方宣布推出全新的 <strong>Gemini Enterprise Agent Platform</strong>。</p>
+<p>这个一站式平台能帮助技术团队大规模构建和管理 <code>AI</code> 智能体，并让普通业务人员通过应用实现零代码使用与创建智能体。</p>
+</blockquote>
+<p><strong>Google</strong> 官方宣布推出全新的 <strong>Gemini Enterprise Agent Platform</strong>，旨在通过统一的 AI 技术栈帮助企业迈入智能体时代。</p>
+<p>据官方描述，该平台专为技术团队打造，提供了一个用于大规模构建、扩展、治理和优化自主 <code>Agent</code> 的单一环境。其底层集成了 <code>Vertex AI</code> 的模型构建与调优服务。</p>
+<p>在模型支持方面，该平台涵盖包括 <code>Gemini 3.1 Pro</code>、<code>Gemini 3.1 Flash Image (Nano Banana 2)</code>、<code>Lyria 3</code> 以及 <strong>Anthropic</strong> 旗下包含最新 <code>Opus 4.7</code> 在内的 <code>Claude</code> 系列模型。</p>
+<p>与此同时，该平台还与面向全员的 <strong>Gemini Enterprise app</strong> 深度集成。这一举措使商业人员无需编写代码即可利用 IT 构建的 <code>Agent</code> 或自行创建自动化流程。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-enterprise-agent-platform</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/demishassabis/status/2046994882150154369">谷歌宣布 Workspace Intelligence 全面上线</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>宣布内置于 <strong>Workspace</strong> 办公套件的 <code>Workspace Intelligence</code> 全面上线。</p>
+<p><code>Workspace Intelligence</code> 整合了邮件和云盘等应用数据，为 <strong>Docs</strong> 和 <strong>Sheets</strong> 带来了由 <code>Gemini</code> 驱动的智能写作、风格模仿以及自动生成表格等新功能。</p>
+<p>这一举措标志着 <strong>谷歌</strong> 正在全面发力企业办公自动化领域。</p>
+</blockquote>
+<p>本周 <code>Google Cloud Next</code> 期间，<strong>Google</strong> 宣布内置于 <strong>Workspace</strong> 的 <strong>Workspace Intelligence</strong> 已面向所有 <strong>Workspace</strong> 客户及 <strong>AI Ultra</strong>、<strong>AI Pro</strong> 用户开放。</p>
+<p><strong>Workspace Intelligence</strong> 通过整合 <strong>Gmail</strong>、<strong>Calendar</strong>、<strong>Chat</strong>、<strong>Drive</strong> 等应用数据构建统一语义层，在赋予用户数据访问管理控制权的同时，为 <strong>Google Docs</strong> 和 <strong>Google Sheets</strong> 带来由 <strong>Gemini</strong> 驱动的多项新功能。</p>
+<p>这些功能包括文档生成与风格模仿、表格自动构建、基于提示的智能填充以及非结构化数据转结构化表格。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/25f433d8-3465-4afb-ac9e-0df21579d159/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/demishassabis/status/2046994882150154369">https://x.com/demishassabis/status/2046994882150154369</a></li>
+</ul>
+<hr>
+<h2><a href="https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/">Google 升级 Google Earth AI 及 Google Maps Platform</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>宣布对 <strong>Google Earth AI</strong> 和 <strong>Google Maps Platform</strong> 进行重大扩展。</p>
+<p>此次更新增加了多项基于卫星与街景图像的<strong>人工智能</strong>分析工具，帮助公共部门和企业更好地理解和分析物理世界。</p>
+</blockquote>
+<p><strong>Google</strong> 宣布对其 <strong>Google Earth AI</strong> 及 <strong>Google Maps Platform</strong> 进行重大扩展，推出了多项新功能以帮助企业和公共部门理解物理世界。</p>
+<p>此次更新推出了三项基于真实世界图像和 AI 的新能力。<strong>Maps Imagery Grounding</strong> 允许用户基于 <strong>Street View</strong> 生成图像。</p>
+<p><strong>Aerial and Satellite Insights</strong> 支持在 <code>BigQuery</code> 中自动分析航拍和卫星图像。</p>
+<p>此外，还推出了两个用于识别特定基础设施对象的 <code>Experimental</code> 版 <strong>Earth AI Imagery</strong> 模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/59b83199-71cf-4331-a3b1-288d4f1d2002/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/">https://mapsplatform.google.com/resources/blog/three-new-ways-to-build-with-real-world-imagery-and-ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp">Claude 官方详解 MCP 连接方案，SDK 月下载超三亿次</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 官方发布博文指出，随着生产级 <strong>Agent</strong> 向云端迁移，<code>MCP</code> 已经成为连接外部系统最关键的方式。</p>
+<p>官方结合相关数据，详细分享了构建高效云端 <code>MCP</code> 架构的设计模式与最佳实践。</p>
+</blockquote>
+<p><strong>Claude</strong> 官方近日发布博文，指出 <code>MCP</code> 凭借标准化优势，成为云端生产级 <strong>Agent</strong> 连接外部系统的关键方式。</p>
+<p>官方数据显示，<code>MCP SDK</code> 月下载量从年初 <strong>1 亿</strong> 跃升至超 <strong>3 亿</strong>，目录收录超 <strong>200 个</strong> <code>server</code>。</p>
+<p>官方建议构建远程服务器最大化分发，按意图分组工具，大型服务采用代码编排。身份验证方面，推荐支持 <strong>CIMD</strong> 的规范及 <strong>Vaults</strong> 功能。</p>
+<p>为提升上下文效率，官方推荐使用工具搜索及程序化工具调用模式。此外，官方强调 <code>MCP</code> 与 <strong>Skills</strong> 结合，支持打包为插件或直接分发，构建可扩展的云端 <strong>Agent</strong> 系统。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp">https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/">谷歌推出 TorchTPU 支持 PyTorch 原生运行 TPU</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>宣布推出 <strong><code>TorchTPU</code></strong> 技术栈，让 <strong><code>PyTorch</code></strong> 能够原生且高效地运行在 <strong><code>TPU</code></strong> 硬件上。</p>
+</blockquote>
+<p><strong>Google</strong> 宣布推出 <strong>TorchTPU</strong>，旨在让 <strong>PyTorch</strong> 能够原生且高效地运行在 <strong>TPU</strong> 硬件上。</p>
+<p>根据官方博客显示，随着现代机器学习模型规模不断扩大，对数以十万计芯片的分布式系统需求日益增加，该技术栈应运而生。其核心目标是提供极强的易用性、可移植性和卓越性能。</p>
+<p>开发者仅需极少的代码改动，例如将初始化参数改为 <code>tpu</code>，即可将现有的 <strong>PyTorch</strong> 工作负载迁移至 <strong>TPU</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/">https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/huggingface/ml-intern">Hugging Face 发布 ml-intern 开源 AI Agent 自动化大模型后训练</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Hugging Face</strong> 发布了名为 <code>ml-intern</code> 的开源 <strong>AI Agent</strong>，官方称这款工具能够代替人类研究员。</p>
+<p>该工具旨在全自动完成大模型的后训练任务。</p>
+</blockquote>
+<p><strong>Hugging Face</strong> 近日发布了一款名为 <code>ml-intern</code> 的开源 <strong>AI Agent</strong>。该产品基于 <code>smolagents</code> 框架构建，旨在自动化大语言模型（<code>LLM</code>）的端到端后训练工作流。</p>
+<p>官方表示，该工具能够完整模拟机器学习研究人员的日常研究循环，自主完成文献回顾、数据集发现与格式化。它还能执行训练脚本（可通过 <strong>Hugging Face Jobs</strong> 运行），并基于开源实验跟踪器 <code>Trackio</code> 进行监控，实现失败诊断与重训练。</p>
+<p>此外，在医疗和数学领域的测试中表现亮眼。该工具展示了从头生成合成数据的能力，并在 <strong>HealthBench</strong> 上击败了 <strong>Codex</strong>，优势达到 <strong>60%</strong>。同时，它还具备自主编写并运行 <code>GRPO</code> 脚本进行强化学习优化的能力。</p>
+<p>目前，该产品已提供 CLI 版本，以及网页和移动端应用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/15c926ca-1f2e-4fac-9a38-56af197219cc/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/huggingface/ml-intern">https://github.com/huggingface/ml-intern</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAINewsroom/status/2046951726683455866">OpenAI 规划 2030 年实现 30GW 算力</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>官方表示，在目前已确定超过 <strong>8GW</strong> 算力规模的基础上，计划到 <strong>2030 年</strong>将计算能力提升至 <strong>30GW</strong>，以满足快速激增的需求。</p>
+</blockquote>
+<p>根据 <strong>OpenAI</strong> 官方发布的消息，<strong>OpenAI</strong> 正在规划到 <strong>2030</strong> 年实现 <strong>30GW</strong> 计算能力的新目标，以适应对智能系统快速激增的需求。</p>
+<p>该公司曾于 <strong>2025</strong> 年 <strong>1</strong> 月承诺生成 <strong>10GW</strong> 的算力，目前已确定了其中超过 <strong>8GW</strong> 的规模。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/47f89aab-5886-4ded-9406-ce64d38d35e8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAINewsroom/status/2046951726683455866">https://x.com/OpenAINewsroom/status/2046951726683455866</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/">Google Cloud 发布第八代 TPU，采用双芯片架构设计</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Google Cloud</strong>宣布推出第八代定制 AI 芯片 TPU 系列，包含专攻模型训练的 <strong>TPU 8t</strong>和专攻推理的 <strong>TPU 8i</strong>。</p>
+<p>这两款芯片均首次采用谷歌自研的 <code>Axion ARM</code>架构 CPU，并配备第四代液冷技术。</p>
+<p><strong>谷歌</strong>计划在今年晚些时候全面提供这两款芯片服务。</p>
+</blockquote>
+<p>Google Cloud 宣布推出其第八代定制 AI 芯片 Tensor Processing Unit (TPU)，本次发布采取了双芯片架构，分别为专为模型训练优化的 TPU 8t 和专为推理优化的 TPU 8i，旨在满足 Agentic 时代日益复杂的工作负载需求。官方博客显示，TPU 8t 具备极强的计算扩展能力，单个 Superpod 可扩展至 9,600 个芯片并提供 121 ExaFlops 的算力，配合新推出的 Virgo Network，最高可支持在单一逻辑集群中实现 100 万个芯片的近线性扩展。而 TPU 8i 则通过大幅提升内存带宽与片上 SRAM 容量来打破“内存墙”，其性价比相比上一代提升了 80%。这两款芯片均首次采用了 Google 自研的 Axion ARM 架构 CPU 作为主机，并配备第四代液冷技术，能效比上一代提升了约两倍。Google 计划在今年晚些时候正式提供这两款芯片的全面可用服务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/e3719faf-279b-42d6-b620-b26807a2ea27/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/business/autos-transportation/tesla-ceo-musk-says-company-plans-use-intels-14a-process-terafab-2026-04-22/">马斯克宣布建 Terafab 超级芯片工厂，确认采用英特尔 14A 工艺</a> <code>#22</code></h2>
+<blockquote>
+<p>据报道，<strong>特斯拉</strong>、<strong>SpaceX</strong>和<strong>xAI</strong>将合资在德克萨斯州建设名为 <strong>Terafab</strong> 的超级芯片工厂。</p>
+<p>该项目计划采用英特尔的<code>14A</code>制程工艺。</p>
+</blockquote>
+<p>近期，<strong>Elon Musk</strong> 宣布将在德克萨斯州奥斯汀的 <strong>Giga Texas</strong> 北校区建设名为"<code>Terafab</code>"的巨型芯片制造工厂。</p>
+<p>该项目是由 <strong>特斯拉</strong>、<strong>SpaceX</strong> 和 <strong>xAI</strong> 共同发起的合资项目，旨在整合从芯片开发到封装的所有生产步骤，以减少对 <strong>TSMC</strong> 和 <strong>三星</strong> 等外部代工厂的依赖。</p>
+<p>据媒体报道，该项目的投资成本预计在 <strong>200亿至250亿美元</strong> 之间。</p>
+<p>在制造工艺方面，Musk 官方确认 <strong>特斯拉</strong> 计划在 "<code>Terafab</code>" 项目中使用 <strong>英特尔</strong> 的 "<code>14A</code>" 制造工艺。</p>
+<p>"<strong>Terafab</strong>" 的长期目标是实现每年生产超过 <strong>1万亿瓦</strong> 的 <strong>AI</strong> 计算能力，其生产的专用芯片将应用于 <strong>特斯拉</strong> 的 "<code>Full Self-Driving</code>" 和 "<strong>Robotaxi</strong>" 车队、<strong>SpaceX</strong> 的卫星以及 <strong>xAI</strong> 的应用中。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/business/autos-transportation/tesla-ceo-musk-says-company-plans-use-intels-14a-process-terafab-2026-04-22/">https://www.reuters.com/business/autos-transportation/tesla-ceo-musk-says-company-plans-use-intels-14a-process-terafab-2026-04-22/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theinformation.com/articles/tencent-alibaba-talks-invest-deepseek-20-billion-plus-valuation">媒体称腾讯阿里洽谈投资 DeepSeek，估值目标超两百亿美元</a> <code>#23</code></h2>
+<blockquote>
+<p>据报道，<strong>腾讯</strong>和<strong>阿里巴巴</strong>正洽谈投资<strong>DeepSeek</strong>。这笔首次外部融资的估值目标已因投资者反响强烈而提升至超过<strong>两百亿美元</strong>。</p>
+<p>在产品端，非官方人员披露了疑似 <code>DeepSeek V4</code> 模型的详细参数。同时，有用户观察到其 API 疑似出现了新模型的上线测试与回滚变动。</p>
+</blockquote>
+<p>据外媒 <strong>The Information</strong> 援引知情人士消息报道，<strong>腾讯</strong>和<strong>阿里巴巴</strong>目前正洽谈投资 <strong>DeepSeek</strong>，这也是该公司首次启动外部融资。</p>
+<p>由于初步接洽引发了投资者的巨大兴趣，<strong>DeepSeek</strong>的估值目标已从此前的不低于 <strong>100亿美元</strong> 提升至寻求超过 <strong>200亿美元</strong> 的估值。</p>
+<p>在模型端，有非官方人员披露了即将发布的 <code>DeepSeek V4</code> 系列模型的详细规格参数。</p>
+<p>同时，社区有讨论指出 <strong>DeepSeek</strong> 的 API 近期出现了疑似新模型的上线与回滚变动。</p>
+<p>且 <strong>DeepSeek App</strong> 推送了 <strong>2.0.0</strong> 版本更新。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423082428_66fc0302c5.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/73778226-bb89-4e61-89d5-a3b0ad788183/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423082357_574063ca15.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theinformation.com/articles/tencent-alibaba-talks-invest-deepseek-20-billion-plus-valuation">https://www.theinformation.com/articles/tencent-alibaba-talks-invest-deepseek-20-billion-plus-valuation</a></li>
+<li><a href="https://x.com/yifan_zhang_/status/2046937210813808962">https://x.com/yifan_zhang_/status/2046937210813808962</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/chetaslua/status/2046849830367191187">OpenAI Codex 误曝 GPT-5.5</a> <code>#24</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 的 <code>Codex</code> 平台出现漏洞，导致 <code>GPT-5.5</code> 等内部模型代号短暂泄露。</p>
+<p><code>GPT-5.5</code> 被描述为“最前沿的智能体编程模型”。</p>
+<p>同时曝光的还有 <code>oai-2.1</code>、<code>heisenberg</code>、<code>arcanine</code> 及 <code>glacier-alpha</code> 系列等代号和描述。</p>
+<p>目前相关入口已被修复下线。</p>
+<p>与此同时，针对 <strong>Anthropic</strong> 测试移除部分新 Pro 用户 <code>Claude Code</code> 权限的动向，<strong>Codex</strong> 负责人公开承诺，<strong>Codex</strong> 将继续向免费版和 Plus 版用户提供服务。</p>
+</blockquote>
+<p>近期，<strong>OpenAI</strong> <code>Codex</code> 工具发生接口漏洞，导致 <code>GPT-5.5</code> 及多个内部模型代号短暂泄露，随后官方修复了该入口。其中，<code>GPT-5.5</code> 被标注为“最前沿的智能体编程模型”，同时曝光的还有 <code>oai-2.1</code>、<code>heisenberg</code>、<code>arcanine</code> 及 <code>glacier-alpha</code> 系列等代号。</p>
+<p>与此同时，<strong>Anthropic</strong> 官方确认正测试移除部分新 Pro 用户 <code>Claude Code</code> 访问权限。作为回应，<strong>OpenAI</strong> <code>Codex</code> 负责人公开承诺，<code>Codex</code> 将继续向 Free 和 Plus 用户提供服务，不会违背透明度与信任原则，并强调具备充足算力支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/068aed33-ab64-4c78-b11a-2b466a47b838/bcc1d84f-1cf2-4065-ba14-7a45bc6a1a9c/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422175155_6ac4a6ed61.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260422/20260422175252_5e0e6b6ea9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/chetaslua/status/2046849830367191187">https://x.com/chetaslua/status/2046849830367191187</a></li>
+<li><a href="https://x.com/thsottiaux/status/2046740759056162816">https://x.com/thsottiaux/status/2046740759056162816</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">Meta 被曝采集员工操作数据训练 AI</a> <code>#25</code></h2>
+<blockquote>
+<p>据 <strong>路透社</strong> 报道，<strong>Meta</strong> 正在美国员工的办公电脑上部署内部追踪工具。</p>
+<p>该工具负责收集鼠标点击和键盘输入等操作数据。这些数据将被用于训练能够自动执行办公任务的 <strong>AI 模型</strong>。</p>
+</blockquote>
+<p>据 <strong>路透社</strong> 披露，<strong>Meta</strong> 近期正在美国员工的办公电脑上部署一款内部追踪工具，以实时采集鼠标移动、点击、键盘输入以及工作相关应用程序和网站的截图数据。</p>
+<p>根据官方说法，这项名为“模型能力计划”的举措旨在为 <strong>Meta SuperIntelligence Labs</strong> 提供真实的人机交互范例，用于训练能够自动执行日常办公任务的 <code>computer-use Agent</code>。</p>
+<p><strong>Meta</strong> 首席技术官 <strong>博斯沃思</strong> 指出，人类未来的角色将转变为指挥者和审阅者。且官方承诺上述数据仅用于模型训练，已采取安全措施保护敏感内容，不会与员工的绩效考核挂钩。</p>
+<p>然而，此举在非官方社区引发了关于隐私侵犯、数据合规性以及 AI 替代员工的广泛争议。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/68</guid><pubDate>Thu, 23 Apr 2026 01:51:05 +0000</pubDate></item><item><title>2026-04-22</title><link>https://imjuya.github.io/juya-ai-daily/issue-67/</link><description>AI 早报 2026-04-22 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布图像生成模型 gpt-image-2，支持思考模式及多语言文本渲染 ↗ #1 SpaceX 与 Cursor 宣布合作，获六百亿美元收购权 ↗ #2 Anthropic 调整 Claude Code 订阅档位引社区争议 #3 模型发布 Gemini API 上线 Gemini Deep Research 两个新版本 ↗ #4 蚂蚁集团发布 Ling-2.6-flash 模型，前身为 Elephant Alpha ↗ #5 腾讯开源 MegaStyle 框架，开源 1.4M 风格数据集 ↗ #6 开发生态 OpenAI Codex 周活破 400 万，重置速率限制 ↗ #7 OpenAI 发布 Euphony…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260422/2026042208503365596571b2_cover_c8da.png" alt=""></p>
 <h1>AI 早报 2026-04-22</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1MPoHBJEr7">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=gu5l3NFVnzQ">YouTube</a></p>
 <h2>概览</h2>
