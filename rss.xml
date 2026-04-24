@@ -1,5 +1,405 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 23 Apr 2026 01:51:24 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-68/</link><description>AI 早报 2026-04-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 ↗ #1 GLM 调整老套餐计划，月底强制终止续订并送两月权益 ↗ #2 模型发布 Qwen 团队开源 Qwen3.6-27B 模型 ↗ #3 OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 ↗ #4 开发生态 Kimi 致歉 K2.6 上线波动并重置用户额度 #5 小米 MiMo 升级 Token 计划，调整计费及订阅模式 #6 Claude 开放 ultrareview 功能，订阅用户享三次免费审查 ↗ #7 Zed 推出 Parallel Agents，支持多 Agent 并行运行 ↗ #8 Google 开源 DESIGN.md 规范 ↗ #9 火山方舟…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260423/20260423093424878487f3fa_cover_068a.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 24 Apr 2026 01:18:11 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-69/</link><description>AI 早报 2026-04-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 ↗ #1 Anthropic 承认 Claude Code 质量下降并重置用户额度 ↗ #2 腾讯混元发布并开源 Hy3 preview 模型 ↗ #3 模型发布 蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 ↗ #4 蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 ↗ #5 小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 ↗ #6 xAI 发布语音模型 grok-voice-think-fast-1.0 ↗ #7 字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 ↗ #8 开发生态 Claude 宣布…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260424/202604240849238648655412_cover_6800.png" alt=""></p>
+<h1>AI 早报 2026-04-24</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1p6oVBQEsX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=qIIQr51aho4">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 <a href="https://openai.com/index/introducing-gpt-5-5/">↗</a> <code>#1</code></li>
+<li>Anthropic 承认 Claude Code 质量下降并重置用户额度 <a href="https://www.anthropic.com/engineering/april-23-postmortem">↗</a> <code>#2</code></li>
+<li>腾讯混元发布并开源 Hy3 preview 模型 <a href="https://hy.tencent.com/hy3-preview">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 <a href="https://x.com/AntLingAGI/status/2047374871467012393">↗</a> <code>#4</code></li>
+<li>蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 <a href="https://github.com/inclusionAI/LLaDA2.0-Uni">↗</a> <code>#5</code></li>
+<li>小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 <a href="https://platform.xiaomimimo.com/docs/usage-guide/speech-synthesis-v2.5">↗</a> <code>#6</code></li>
+<li>xAI 发布语音模型 grok-voice-think-fast-1.0 <a href="https://x.ai/news/grok-voice-think-fast-1">↗</a> <code>#7</code></li>
+<li>字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 <a href="https://seed.bytedance.com/zh/blog/seed3d-2-0-released-higher-precision-and-greater-usability">↗</a> <code>#8</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude 宣布 Managed Agents 内置记忆功能开启公开测试 <a href="https://claude.com/blog/claude-managed-agents-memory">↗</a> <code>#9</code></li>
+<li>Codex 上线 GPT-5.5，优化浏览器控制并新增 Auto-review 模式 <a href="https://x.com/OpenAIDevs/status/2047381283358355706">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude 桌面端被发现支持配置第三方大语言模型接口 <a href="https://claude.com/docs/cowork/3p/configuration">↗</a> <code>#11</code></li>
+<li>Claude 桌面端支持 URL 协议唤起特定会话及文件 <a href="https://support.claude.com/en/articles/14729294-open-claude-desktop-with-a-link">↗</a> <code>#12</code></li>
+<li>Claude 扩展 Connectors，新增 15 款日常生活应用 <a href="https://claude.com/blog/connectors-for-everyday-life">↗</a> <code>#13</code></li>
+<li>OpenAI 发布 ChatGPT for Clinicians ，推出 HealthBench 评测基准 <a href="https://openai.com/index/making-chatgpt-better-for-clinicians/">↗</a> <code>#14</code></li>
+<li>Gemini 推出对话分支功能，逐步推送中 <a href="https://x.com/joshwoodward/status/2047147030351642914">↗</a> <code>#15</code></li>
+<li>NotebookLM 优化多人分享流程，新增支持断点续学 <a href="https://x.com/GoogleForEdu/status/2047341430352302176">↗</a> <code>#16</code></li>
+<li>OpenClaw 发布 2026.4.22 版，扩展多模型与语音支持 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.22">↗</a> <code>#17</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Google DeepMind 提出 Vision Banana 模型，视觉任务达最优水平 <a href="https://vision-banana.github.io/">↗</a> <code>#18</code></li>
+<li>Google DeepMind 提出 Decoupled DiLoCo 架构，支持低带宽跨区大模型训练 <a href="https://deepmind.google/blog/decoupled-diloco/">↗</a> <code>#19</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 联合 NVIDIA 部署 Codex，万名员工接入 GPT-5.5 <a href="https://x.com/sama/status/2047395562501411058">↗</a> <code>#20</code></li>
+<li>DeepSeek 近期动作频频 <a href="https://github.com/deepseek-ai/TileKernels">↗</a> <code>#21</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/introducing-gpt-5-5/">OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 正式发布了 <strong>GPT-5.5</strong> 和 <strong>GPT-5.5 Pro</strong> 模型。<strong>GPT-5.5</strong> 被官方定位为迄今最智能且最直观易用的版本。</p>
+<p>该版本主打 <code>agentic coding</code>、<code>computer use</code>、<code>knowledge work</code> 和 <code>early scientific research</code> 场景。目前这两款模型已在 <strong>ChatGPT</strong> 上分别向特定付费用户逐步开放。</p>
+<p>而 <strong>GPT-5.5</strong> 则在 <strong>Codex</strong> 中面向所有付费用户开放。模型 API 将在后续上线，其中，<strong>GPT-5.5</strong> 的定价为每百万输入 token <strong>5美元</strong>、输出<strong>30美元</strong>。</p>
+<p><strong>GPT-5.5 Pro</strong> 版为输入<strong>30美元</strong>、输出<strong>180美元</strong>。</p>
+</blockquote>
+<p><strong>OpenAI</strong>发布了<code>GPT-5.5</code>及<code>GPT-5.5 Pro</code>模型，<code>GPT-5.5</code>被官方定位为迄今最智能且最直观易用的版本。</p>
+<p>该模型主打 <code>agentic coding</code>、<code>computer use</code>、知识工作与科学研究场景。它在保持与<code>GPT-5.4</code>同等<code>per-token</code>延迟的同时实现智力跃升，并在<code>Codex</code>中显著降低完成同类任务所需的<code>token</code>消耗。</p>
+<p>在<code>ChatGPT</code>中，<strong>Plus</strong>及以上用户可使用<code>GPT-5.5 Thinking</code>，<strong>Pro</strong>、<strong>Business</strong>及<strong>Enterprise</strong>用户则可使用专为高难度与高准确性任务优化的<code>GPT-5.5 Pro</code>。</p>
+<p>在<code>Codex</code>中，<strong>Plus</strong>、<strong>Pro</strong>、<strong>Business</strong>、<strong>Enterprise</strong>、<strong>Edu</strong>及<strong>Go</strong>计划用户可使用具备<strong>40 万</strong><code>token</code>上下文窗口的<code>GPT-5.5</code>，并可启用快达<strong>1.5 倍</strong>但成本为<strong>2.5 倍</strong>的<code>Fast</code>模式。</p>
+<p><code>API</code>即将上线，<code>gpt-5.5</code>将在<code>API</code>中提供<strong>100 万</strong><code>token</code>上下文窗口。标准定价为每百万输入<code>token</code> <strong>5 美元</strong>、输出<code>token</code> <strong>30 美元</strong>。</p>
+<p><code>gpt-5.5-pro</code>的<code>API</code>定价则为每百万输入<code>token</code> <strong>30 美元</strong>、输出<code>token</code> <strong>180 美元</strong>。</p>
+<p>官方测试数据显示，<code>gpt-5.5</code>在<code>Terminal-Bench 2.0</code>、<code>OSWorld-Verified</code>、<code>Toolathlon</code>、<code>FrontierMath Tier 4</code>、<code>CyberGym</code>等多项基准上取得领先成绩。</p>
+<p>且<strong>OpenAI</strong>已将其生物/化学与网络安全能力在内部<code>Preparedness Framework</code>中均评定为“<strong>High</strong>”级别。同时配套部署了更严格的网络滥用分类器并扩展了<code>Trusted Access for Cyber</code>计划。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/aa4efc81-d8b8-4a5c-80c0-b4242d513680/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424083037_d14fc9de39.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424083126_a8608f70d2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-gpt-5-5/">https://openai.com/index/introducing-gpt-5-5/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/engineering/april-23-postmortem">Anthropic 承认 Claude Code 质量下降并重置用户额度</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 发布报告称，用户反馈的 <strong>Claude Code</strong> 质量下降问题确实存在。</p>
+<p>报告指出了导致该问题的三个原因：一是为了降低延迟而下调了模型的默认推理努力程度。二是针对空闲会话的缓存优化存在逻辑缺陷，导致模型丢失了历史推理记忆。</p>
+<p>三是为控制冗长输出引入的系统提示词长度限制导致性能下降。目前，上述所有问题已在新版本中全面修复。</p>
+<p><strong>Anthropic</strong> 官方重置了所有订阅者的额度限制以作补偿，并重申模型和 API 没有受到影响。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方近期发布了关于 <strong>Claude Code</strong> 质量下降的事后分析报告，确认该问题由影响 <strong>Claude Code</strong>、<code>Claude Agent SDK</code> 及 <strong>Claude Cowork</strong> 的三个独立变更引起，其 API 和推理层均未受到影响。</p>
+<p>首先，为降低极长延迟，官方曾将 <code>Sonnet 4.6</code> 和 <code>Opus 4.6</code> 的默认推理努力程度从 <code>high</code> 降至 <code>medium</code>，这导致部分用户感知到模型智能下降，该变更已被撤销，目前 <code>Opus 4.7</code> 的默认努力程度调整为 <code>xhigh</code>，其他模型恢复为 <code>high</code>。</p>
+<p>其次，一项针对空闲会话的缓存优化存在逻辑缺陷，错误地在后续每个回合清除了历史推理，导致模型表现出健忘和重复，并因持续缓存未命中而加速消耗用户的使用额度。</p>
+<p>最后，为控制最新模型 <code>Opus 4.7</code> 输出过于冗长而引入的系统提示词长度限制，经后续广泛评估证实导致 <code>Opus 4.6</code> 和 4.7 质量下降 3%，该提示词已被移除。</p>
+<p>目前，上述所有问题均已在 <code>v2.1.116</code> 及以上版本中得到全面修复，<strong>Anthropic</strong> 已重置所有订阅者的使用限制以作补偿。</p>
+<p>为防范类似情况，该公司承诺将扩大内部对公共构建版本的测试，强化系统提示词的审查与模型隔离，并已创建 @<strong>ClaudeDevs</strong> 社交账号及 <strong>GitHub</strong> 集中讨论区以深化与用户的沟通。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424082646_5fd44ac948.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424082809_ba82e5d357.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/506c8ae1-8566-4a31-af14-57029b9c45d1/m003.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424053235_a7ab1ac624.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/engineering/april-23-postmortem">https://www.anthropic.com/engineering/april-23-postmortem</a></li>
+<li><a href="https://code.claude.com/docs/en/code-review">https://code.claude.com/docs/en/code-review</a></li>
+<li><a href="https://x.com/ClaudeDevs/status/2047371123185287223">https://x.com/ClaudeDevs/status/2047371123185287223</a></li>
+</ul>
+<hr>
+<h2><a href="https://hy.tencent.com/hy3-preview">腾讯混元发布并开源 Hy3 preview 模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>腾讯混元团队</strong>发布并开源了其新一代旗舰模型预览版 <code>Hy3 preview</code>。</p>
+<p>该模型采用 <code>MoE</code> 架构，总参数量达 <strong>295B</strong>，激活参数量为 <strong>21B</strong>。这款模型主打高性价比与实用性，在复杂推理、代码和智能体任务上的能力实现了大幅提升。</p>
+<p>目前，该模型已上线 <strong>API</strong> 和官方 <strong>Token Plan</strong>，同时也全面接入了<strong>元宝</strong>、<strong>QQ</strong> 和<strong>微信</strong>等内部核心产品线。此外，该模型还在 <strong>OpenRouter</strong> 和 <strong>OpenCode</strong> 等平台提供限时免费调用。</p>
+</blockquote>
+<p><strong>腾讯混元团队</strong>近期正式发布并开源了 <code>Hy3 preview</code> 模型。该模型是 <strong>混元团队</strong>自 <strong>2月份</strong> 重建预训练和强化学习基础设施后推出的首款产品，定位为“混元大模型重建的第一步”。</p>
+<p><code>Hy3 preview</code> 采用了 <code>MoE</code> 架构，总参数量为 <strong>295B</strong>，激活参数量为 <strong>21B</strong>，并包含 <strong>3.8B</strong> 的 <code>MTP</code> 层参数，最大支持 <strong>256K</strong> 上下文长度。官方表示，其在复杂推理、指令遵循、上下文学习、代码及 <code>Agent</code> 任务上的能力实现了大幅提升，并主打全面实用性与高性价比。</p>
+<p>目前，该模型的权重已在 <strong>Hugging Face</strong>、<strong>GitHub</strong>、<strong>ModelScope</strong> 和 <strong>GitCode</strong> 等平台开源。同时，该模型通过 <strong>腾讯云</strong> 提供 API 和 Token Plan 服务，并在 <strong>OpenRouter</strong> 和 <strong>OpenCode</strong> 等第三方平台开启限免。<strong>腾讯</strong>内部的<strong>元宝</strong>、<strong>QQ</strong>、<strong>微信</strong>等多个核心产品线也上线了该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/1e80d4fa-18f2-403c-a97b-548070948467/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423183841_cdeadb6748.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423183940_7b4786c645.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260423/20260423183954_922c2a9755.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hy.tencent.com/hy3-preview">https://hy.tencent.com/hy3-preview</a></li>
+<li><a href="https://github.com/Tencent-Hunyuan/Hy3-preview">https://github.com/Tencent-Hunyuan/Hy3-preview</a></li>
+<li><a href="https://huggingface.co/tencent/Hy3-preview">https://huggingface.co/tencent/Hy3-preview</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/AntLingAGI/status/2047374871467012393">蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong> 发布了 <code>Ling-2.6-1T</code> 模型。该模型不支持思考模式，主打精确指令执行和超低 token 消耗。</p>
+<p>目前该模型已在 <strong>OpenRouter</strong> 和 <strong>Kilo</strong> 平台提供为期 <strong>一周</strong> 的免费 API 试用。<strong>官方</strong> 同时表示正准备开源该模型权重。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong>发布了 <strong><code>Ling-2.6-1T</code></strong> 万亿参数旗舰模型。该模型不支持思考模式，专为精确的指令执行任务设计，通过优先采用"<strong>Fast-Thinking</strong>"机制，实现了 <strong>SOTA</strong> 级别的智能表现与超低 token 开销。</p>
+<p>官方称其性能媲美 <strong><code>GPT-5.4</code></strong>（非推理版），且在 <strong><code>AIME26</code></strong> 基准测试的非推理模型中处于领先地位。目前该模型已在 <strong>OpenRouter</strong> 和 <strong>Kilo</strong> 平台提供为期 <strong>一周</strong> 的免费 API 试用。官方同时宣布正准备开源该模型权重。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/a7c7bf9d-93fc-4329-82b4-a676d36d46e4/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/a7c7bf9d-93fc-4329-82b4-a676d36d46e4/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/AntLingAGI/status/2047374871467012393">https://x.com/AntLingAGI/status/2047374871467012393</a></li>
+<li><a href="https://openrouter.ai/inclusionai/ling-2.6-1t:free">https://openrouter.ai/inclusionai/ling-2.6-1t:free</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/inclusionAI/LLaDA2.0-Uni">蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>发布了统一多模态模型<code>LLaDA2.0-Uni</code>。</p>
+<p>该模型能够无缝完成视觉问答、图像生成与编辑等多种复杂任务。</p>
+<p>目前，该模型已在相关平台开源。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>发布了 <code>LLaDA2.0</code> 系列的首个统一多模态模型 <code>LLaDA2.0-Uni</code>。该模型基于 <code>MoE</code> 架构构建，总参数量达 <strong>16B</strong>（每个 token 激活约 <strong>1B</strong> 参数），能够在单一模型中无缝集成多模态理解与生成能力。</p>
+<p><code>LLaDA2.0-Uni</code> 支持高保真文本到图像生成（包含可选的思考/推理过程）、视觉问答与文档理解、单/多参考图指令编辑以及交错生成与推理。其底层采用统一的 <code>dLLM-MoE</code> 骨干网络与分块掩码 Token 预测范式，并配备 <code>SigLIP-VQ</code> 离散语义 Tokenizer 以及经过蒸馏的 <strong>8</strong> 步快速推理扩散解码器。</p>
+<p>为了提升推理效率，该模型引入了 <code>SPRINT</code> 加速技术，结合 <code>KV cache</code> 复用与自适应去掩码策略优化计算。该项目已在 <strong>Hugging Face</strong> 上开源并提供技术报告，基于 <strong>Apache 2.0</strong> 许可证发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/7c24b3bd-e464-4ab1-a6d0-cbad90f8e858/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/inclusionAI/LLaDA2.0-Uni">https://github.com/inclusionAI/LLaDA2.0-Uni</a></li>
+<li><a href="https://huggingface.co/inclusionAI/LLaDA2.0-Uni">https://huggingface.co/inclusionAI/LLaDA2.0-Uni</a></li>
+</ul>
+<hr>
+<h2><a href="https://platform.xiaomimimo.com/docs/usage-guide/speech-synthesis-v2.5">小米 MiMo 发布语音模型系列，8B 参数 ASR 开源</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>小米</strong> <strong>MiMo</strong> 团队正式发布了 <code>MiMo-V2.5-TTS Series</code> 与 <code>MiMo-V2.5-ASR</code> 模型。</p>
+<p>其中，<code>MiMo-V2.5-TTS Series</code> 包含基础 TTS、VoiceDesign 和 VoiceClone 三款模型，并限时免费提供 API。</p>
+<p>另一款 <code>MiMo-V2.5-ASR</code> 是一款拥有 <strong>8B</strong> 参数的端到端自动语音识别模型，目前已在相关平台开源。</p>
+</blockquote>
+<p>小米 <strong>MiMo</strong> 团队近日正式发布面向 Agent 时代的全链路语音模型系列——<strong><code>MiMo-V2.5-TTS Series</code></strong> 与 <strong><code>MiMo-V2.5-ASR</code></strong>，实现语音输入与输出的语言自由调度。</p>
+<p>其中，<strong><code>MiMo-V2.5-ASR</code></strong> 是一款拥有 <strong>8B</strong> 参数的端到端自动语音识别模型，目前已在 <code>Hugging Face</code> 和 <code>GitHub</code> 上正式开源。</p>
+<p>该模型通过大规模中间训练、高质量监督微调及新型强化学习算法，在中英双语、中文方言、Code-Switch、强噪音、多说话人及高知识密度等复杂场景下均达到官方宣称的业界领先水平。</p>
+<p>同步推出的 <strong><code>MiMo-V2.5-TTS Series</code></strong> 包含基础 TTS、<code>VoiceDesign</code>（音色设计）和 <code>VoiceClone</code>（音色克隆）三款模型，现已在 <strong>小米 MiMo</strong> 开放平台上线并限时免费开放 API。</p>
+<p>其具备精细的风格指令遵循、行内音频标签控制与无需提示词的丰富文本理解能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424060923_feffa86429.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/ec74d852-050b-47c7-9582-227680121d05/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.xiaomimimo.com/docs/usage-guide/speech-synthesis-v2.5">https://platform.xiaomimimo.com/docs/usage-guide/speech-synthesis-v2.5</a></li>
+<li><a href="https://github.com/XiaomiMiMo/MiMo-V2.5-ASR">https://github.com/XiaomiMiMo/MiMo-V2.5-ASR</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-voice-think-fast-1">xAI 发布语音模型 grok-voice-think-fast-1.0</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>xAI</strong> 发布了旗舰语音模型 <code>grok-voice-think-fast-1.0</code> 并开放 <strong>API</strong>。</p>
+<p>该模型在语音智能评测中排名第一。</p>
+<p>它支持 <strong>25 种以上</strong> 语言，能后台实时推理且不增加延迟。</p>
+</blockquote>
+<p>近日，<strong>xAI</strong> 官方宣布推出全新的旗舰语音模型 <code>grok-voice-think-fast-1.0</code>，并已通过 <strong>API</strong> 正式开放。</p>
+<p>该模型专为复杂、模糊和多步骤的工作流设计，能够在不影响响应延迟的情况下于后台进行实时推理，具备精确的数据收集与高并发工具调用能力。</p>
+<p>官方博客显示，该模型在评估全双工语音 Agent 的 <code>τ-voice Bench</code> 排行榜上登顶，原生支持 <strong>25 种以上</strong> 的语言，能够从容应对噪音、口音及频繁打断等真实复杂环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424072010_5766b3773d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-voice-think-fast-1">https://x.ai/news/grok-voice-think-fast-1</a></li>
+</ul>
+<hr>
+<h2><a href="https://seed.bytedance.com/zh/blog/seed3d-2-0-released-higher-precision-and-greater-usability">字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>字节跳动</strong> <strong>Seed 团队</strong>发布了新一代3D生成大模型 <code>Seed3D 2.0</code>，该模型通过架构升级大幅提升了几何精度与材质真实感，并拓展了部件级生成与场景组合等实际应用能力。</p>
+<p>目前，该模型API已上线<strong>火山引擎</strong>。</p>
+</blockquote>
+<p><strong>字节跳动</strong> <strong>Seed 团队</strong>正式发布了新一代 3D 生成大模型 <code>Seed3D 2.0</code>。该模型针对几何精度与材质质量进行了架构升级，官方称其在几何及纹理材质生成两项核心指标上均达到 <strong>SOTA</strong> 表现，旨在推动 3D 生成迈向“生产可用”。</p>
+<p><code>Seed3D 2.0</code> 引入了 <code>Coarse-to-Fine</code> 两阶段 <code>DiT</code> 生成策略以优化几何细节，并采用统一的 <code>PBR</code> 生成模型与 <code>MoE</code> 架构提升纹理真实感与边界精度。在性能评估方面，官方数据显示，在盲评中，该模型在几何生成上展现出显著优势，且在纹理 3D 内容生成上的偏好率达到 <strong>69%</strong> 以上。</p>
+<p>此外，该模型还拓展了部件级分割与补全、铰接资产生成以及基于多模态输入的场景组合等下游任务，以增强实际部署能力。目前，<code>Seed3D 2.0</code> 的技术报告已公开，其 API 也已上线 <strong>火山引擎</strong>。用户可通过 <strong>火山方舟</strong> 体验中心选择对应的视觉模型进行体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/921a298c-596a-49ff-8ee5-e16808ec041e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://seed.bytedance.com/zh/blog/seed3d-2-0-released-higher-precision-and-greater-usability">https://seed.bytedance.com/zh/blog/seed3d-2-0-released-higher-precision-and-greater-usability</a></li>
+<li><a href="https://seed.bytedance.com/zh/seed3d_2_0">https://seed.bytedance.com/zh/seed3d_2_0</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/claude-managed-agents-memory">Claude 宣布 Managed Agents 内置记忆功能开启公开测试</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 官方宣布，<strong>Claude Managed Agents</strong> 的内置记忆功能现已进入公开测试阶段。</p>
+<p>这项功能让智能体能够从每次会话中不断学习并保存记忆。</p>
+<p>开发人员可以通过 <code>API</code> 对其进行完全控制。</p>
+</blockquote>
+<p><strong>Claude</strong> 官方近日宣布，<strong>Claude Managed Agents</strong> 的内置记忆功能现已进入公开测试阶段。</p>
+<p>该功能允许 <strong>Agent</strong> 从每次会话中学习，通过一个旨在平衡性能与灵活性的智能优化记忆层来实现。</p>
+<p>在技术实现上，记忆被存储为文件并直接挂载到文件系统上，这使得 <strong>Claude</strong> 能够利用其现有的 <code>bash</code> 和代码执行能力来处理任务。</p>
+<p>开发人员可以导出这些记忆，通过 API 对其进行管理，并保持对保留内容的完全控制。</p>
+<p>开发人员现在可以通过 <strong>Claude Console</strong> 或新的 CLI 部署首个具备记忆功能的 Agent，并有官方文档可供参考。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/aeb79335-38a8-431a-b614-4999e4319783/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/claude-managed-agents-memory">https://claude.com/blog/claude-managed-agents-memory</a></li>
+<li><a href="https://platform.claude.com/docs/en/managed-agents/memory">https://platform.claude.com/docs/en/managed-agents/memory</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2047381283358355706">Codex 上线 GPT-5.5，优化浏览器控制并新增 Auto-review 模式</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>宣布 <strong>Codex</strong> 应用已全面接入 <code>GPT-5.5</code>，并推出多项重大升级。</p>
+<p>新版本大幅增强了浏览器和电脑自动操作能力，改进了 Office 和 <strong>Google Drive</strong> 文档处理，还加入了 <strong>Auto-review</strong> 模式和系统级听写等功能。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 官方宣布，<code>Codex</code> 迎来重大更新，全面接入 <code>GPT-5.5</code> 模型。</p>
+<p>根据官方提供的数据，该模型在 <code>Codex</code> 中支持 <strong>400K</strong> 上下文窗口。此次更新向 Plus、Pro、Business、Enterprise、Edu 及 Go 计划的用户开放。其 Fast 模式生成 Token 的速度提升 <strong>1.5</strong> 倍，但相应成本会增加 <strong>2.5</strong> 倍。</p>
+<p>此次更新标志着 <code>Codex</code> 从代码工具向全方位计算机操作 Agent 转变，重点强化了浏览器交互、文档处理与长任务自动化能力。</p>
+<p>在浏览器端，<code>Codex</code> 现已支持直接操作 Web 应用、点击页面及基于截图的视觉自我迭代。</p>
+<p>在文档处理方面，其能直接在 Microsoft Office 和 Google Drive 中生成高质量的电子表格与幻灯片。</p>
+<p>此外，该产品新增了 <code>Auto-review</code> 模式，通过独立的审查 Agent 在高风险操作前进行上下文检查以减少人工干预。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/4e3f2249-7711-4878-9940-f2352cee54ce/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/4e3f2249-7711-4878-9940-f2352cee54ce/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2047381283358355706">https://x.com/OpenAIDevs/status/2047381283358355706</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/docs/cowork/3p/configuration">Claude 桌面端被发现支持配置第三方大语言模型接口</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 旗下的 <strong>Claude Desktop</strong> 应用已被证实能够接入并使用第三方大语言模型。</p>
+<p>用户只需在应用内开启开发者模式，即可手动配置第三方推理接口。</p>
+</blockquote>
+<p>近日，<strong>Claude Desktop</strong> 被发现支持配置并使用第三方大语言模型。据多位社区用户测试反馈，该功能无需登录账户即可使用。</p>
+<p>用户只需在应用顶部菜单栏依次点击 <code>Help</code>、<code>Troubleshooting</code> 并启用 <code>Enable developer mode</code>，随后便可通过新增的 <code>Developer</code> 菜单进入 <code>Configure Third-Party Inference</code> 界面配置第三方接口。</p>
+<p>根据官方帮助中心文档显示，该功能主要面向 <strong>IT</strong> 管理员。官方称之为"<code>Claude Cowork with third-party platforms</code>"，旨在帮助企业将 <strong>Claude Desktop</strong> 接入 <strong>Amazon Bedrock</strong>、<strong>Google Cloud Vertex AI</strong>、<strong>Azure AI Foundry</strong> 或任何暴露 <code>/v1/messages</code> 接口的 <code>LLM</code> 网关。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/60b69997-9550-47d8-b962-b24f790df185/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/docs/cowork/3p/configuration">https://claude.com/docs/cowork/3p/configuration</a></li>
+<li><a href="https://x.com/pengchujin/status/2047278414265217268">https://x.com/pengchujin/status/2047278414265217268</a></li>
+</ul>
+<hr>
+<h2><a href="https://support.claude.com/en/articles/14729294-open-claude-desktop-with-a-link">Claude 桌面端支持 URL 协议唤起特定会话及文件</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Claude Desktop</strong> 的 <strong>Mac</strong> 和 <strong>Windows</strong> 版本现已正式支持 <code>claude://</code> 链接唤起功能。</p>
+<p>用户通过点击特定链接就能直接启动客户端，快速跳转到指定的对话或编程会话。</p>
+<p>并且该功能还支持预填充提示词以及附加文件路径。</p>
+</blockquote>
+<p><strong>Claude Desktop</strong> 的 <strong>macOS</strong> 与 <strong>Windows</strong> 版本最新支持了 <code>claude://</code> URL scheme 功能。</p>
+<p>根据 <strong>Claude Help Center</strong> 发布的文档，用户可以通过网站、脚本或其他应用内的链接直接唤起 <strong>Claude Desktop</strong>。若应用未运行，操作系统会先行启动它，并直接跳转至特定的 Chat、Cowork 或 Code 会话。</p>
+<p>该功能支持通过参数预填充提示词、附加指定文件或文件夹路径，且传入的提示词字符数上限约为 <strong>14,000</strong> 个。</p>
+<p>这项新特性可用于工作流组合或为其他工具添加"Open in Claude"按钮，但该功能必须配合桌面端应用使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424054142_14aaa84eec.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://support.claude.com/en/articles/14729294-open-claude-desktop-with-a-link">https://support.claude.com/en/articles/14729294-open-claude-desktop-with-a-link</a></li>
+<li><a href="https://x.com/felixrieseberg/status/2047367515500659128">https://x.com/felixrieseberg/status/2047367515500659128</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/connectors-for-everyday-life">Claude 扩展 Connectors，新增 15 款日常生活应用</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 宣布扩展其 <code>Connectors</code> 功能，新增支持 <strong>15</strong> 款涵盖衣食住行的日常生活应用，并能在对话中根据上下文动态推荐相关应用。</p>
+<p>目前该功能已面向所有用户开放。</p>
+</blockquote>
+<p><strong>Claude</strong> 官方宣布扩展其 <code>Connectors</code> 功能，新增支持 <strong>AllTrails</strong>、<strong>Audible</strong>、<strong>Booking.com</strong>、<strong>Instacart</strong>、<strong>Intuit Credit Karma</strong>、<strong>Intuit TurboTax</strong>、<strong>Resy</strong>、<strong>Spotify</strong>、<strong>StubHub</strong>、<strong>Taskrabbit</strong>、<strong>Thumbtack</strong>、<strong>TripAdvisor</strong>、<strong>Uber</strong>、<strong>Uber Eats</strong> 和 <strong>Viator</strong> 等 15 款日常生活应用。</p>
+<p>这一举措将原本涵盖 200 多个连接器的协同工作能力延伸至日常场景。</p>
+<p>该功能现已在对话中支持动态建议，可根据用户偏好和上下文自动推荐合适的已连接应用，并在有多个应用适用时供用户选择。</p>
+<p>官方强调该产品无广告且无赞助内容，承诺应用数据不会用于模型训练，且在执行预订或购买等操作前会要求用户确认。</p>
+<p>目前该功能已面向所有订阅计划开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/199f9b64-0602-4056-a4e5-d13a5c42d132/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/connectors-for-everyday-life">https://claude.com/blog/connectors-for-everyday-life</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/making-chatgpt-better-for-clinicians/">OpenAI 发布 ChatGPT for Clinicians ，推出 HealthBench 评测基准</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 推出了面向美国境内医疗从业者免费开放的 <code>ChatGPT for Clinicians</code>，同步推出全新评测基准 <code>HealthBench Professional</code>。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 近期宣布推出专为临床工作设计的免费版本 <strong>ChatGPT for Clinicians</strong>，以及全新的开放评测基准 <code>HealthBench Professional</code>。该产品目前主要面向美国境内经过验证的医生、NP、PA 和药剂师免费开放，旨在支持临床护理、文档撰写和医学研究等任务。</p>
+<p>在功能层面，该产品不仅提供针对复杂临床问题的前沿 AI 模型访问，还具备可复用临床工作流技能。它支持基于数百万份同行评审医学文献的实时可信临床搜索，以及跨医学期刊的深度研究支持。此外，用户在研究临床问题时可自动获得 CME 学分。该平台也提供基于 BAA 的可选 HIPAA 合规支持，并承诺不使用用户对话训练模型。</p>
+<p>根据官方博客提供的数据，在 <code>HealthBench Professional</code> 测试中，该工作区内的 <code>GPT-5.4</code> 模型表现超越了基础版 <code>GPT-5.4</code>、其他所有参与对比的模型，甚至击败了拥有无限时间和网络访问权限的人类专科医生。</p>
+<p><strong>OpenAI</strong> 计划在未来几个月内与 <code>Better Evidence Network</code> 合作，将访问权限扩展至美国以外的临床医生，并同步发布了关于在医疗保健领域负责任地整合 AI 的 <code>Health Blueprint</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/78f05c78-c846-4670-a0fa-857e05e862ed/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/making-chatgpt-better-for-clinicians/">https://openai.com/index/making-chatgpt-better-for-clinicians/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/joshwoodward/status/2047147030351642914">Gemini 推出对话分支功能，逐步推送中</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Gemini</strong> 工作人员宣布 <strong>Gemini</strong> 推出对话分支功能，目前正逐步推送该功能。</p>
+</blockquote>
+<p>近日，<strong>Gemini</strong> 工作人员 <strong>Josh Woodward</strong> 在社交平台宣布团队完成了一项功能更新。</p>
+<p>据其公开声明，<strong>Gemini</strong> 正式推出了 <code>Conversation branching</code>（对话分支）功能。</p>
+<p>目前该功能的推送规模正在持续提升，逐步向更广泛受众扩大。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/5c226ca8-6b89-4ef1-9c0e-40642ccbcad0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/joshwoodward/status/2047147030351642914">https://x.com/joshwoodward/status/2047147030351642914</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/GoogleForEdu/status/2047341430352302176">NotebookLM 优化多人分享流程，新增支持断点续学</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>NotebookLM</strong> 发布更新，现在用户能通过批量粘贴邮箱一键分享笔记本。</p>
+<p><code>Quizzes</code> 与 <code>Flashcards</code> 功能也新增了保存进度、断点续学以及学习状态追踪等实用体验。</p>
+</blockquote>
+<p>近日，<strong>NotebookLM</strong> 官方宣布对其产品的协作分享与学习功能进行了两项重要更新。</p>
+<p>在协作方面，该产品优化了多用户分享流程。用户现在可通过直接复制粘贴邮箱地址列表的方式向多人同时分享笔记本，免去了过去逐一添加电子邮件地址的繁琐步骤。</p>
+<p>同时，根据 <strong>NotebookLM</strong> 团队的说明，该产品的 <code>Quizzes</code> 与 <code>Flashcards</code> 功能基于用户反馈迎来了重大升级。</p>
+<p>升级后的功能允许用户和学生保存学习进度并支持断点续学，提供了对卡片的随机排序与删除选项，并加入了追踪机制以明确区分已掌握内容与待复习内容。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/f2205692-8f1d-4de4-a5fc-e9c2b543b297/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/GoogleForEdu/status/2047341430352302176">https://x.com/GoogleForEdu/status/2047341430352302176</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.22">OpenClaw 发布 2026.4.22 版，扩展多模型与语音支持</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 正式发布了 <strong>2026.4.22</strong> 版本更新，重点扩展了多模型与语音处理能力，新增了多个提供商的集成。</p>
+<p>同时，新版本引入 <code>TUI</code> 模式和自动安装缺失 <code>plugin</code> 功能。</p>
+<p>此外，本次更新还包含诊断导出等实用功能。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 官方正式发布了 <strong>2026.4.22</strong> 版本更新，此次升级重点扩展了多模型支持、语音处理能力与本地化运行体验。</p>
+<p>在提供商集成方面，该版本新增了 <strong>Tencent Cloud</strong> bundled plugin 及其 TokenHub onboarding 流程与 <code>hy3-preview</code> 模型。同时为 <strong>xAI</strong> 引入了包含 <code>grok-imagine-image</code> 在内的图像生成、文本转语音及语音转文本支持。此外，还将 <strong>Deepgram</strong>、<strong>ElevenLabs</strong> 和 <strong>Mistral</strong> 纳入 Voice Call 实时流式转录支持范围。</p>
+<p>在交互与控制方面，<strong>OpenClaw</strong> 新增了无需重启 Gateway 即可在聊天中注册模型的 <code>/models add</code> 命令。并引入了无需 Gateway 即可运行终端聊天的本地 TUI 嵌入模式。</p>
+<p>此外，此次更新将 <strong>GPT-5</strong> 的提示词叠加层移至共享 provider 运行时，使其行为调优能够跨越 <strong>OpenAI</strong>、<strong>OpenRouter</strong> 等多种提供商生效。<code>gpt-image-2</code> 的 OAuth 支持即将推出。</p>
+<p>针对系统稳定性与开发者体验，官方加入了自动安装缺失 plugin 和诊断导出功能，并对涉及多渠道的路由、会话及权限配置进行了全面修复与优化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424074232_d5b04f25cd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.22">https://github.com/openclaw/openclaw/releases/tag/v2026.4.22</a></li>
+</ul>
+<hr>
+<h2><a href="https://vision-banana.github.io/">Google DeepMind 提出 Vision Banana 模型，视觉任务达最优水平</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong>团队发表论文，提出了基于 <code>Nano Banana Pro</code> 的通用视觉模型 <code>Vision Banana</code>。</p>
+<p>该模型将各类视觉感知任务统一转化为图像生成问题。</p>
+<p>在多项2D和3D视觉任务中，它达到了当前最优水平。其表现媲美甚至超越了多款专用领域模型。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong>研究团队近日发布论文《Image Generators are Generalist Vision Learners》，提出通用视觉模型 <strong>Vision Banana</strong>。</p>
+<p>该模型基于图像生成模型 <code>Nano Banana Pro</code>，经轻量级指令微调训练而成，其混合使用了基础模型的原始训练数据与少量视觉任务数据。通过将视觉任务的输出空间参数化为RGB图像，该技术将各类感知任务统一重构为图像生成问题。</p>
+<p><strong>Vision Banana</strong>在零样本迁移设置下，于语义分割、实例分割、指代表达分割、单目度量深度估计及表面法线估计等2D与3D视觉任务中达到当前最优水平，可媲美或超越 <code>Segment Anything Model 3</code>、<code>Depth Anything</code>系列等专用领域模型，且在训练与推理中均无需相机内参。</p>
+<p>研究显示，该微调过程未损害基础模型的图像生成能力。团队认为，图像生成预训练有望如同大语言模型预训练一般，成为构建基础视觉模型的核心范式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/b54aa975-ed6c-4ac0-b1bb-1f1c50c36657/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://vision-banana.github.io/">https://vision-banana.github.io/</a></li>
+<li><a href="https://arxiv.org/abs/2604.20329">https://arxiv.org/abs/2604.20329</a></li>
+</ul>
+<hr>
+<h2><a href="https://deepmind.google/blog/decoupled-diloco/">Google DeepMind 提出 Decoupled DiLoCo 架构，支持低带宽跨区大模型训练</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 团队发布了一项名为 <code>Decoupled DiLoCo</code> 的新型分布式架构，它能通过异步计算在混合使用不同型号芯片和低带宽网络的情况下让全球分布的数据中心协同训练大模型。</p>
+</blockquote>
+<p>近日，<strong>Google DeepMind</strong> 团队发布了一项名为 <code>Decoupled DiLoCo</code> 的新型分布式架构，旨在通过解耦的“计算孤岛”和异步数据流，在全球分布的数据中心之间实现更具弹性和灵活性的 <code>LLM</code> 训练。</p>
+<p>官方公告显示，该架构不仅能够隔离局部硬件中断并实现自我修复，还显著降低了对网络带宽的需求。</p>
+<p>在实际测试中，研究人员利用 <strong>2-5 Gbps</strong> 的广域网成功在美国四个地区完成了 <strong>120 亿</strong> 参数模型的训练，其训练速度比传统同步方法快 <strong>20</strong> 倍以上。</p>
+<p>此外，该系统支持在同一训练任务中混合使用如 <code>TPU v6e</code> 和 <code>TPU v5p</code> 等不同世代的硬件，并已通过 <code>Gemma 4</code> 模型验证了其能达到与传统方法相同的 <code>ML</code> 性能基准。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/a04e39f7-bc2f-4eef-887c-d010d289f1d1/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://deepmind.google/blog/decoupled-diloco/">https://deepmind.google/blog/decoupled-diloco/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/sama/status/2047395562501411058">OpenAI 联合 NVIDIA 部署 Codex，万名员工接入 GPT-5.5</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> CEO <strong>Sam Altman</strong> 称，已将由<code>GPT-5.5</code>驱动的<code>Codex</code>成功部署至<strong>NVIDIA</strong>全公司。</p>
+<p>目前<strong>NVIDIA</strong>九大业务部门的超<strong>一万名</strong>员工正在使用。<strong>Sam Altman</strong>也借此邀请其他企业联系<strong>OpenAI</strong>进行类似部署。</p>
+</blockquote>
+<p><strong>OpenAI</strong>首席执行官 <strong>Sam Altman</strong>宣布与 <strong>NVIDIA</strong>合作开展了一项全新的企业级部署尝试，已将 <code>Codex</code>成功推广至后者整个公司。</p>
+<p>根据 <strong>OpenAI</strong>官方新闻账号的公告，<strong>NVIDIA</strong>目前已有超过 <strong>10,000</strong>名跨越工程、产品、法律、营销、财务、销售、人力资源、运营以及开发者项目等九大业务部门的员工正在使用由 <code>GPT-5.5</code>驱动的 <code>Codex</code>。</p>
+<p><strong>NVIDIA</strong>方面称该工具达到了“令人震惊”和“改变生活”的应用效果。</p>
+<p><strong>Sam Altman</strong>表示这项部署测试取得了出色的成果，并公开邀请其他有兴趣的企业联系 <strong>OpenAI</strong>进行类似的全公司级部署。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/3dcbe99c-8d4b-40f4-a6c9-576315f9c237/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260424/20260424075516_19e6fe8c94.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/sama/status/2047395562501411058">https://x.com/sama/status/2047395562501411058</a></li>
+<li><a href="https://x.com/OpenAINewsroom/status/2047430629550141827">https://x.com/OpenAINewsroom/status/2047430629550141827</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/deepseek-ai/TileKernels">DeepSeek 近期动作频频</a> <code>#21</code></h2>
+<blockquote>
+<p>近日，<strong>DeepSeek</strong> 在 <strong>GitHub</strong> 开源了高性能 GPU 算子库 <code>TileKernels</code>。</p>
+<p>同时，该团队还更新了重构后的 <code>DeepEP v2</code>。</p>
+<p>此外，社区发现 <strong>DeepSeek API</strong> 疑似上线了与官网快速模式一致的模型版本。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 近期在产品与技术生态上有多项更新。</p>
+<p>在开源项目方面，该公司在 GitHub 上发布了完全重构的专家并行通信库 <code>DeepEP v2</code>。据相关测试数据显示，在延续 <code>DeepSeek V3</code> 模型配置下，其峰值性能达初代 <strong>1.3</strong> 倍且流处理器占用降低多达 <strong>4</strong> 倍，并引入了多项零流处理器消耗的实验性特性。</p>
+<p>同时，官方还开源了基于 <code>TileLang</code> 构建的高性能 GPU 算子库 <code>TileKernels</code>。该项目以 MIT 协议发布，主要面向大语言模型训练与推理场景。</p>
+<p>在产品端，有社区用户发现 <strong>DeepSeek</strong> 的 API 悄然更新，疑似推出了与官网快速模式一致的模型版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/6800fff1-6e1a-4814-84ec-3974e9ce2961/a1e4129e-833c-41f6-8ab9-fbbbe2142475/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/deepseek-ai/TileKernels">https://github.com/deepseek-ai/TileKernels</a></li>
+<li><a href="https://github.com/deepseek-ai/DeepEP/tree/epv2-release">https://github.com/deepseek-ai/DeepEP/tree/epv2-release</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/69</guid><pubDate>Fri, 24 Apr 2026 01:17:47 +0000</pubDate></item><item><title>2026-04-23</title><link>https://imjuya.github.io/juya-ai-daily/issue-68/</link><description>AI 早报 2026-04-23 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米发布 MiMo-V2.5 系列四款模型，两款模型将开源 ↗ #1 GLM 调整老套餐计划，月底强制终止续订并送两月权益 ↗ #2 模型发布 Qwen 团队开源 Qwen3.6-27B 模型 ↗ #3 OpenAI 发布开源隐私过滤模型，支持本地检测脱敏 ↗ #4 开发生态 Kimi 致歉 K2.6 上线波动并重置用户额度 #5 小米 MiMo 升级 Token 计划，调整计费及订阅模式 #6 Claude 开放 ultrareview 功能，订阅用户享三次免费审查 ↗ #7 Zed 推出 Parallel Agents，支持多 Agent 并行运行 ↗ #8 Google 开源 DESIGN.md 规范 ↗ #9 火山方舟…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260423/20260423093424878487f3fa_cover_068a.png" alt=""></p>
 <h1>AI 早报 2026-04-23</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1BfobBREug">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Ozv_WP6ISUk">YouTube</a></p>
 <h2>概览</h2>
