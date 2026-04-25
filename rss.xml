@@ -1,5 +1,236 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 24 Apr 2026 01:18:11 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-69/</link><description>AI 早报 2026-04-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 ↗ #1 Anthropic 承认 Claude Code 质量下降并重置用户额度 ↗ #2 腾讯混元发布并开源 Hy3 preview 模型 ↗ #3 模型发布 蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 ↗ #4 蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 ↗ #5 小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 ↗ #6 xAI 发布语音模型 grok-voice-think-fast-1.0 ↗ #7 字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 ↗ #8 开发生态 Claude 宣布…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260424/202604240849238648655412_cover_6800.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 25 Apr 2026 01:31:35 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-70/</link><description>AI 早报 2026-04-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 发布 DeepSeek-V4 系列模型 ↗ #1 模型发布 OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro ↗ #2 阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 ↗ #3 开发生态 Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 ↗ #4 Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot ↗ #5 OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 ↗ #6 产品应用 NotebookLM 推出来源自动分类 ↗ #7 技术与洞察 Anthropic 发布名为 Project Deal…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260425/20260425091746501639487d_cover_5eae.png" alt=""></p>
+<h1>AI 早报 2026-04-25</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1DSoUBaEjP">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=yR9tcnGB87k">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>DeepSeek 发布 DeepSeek-V4 系列模型 <a href="https://api-docs.deepseek.com/zh-cn/news/news260424">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro <a href="https://developers.openai.com/api/docs/guides/latest-model">↗</a> <code>#2</code></li>
+<li>阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 <a href="https://mp.weixin.qq.com/s/jGeJxEsGHaLNT00BoqcTZw">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 <a href="http://claude.ai/code">↗</a> <code>#4</code></li>
+<li>Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.23">↗</a> <code>#5</code></li>
+<li>OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.23">↗</a> <code>#6</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>NotebookLM 推出来源自动分类 <a href="https://x.com/NotebookLM/status/2047735817003499790">↗</a> <code>#7</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 发布名为 Project Deal 的实验研究结果 <a href="https://www.anthropic.com/features/project-deal">↗</a> <code>#8</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Meta 部署数千万 AWS Graviton5 核心，支持 agentic AI 计算 <a href="https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/">↗</a> <code>#9</code></li>
+<li>Cohere 联手 Aleph Alpha 组建主权 AI，Schwarz 领投 6 亿美元 <a href="https://cohere.com/blog/cohere-alephalpha-join-forces">↗</a> <code>#10</code></li>
+<li>ComfyUI 完成 3000 万美元融资，估值达 5 亿美元 <a href="https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open">↗</a> <code>#11</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>传谷歌计划向 Anthropic 投资最高 400 亿美元 <a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/">↗</a> <code>#12</code></li>
+</ul>
+<hr>
+<h2><a href="https://api-docs.deepseek.com/zh-cn/news/news260424">DeepSeek 发布 DeepSeek-V4 系列模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>DeepSeek</strong>正式发布并开源了全新的<code>DeepSeek-V4</code>系列预览版模型，包含 Pro 和 Flash 两个版本，均支持 <code>100万</code> 超长上下文。</p>
+<p>官方称，<code>DeepSeek-V4-Pro</code> 性能比肩顶级闭源模型，Agent 能力大幅提升，拥有丰富的世界知识和世界顶级的推理性能。</p>
+<p>而 <code>DeepSeek-V4-Flash</code> 则是更快捷高效的经济之选。两款模型已在官网、App 以及官方 API 中上线。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 近日正式发布并开源了全新的 <code>DeepSeek-V4</code> 系列预览版模型。该系列包含参数量达 <strong>1.6T</strong>（激活 <strong>49B</strong>）的 <code>DeepSeek-V4-Pro</code>，以及参数量 <strong>284B</strong>（激活 <strong>13B</strong>）的 <code>DeepSeek-V4-Flash</code> 两款 <code>MoE</code> 架构模型。</p>
+<p>该系列模型全面支持 <strong>1M</strong> 超长上下文长度和最大 <strong>384K</strong> 的输出长度。在架构上，其首创了结合 <code>CSA</code> 与 <code>HCA</code> 的混合注意力机制以及 <code>mHC</code> 技术。官方数据显示，相较于前代模型，其在推理和长上下文效率上大幅提升。</p>
+<p>目前，用户可通过官网、App 及 API 体验该系列模型，其 API 兼容 <code>OpenAI</code> 和 <code>Anthropic</code> 格式。官方称 <code>DeepSeek-V4-Pro-Max</code> 模式在 <code>Agentic Coding</code> 等基准测试中取得顶级表现，稳居当今最佳开源模型之位。</p>
+<p>此外，API 服务提供了思考与非思考模式及不同强度的切换功能。原有的 <code>deepseek-chat</code> 与 <code>deepseek-reasoner</code> 模型名将在<strong>三个月后</strong>停止使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/fc6541f1-23e2-4fab-a063-f9baba34e2ab/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425082856_956e47b184.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://api-docs.deepseek.com/zh-cn/news/news260424">https://api-docs.deepseek.com/zh-cn/news/news260424</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.openai.com/api/docs/guides/latest-model">OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布，<code>GPT-5.5</code> 和 <code>GPT-5.5 Pro</code> 已在 API 中上线。</p>
+<p>部分第三方平台已宣布接入该系列模型。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 首席执行官 <strong>Sam Altman</strong> 宣布，<code>GPT-5.5</code> 及 Pro 版现已通过 API 正式可用。</p>
+<p>目前，部分第三方平台和应用已宣布接入 <code>GPT-5.5</code>。</p>
+<p>官方文档显示，该系列模型提升了复杂生产工作流基线，特别适用于编码、重度工具依赖 Agent 及长上下文检索。</p>
+<p>相比旧版，其推理效率更高，能以更少 token 取得稳健结果，且在工具使用精准度上显著增强。</p>
+<p>模型默认采用 <code>medium</code> 推理强度，输出更简洁直接。</p>
+<p>官方建议开发者将其视为全新模型家族进行调优，推荐使用 Responses API 集成，并利用 <code>Codex</code> 实现自动化迁移。</p>
+<p>此外，该模型支持提示词缓存及托管工具，图像处理默认保留更多视觉细节。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425085553_5f92793e4a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425085943_79b43a6643.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/api/docs/guides/latest-model">https://developers.openai.com/api/docs/guides/latest-model</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/jGeJxEsGHaLNT00BoqcTZw">阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>阶跃星辰</strong>发布了语音识别模型 <code>StepAudio 2.5 ASR</code>。官方称该模型能一次性端到端完整处理 <strong>30 分钟</strong> 的音频，中英双语识别精度均达到业内顶尖水平。</p>
+<p>该模型已上线 <strong>Step Plan</strong>，并开放了体验中心及相关 Demo 供用户体验。</p>
+</blockquote>
+<p><strong>阶跃星辰</strong>发布了自动语音识别模型 <code>StepAudio 2.5 ASR</code>。该模型基于 <code>ASR+MTP-5</code> 深度融合架构，将大语言模型（<code>LLM</code>）的推理加速技术引入语音识别领域，实现了速度与精度的双重提升。</p>
+<p>官方数据显示，<code>StepAudio 2.5 ASR</code> 的解码速度较前代提升 <strong>4 倍</strong>，时延降低 <strong>60%</strong>，推理峰值达 <strong>500 tokens/s</strong>，推理成本直降 <strong>80%</strong>。</p>
+<p>该模型复用了 <code>LLM</code> 原生的 <strong>32K</strong> 上下文窗口，单次可端到端完整处理长达 <strong>30 分钟</strong> 的连续音频，解决了传统切片拼接方案导致的上下文断裂问题。同时，官方宣称其在多项中英文权威开源测试集上达到业内 <strong>SOTA</strong> 精度水平。</p>
+<p>目前，<code>StepAudio 2.5 ASR</code> 已全量上线<strong>阶跃星辰开放平台</strong>和 <strong>Step Plan</strong>，并开放了体验中心及相关 Demo 供用户使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/32c47764-7c16-4be0-b670-9cf59ccd5c59/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/jGeJxEsGHaLNT00BoqcTZw">https://mp.weixin.qq.com/s/jGeJxEsGHaLNT00BoqcTZw</a></li>
+</ul>
+<hr>
+<h2><a href="http://claude.ai/code">Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 宣布升级 <strong>Claude Code</strong> 的网页端体验，统一视觉设计并重建底层架构，还推出了跨平台无缝切换功能。</p>
+<p>用户只需运行 <code>claude --teleport</code> 命令，就能在网页、手机和终端之间保留完整记录继续工作。</p>
+</blockquote>
+<p><strong>ClaudeDevs</strong> 宣布已全面刷新 Web 端的 <code>Claude Code</code> 界面与体验。</p>
+<p>此次更新不仅让网页端的视觉设计与桌面应用保持一致，引入了新的会话侧边栏、拖放布局及焕新的例程视图，还重建了 Web 端的关键底层架构以提升响应速度与可靠性。</p>
+<p>最核心的更新是新增了跨平台工作功能。用户在网页或移动端开启会话后，可通过运行 <code>claude --teleport</code> 命令无缝切换至终端（CLI）继续操作，并自动保留完整的历史记录与正确的分支状态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/e0d7db2f-57d2-4b7d-abda-5195d4e06975/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425081747_17e650eb75.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://claude.ai/code">http://claude.ai/code</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.23">Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>NousResearch</strong>团队正式发布了<code>Hermes Agent v0.11.0</code>版本。</p>
+<p>新版本全面重构了终端交互界面，接入了包括<code>GPT-5.5</code>在内的多个新模型以及<strong>QQBot</strong>。</p>
+<p>同时大幅增强了插件扩展和子<code>Agent</code>协调能力。</p>
+</blockquote>
+<p><strong>NousResearch</strong> 团队正式发布了 <strong>Hermes Agent</strong> <code>v0.11.0</code> 版本。该版本被官方描述为迄今最大规模的更新，引入了全面改版的基于 <code>React</code>/<code>Ink</code> 的交互式 <code>TUI</code>（终端用户界面），还在底层架构中引入了可插拔的 <code>Transport</code> 层，进而实现了原生 <strong>AWS Bedrock</strong> 支持。</p>
+<p>此外，该版本新增了包括 <strong>NVIDIA NIM</strong>、<strong>Arcee AI</strong>、<strong>Step Plan</strong>、<strong>Google Gemini CLI</strong> OAuth 和 <strong>Vercel ai-gateway</strong> 在内的五个新的推理路径，并接入了通过 <code>Codex OAuth</code> 认证的 <strong>OpenAI</strong> 新旗舰模型 <code>GPT-5.5</code>。</p>
+<p>在接入层面，<strong>Hermes Agent</strong> 现已支持其第 <strong>17</strong> 个消息平台 <strong>QQBot</strong>，并大幅扩展了插件表面，允许开发者注册命令、分发工具甚至重写终端输出。</p>
+<p>同时，该版本引入了 <code>/steer</code> 命令以实现在不中断 Agent 运行的情况下进行中途干预，增强了子 Agent 的委派与协调能力，并对 Web Dashboard 的主题系统、国际化及插件扩展性进行了全面升级。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/f650cced-3e36-4452-8545-cfb97fbcc432/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.23">https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.23</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.23">OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.23</strong> 版本，本次更新重点强化了系统底层架构与多平台通道适配。</p>
+<p>新增了 <code>分支上下文子Agent</code> 以提升会话灵活性，还引入 <code>Codex OAuth</code> 进行图像生成的功能。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 正式发布了全新的 <strong>2026.4.23</strong> 版本，全面引入了对 <code>GPT-5.5</code> 模型的支持并大幅优化了图像生成体验。</p>
+<p>用户现在可以直接通过 <code>Codex OAuth</code> 运行图像生成而无需配置密钥。本次更新重点强化了系统底层架构与多平台通道适配。</p>
+<p>新增了 <code>分支上下文子 Agent</code> 以提升会话灵活性，同时针对 <strong>Teams</strong>、<strong>Discord</strong> 及 <strong>QQBot</strong> 等关键环节实施了严格的安全防护升级，修复了多项底层运行与内存管理缺陷。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425084123_5f94b0c4ee.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.23">https://github.com/openclaw/openclaw/releases/tag/v2026.4.23</a></li>
+<li><a href="https://docs.openclaw.ai/tools/image-generation">https://docs.openclaw.ai/tools/image-generation</a></li>
+<li><a href="https://docs.openclaw.ai/tools/subagents">https://docs.openclaw.ai/tools/subagents</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NotebookLM/status/2047735817003499790">NotebookLM 推出来源自动分类</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>NotebookLM</strong> 官方宣布推出来源自动打标签与分类功能。</p>
+<p>当笔记中添加了 <strong>5 个</strong> 及以上来源时，系统会自动进行分类整理。</p>
+<p>这一新功能旨在解决笔记管理难题。</p>
+</blockquote>
+<p><strong>NotebookLM</strong> 官方宣布开始推出来源自动打标签与分类功能。</p>
+<p>当用户在大型笔记本中添加 <strong>5</strong> 个及以上来源时，该产品将自动为其打标签并进行分类，以解决多来源难以管理的问题。</p>
+<p>这项新功能旨在帮助用户减少滚动浏览的时间，从而将更多精力投入到思考、学习和沉思中。</p>
+<p>此外，用户还可以根据个人喜好对来源进行重命名、重新组织，并使用 <code>emojis</code> 进行个性化定制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/84af4c8c-5273-42ad-991f-ad5d899afe3a/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2047735817003499790">https://x.com/NotebookLM/status/2047735817003499790</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/features/project-deal">Anthropic 发布名为 Project Deal 的实验研究结果</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>开展了一项名为<code>Project Deal</code>的实验，让 <strong>Claude</strong>代替员工在虚拟市场中自主进行物品交易和讨价还价。</p>
+<p>实验发现，AI 能独立完成上百笔真实交易。使用高级模型 <code>Opus</code>的 AI 在成交价和成交量上占据明显优势。</p>
+</blockquote>
+<p><strong>Anthropic</strong>近日发布了名为 <strong>Project Deal</strong> 的实验研究结果，该实验于<strong>2025 年 12 月</strong>在其旧金山办公室开展，旨在探索 <code>AI Agent</code> 代理人类进行商业交易的可行性及市场影响。</p>
+<p>实验中，<strong>69 名员工</strong>每人获得<strong>100 美元</strong>预算，由 <strong>Claude</strong> 通过 <code>intake interview</code> 了解其买卖意向、期望价格与谈判风格后生成定制 <code>Agent</code>，随后在公司 <strong>Slack</strong> 上的四个并行市场中自主完成交易。其中仅 <strong>Run A</strong> 为基于 <code>Claude Opus 4.5</code> 的真实运行，员工将据此实际交换商品。<strong>Run D</strong> 为全 <code>Opus</code> 模拟运行，<strong>Run B</strong> 与 <strong>Run C</strong> 则随机混合使用 <code>Claude Opus 4.5</code> 与 <code>Claude Haiku 4.5</code>，且全程无人工干预。</p>
+<p>最终真实运行针对超过<strong>500 件</strong>上架商品达成<strong>186 笔</strong>交易，总价值超过<strong>4000 美元</strong>。官方数据显示，在混合模型的模拟市场中，<code>Opus Agent</code> 客观上显著优于 <code>Haiku</code>。前者作为卖家能为同一商品多争取约<strong>2.68 美元</strong>，作为买家则能少支付约<strong>2.45 美元</strong>，且平均多完成约<strong>2 笔</strong>交易。然而参与者在事后的满意度与公平性感知上并未体现出显著差异，公平度评分几乎相同。</p>
+<p>实验还发现，用户要求的攻击性或礼貌性谈判风格等自定义指令对成交结果无统计显著影响，但模型质量差异带来的议价能力分化已十分明显。值得注意的是，**46%**的参与者表示未来愿意为此类服务付费。</p>
+<p>但 <strong>Anthropic</strong> 也警示，<code>Agent</code> 质量差距可能在真实市场中悄然加剧不平等，并带来 <code>jailbreaking</code>、<code>prompt injection</code> 及法律政策滞后等风险。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/5d1f7a41-44b7-485f-8002-26ec806a470e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/features/project-deal">https://www.anthropic.com/features/project-deal</a></li>
+<li><a href="https://x.com/AnthropicAI/status/2047728360818696302">https://x.com/AnthropicAI/status/2047728360818696302</a></li>
+</ul>
+<hr>
+<h2><a href="https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/">Meta 部署数千万 AWS Graviton5 核心，支持 agentic AI 计算</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Meta</strong>宣布与 <strong>AWS</strong> 达成协议，计划将数千万个 <code>AWS Graviton5</code> 处理核心纳入计算资源组合。</p>
+<p>此举旨在支持复杂的 <code>agentic AI</code> 工作负载并推进基础设施多元化战略。</p>
+</blockquote>
+<p><strong>Meta</strong>与<strong>Amazon Web Services</strong>（<strong>AWS</strong>）近日宣布达成一项协议，计划将约数千万<code>AWS Graviton5</code>处理核心纳入其计算资源组合。</p>
+<p>这一合作旨在支持其 <code>agentic AI</code> 工作负载，并推进基础设施多元化战略。该合作首批将部署约数千万核心，并具备随 <code>AI</code> 能力增长灵活扩展的灵活性。</p>
+<p>据<strong>Meta</strong>官方博客显示，处理核心作为<code>CPU</code>内部执行工作负载的单元，是驱动下一代复杂 <code>agentic AI</code>的基础。</p>
+<p>而<code>AWS Graviton5</code>核心可提供更快的数据处理能力和更大带宽，满足自主推理、规划及执行复杂任务等<code>CPU</code>密集型需求。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425081202_899cad01fa.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/">https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://cohere.com/blog/cohere-alephalpha-join-forces">Cohere 联手 Aleph Alpha 组建主权 AI，Schwarz 领投 6 亿美元</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>加拿大</strong> <strong>AI</strong> 企业 <strong>Cohere</strong> 与 <strong>德国</strong> <strong>AI</strong> 企业 <strong>Aleph Alpha</strong> 宣布联手组建一家全球性 <strong>AI</strong> 巨头。</p>
+<p>这一合作将汇集双方的人才与算力资源，共同致力于构建安全可控的主权 <strong>AI</strong> 解决方案。</p>
+<p>该方案主要面向高度监管行业，旨在满足其对数据主权与技术合规的严苛要求。</p>
+</blockquote>
+<p>近日，加拿大 AI 企业 <strong>Cohere</strong> 与德国 AI 企业 <strong>Aleph Alpha</strong> 宣布联手组建一家全球性的 <strong>AI</strong> 巨头。</p>
+<p>这一举措旨在应对日益加剧的 <strong>AI</strong> 行业集中化趋势，为市场提供独立且企业级的<strong>主权 AI</strong> 替代方案。</p>
+<p>根据官方博客显示，这项跨大西洋联盟将 <strong>Cohere</strong> 的全球 <strong>AI</strong> 规模与 <strong>Aleph Alpha</strong> 的卓越研究能力及深厚的机构客户关系相结合。</p>
+<p>双方计划依托加拿大和德国的生态系统，打造具备全球竞争力的 <strong>AI</strong> 领导者。该合作旨在汇集这两个 <strong>G7</strong> 国家的顶尖工程人才与计算资源，以加速开发下一代前沿模型与系统。</p>
+<p>该合作主要面向公共部门、金融、国防、能源、制造、电信和医疗保健等高度监管行业，提供安全的定制化 <strong>AI</strong> 解决方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5eae9212-1fbc-432b-a863-f6869e349d4e/7333bb8f-76b8-4cd4-b423-eb0f822b0547/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cohere.com/blog/cohere-alephalpha-join-forces">https://cohere.com/blog/cohere-alephalpha-join-forces</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open">ComfyUI 完成 3000 万美元融资，估值达 5 亿美元</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>ComfyUI</strong>宣布完成<strong>3000万美元</strong>融资，估值达到<strong>5亿美元</strong>。</p>
+<p>该平台计划利用这笔新资金扩展云服务与协作功能。</p>
+<p>同时郑重承诺该产品将永远保持开源。</p>
+</blockquote>
+<p><strong>ComfyUI</strong> 宣布完成 <strong>3000万美元</strong> 融资，估值达到 <strong>5亿美元</strong>。该轮融资由 <strong>Craft Ventures</strong> 领投，<strong>Pace Capital</strong>、<strong>Chemistry</strong> 和 <strong>TruArrow</strong> 等参投，使其总融资金额达到 <strong>4700万美元</strong>。</p>
+<p>该团队计划利用新资金扩展 <code>Comfy Cloud</code>、构建协作工作流并持续优化本地体验。同时，官方郑重承诺该产品将永远保持开源，用户始终可以在自己的设备上自由运行。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425082005_f596238f86.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open">https://blog.comfy.org/p/comfyui-raises-30m-to-scale-open</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/">传谷歌计划向 Anthropic 投资最高 400 亿美元</a> <code>#12</code></h2>
+<blockquote>
+<p>据报道，<strong>谷歌</strong>计划向<strong>Anthropic</strong>投资最高<strong>400亿美元</strong>。</p>
+<p>该投资包含先期<strong>100亿美元</strong>现金和后续的业绩达标追加投资。</p>
+<p>同时，<strong>Google Cloud</strong>将在未来<strong>五年</strong>内为其提供全新的<strong>5吉瓦</strong>计算容量，以满足<strong>Anthropic</strong>日益庞大的算力需求。</p>
+</blockquote>
+<p>据媒体报道，<strong>Google</strong> 计划向 <strong>Anthropic</strong> 投资高达 <strong>400</strong> 亿美元，以支持后者日益增长的计算需求。</p>
+<p>报道称，<strong>Google</strong> 目前承诺以 <strong>3500</strong> 亿美元的估值先行投入 <strong>100</strong> 亿美元现金。若 <strong>Anthropic</strong> 达到特定业绩目标，后续还将追加 <strong>30</strong> 亿美元投资。</p>
+<p>作为既是对手又是关键基础设施供应商的 <strong>Google</strong>，此次投资进一步扩大了双方的合作规模。其 <strong>Google Cloud</strong> 将在未来五年内为 <strong>Anthropic</strong> 提供全新的 <strong>5</strong> 吉瓦算力容量，并保留进一步扩展空间。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425080054_c4c86b8f01.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/">https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/70</guid><pubDate>Sat, 25 Apr 2026 01:31:18 +0000</pubDate></item><item><title>2026-04-24</title><link>https://imjuya.github.io/juya-ai-daily/issue-69/</link><description>AI 早报 2026-04-24 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 GPT-5.5 和 GPT-5.5 Pro 模型 ↗ #1 Anthropic 承认 Claude Code 质量下降并重置用户额度 ↗ #2 腾讯混元发布并开源 Hy3 preview 模型 ↗ #3 模型发布 蚂蚁百灵发布 Ling-2.6-1T 模型，提供试用并计划开源 ↗ #4 蚂蚁集团开源 LLaDA2.0-Uni 统一多模态模型 ↗ #5 小米 MiMo 发布语音模型系列，8B 参数 ASR 开源 ↗ #6 xAI 发布语音模型 grok-voice-think-fast-1.0 ↗ #7 字节跳动发布 Seed3D 2.0，几何纹理生成达 SOTA 表现 ↗ #8 开发生态 Claude 宣布…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260424/202604240849238648655412_cover_6800.png" alt=""></p>
 <h1>AI 早报 2026-04-24</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1p6oVBQEsX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=qIIQr51aho4">YouTube</a></p>
 <h2>概览</h2>
