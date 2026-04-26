@@ -1,5 +1,182 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 25 Apr 2026 01:31:35 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-70/</link><description>AI 早报 2026-04-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 发布 DeepSeek-V4 系列模型 ↗ #1 模型发布 OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro ↗ #2 阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 ↗ #3 开发生态 Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 ↗ #4 Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot ↗ #5 OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 ↗ #6 产品应用 NotebookLM 推出来源自动分类 ↗ #7 技术与洞察 Anthropic 发布名为 Project Deal…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260425/20260425091746501639487d_cover_5eae.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 26 Apr 2026 00:48:11 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-71/</link><description>AI 早报 2026-04-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 ↗ #1 DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 ↗ #2 模型发布 通义千问发布 Qwen-Image-2.0-Pro ↗ #3 美团开放 LongCat-2.0-Preview 邀请测试 ↗ #4 开发生态 Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 ↗ #5 OpenClaw 发布更新，优化语音与浏览器自动化功能 ↗ #6 产品应用 百度网盘推出 AI Agent 技能，支持自然语言操作 ↗ #7 Grok Imagine 升级图生视频功能，改善唇形同…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260426/20260426082949139736b86d_cover_b41f.png" alt=""></p>
+<h1>AI 早报 2026-04-26</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV18WooBpEJ8">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=m4q5bPf0428">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 <a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing/">↗</a> <code>#1</code></li>
+<li>DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 <a href="https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>通义千问发布 Qwen-Image-2.0-Pro <a href="https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro">↗</a> <code>#3</code></li>
+<li>美团开放 LongCat-2.0-Preview 邀请测试 <a href="https://longcat.chat/platform/">↗</a> <code>#4</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 <a href="https://x.com/cursor_ai/status/2047764656165646786">↗</a> <code>#5</code></li>
+<li>OpenClaw 发布更新，优化语音与浏览器自动化功能 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.24">↗</a> <code>#6</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>百度网盘推出 AI Agent 技能，支持自然语言操作 <a href="https://pan.baidu.com/apaastobui/developer#/developer/skill">↗</a> <code>#7</code></li>
+<li>Grok Imagine 升级图生视频功能，改善唇形同步与音质 <a href="https://x.com/imagine/status/2047879036119175379">↗</a> <code>#8</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Google Cloud CEO 称即将推出新 Gemini 模型 <a href="https://www.youtube.com/watch?v=bNdiBwXbLNw">↗</a> <code>#9</code></li>
+</ul>
+<hr>
+<h2><a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing/">DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>DeepSeek</strong> 宣布针对 <strong>DeepSeek-V4-Pro</strong> 模型的 API 价格，开启为期十天的 2.5 折限时特惠。</p>
+<p>优惠截止至 <strong>5 月 5 日 23:59</strong>。</p>
+<p>官方同时提醒开发者，使用 <strong>Claude Code</strong> 开启 1M 上下文时，需将模型设置为 <code>deepseek-v4-pro[1m]</code>。</p>
+<p>接入 <strong>OpenCode</strong> 和 <strong>OpenClaw</strong> 也需升级至最新版本。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 官方宣布针对 <strong>DeepSeek-V4-Pro</strong> 模型 API 推出限时优惠活动，价格降幅达 <strong>75%</strong>（即 <strong>2.5 折特惠</strong>）。</p>
+<p>该特惠活动将持续约十日，至<strong>5 月 5 日</strong>的 <strong>23:59</strong> 截止。官方同步更新了相关开发工具的集成适配说明。</p>
+<p>在功能适配上，当用户使用 <code>Claude Code</code> 接入该模型并希望开启 <code>1M</code> 上下文功能时，必须将目标模型名称设置为 <code>deepseek-v4-pro[1m]</code>。</p>
+<p>同时，官方明确指出了接入其他工具的建议版本门槛：<strong>OpenCode</strong> 需升级至 <code>v1.14.24</code> 及以上版本。</p>
+<p>而 <strong>OpenClaw</strong> 则需升级至 <code>v2026.4.24</code> 及以上版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b41f84e6-5db1-4201-9b68-586dfef0b198/1f66c46b-c4f5-4723-a1e6-d2418a90dd25/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing/">https://api-docs.deepseek.com/zh-cn/quick_start/pricing/</a></li>
+<li><a href="https://x.com/deepseek_ai/status/2048062777357750316">https://x.com/deepseek_ai/status/2048062777357750316</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/">DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>DeepSeek</strong>员工在 <strong>GitHub</strong> 上分享了可以开启 <strong>DeepSeek-V4</strong> 角色扮演模式的 <code>Prompt</code>。用户可以使用该提示词，在官方 APP 和网页端专家模式或 API 中切换 <strong>DeepSeek-V4</strong> 模型的思维风格。</p>
+<p>用户可选择将模型切换为带有内心戏的“角色沉浸”模式，也可调整为纯分析模式。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 员工在 <strong>GitHub</strong> 上发布了针对 <code>DeepSeek-V4</code> 角色扮演的特殊控制指令说明，旨在帮助用户在思考模式下切换思维链风格。</p>
+<p>该指令适用于 <strong>DeepSeek</strong> 官方 APP 及网页的专家模式。同时，它也支持 <code>deepseek-v4-flash</code> 和 <code>deepseek-v4-pro</code> 的 API，但网页端的快速模式暂不支持。</p>
+<p>用户通过特定 Prompt 使模型思维链风格在“角色沉浸”与“纯分析”两种模式间切换。若不加任何指令，则保持由模型根据场景复杂度自动选择的“默认”模式。</p>
+<p>官方说明提示，该指令目前无法保证 100% 触发期望效果，但能稳定增加出现特定格式思考过程的概率。此外，其指令仅直接影响模型的思考过程，但思考方式会间接改变最终回复的表现形式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260426/20260426081227_772c890f29.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425204132_095fb64bac.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/">https://github.com/victorchen96/deepseek_v4_rolepaly_instruct/</a></li>
+<li><a href="https://x.com/victor207755822/status/2048071983452356925">https://x.com/victor207755822/status/2048071983452356925</a></li>
+</ul>
+<hr>
+<h2><a href="https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro">通义千问发布 Qwen-Image-2.0-Pro</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Qwen</strong> 团队发布了图像生成模型 <code>Qwen-Image-2.0-Pro</code>。</p>
+<p>该模型在图像质量与文本渲染等核心能力上显著提升，并在相关榜单中排名 <strong>第九</strong>。</p>
+<p>现已开放在线体验和 <code>API</code> 调用服务。</p>
+</blockquote>
+<p><strong>千问团队</strong>近日正式发布图像生成模型 <code>Qwen-Image-2.0-Pro</code>，该模型在图像质量、多语言文本渲染和指令遵循能力上实现显著提升。同时，在不同风格间的表现一致性也得到增强。</p>
+<p>据官方公布的 Arena 榜单数据，该模型在 <code>Text-to-Image</code> 类别中排名全球 <strong>第 9</strong>。此外，其在肖像、摄影写实与电影感影像、艺术等子类别均进入前 <strong>10</strong>。</p>
+<p>用户可通过 <strong>ModelScope</strong> 在线体验，或通过 <strong>阿里云</strong> API 调用。API 模型版本为 <code>qwen-image-2.0-pro-2026-04-22</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b41f84e6-5db1-4201-9b68-586dfef0b198/4da25df9-1377-44eb-9de8-add8b91059c5/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425214628_204b2f5a1f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro">https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro</a></li>
+<li><a href="https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&amp;url=2840914_2&amp;modelId=qwen-image-2.0-pro-2026-04-22&amp;serviceSite=international">https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&amp;url=2840914_2&amp;modelId=qwen-image-2.0-pro-2026-04-22&amp;serviceSite=international</a></li>
+</ul>
+<hr>
+<h2><a href="https://longcat.chat/platform/">美团开放 LongCat-2.0-Preview 邀请测试</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>美团</strong>近期开放了其新一代基础大模型 <code>LongCat-2.0-Preview</code> 的邀请测试。</p>
+<p>每日 <strong>0点</strong>，在 <code>longcat</code> 开放平台上提供有限名额供用户申请。</p>
+</blockquote>
+<p>据媒体报道，<strong>美团</strong>现已开放其新一代基础大模型 <code>LongCat-2.0-Preview</code> 的邀请测试。</p>
+<p>每日 <strong>0 点</strong>，在 <code>longcat</code> 开放平台上提供有限名额供用户申请。</p>
+<p>据知情人士透露，该模型总参数规模突破 <strong>万亿</strong>。</p>
+<p>其完全基于国产化算力集群训练，这表明 <strong>美团</strong> 可能已率先在使用国产算力训练万亿参数模型上取得突破。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b41f84e6-5db1-4201-9b68-586dfef0b198/6fc73b39-ae07-42a0-b957-34e5e6eb1d9c/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://longcat.chat/platform/">https://longcat.chat/platform/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/cursor_ai/status/2047764656165646786">Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 发布了 <strong>Cursor 3.2</strong> 版本。</p>
+<p>新版本新增 <code>/multitask</code> 指令、异步 <code>subagent</code> 和全新改进的 <code>workspace</code> 等功能。</p>
+<p>这些更新旨在支持多任务并行处理与跨库代码操作。</p>
+</blockquote>
+<p><strong>Cursor</strong> 宣布推出 <strong>Cursor 3.2</strong> 版本，引入 <code>/multitask</code> 指令。</p>
+<p>根据官方说明，<strong>Cursor</strong> 现在能够运行异步 <code>subagent</code> 来并行处理用户的请求，以取代传统的排队机制。对于已经处于队列中的消息，用户可以直接要求 <strong>Cursor</strong> 对其执行多任务操作，从而无需等待当前正在运行的任务完成。</p>
+<p>除了异步 <code>subagent</code>，实现工作并行化的另一种方式是使用 agents 窗口中经过全新改进的 <code>worktrees</code> 功能。该功能允许用户在后台的不同分支上运行相互隔离的任务，并在准备好测试更改时，通过单击操作将任何分支移动到本地前台。</p>
+<p>此外，官方还为跨 repo 的代码更改引入了多根 workspace，使得单个 Agent 会话现在可以指向一个由多个文件夹组成的可复用 workspace。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b41f84e6-5db1-4201-9b68-586dfef0b198/c6890666-50e0-4e9e-86ce-7249ab56c2a5/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/cursor_ai/status/2047764656165646786">https://x.com/cursor_ai/status/2047764656165646786</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.24">OpenClaw 发布更新，优化语音与浏览器自动化功能</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.24</strong> 版本更新。</p>
+<p>这次升级让语音交互功能可以把复杂问题交接给完整的 <code>Agent</code> 处理，并按需调用工具。</p>
+<p>同时正式引入了 <strong>DeepSeek V4</strong> 系列模型，大幅优化了浏览器自动化控制等多项功能。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 官方宣布推出 <strong>2026.4.24</strong> 版本更新。</p>
+<p>根据官方公告显示，本次更新的核心在于提升了语音交互与工具调用的协同能力。<strong>Talk</strong> 和 <strong>Voice Call</strong> 功能现在可以将更深层次的问题交接给完整的 <code>OpenClaw Agent</code>。这一改进能够在保持实时语音响应速度的同时，按需调用各类工具。</p>
+<p>在模型支持方面，<code>DeepSeek V4 Flash</code> 与 <code>DeepSeek V4 Pro</code> 正式加入该平台。该版本同时修复了该系列模型的相关问题。</p>
+<p>此外，该版本的浏览器自动化功能迎来了多项实用性改进。新增功能包括坐标点击、配置文件级别的无头模式覆盖、稳定的标签页复用以及陈旧锁恢复机制，并延长了默认操作预算。</p>
+<p>官方还修复了涉及 <strong>Tg</strong>、<strong>Slack</strong>、<code>MCP</code>、<code>sessions</code> 和 <code>TTS</code> 等多项功能的问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260426/20260426081519_a86782d3b4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.4.24">https://github.com/openclaw/openclaw/releases/tag/v2026.4.24</a></li>
+<li><a href="https://x.com/openclaw/status/2048124737918751035">https://x.com/openclaw/status/2048124737918751035</a></li>
+</ul>
+<hr>
+<h2><a href="https://pan.baidu.com/apaastobui/developer#/developer/skill">百度网盘推出 AI Agent 技能，支持自然语言操作</a> <code>#7</code></h2>
+<blockquote>
+<p>有用户发现，<strong>百度网盘</strong>推出了专为 AI 智能体打造的 <strong><code>Baidu Netdisk skill</code></strong>。</p>
+<p>用户可以用自然语言直接让智能体去执行文件的上传、下载和搜索。</p>
+</blockquote>
+<p><strong>百度网盘</strong>推出了针对 <strong>AI Agent</strong> 的 <code>Baidu Netdisk skill</code>，为 <strong>Agent</strong> 赋予“长效记忆”与“物流系统”，使其能以自然语言交互执行上传、下载、搜索、分享等文件操作。</p>
+<p>该功能原生适配 <code>OpenClaw Agent</code>。为保障数据隐私，该系统采用安全沙箱隔离设计，仅限操作 <code>/我的应用数据/bdpan/</code> 指定目录，物理隔离主盘数据，并通过 <code>OAuth 2.0</code> 协议与 <strong>Token</strong> 本地加密确保授权安全。</p>
+<p>对 <code>OpenClaw</code> 接入，用户需向 <strong>OpenClaw</strong> 发送命令 <code>npx clawhub@latest install baidu-netdisk-storage</code>。</p>
+<p>安装就绪后，用户需向 <strong>Agent</strong> 发送“登录 <strong>Baidu Netdisk</strong>"指令，并根据返回的链接完成 <strong>OAuth</strong> 授权与网盘账号绑定。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425203247_34cff9b5bc.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://pan.baidu.com/apaastobui/developer#/developer/skill">https://pan.baidu.com/apaastobui/developer#/developer/skill</a></li>
+<li><a href="https://github.com/baidu-netdisk/bdpan-storage/issues">https://github.com/baidu-netdisk/bdpan-storage/issues</a></li>
+<li><a href="https://linux.do/t/topic/2055235">https://linux.do/t/topic/2055235</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/imagine/status/2047879036119175379">Grok Imagine 升级图生视频功能，改善唇形同步与音质</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Grok</strong>宣布升级 <strong>Grok Imagine</strong>图生视频生成功能。</p>
+<p>大幅提升了<strong>唇形同步效果</strong>和<strong>音频音质</strong>。</p>
+<p>让声音与嘴部动作精准匹配。</p>
+</blockquote>
+<p><strong>Grok Imagine</strong> 近日宣布对其图生视频生成功能进行升级。</p>
+<p>官方表示，该功能在所有生成任务中大幅改善了唇形同步效果，并提供更清晰的音频音质。</p>
+<p>据官方声明，此项技术使生成对话能精准追踪嘴部动作，声音与场景完美匹配，视听效果符合创作者预期。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260425/20260425202608_4251280ae2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/imagine/status/2047879036119175379">https://x.com/imagine/status/2047879036119175379</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.youtube.com/watch?v=bNdiBwXbLNw">Google Cloud CEO 称即将推出新 Gemini 模型</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Google Cloud</strong> CEO 在近期访谈中全面阐述了 <strong>谷歌</strong>的全栈 <code>AI</code> 战略布局。他介绍称，<strong>谷歌</strong>在第八代 <code>TPU</code> 芯片进行了细分，以控制推理成本。此外，该公司还即将推出表现优异的新一代 <code>Gemini</code> 模型。</p>
+</blockquote>
+<p><strong>Google Cloud</strong> CEO 在近期的一次深度访谈中，全面阐述了谷歌作为具备全栈 <strong>AI</strong> 能力巨头的战略布局与技术进展。</p>
+<p>在算力基础设施方面，谷歌正将其第八代 <code>TPU</code> 细分为专攻训练的 <strong>8T</strong> 与主打推理的 <strong>8i</strong>，旨在应对日益增长的推理成本控制需求。</p>
+<p>在模型研发层面，其确认即将推出在内部基准测试中表现优异的新一代 <code>Gemini</code> 模型，并指出其早已部署的“解耦服务”技术足以支撑传闻中高达 <strong>10</strong> 万亿参数的 <strong>Mythos</strong> 等超大模型的高效推理。</p>
+<p>在商业生态上，他明确谷歌作为平台公司的定位，既在模型层与 <strong>Anthropic</strong> 等对手竞争，也为其提供基础设施支持。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=bNdiBwXbLNw">https://www.youtube.com/watch?v=bNdiBwXbLNw</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/71</guid><pubDate>Sun, 26 Apr 2026 00:47:52 +0000</pubDate></item><item><title>2026-04-25</title><link>https://imjuya.github.io/juya-ai-daily/issue-70/</link><description>AI 早报 2026-04-25 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 发布 DeepSeek-V4 系列模型 ↗ #1 模型发布 OpenAI 已在 API 中上线 GPT-5.5 和 GPT-5.5 Pro ↗ #2 阶跃星辰发布 StepAudio 2.5 ASR 语音识别模型 ↗ #3 开发生态 Claude Code 更新 Web 端和移动端界面，新增跨平台无缝切换功能 ↗ #4 Hermes Agent 发布 v0.11.0，支持多个新模型与 QQBot ↗ #5 OpenClaw 发布新版支持 GPT-5.5 模型并强化安全防护 ↗ #6 产品应用 NotebookLM 推出来源自动分类 ↗ #7 技术与洞察 Anthropic 发布名为 Project Deal…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260425/20260425091746501639487d_cover_5eae.png" alt=""></p>
 <h1>AI 早报 2026-04-25</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1DSoUBaEjP">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=yR9tcnGB87k">YouTube</a></p>
 <h2>概览</h2>
