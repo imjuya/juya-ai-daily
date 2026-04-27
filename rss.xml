@@ -1,5 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 26 Apr 2026 00:48:11 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-71/</link><description>AI 早报 2026-04-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 ↗ #1 DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 ↗ #2 模型发布 通义千问发布 Qwen-Image-2.0-Pro ↗ #3 美团开放 LongCat-2.0-Preview 邀请测试 ↗ #4 开发生态 Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 ↗ #5 OpenClaw 发布更新，优化语音与浏览器自动化功能 ↗ #6 产品应用 百度网盘推出 AI Agent 技能，支持自然语言操作 ↗ #7 Grok Imagine 升级图生视频功能，改善唇形同…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260426/20260426082949139736b86d_cover_b41f.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 27 Apr 2026 00:54:33 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-72/</link><description>AI 早报 2026-04-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 ↗ #1 开发生态 Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x ↗ #2 前瞻与传闻 AWS 将推出 Claude Platform on AWS 服务整合原生体验 ↗ #3 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 #1 DeepSeek官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。 同时，目前V4-Pro模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时2.5折优惠。 DeepSeek 官方宣布，即日起对其全系列 API 服务的计费规则进…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260427/20260427083458108716b497_cover_75ea.png" alt=""></p>
+<h1>AI 早报 2026-04-27</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1PwoBBREpX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=QDsz5AHAaB0">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 <a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x <a href="https://x.com/qoder_ai_ide/status/2048415481346834551">↗</a> <code>#2</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>AWS 将推出 Claude Platform on AWS 服务整合原生体验 <a href="https://aws.amazon.com/claude-platform/">↗</a> <code>#3</code></li>
+</ul>
+<hr>
+<h2><a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing">DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>DeepSeek</strong>官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。</p>
+<p>同时，目前<code>V4-Pro</code>模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时<code>2.5</code>折优惠。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 官方宣布，即日起对其全系列 <strong>API</strong> 服务的计费规则进行调整，将输入缓存命中价格统一降至原有价格的十分之一。</p>
+<p>在具体的模型定价上，<code>DeepSeek-V4-Flash</code> 模型的输入缓存命中价格由 <strong>0.2 元</strong> 降至 <strong>0.02 元</strong>。</p>
+<p>针对 <code>DeepSeek-V4-Pro</code> 模型，其在应用新的缓存降价标准的同时，目前仍叠加了限时 <strong>2.5 折</strong>（即降价 <strong>75%</strong>）的优惠活动，该优惠将持续至 <strong>5 月 5 日 23:59</strong>。</p>
+<p>在双重优惠叠加下，<code>DeepSeek-V4-Pro</code> 当前的输入缓存命中计费降至 <strong>0.025 元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/75ea7c5e-4739-4762-a18a-0fff3d12a521/3a83ca63-9b20-456e-8105-6adfccdc5976/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://api-docs.deepseek.com/zh-cn/quick_start/pricing">https://api-docs.deepseek.com/zh-cn/quick_start/pricing</a></li>
+<li><a href="https://x.com/deepseek_ai/status/2048440764368347611">https://x.com/deepseek_ai/status/2048440764368347611</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/qoder_ai_ide/status/2048415481346834551">Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Qoder</strong> 宣布开启限时优惠，<code>Ultimate</code>档位模型的计费倍率直接减半降至 <strong>0.8x</strong>。</p>
+<p>这项限时优惠会在 IDE、<strong>JetBrains</strong>插件及 CLI 中自动生效。</p>
+</blockquote>
+<p><strong>Qoder</strong> 官方宣布，其 <strong>Ultimate</strong> 档位模型从即日起价格减半，计费倍率从原价 <code>1.6x</code> 降至 <code>0.8x</code>。</p>
+<p>该活动为限时优惠，自动应用于所有符合条件的用户，无需用户领取或手动参与切换。</p>
+<p>此优惠覆盖 <code>Pro</code>、<code>Pro+</code> 和 <code>Ultra</code> 等多项订阅计划，全面适用。</p>
+<p>此外，该优惠适用范围覆盖 <strong>Qoder</strong> 的 IDE、<strong>JetBrains</strong> 插件及 CLI 三种使用形态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/75ea7c5e-4739-4762-a18a-0fff3d12a521/3f5a56c3-4ae1-4ad4-a458-b8a754ed8559/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/qoder_ai_ide/status/2048415481346834551">https://x.com/qoder_ai_ide/status/2048415481346834551</a></li>
+</ul>
+<hr>
+<h2><a href="https://aws.amazon.com/claude-platform/">AWS 将推出 Claude Platform on AWS 服务整合原生体验</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Amazon Web Services</strong> 官方发布预告，即将推出 <code>Claude Platform on AWS</code> 服务。</p>
+<p>这项服务能让开发者直接利用现有的 <strong>AWS</strong> 账户体系与<strong>安全机制</strong>。</p>
+<p>用户将能够无缝体验 <strong>Anthropic</strong> 原生的 <strong>Claude</strong> 控制台和<strong>全量功能</strong>。</p>
+</blockquote>
+<p><strong>Amazon Web Services</strong> 官方即将推出“Claude Platform on <strong>AWS</strong>”服务。该服务允许开发者通过现有的 <strong>AWS</strong> 凭证、账单和访问控制，直接访问并使用 <strong>Anthropic</strong> 原生的 <code>Claude Platform</code> 体验与最新功能。</p>
+<p>根据官方公告，这项即将上线的服务将 <strong>Anthropic</strong> 的原生 <code>API</code>、控制台及开发体验与 <strong>AWS</strong> 的安全、监控及账户体系无缝统一。</p>
+<p>这一举措免去了建立单独凭证、签署额外合同或维护独立账单关系的需要。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427074655_78c862cad7.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://aws.amazon.com/claude-platform/">https://aws.amazon.com/claude-platform/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/72</guid><pubDate>Mon, 27 Apr 2026 00:54:10 +0000</pubDate></item><item><title>2026-04-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-71/</link><description>AI 早报 2026-04-26 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工具版本要求 ↗ #1 DeepSeek 员工发布 DeepSeek-V4 思维链角色扮演模式指令 ↗ #2 模型发布 通义千问发布 Qwen-Image-2.0-Pro ↗ #3 美团开放 LongCat-2.0-Preview 邀请测试 ↗ #4 开发生态 Cursor 发布 3.2 版，引入/multitask 指令和异步 subagent 等功能 ↗ #5 OpenClaw 发布更新，优化语音与浏览器自动化功能 ↗ #6 产品应用 百度网盘推出 AI Agent 技能，支持自然语言操作 ↗ #7 Grok Imagine 升级图生视频功能，改善唇形同…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260426/20260426082949139736b86d_cover_b41f.png" alt=""></p>
 <h1>AI 早报 2026-04-26</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV18WooBpEJ8">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=m4q5bPf0428">YouTube</a></p>
 <h2>概览</h2>
