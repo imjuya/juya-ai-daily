@@ -1,5 +1,273 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Mon, 27 Apr 2026 00:54:33 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-72/</link><description>AI 早报 2026-04-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 ↗ #1 开发生态 Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x ↗ #2 前瞻与传闻 AWS 将推出 Claude Platform on AWS 服务整合原生体验 ↗ #3 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 #1 DeepSeek官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。 同时，目前V4-Pro模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时2.5折优惠。 DeepSeek 官方宣布，即日起对其全系列 API 服务的计费规则进…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260427/20260427083458108716b497_cover_75ea.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 28 Apr 2026 01:27:59 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-04-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-73/</link><description>AI 早报 2026-04-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 微软停付 OpenAI 分成，Azure 独占终结 ↗ #1 国家发改委禁止外资收购Manus项目并撤销交易 #2 GitHub 宣布 Copilot 六月切换用量计费，订阅月费保持不变 ↗ #3 智谱延长 GLM 系列非高峰期抵扣福利至 6 月 30 日 ↗ #4 模型发布 小米正式开源 MiMo-V2.5 系列模型，推出免费Token激励计划 ↗ #5 阿里快乐马 HappyHorse 1.0 上线百炼 ↗ #6 Meta 发布 Sapiens2 开源人类视觉基础模型 #7 开发生态 TRAE SOLO 语音上线，支持命令 ↗ #8 Cognition 发布 Devin for Terminal ↗ #9 Hermes 默…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260428/202604280912386895660e5c_cover_8c9c.png" alt=""></p>
+<h1>AI 早报 2026-04-28</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1kw96BQEzi">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=8jGDlHytwbo">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>微软停付 OpenAI 分成，Azure 独占终结 <a href="https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/">↗</a> <code>#1</code></li>
+<li>国家发改委禁止外资收购Manus项目并撤销交易 <code>#2</code></li>
+<li>GitHub 宣布 Copilot 六月切换用量计费，订阅月费保持不变 <a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">↗</a> <code>#3</code></li>
+<li>智谱延长 GLM 系列非高峰期抵扣福利至 6 月 30 日 <a href="https://x.com/Zai_org/status/2048784274523148750">↗</a> <code>#4</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>小米正式开源 MiMo-V2.5 系列模型，推出免费Token激励计划 <a href="https://100t.xiaomimimo.com">↗</a> <code>#5</code></li>
+<li>阿里快乐马 HappyHorse 1.0 上线百炼 <a href="https://bailian.console.aliyun.com/cn-beijing/?tab=model#/model-market/all?providers=happyhorse">↗</a> <code>#6</code></li>
+<li>Meta 发布 Sapiens2 开源人类视觉基础模型 <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>TRAE SOLO 语音上线，支持命令 <a href="https://mp.weixin.qq.com/s/31_xdiV1VctDXnGCX9wCmQ">↗</a> <code>#8</code></li>
+<li>Cognition 发布 Devin for Terminal <a href="https://devin.ai/terminal">↗</a> <code>#9</code></li>
+<li>Hermes 默认启用原生视觉，主模型支持自动生效 <a href="https://github.com/NousResearch/hermes-agent/pull/16506">↗</a> <code>#10</code></li>
+<li>OpenClaw 发布新版，升级语音与优化插件启动 <a href="https://x.com/openclaw/status/2048745795776557337">↗</a> <code>#11</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>消息称 Gemini 应用新增文件生成能力，支持文档表格 <a href="https://x.com/testingcatalog/status/2048903431700586713">↗</a> <code>#12</code></li>
+<li>ChatGPT Web 端上线 360 度全景图像生成功能 <a href="https://x.com/adele__li/status/2048889372867760386">↗</a> <code>#13</code></li>
+<li>蚂蚁灵光App上线“体验世界模型”功能 <code>#14</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 公布五项原则，旨在AGI惠及人类 <a href="https://openai.com/index/our-principles/">↗</a> <code>#15</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>郭明錤称 OpenAI 2028 量产自研手机 立讯精密代工 <a href="https://x.com/mingchikuo/status/2048587389791269182">↗</a> <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/">微软停付 OpenAI 分成，Azure 独占终结</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>微软</strong>与 <strong>OpenAI</strong> 宣布修订合作协议，<strong>OpenAI</strong>获准在任意云平台提供产品，<strong>微软</strong>的知识产权许可也转为非独占性。</p>
+<p>双方同时调整了财务机制，<strong>微软</strong>不再向 <strong>OpenAI</strong>支付收入分成。而 <strong>OpenAI</strong>向 <strong>微软</strong>的付款改为设有总额上限。</p>
+</blockquote>
+<p><strong>微软</strong>与 <strong>OpenAI</strong> 宣布对双方合作协议进行重大修订，以简化合作关系并提高长期可预测性。</p>
+<p>根据新协议，<strong>微软</strong>继续担任 <strong>OpenAI</strong> 的主要云合作伙伴。<strong>OpenAI</strong> 产品将优先部署在 <strong>Azure</strong> 上，但 <strong>OpenAI</strong> 现在有权在任何云服务商上向客户提供其全部产品。</p>
+<p><strong>微软</strong>对 <strong>OpenAI</strong> 模型和产品的 <strong>IP</strong> 许可将持续至 <strong>2032</strong> 年，但该许可已从独占性变为非独占性。</p>
+<p><strong>微软</strong>不再向 <strong>OpenAI</strong> 支付收入分成，而 <strong>OpenAI</strong> 向 <strong>微软</strong>的收入分成支付将延续至 <strong>2030</strong> 年，保持相同比例但设有总额上限。</p>
+<p><strong>微软</strong>仍作为主要股东直接参与 <strong>OpenAI</strong> 的增长。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427234732_1d95dd69f2.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427234820_75412cec44.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/">https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/</a></li>
+<li><a href="https://x.com/sama/status/2048755148361707946">https://x.com/sama/status/2048755148361707946</a></li>
+</ul>
+<hr>
+<h2>国家发改委禁止外资收购Manus项目并撤销交易 <code>#2</code></h2>
+<blockquote>
+<p>国家发展改革委于<strong>2026 年 4 月 27 日</strong>依法作出决定。</p>
+<p>明确禁止外资收购 <code>Manus</code> 项目，并要求当事人全面撤销该交易。</p>
+</blockquote>
+<p>根据国家发展改革委政府信息公开平台发布的信息，**外商投资安全审查工作机制办公室（国家发展改革委）**已依法依规对外资收购 <strong>Manus 项目</strong>作出审查决定。</p>
+<p>该决定明确为“禁止投资”，并要求相关当事人完全撤销该收购交易。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/c2c71183-7c85-4ffe-a9c5-86e14a351567/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub 宣布 Copilot 六月切换用量计费，订阅月费保持不变</a> <code>#3</code></h2>
+<blockquote>
+<p>GitHub宣布，从<strong>2026年6月1日</strong>开始，<code>GitHub Copilot</code>将全面切换为按用量计费的新模式，而各档订阅的月费保持不变。</p>
+<p>对于年费 <code>Pro</code>/<code>Pro+</code>用户，将维持现有基于请求的机制直至当前订阅到期。</p>
+<p>但是<strong>6 月 1 日</strong>后会切换到新的模型消耗倍率。</p>
+</blockquote>
+<p><strong>GitHub Copilot</strong> 宣布将从今年 <strong>6 月 1 日</strong> 起全面切换为基于用量（usage-based billing）的计费模式。届时，所有 <strong>Copilot</strong> 计划将用 <strong>GitHub AI Credits</strong> 取代当前的 premium request 机制。</p>
+<p>各档订阅月费不变，但用量将按 Token 消耗（含输入、输出和缓存 Token）并根据各模型的 API 定价费率计算。官方将于 <strong>5 月初</strong> 上线“预览账单”功能，让用户在正式切换前了解新规则下的预估费用。</p>
+<p>对于个人用户方面，按月订阅的 <strong>Copilot Pro</strong> 和 <strong>Pro+</strong> 用户将于 <strong>6 月 1 日</strong> 自动迁移至按用量计费机制。而按年订阅的 <strong>Pro/Pro+</strong> 用户将维持现有基于 premium request 的机制直至当前订阅到期，但是 <strong>6 月 1 日</strong> 后会切换到新的模型消耗倍率。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260428/20260428083522_313dedc7b9.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260428/20260428084059_b1e7255048.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Zai_org/status/2048784274523148750">智谱延长 GLM 系列非高峰期抵扣福利至 6 月 30 日</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>智谱</strong>宣布，<code>GLM Coding Plan</code> 用户在每天下午2点到6点以外的非高峰时段，调用 <code>GLM-5.1</code> 和 <code>GLM-5-Turbo</code> 模型享受的 <strong>1倍</strong> 额度抵扣福利，延长到了 <strong>6月30日</strong>。</p>
+</blockquote>
+<p><strong>智谱</strong>针对 <strong>GLM Coding Plan</strong> 用户，正式延长了 <code>GLM-5</code> 系列模型的消耗系数福利。</p>
+<p>根据公告，在调用 <code>GLM-5.1</code> 与 <code>GLM-5-Turbo</code> 时，用户于非高峰期产生的 token 消耗可继续按 <strong>1 倍</strong> 额度进行抵扣，该福利将延期至 <strong>6 月 30 日</strong>。</p>
+<p>上述非高峰期具体指每日 UTC+8 时区 <strong>14:00</strong> 至 <strong>18:00</strong> 以外的 <strong>20 个小时</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427203516_c2295d3898.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Zai_org/status/2048784274523148750">https://x.com/Zai_org/status/2048784274523148750</a></li>
+</ul>
+<hr>
+<h2><a href="https://100t.xiaomimimo.com">小米正式开源 MiMo-V2.5 系列模型，推出免费Token激励计划</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>小米</strong>正式发布并全面开源了<code>MiMo-V2.5</code>系列模型，均采用 MIT 许可。</p>
+<p>同时，<strong>小米</strong>还推出了免费发放 Token 的“百万亿 Token 创造者激励计划”和"Agent 生态共建计划”。</p>
+</blockquote>
+<p><strong>小米</strong>正式开源 <strong>MiMo-V2.5</strong> 系列模型，采用 MIT 协议允许商用。</p>
+<p>该系列包含旗舰级 MoE 语言模型 <code>MiMo-V2.5-Pro</code> 与原生全模态模型 <code>MiMo-V2.5</code>。</p>
+<p>前者总参数量 <strong>1.02T</strong>（激活 <strong>42B</strong>），官方称在开源模型测评中排名第一，支持 <strong>1M</strong> 上下文。</p>
+<p>后者总参 <strong>310B</strong>（激活 <strong>15B</strong>），支持文本、图像、视频和音频统一理解。</p>
+<p>两款模型均采用混合注意力架构与多 Token 预测技术，权重与代码已在 <strong>Hugging Face</strong> 开放。</p>
+<p>此外，<strong>小米</strong>启动"MiMo Orbit"计划，提供为期 <strong>30 天</strong> 的 <strong>100 万亿</strong> Token 免费激励及 Agent 生态共建支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/81fdb52f-0004-4d04-a615-8745b7a795fc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://100t.xiaomimimo.com">https://100t.xiaomimimo.com</a></li>
+<li><a href="https://huggingface.co/collections/XiaomiMiMo/mimo-v25">https://huggingface.co/collections/XiaomiMiMo/mimo-v25</a></li>
+</ul>
+<hr>
+<h2><a href="https://bailian.console.aliyun.com/cn-beijing/?tab=model#/model-market/all?providers=happyhorse">阿里快乐马 HappyHorse 1.0 上线百炼</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>阿里</strong>“快乐马”<strong>HappyHorse</strong> <code>1.0</code> 模型已在<strong>阿里云</strong>百炼平台全面上线。</p>
+<p>该模型共提供三个版本，目前定价均为 <strong>720p</strong> 每秒 <strong>0.9</strong> 元。</p>
+<p>对于更高清晰度的需求，<strong>1080p</strong> 每秒钟的价格为 <strong>1.6</strong> 元。</p>
+</blockquote>
+<p><strong>阿里</strong>的“快乐马”<strong>HappyHorse 1.0</strong>模型已在<strong>阿里云</strong>大模型服务平台<strong>百炼</strong>（<code>bailian.console.aliyun.com</code>）全面上线。</p>
+<p>所有<strong>百炼</strong>用户均可直接查看和调用。该模型共提供三个版本供用户选择。</p>
+<p>目前定价均为<strong>720p</strong>每秒<strong>0.9</strong>元，<strong>1080p</strong>每秒<strong>1.6</strong>元。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/5aef4817-9a2c-4303-ab93-0b222c130bc7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://bailian.console.aliyun.com/cn-beijing/?tab=model#/model-market/all?providers=happyhorse">https://bailian.console.aliyun.com/cn-beijing/?tab=model#/model-market/all?providers=happyhorse</a></li>
+</ul>
+<hr>
+<h2>Meta 发布 Sapiens2 开源人类视觉基础模型 <code>#7</code></h2>
+<blockquote>
+<p><strong>Meta AI</strong>发布了第二代人类视觉基础模型系列<code>Sapiens2</code>，该系列包含从<code>0.1B</code>到<code>5B</code>参数的多个视觉 Transformer，已全面开源。</p>
+</blockquote>
+<p><strong>Meta AI</strong> 发布了 <strong>Sapiens2</strong>，这是其面向人类视觉的第二代基础模型家族。</p>
+<p>该系列包含从 <code>0.1B</code> 到 <code>5B</code> 参数的多个视觉 Transformer，在 <code>10 亿</code> 张人类图像上完成预训练。</p>
+<p>它支持原生 <code>1K</code> 分辨率及 <code>4K</code> 变体。</p>
+<p>模型针对姿态估计、身体部位分割、表面法线、点图估计和反照率估计五项下游任务提供专用微调模型。</p>
+<p>相关权重、论文和代码均已开源下载。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/1cb1dc11-d3d3-4d61-a231-112fc8774faf/m001.gif" alt=""></p>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/31_xdiV1VctDXnGCX9wCmQ">TRAE SOLO 语音上线，支持命令</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>TRAE</strong>正式上线了 <strong>SOLO</strong> 桌面端和网页端的语音输入功能，能把口语自动整理成结构化文本。</p>
+<p>此外，用户还可以用语音直接调用命令。</p>
+</blockquote>
+<p><strong>TRAE</strong>宣布 <strong>SOLO</strong>桌面端及网页端语音输入功能正式上线，中国版与国际版均支持，并同步推出与影石 <strong>Insta360</strong>联名的限定款 <strong>Mic Air</strong>。</p>
+<p>该语音输入功能由火山引擎 <code>AI</code>音视频互动提供支持，能自动整理口语为结构化文本，支持通过自然语言直接调用 <code>/Plan</code>、<code>/Skills</code>等<code>/Command</code> 命令，实现“动口不动手”地完成任务。</p>
+<p>功能支持中英及中英混合识别，单次最长可录制<strong>15分钟</strong>。此外，实时语音问答互动功能即将上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427225645_6ec3bad783.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/31_xdiV1VctDXnGCX9wCmQ">https://mp.weixin.qq.com/s/31_xdiV1VctDXnGCX9wCmQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://devin.ai/terminal">Cognition 发布 Devin for Terminal</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Cognition</strong> 推出了一款名为 <strong>Devin for Terminal</strong> 的本地终端 <code>AI</code> 编程 Agent，目前已对所有 <strong>Windsurf</strong> 用户开放使用。</p>
+</blockquote>
+<p><strong>Cognition</strong> 发布了 <strong>Devin for Terminal</strong>，这是一款可直接在本地终端运行的 <code>AI 编程 Agent</code>。</p>
+<p>该工具由 <strong>Rust</strong> 编写，具备高性能并支持多模型选择，旨在优化交互式开发体验。</p>
+<p>当本地工作负载超出笔记本电脑能力时，可无缝交接至云端 <strong>Devin Agent</strong>。后者拥有独立虚拟机，并能提供测试、视频录制及自动修复等功能。</p>
+<p>此外，<strong>Windsurf</strong> 在社交平台上表示，该工具已对所有 <strong>Windsurf</strong> 用户开放，可以直接在 <strong>Windsurf Next</strong> 中使用。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://devin.ai/terminal">https://devin.ai/terminal</a></li>
+<li><a href="https://x.com/windsurf/status/2048838772373266698">https://x.com/windsurf/status/2048838772373266698</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/NousResearch/hermes-agent/pull/16506">Hermes 默认启用原生视觉，主模型支持自动生效</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Hermes</strong>现已默认启用原生视觉功能，用户执行<code>hermes update</code>命令即可让支持视觉的主模型自动生效。</p>
+<p>若主模型本身不支持视觉或需要更改设置，用户仍可手动配置视觉辅助模型。</p>
+</blockquote>
+<p><strong>Hermes</strong> 现已默认启用原生视觉功能，用户只需执行 <code>hermes update</code> 即可立即生效。</p>
+<p>若主 <strong>Agent</strong> 模型支持视觉且用户未另行设置视觉辅助模型，<strong>Hermes</strong> 将自动使用该模型的原生视觉能力。</p>
+<p>如需覆盖此默认行为，可通过 <code>hermes model</code> → Configure Auxiliary Model → Vision 设置其他模型作为视觉辅助。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/680f6da4-3724-45f1-b6b6-fd6a95718143/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/pull/16506">https://github.com/NousResearch/hermes-agent/pull/16506</a></li>
+<li><a href="https://x.com/Teknium/status/2048766822766547451">https://x.com/Teknium/status/2048766822766547451</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/openclaw/status/2048745795776557337">OpenClaw 发布新版，升级语音与优化插件启动</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.4.25</strong> 版本更新。</p>
+<p>这次更新重点升级了 <code>文本转语音</code> 功能。</p>
+<p>引入多项底层优化，将插件加载时间降至 <strong>两秒</strong> 以内。</p>
+<p>并全面增强了系统在核心维度的可观测性与安装稳定性。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026年4月25日</strong> 版本更新，重点包括文本转语音功能全面升级、插件启动速度显著提升、以及全面的可观测性增强。</p>
+<p>本次更新为 <strong>OpenClaw Gateway</strong> 新增了 <strong>13个</strong> 语音提供商，支持角色人格化，并允许为每个 <strong>Agent</strong>、频道或账户单独配置语音覆盖，同时新增了 <code>/tts latest</code> 和 <code>/tts chat</code> 命令以及后备诊断功能。</p>
+<p>插件启动方面，新版本采用了冷查找表和持久化注册表元数据，大幅减少运行时的加载依赖。此外，浏览器控制获得了更安全的标签 ID、URL 增强快照、无头一键启动等改进，安装与更新流程也增强了稳定性。</p>
+<p>更新还增加了分阶段插件运行时依赖、磁盘空间警告、包验证和更清晰的修复路径。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260428/20260428084614_e353accb1d.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/openclaw/status/2048745795776557337">https://x.com/openclaw/status/2048745795776557337</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/testingcatalog/status/2048903431700586713">消息称 Gemini 应用新增文件生成能力，支持文档表格</a> <code>#12</code></h2>
+<blockquote>
+<p>据社区用户发现，<strong>Gemini</strong> 应用现已能够在网页端和移动端直接生成并发送文档与表格文件。</p>
+</blockquote>
+<p><strong>TestingCatalog News</strong>和多位用户注意到，<strong>Gemini</strong>应用现已能够在网页端和移动端生成<strong>PDF</strong>、<strong>Google Docs</strong>和<strong>Google Sheets</strong>等文档文件。</p>
+<p>该功能赋予了 <strong>Gemini</strong> 一个独立的 <code>sandbox</code> 环境来执行任务，并可生成和发送文件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260428/20260428082806_24970daf16.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/testingcatalog/status/2048903431700586713">https://x.com/testingcatalog/status/2048903431700586713</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/adele__li/status/2048889372867760386">ChatGPT Web 端上线 360 度全景图像生成功能</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布 <strong>ChatGPT</strong> 的 Web 端上线了360度全景图像生成功能。</p>
+<p>用户只需输入 <code>360 image</code> 指令，就能一键沉浸式浏览 AI 生成的全景空间。</p>
+</blockquote>
+<p>ChatGPT图像功能迎来新特性，<strong>OpenAI</strong>团队成员<strong>Adele Li</strong>宣布，用户现在可以通过ChatGPT的图像生成能力在Web端创建360度全景世界。</p>
+<p>使用方式非常简单：用户只需向ChatGPT提出生成<code>360 image</code>的指令，即可获得一张360度全景图像。</p>
+<p>在该图像下方，会出现一个“enter 360 world”按钮，点击后即可沉浸式地探索这个由AI生成的360度全景空间。</p>
+<p>该功能目前已在Web端上线，<strong>Adele Li</strong>表示十分期待看到用户们创造出什么样的世界。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260428/20260428090253_161b4b02bf.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/403bc59e-5db7-4972-a148-d19cd9a08bb4/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/adele__li/status/2048889372867760386">https://x.com/adele__li/status/2048889372867760386</a></li>
+</ul>
+<hr>
+<h2>蚂蚁灵光App上线“体验世界模型”功能 <code>#14</code></h2>
+<blockquote>
+<p><strong>蚂蚁灵光</strong>App 上线了“体验世界模型”功能，只需上传一张图片，就能在几秒钟内生成最长 <strong>60 秒</strong> 的 3D 世界并自由走动探索。</p>
+</blockquote>
+<p><strong>蚂蚁灵光 App</strong> 上线“体验世界模型”功能，用户只需上传一张图片，即可在手机上探索最长 <strong>60 秒</strong>的 <code>3D</code> 世界。</p>
+<p>并通过手游摇杆操控视角，像玩游戏一样在其中自由走动。从触发指令到开始探索，整个过程仅需秒级。</p>
+<p>该功能背后接入了<strong>蚂蚁灵波</strong>今年 <strong>1 月</strong>开源的 <code>LingBot-World-Fast</code> 世界模型。</p>
+<p>该模型可提供高保真、可控制且逻辑一致的模拟环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/afe07336-89fe-4e4a-a491-51425b3c4073/m001.gif" alt=""></p>
+<hr>
+<h2><a href="https://openai.com/index/our-principles/">OpenAI 公布五项原则，旨在AGI惠及人类</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>首席执行官<strong>Sam Altman</strong>发布<strong>OpenAI</strong>最新原则，明确提出民主化、赋能、普遍繁荣、韧性和适应性五项核心方针。</p>
+<p>旨在确保通用人工智能惠及全人类，防止技术权力过度集中。</p>
+</blockquote>
+<p><strong>OpenAI</strong>首席执行官<strong>Sam Altman</strong>近日发布题为"<strong>Our Principles</strong>"的公开声明，提出五项核心指导方针：民主化、赋权、普遍繁荣、韧性、适应性。</p>
+<p><strong>Altman</strong>在声明中强调，这些原则旨在确保 <code>AGI</code> 惠及全人类，防止技术权力集中。他主张通过民主程序决定 <code>AI</code> 关键决策，赋予用户广泛自主权，推动 <code>AI</code> 基础设施大规模建设以降低成本，并与政府和社会合作应对新兴风险。</p>
+<p>该原则亦明确将延续迭代部署策略，在不确定性中保持适应性调整。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260427/20260427225727_f367ba22f6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/our-principles/">https://openai.com/index/our-principles/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/mingchikuo/status/2048587389791269182">郭明錤称 OpenAI 2028 量产自研手机 立讯精密代工</a> <code>#16</code></h2>
+<blockquote>
+<p>分析师<strong>郭明錤</strong>发布调查称，<strong>OpenAI</strong>自研 <code>AI 手机</code>预计在 <strong>2028 年</strong>量产。</p>
+<p>其正与<strong>联发科</strong>和<strong>高通</strong>合作开发手机处理器。同时，<strong>立讯精密</strong>拿下独家系统协力设计与制造合同。</p>
+</blockquote>
+<p><strong>天风国际证券</strong>分析师<strong>郭明錤</strong>发布产业调查称，<strong>OpenAI</strong>正在与<strong>联发科</strong>、<strong>高通</strong>合作开发手机处理器。</p>
+<p>并由<strong>立讯精密</strong>拿下独家系统协力设计与制造合同，其自研手机预计<strong>2028 年</strong>量产。</p>
+<p>该产品初期瞄准全球每年<strong>3 到 4 亿台</strong>高端手机市场。</p>
+<p>其核心设计逻辑是让用户不再手动操作 App，而是通过 <strong>AI agent</strong> 直接完成指令。</p>
+<p>实现云端与端侧 AI 的高度整合，并通过订阅制与硬件捆绑销售构建新生态。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/8c9c20cb-70c0-41f6-9b57-27610e383435/e47f99b0-1007-40f6-912a-5b37b6d60ee1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/mingchikuo/status/2048587389791269182">https://x.com/mingchikuo/status/2048587389791269182</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/73</guid><pubDate>Tue, 28 Apr 2026 01:27:35 +0000</pubDate></item><item><title>2026-04-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-72/</link><description>AI 早报 2026-04-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 ↗ #1 开发生态 Qoder 开启限时优惠 Ultimate 档位模型计费倍率降至 0.8x ↗ #2 前瞻与传闻 AWS 将推出 Claude Platform on AWS 服务整合原生体验 ↗ #3 DeepSeek 调整 API 计费，输入缓存命中价降至首发价十分之一 #1 DeepSeek官方宣布，即日起将全系列模型API服务的输入缓存命中价格统一降至首发价格的十分之一，永久生效。 同时，目前V4-Pro模型的输入缓存命中价在降价的基础上，叠加了此前公布的限时2.5折优惠。 DeepSeek 官方宣布，即日起对其全系列 API 服务的计费规则进…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260427/20260427083458108716b497_cover_75ea.png" alt=""></p>
 <h1>AI 早报 2026-04-27</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1PwoBBREpX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=QDsz5AHAaB0">YouTube</a></p>
 <h2>概览</h2>
