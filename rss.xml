@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 01 May 2026 02:00:13 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-76/</link><description>AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3，降价六成，首次支持访问计算机环境 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260501/2026050109432523201457c5_cover_b8ba.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 01 May 2026 02:05:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-76/</link><description>AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版本更新 ↗ #8 Hermes A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260501/2026050109432523201457c5_cover_b8ba.png" alt=""></p>
 <h1>AI 早报 2026-05-01</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV13RRKBGEtC">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=riWBFNObwgs">YouTube</a></p>
 <h2>概览</h2>
 <h3>要闻</h3>
 <ul>
 <li>OpenAI 发布 Codex 重大更新，拓展办公场景 <a href="https://chatgpt.com/codex/for-work/">↗</a> <code>#1</code></li>
-<li>xAI 推出 Grok 4.3，降价六成，首次支持访问计算机环境 <a href="https://grok.com/release-notes">↗</a> <code>#2</code></li>
+<li>xAI 推出 Grok 4.3 <a href="https://grok.com/release-notes">↗</a> <code>#2</code></li>
 <li>OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 <a href="https://openrouter.ai/openrouter/owl-alpha">↗</a> <code>#3</code></li>
 </ul>
 <h3>开发生态</h3>
@@ -64,7 +64,7 @@
 <li><a href="https://x.com/Dimillian/status/2049929842133520577">https://x.com/Dimillian/status/2049929842133520577</a></li>
 </ul>
 <hr>
-<h2><a href="https://grok.com/release-notes">xAI 推出 Grok 4.3，降价六成，首次支持访问计算机环境</a> <code>#2</code></h2>
+<h2><a href="https://grok.com/release-notes">xAI 推出 Grok 4.3</a> <code>#2</code></h2>
 <blockquote>
 <p><strong>xAI</strong> 正式推出了 <strong>Grok <code>4.3 Beta</code></strong> 模型。</p>
 <p>官方称这是一款新预训练模型，在规模上与 <strong>Grok <code>4.20</code></strong> 相当，但架构有所改进。</p>
