@@ -1,5 +1,220 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 01 May 2026 02:05:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-76/</link><description>AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版本更新 ↗ #8 Hermes A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260501/2026050109432523201457c5_cover_b8ba.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 02 May 2026 01:20:48 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-77/</link><description>AI 早报 2026-05-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Codex 新增导入其他Agent配置功能和宠物功能 ↗ #1 OpenAI Codex 登录策略调整，大概率触发手机验证 ↗ #2 开发生态 xAI API平台上线自定义声音功能 ↗ #3 Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 ↗ #4 产品应用 Manus 推出 Cloud Computer，支持 24 小时持续运行 ↗ #5 微软 Word 推出 Legal Agent 面向法律专业人士 ↗ #6 技术与洞察 Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 ↗ #7 行业动态 马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 ↗ #8…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260502/2026050209014272897378fb_cover_bbfd.png" alt=""></p>
+<h1>AI 早报 2026-05-02</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1m7RLBtE4f">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=XDLgIMhGvNA">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI Codex 新增导入其他Agent配置功能和宠物功能 <a href="https://chatgpt.com/codex/switch-to-codex/">↗</a> <code>#1</code></li>
+<li>OpenAI Codex 登录策略调整，大概率触发手机验证 <a href="https://linux.do/t/topic/2093401">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>xAI API平台上线自定义声音功能 <a href="https://x.ai/news/grok-custom-voices">↗</a> <code>#3</code></li>
+<li>Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 <a href="https://github.com/vercel-labs/ai-cli">↗</a> <code>#4</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Manus 推出 Cloud Computer，支持 24 小时持续运行 <a href="https://manus.im/blog/manus-cloud-computer">↗</a> <code>#5</code></li>
+<li>微软 Word 推出 Legal Agent 面向法律专业人士 <a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/word-legal-agent-in-frontier/4516218">↗</a> <code>#6</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 <a href="https://facebookresearch.github.io/RAM/blogs/autodata/">↗</a> <code>#7</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 <a href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/">↗</a> <code>#8</code></li>
+<li>Anthropic 拟融资 500 亿美元，白宫反对 Mythos 扩容 <a href="https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5">↗</a> <code>#9</code></li>
+<li>美国参议院推进立法，禁止向未成年人提供 AI 伴侣 <a href="https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584">↗</a> <code>#10</code></li>
+<li>美国国防部允许七家 AI 公司，将模型部署至机密网络 <a href="https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/">↗</a> <code>#11</code></li>
+<li>Qwen 与 Fireworks AI 达成战略合作，开放闭源模型部署能力 <a href="https://x.com/Alibaba_Qwen/status/2050232280082522505">↗</a> <code>#12</code></li>
+</ul>
+<hr>
+<h2><a href="https://chatgpt.com/codex/switch-to-codex/">OpenAI Codex 新增导入其他Agent配置功能和宠物功能</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>推出了<code>Switch to Codex</code>迁移功能，支持用户一键将其他Agent的设置、插件、技能和历史对话等工作流迁移至<code>Codex</code>。</p>
+<p>同时，<code>Codex</code>还上线了宠物功能。用户输入<code>/pet</code>命令即可领养默认宠物，或通过<code>/hatch-pet</code>技能创建自定义宠物来掌握状态信息。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 近期推出了一系列 <strong>Codex</strong> 新功能，旨在降低其他编码 Agent 用户的迁移门槛并提升日常使用体验。</p>
+<p>其中，官方正式上线了“导入设置”功能，支持用户通过官方应用在几步之内从其他 Agent 导入设置、插件、<code>Agent</code>、项目配置等，从而在工作流切换时减少中断。</p>
+<p>与此同时，<code>Codex</code> 还新增了名为"Pets"的趣味功能。用户可通过 <code>/pet</code> 命令唤醒宠物，并支持通过安装 <code>hatch-pet</code> 技能进行自定义创建。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/398468e4-986a-4bb6-a3ba-4f22b6120d80/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/398468e4-986a-4bb6-a3ba-4f22b6120d80/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://chatgpt.com/codex/switch-to-codex/">https://chatgpt.com/codex/switch-to-codex/</a></li>
+<li><a href="https://developers.openai.com/codex/app/settings#codex-pets">https://developers.openai.com/codex/app/settings#codex-pets</a></li>
+</ul>
+<hr>
+<h2><a href="https://linux.do/t/topic/2093401">OpenAI Codex 登录策略调整，大概率触发手机验证</a> <code>#2</code></h2>
+<blockquote>
+<p>据社区用户反馈，<strong>OpenAI</strong>旗下<code>Codex</code>平台的登录验证规则正在变化。</p>
+<p>现在登录时有较大的概率会弹出手机验证页面。就连原本免验证的<strong>GPT Plus</strong>会员也被要求验证手机号。</p>
+</blockquote>
+<p>近日，多位用户反映 <strong>OpenAI</strong> <code>Codex</code> 登录流程发生变更。</p>
+<p>有用户表示，过去 <code>Codex</code> 的 OAuth 登录并不强制要求手机验证，但近期高概率弹出手机验证页面。</p>
+<p>另有社区讨论指出，此前普通免费账号需手机验证而 <strong>GPT Plus</strong> 会员无需验证。但目前已有不少 Plus 会员在登录 <code>Codex</code> 时同样被要求进行手机号验证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/a438267d-66f6-4141-aa11-f3ff74548058/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linux.do/t/topic/2093401">https://linux.do/t/topic/2093401</a></li>
+<li><a href="https://linux.do/t/topic/2093026">https://linux.do/t/topic/2093026</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-custom-voices">xAI API平台上线自定义声音功能</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>xAI</strong>宣布其 <strong>API</strong> 正式上线自定义声音与语音库功能。</p>
+<p>用户只需提供约 <strong>一分钟</strong> 自然语音，即可在 <strong>两分钟</strong> 内完成验证并快速克隆专属声音。</p>
+<p>同时还能选用超 <strong>80</strong> 种覆盖 <strong>28</strong> 种语言的预设声音。</p>
+</blockquote>
+<p>xAI 通过官方渠道宣布，其 API 正式上线**“自定义声音”<strong>与</strong>“语音库”**两项新功能。</p>
+<p>在<strong>自定义声音</strong>方面，用户只需提供约<strong>一分钟</strong>的自然语音录音，并在控制台完成验证短语与声纹嵌入的双重验证，即可在不到<strong>两分钟</strong>内生成专属声音模型。</p>
+<p>该功能支持应用于<code>Grok 文本转语音接口</code>和<code>语音 Agent API</code>，且不产生额外费用。</p>
+<p>同时上线的<strong>语音库</strong>支持统一管理，内置声音已扩展至超过<strong>80 种</strong>，覆盖<strong>28 种语言</strong>。</p>
+<p>xAI 强调，因需实时验证与声纹比对，无法从预先存在的录音中克隆他人声音，从而防止滥用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/2bf40167-bbfa-4b5d-bdbf-29e3b42835b6/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-custom-voices">https://x.ai/news/grok-custom-voices</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/vercel-labs/ai-cli">Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Vercel Labs</strong> 推出了开源的 AI 命令行工具，让用户能直接在终端里通过简单的命令生成文本、图像和视频。</p>
+<p>该工具支持通过管道操作，串联生成步骤、进行多模型对比以及无需原生依赖的终端内联预览。</p>
+</blockquote>
+<p><strong>Vercel Labs</strong> 近日开源 <strong>AI CLI</strong> 工具，支持用户在终端通过命令直接生成文本、图像和视频。该工具基于 <strong>AI SDK</strong> 和 <code>Gateway</code> 构建，可统一接入数百种模型。</p>
+<p>其核心亮点包括：一是支持管道操作，可将不同命令的输入输出直接串联；二是具备内联预览功能，若终端支持 <code>Kitty</code> 协议，无需原生依赖即可由 <code>WebAssembly</code> 解码显示图像及视频关键帧。</p>
+<p>此外，该工具支持多模型生成与对比，设定文本和图像命令超时 <code>120</code> 秒、视频命令 <code>300</code> 秒。用户需提供 <code>AI Gateway</code> 或特定提供商的 <strong>API</strong> 密钥方可使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/782f095e-8aad-48ec-b050-729f3abd99da/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/vercel-labs/ai-cli">https://github.com/vercel-labs/ai-cli</a></li>
+<li><a href="https://x.com/ctatedev/status/2050306123706613771">https://x.com/ctatedev/status/2050306123706613771</a></li>
+</ul>
+<hr>
+<h2><a href="https://manus.im/blog/manus-cloud-computer">Manus 推出 Cloud Computer，支持 24 小时持续运行</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Manus</strong> 推出了名为 <strong>Cloud Computer</strong> 的云端专属机器功能，它具有持久的环境和文件系统。</p>
+<p>这一功能能让 <code>Bot</code>、<code>Python</code> 脚本及各类软件实现 <strong>7</strong> 乘 <strong>24</strong> 小时不间断运行。</p>
+</blockquote>
+<p><strong>Manus</strong> 近日推出 <strong>Cloud Computer for Manus</strong>，定位为始终在线的云端机器。</p>
+<p>官方称其支持用户构建内容 <code>24/7</code> 持续运行，即便关闭笔记本也不受影响。</p>
+<p>用户无需代码即可通过网页和移动端构建应用，运行机器人及自托管工具等任务。团队计划即将推出。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/f82bf528-35d2-4eaa-8d0d-8449015d509c/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://manus.im/blog/manus-cloud-computer">https://manus.im/blog/manus-cloud-computer</a></li>
+<li><a href="https://x.com/ManusAI/status/2049870078896963962">https://x.com/ManusAI/status/2049870078896963962</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/word-legal-agent-in-frontier/4516218">微软 Word 推出 Legal Agent 面向法律专业人士</a> <code>#6</code></h2>
+<blockquote>
+<p>微软在 <strong>Word</strong> 中推出了专为法律专业人士设计的 <strong>Legal Agent</strong>。</p>
+<p>它能处理合同审查与条款谈判。目前已向 <strong>美国地区</strong> 用户开放。</p>
+</blockquote>
+<p><strong>微软</strong>近日在 <strong>Word</strong> 中推出 <strong>Legal Agent</strong>，专为法律人士设计，处理合同审查、修订比对和条款谈判。</p>
+<p>该 <strong>Agent</strong> 采用专用插入算法和可感知文档结构的 <code>Redlining</code> 引擎，通过 <code>确定性解析层</code> 处理编辑，降低延迟和成本。</p>
+<p>用户可通过 <strong>Frontier</strong> 项目在美国地区的 <strong>Word Windows</strong> 桌面版使用。</p>
+<p><strong>微软</strong>强调该 <strong>Agent</strong> 不提供法律建议，不可替代专业人士判断。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260501/20260501191953_2ad246799a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/word-legal-agent-in-frontier/4516218">https://techcommunity.microsoft.com/blog/microsoft365copilotblog/word-legal-agent-in-frontier/4516218</a></li>
+</ul>
+<hr>
+<h2><a href="https://facebookresearch.github.io/RAM/blogs/autodata/">Meta AI 推出 Autodata，Agent 自主构建高质量训练数据</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Meta AI</strong>的 <strong>RAM</strong> 团队推出了 <code>Autodata</code> 框架，该框架通过一个主 Agent 协调四个子 Agent 来严格筛选问答对。</p>
+<p>这一机制让 AI Agent 能像数据科学家一样自主迭代，并生成高质量的训练数据。</p>
+</blockquote>
+<p><strong>Meta AI</strong> 的 <strong>RAM</strong> 团队推出 <code>Autodata</code> 框架，使 <code>AI Agent</code> 能自主构建高质量的训练与评测数据。该方案由一个主 <code>Agent</code> 协调四个子 <code>Agent</code>，依严格条件迭代筛选样本。</p>
+<p>实验中，该框架处理超 <strong>1 万</strong>篇论文，产出 <strong>2117</strong>个有效 <code>QA</code> 对。它将强弱求解器得分差距从传统方法的 <strong>1.9</strong>个百分点扩至 <strong>34</strong>个百分点。用此数据训练的 <code>Qwen-3.5-4B</code> 模型表现显著优于基线。其元优化机制将数据生成验证通过率从 **12.8%**提升至 <strong>42.4%</strong>。</p>
+<p>团队计划在 arXiv 发布完整技术报告。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/bbfd9e45-9307-47c2-bcfd-b165f394aeb1/b84d5006-27ae-43ac-abb1-1e493f2c7300/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://facebookresearch.github.io/RAM/blogs/autodata/">https://facebookresearch.github.io/RAM/blogs/autodata/</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/">马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型</a> <code>#8</code></h2>
+<blockquote>
+<p>据报道，在加州联邦法院庭审中，<strong>埃隆·马斯克</strong>作证时承认，其创立的 <strong>xAI</strong> 在对 <code>Grok</code> 模型进行训练时，部分使用了从 <strong>OpenAI</strong> 模型中学习知识的 <code>蒸馏</code> 技术。</p>
+<p>并称这是 <strong>AI</strong> 公司间的通用做法。</p>
+</blockquote>
+<p>据报道，在近日的加州联邦法院庭审中，<strong>埃隆·马斯克</strong>作证时承认，其创立的<strong>xAI</strong>在对 <code>Grok</code> 模型进行训练时，部分使用了蒸馏技术，从 <code>OpenAI</code> 的模型中学习。</p>
+<p><strong>埃隆·马斯克</strong>正在起诉 <strong>OpenAI</strong>、CEO <strong>Sam Altman</strong> 及联合创始人 <strong>Greg Brockman</strong>，指控其违背最初的公益使命转向营利。</p>
+<p>当被问及 <strong>xAI</strong> 是否对 <code>OpenAI</code> 模型使用蒸馏技术来训练 <code>Grok</code> 时，<strong>埃隆·马斯克</strong>表示"Partly"，并称这是 AI 公司之间的通用做法。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260501/20260501192501_507035e189.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/">https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/</a></li>
+<li><a href="https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/">https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china">https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5">Anthropic 拟融资 500 亿美元，白宫反对 Mythos 扩容</a> <code>#9</code></h2>
+<blockquote>
+<p>据报道，<strong>Anthropic</strong> 正在权衡总额 <strong>400</strong> 到 <strong>500</strong> 亿美元的新一轮私募融资。</p>
+<p>该公司的估值有望超过 <strong>9000</strong> 亿美元，或将超越 <strong>OpenAI</strong> 成为全球估值最高的 AI 初创公司。</p>
+<p>与此同时，有报道称白宫出于安全担忧和算力限制，明确反对 <strong>Anthropic</strong> 扩大其 AI 模型 <code>Mythos</code> 的访问权限。</p>
+</blockquote>
+<p>据媒体报道，<strong>Anthropic</strong> 正筹划新一轮私募融资，估值或超 <strong>9000 亿美元</strong>，融资额 <strong>400 亿至 500 亿美元</strong>。</p>
+<p>若完成，其估值将超越 <strong>OpenAI</strong>。此举或是 IPO 前最后一轮私募。</p>
+<p>另据媒体报道，白宫反对 <strong>Anthropic</strong> 扩大 <code>Mythos</code> 访问计划。原计划新增约 <strong>70 家实体</strong>，总访问数达 <strong>120 个</strong>。</p>
+<p>官员称出于安全担忧及算力限制，反对此举，恐削弱政府使用权。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260501/20260501193514_5bd8d4859c.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260501/20260501193251_b5bf668a8b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5">https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584">美国参议院推进立法，禁止向未成年人提供 AI 伴侣</a> <code>#10</code></h2>
+<blockquote>
+<p>美国<strong>参议院司法委员会</strong>一致投票推进了《用户年龄验证与负责任的对话法案》，<strong>众议院</strong>也同步提出了配套法案。</p>
+<p>该法案要求 <strong>AI</strong> 公司实施年龄验证，并禁止向未成年人提供 <strong>AI 伴侣</strong>。</p>
+<p>此外，法案还强制定期向用户披露非人类身份。</p>
+</blockquote>
+<p>美国国会加速推进禁止面向未成年人提供<code>AI</code>聊天机器人的立法。</p>
+<p>参议院司法委员会<strong>一致通过</strong>由两党议员<strong>Josh Hawley</strong>和<strong>Richard Blumenthal</strong>提出的《<strong>GUARD 法案</strong>》。该法案要求<code>AI</code>公司实施年龄验证，禁止向未成年人提供<code>AI</code>伴侣，并强制披露非人类身份。</p>
+<p>众议院也提出配套法案。对诱导未成年人性行为或鼓励自杀的公司将施加刑事处罚。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584">https://www.nbcnews.com/politics/congress/momentum-builds-congress-ban-ai-chatbots-kids-rcna342584</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/">美国国防部允许七家 AI 公司，将模型部署至机密网络</a> <code>#11</code></h2>
+<blockquote>
+<p>美国<strong>国防部</strong>宣布与<strong>SpaceX</strong>、<strong>OpenAI</strong>、<strong>Google</strong>、<strong>NVIDIA</strong>、<strong>Reflection</strong>、<strong>Microsoft</strong>和<strong>Amazon Web Services</strong>七家 AI 公司签署协议。</p>
+<p>该协议允许将相关 AI 技术与模型部署在 <code>IL6</code> 和 <code>IL7</code> 高安全级别的机密网络上，用于合法的作战用途。</p>
+</blockquote>
+<p>美国国防部近日宣布，与<strong>SpaceX</strong>、<strong>OpenAI</strong>、<strong>Google</strong>，以及此次新增的<strong>NVIDIA</strong>、<strong>Microsoft</strong>、<strong>AWS</strong>和<strong>Reflection AI</strong>共七家公司签署协议。该协议允许其<strong>AI</strong>技术部署在国防部机密网络上，用于“合法作战用途”。</p>
+<p>上述技术将被部署在 <code>IL6</code> 和 <code>IL7</code> 高安全等级环境中。这一举措旨在精简数据融合、提升态势感知与决策能力。</p>
+<p>此举将加速美军向以<strong>AI</strong>为先的作战力量转型，并避免供应商锁定。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260502/20260502081430_7c58be3b86.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/">https://www.war.gov/News/Releases/Release/Article/4475177/classified-networks-ai-agreements/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Alibaba_Qwen/status/2050232280082522505">Qwen 与 Fireworks AI 达成战略合作，开放闭源模型部署能力</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Qwen</strong>宣布与<strong>Fireworks AI</strong>达成战略合作，现在用户可直接在<strong>Fireworks</strong>平台使用<code>Qwen3.6-Plus</code>等闭源权重模型。</p>
+<p>此举旨在以更低的微调与推理成本实现生产级部署。</p>
+</blockquote>
+<p><strong>Qwen</strong>宣布与<strong>Fireworks AI</strong>达成战略合作，将通过 <strong>Fireworks</strong> 平台提供 <strong>Qwen</strong> 系列闭源权重模型的优化和部署。</p>
+<p>此举旨在降低开发者和企业的延迟、微调与推理成本，同时提供企业级可靠性、安全性与可扩展性。</p>
+<p>用户现已可通过 <strong>Fireworks</strong> 平台直接使用 <code>Qwen3.6-Plus</code> 等模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260502/20260502081214_b53e6d4781.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Alibaba_Qwen/status/2050232280082522505">https://x.com/Alibaba_Qwen/status/2050232280082522505</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/77</guid><pubDate>Sat, 02 May 2026 01:20:30 +0000</pubDate></item><item><title>2026-05-01</title><link>https://imjuya.github.io/juya-ai-daily/issue-76/</link><description>AI 早报 2026-05-01 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布 Codex 重大更新，拓展办公场景 ↗ #1 xAI 推出 Grok 4.3 ↗ #2 OpenRouter 上线 stealth 模型 Owl Alpha ，百万上下文 ↗ #3 开发生态 Anthropic 推出 Claude Security 测试版，基于 Opus 4.7 扫描漏洞 ↗ #4 Gemini CLI 更新 v0.40.0，支持本地模型及分层记忆 ↗ #5 阿里 Qoder 推出远程控制并发布数字员工 QoderWake ↗ #6 Cloudflare 联合 Stripe 支持 AI Agent 自动完成部署 ↗ #7 OpenClaw 发布安全复盘及版本更新 ↗ #8 Hermes A…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260501/2026050109432523201457c5_cover_b8ba.png" alt=""></p>
 <h1>AI 早报 2026-05-01</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV13RRKBGEtC">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=riWBFNObwgs">YouTube</a></p>
 <h2>概览</h2>
