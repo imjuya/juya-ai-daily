@@ -1,5 +1,130 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 02 May 2026 01:20:48 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-77/</link><description>AI 早报 2026-05-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Codex 新增导入其他Agent配置功能和宠物功能 ↗ #1 OpenAI Codex 登录策略调整，大概率触发手机验证 ↗ #2 开发生态 xAI API平台上线自定义声音功能 ↗ #3 Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 ↗ #4 产品应用 Manus 推出 Cloud Computer，支持 24 小时持续运行 ↗ #5 微软 Word 推出 Legal Agent 面向法律专业人士 ↗ #6 技术与洞察 Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 ↗ #7 行业动态 马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 ↗ #8…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260502/2026050209014272897378fb_cover_bbfd.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 03 May 2026 00:46:00 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-03</title><link>https://imjuya.github.io/juya-ai-daily/issue-78/</link><description>AI 早报 2026-05-03 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用订阅 ↗ #1 开发生态 Codex 上线 HyperFrames 官方插件 ↗ #2 行业动态 猎豹移动 AI 网关被指抄袭开源项目遭原作者指责 ↗ #3 OpenAI 宣布 GPT-5.5 成最成功发布 Codex 七日收入翻倍 ↗ #4 Meta 收购人形机器人初创 ARI 团队加入超级智能实验室 ↗ #5 奥斯卡禁止 AI 生成表演及剧本参选第 99 届奖项 ↗ #6 前瞻与传闻 谷歌悄然更新 Gemini 3 Flash，性能接近 3.1 Pro 传或为 I/O 版本 ↗ #7 OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260503/20260503083058091953ee89_cover_cb06.png" alt=""></p>
+<h1>AI 早报 2026-05-03</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ro9dBFEEB">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=aZ9WIX1s57o">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用订阅 <a href="https://x.com/sama/status/2050357911915028689">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Codex 上线 HyperFrames 官方插件 <a href="https://x.com/OpenAIDevs/status/2050509679076516064">↗</a> <code>#2</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>猎豹移动 AI 网关被指抄袭开源项目遭原作者指责 <a href="https://linux.do/t/topic/2100692">↗</a> <code>#3</code></li>
+<li>OpenAI 宣布 GPT-5.5 成最成功发布 Codex 七日收入翻倍 <a href="https://x.com/OpenAI/status/2050250926888468929">↗</a> <code>#4</code></li>
+<li>Meta 收购人形机器人初创 ARI 团队加入超级智能实验室 <a href="https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/">↗</a> <code>#5</code></li>
+<li>奥斯卡禁止 AI 生成表演及剧本参选第 99 届奖项 <a href="https://press.oscars.org/news/awards-rules-and-campaign-promotional-regulations-approved-99th-oscarsr">↗</a> <code>#6</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>谷歌悄然更新 Gemini 3 Flash，性能接近 3.1 Pro 传或为 I/O 版本 <a href="https://x.com/marmaduke091/status/2050430054056767994">↗</a> <code>#7</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/sama/status/2050357911915028689">OpenAI 宣布 ChatGPT 账户可登录 openclaw 复用订阅</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>首席执行官<strong>Sam Altman</strong>宣布，用户现在能用 <strong>ChatGPT</strong> 账户直接登录 <code>OpenClaw</code> 工具并使用原有订阅权限。</p>
+</blockquote>
+<p>近日，<strong>OpenAI</strong> 首席执行官 <strong>Sam Altman</strong> 宣布，<code>openclaw</code> 平台已与 <strong>OpenAI</strong> 账户体系打通。</p>
+<p>用户现可直接使用 <strong>ChatGPT</strong> 账户登录 <code>OpenClaw</code>，并使用已有的 <strong>ChatGPT</strong> 订阅。</p>
+<p>该整合意味着用户无需单独为该平台付费。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260502/20260502192144_8050d5f110.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/sama/status/2050357911915028689">https://x.com/sama/status/2050357911915028689</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAIDevs/status/2050509679076516064">Codex 上线 HyperFrames 官方插件</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>HeyGen</strong>宣布<strong>HyperFrames</strong>成为<strong>Codex</strong>官方插件，一键安装即可把 <strong><code>Codex</code></strong> 升级为端到端视频工作空间。<strong>HeyGen</strong>还预告将推出更多集成功能。</p>
+</blockquote>
+<p><strong>HeyGen</strong>宣布 <strong>HyperFrames</strong>正式成为 <code>Codex</code>平台的官方插件，支持一键安装。</p>
+<p>安装后，<code>Codex</code>将升级为端到端的视频工作空间，开发者可在同一环境中完成代码编写、视频编辑、渲染与交付全流程。</p>
+<p>此外，<strong>HeyGen</strong>透露<strong>本周</strong>还将推出更多与<strong>OpenAI Developers</strong>的集成功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/cb06ca54-be93-426a-8ad0-a98b92750d6d/0b058969-42ea-4422-adf8-2dd554dd0d24/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAIDevs/status/2050509679076516064">https://x.com/OpenAIDevs/status/2050509679076516064</a></li>
+</ul>
+<hr>
+<h2><a href="https://linux.do/t/topic/2100692">猎豹移动 AI 网关被指抄袭开源项目遭原作者指责</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>猎豹移动</strong> CEO <strong>傅盛</strong> 推广 AI 网关产品 <code>Easy Router</code>，但该产品被发现页面中出现了多达 <strong>98</strong> 处与开源项目 <code>NewAPI</code> 相关的匹配内容。</p>
+<p><code>NewAPI</code> 原作者"<strong>离离子</strong>"也指责该产品基于 <code>NewAPI</code> 二次开发，却删除版权信息且未遵守开源协议。</p>
+</blockquote>
+<p>近日，<strong>猎豹移动</strong>CEO <strong>傅盛</strong>在X平台推广公司AI网关产品<strong>Easy Router</strong>。</p>
+<p>但有开发者分析其前端代码发现，存在98处与开源项目<code>NewApi</code>相关的匹配内容。</p>
+<p>随后，<code>NewApi</code>原作者“离离子”发文指责<strong>Easy Router</strong>基于其项目二次开发，不仅去除版权信息，且未按开源协议要求提供开源地址。</p>
+<p>此事在开发者社区引发广泛讨论。<strong>傅盛</strong>被指未正面回应，仅反问“我有那么傻吗”。目前<strong>猎豹移动</strong>暂未发布正式声明。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/cb06ca54-be93-426a-8ad0-a98b92750d6d/d04861c9-8c85-419f-8a1b-efad8a40992c/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260503/20260503075903_c8b234938e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://linux.do/t/topic/2100692">https://linux.do/t/topic/2100692</a></li>
+<li><a href="https://x.com/Ion_Mio_/status/2050428785066201200">https://x.com/Ion_Mio_/status/2050428785066201200</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenAI/status/2050250926888468929">OpenAI 宣布 GPT-5.5 成最成功发布 Codex 七日收入翻倍</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>近日表示，<code>GPT-5.5</code>发布一周便创下历史最佳成绩。</p>
+<p>其 API 收入增速超以往<strong>两倍</strong>。</p>
+<p>且<code>Codex</code>不到<strong>七天</strong>收入翻番。</p>
+</blockquote>
+<p><strong>GPT-5.5</strong>发布一周后，<strong>OpenAI</strong>宣布该模型已成为其有史以来最成功的发布。</p>
+<p><strong>API</strong>收入增长速度是此前任何发布的两倍以上。<strong>Codex</strong>在不到<strong>7</strong>天内实现收入翻倍，主要受企业对<strong>Agent</strong>编码工具需求持续攀升的推动。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260503/20260503082431_6da276b29a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenAI/status/2050250926888468929">https://x.com/OpenAI/status/2050250926888468929</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/">Meta 收购人形机器人初创 ARI 团队加入超级智能实验室</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Meta</strong>宣布收购人形机器人初创公司 <strong>Assured Robot Intelligence</strong>，其团队将加入 <strong>Meta</strong>的<code>Superintelligence Labs</code>。</p>
+<p>此举将强化 <strong>Meta</strong>在机器人全身控制与自学习方面的专长。</p>
+</blockquote>
+<p><strong>Meta</strong>近日收购人形机器人初创公司 <strong>Assured Robot Intelligence（ARI）</strong>。</p>
+<p><strong>ARI</strong>专注研发让机器人理解并适应人类行为的智能基础模型。</p>
+<p>其联合创始人 <strong>Xiaolong Wang</strong> 与 <strong>Lerrel Pinto</strong> 将携团队加入 <strong>Meta</strong> 的 <strong>AI</strong> 部门，为模型设计及机器人控制带来专长。</p>
+<p>其中，<strong>Pinto</strong> 此前创立的 <strong>Fauna Robotics</strong> 上月被 <strong>亚马逊</strong> 收购。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/">https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/</a></li>
+</ul>
+<hr>
+<h2><a href="https://press.oscars.org/news/awards-rules-and-campaign-promotional-regulations-approved-99th-oscarsr">奥斯卡禁止 AI 生成表演及剧本参选第 99 届奖项</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>美国电影艺术与科学学院</strong>发布了<strong>第99届</strong>奥斯卡奖新规，明确禁止<strong>AI</strong>生成的表演和剧本参选。</p>
+<p>新规强调，参选表演必须由人类在本人同意下实际完成，剧本必须由人类创作。</p>
+</blockquote>
+<p>近日，<strong>美国电影艺术与科学学院</strong>发布第 <strong>99</strong> 届奥斯卡奖新规，限制生成式 <strong>AI</strong> 参评。</p>
+<p>规定明确：只有法律署名且由人类同意并实际完成的表演，方有资格角逐演员奖；剧本须由人类创作。</p>
+<p>学院保留要求制片方提交 <strong>AI</strong> 使用及人类创作证明的权利。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://press.oscars.org/news/awards-rules-and-campaign-promotional-regulations-approved-99th-oscarsr">https://press.oscars.org/news/awards-rules-and-campaign-promotional-regulations-approved-99th-oscarsr</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/marmaduke091/status/2050430054056767994">谷歌悄然更新 Gemini 3 Flash，性能接近 3.1 Pro 传或为 I/O 版本</a> <code>#7</code></h2>
+<blockquote>
+<p>有用户发现，<strong>谷歌</strong>在 Arena 平台悄然更新了 <strong>Gemini 3 Flash</strong> 模型。</p>
+<p>该模型虽然沿用原名，但输出质量大幅提升。</p>
+<p>外界猜测这可能是 <strong>谷歌</strong> 在 I/O 大会前对新版本的预发布。</p>
+</blockquote>
+<p>据 <strong>X</strong> 平台用户发现，<strong>Google</strong> 在 <strong>LMSYS Arena</strong> 上悄然更新了 <code>Gemini 3 Flash</code> 模型。</p>
+<p>该模型仍沿用 <strong>“Gemini 3 Flash”</strong> 名称，但输出质量显著提升，性能接近当前 <strong><code>Gemini 3.1 Pro</code></strong>。</p>
+<p>社区普遍猜测，这可能是即将在 <strong>Google I/O</strong> 上亮相的新版本（如 <strong><code>3.1 Flash</code></strong> 或 <strong><code>3.5 Flash</code></strong>）的预发布。</p>
+<p>目前该模型已可在 <strong>Arena</strong> 平台通过原名进行测试。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260502/20260502192252_f4e697bacb.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/marmaduke091/status/2050430054056767994">https://x.com/marmaduke091/status/2050430054056767994</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/78</guid><pubDate>Sun, 03 May 2026 00:45:37 +0000</pubDate></item><item><title>2026-05-02</title><link>https://imjuya.github.io/juya-ai-daily/issue-77/</link><description>AI 早报 2026-05-02 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Codex 新增导入其他Agent配置功能和宠物功能 ↗ #1 OpenAI Codex 登录策略调整，大概率触发手机验证 ↗ #2 开发生态 xAI API平台上线自定义声音功能 ↗ #3 Vercel Labs 推出 AI CLI 支持终端统一生成各类媒体 ↗ #4 产品应用 Manus 推出 Cloud Computer，支持 24 小时持续运行 ↗ #5 微软 Word 推出 Legal Agent 面向法律专业人士 ↗ #6 技术与洞察 Meta AI 推出 Autodata，Agent 自主构建高质量训练数据 ↗ #7 行业动态 马斯克庭审承认 xAI 利用蒸馏技术学习 OpenAI 模型 ↗ #8…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260502/2026050209014272897378fb_cover_bbfd.png" alt=""></p>
 <h1>AI 早报 2026-05-02</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1m7RLBtE4f">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=XDLgIMhGvNA">YouTube</a></p>
 <h2>概览</h2>
