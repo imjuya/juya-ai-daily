@@ -1,5 +1,359 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 05 May 2026 01:14:12 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-80/</link><description>AI 早报 2026-05-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 豆包拟推三档订阅服务，月费最高五百元 ↗ #1 开发生态 Hermes Agent 升级 Hermes Kanban，Trinity 模型一周免费 ↗ #2 TinyFish 宣布搜索与抓取功能免费面向开发者开放 ↗ #3 Vercel 开源 deepsec 基于 AI Agent 的代码安全扫描框架 ↗ #4 Cursor 团队发布开源内部工作流插件 Cursor Team Kit ↗ #5 Higgsfield 上线 CLI 技能支持 30 余种模型生成 ↗ #6 Google 为 Gemini API 引入事件驱动 Webhooks 推送通知功能 ↗ #7 Claude API平台推出 Workload Identity…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260505/20260505085345673781f61f_cover_7688.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 06 May 2026 01:31:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-06</title><link>https://imjuya.github.io/juya-ai-daily/issue-81/</link><description>AI 早报 2026-05-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能 ↗ #1 模型发布 Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter ↗ #2 Subquadratic 推出 SubQ，上下文窗口达 1200 万 token ↗ #3 Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话 ↗ #4 Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三 ↗ #5 开发生态 AI Studio 更新 Build 模块，集成 Nano Banana 与编辑模式 ↗ #6 字节跳动 TRAE 上线 SOLO 移动…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260506/202605060909278165513686_cover_aceb.png" alt=""></p>
+<h1>AI 早报 2026-05-06</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV14XRpBmEsR">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=-AAJLw2t0Ac">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能 <a href="https://openai.com/index/gpt-5-5-instant/">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter <a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/">↗</a> <code>#2</code></li>
+<li>Subquadratic 推出 SubQ，上下文窗口达 1200 万 token <a href="https://subq.ai/how-ssa-makes-long-context-practical">↗</a> <code>#3</code></li>
+<li>Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话 <a href="https://inworld.ai/blog/realtime-tts-2">↗</a> <code>#4</code></li>
+<li>Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三 <a href="https://lumalabs.ai/news/uni-1-1-api">↗</a> <code>#5</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>AI Studio 更新 Build 模块，集成 Nano Banana 与编辑模式 <a href="https://x.com/GoogleAIStudio/status/2051679127824998762">↗</a> <code>#6</code></li>
+<li>字节跳动 TRAE 上线 SOLO 移动端，支持跨设备协同 <a href="https://mp.weixin.qq.com/s/g0hMDh5PPQWbp_HmXePi0A">↗</a> <code>#7</code></li>
+<li>Augment Code 发布 Augment Cosmos 公开预览 <a href="https://www.augmentcode.com/product/cosmos">↗</a> <code>#8</code></li>
+<li>谷歌更新 Gemini API 文件搜索，支持多模态检索与精确引用 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag">↗</a> <code>#9</code></li>
+<li>OpenClaw 发布 2026.5.4 版，优化启动插件，传将发长期支持版 <a href="https://openclaw.ai/blog/openclaw-rough-week">↗</a> <code>#10</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Claude 推出系列金融 Agent 模板，多家机构已落地采用 <a href="https://claude.com/solutions/financial-services">↗</a> <code>#11</code></li>
+<li>Google NotebookLM 更新 Mind Maps，移动端开发计划确认 <a href="https://x.com/NotebookLM/status/2051715594697977870">↗</a> <code>#12</code></li>
+<li>Google Finance 推出 AI 关键瞬间功能解析股价波动 <a href="http://finance.google.com/beta">↗</a> <code>#13</code></li>
+<li>Google 推出 Pomelli Catalog，免费向全球用户开放体验 <a href="https://x.com/joshwoodward/status/2051698440690889108">↗</a> <code>#14</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>OpenAI 重构 WebRTC，实现语音 AI 低延迟传输 <a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/">↗</a> <code>#15</code></li>
+<li>OpenRouter 分析 GPT-5.5 涨价，用户成本增 49% 至 92%。 <a href="https://openrouter.ai/announcements/gpt55-cost-analysis">↗</a> <code>#16</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenAI 升级 ChatGPT 广告，开放自助管理及 CPC 竞价 <a href="https://openai.com/index/new-ways-to-buy-chatgpt-ads/">↗</a> <code>#17</code></li>
+<li>OpenAI 与普华永道合作，以 AI Agent 重构财务职能 <a href="https://openai.com/index/openai-pwc-finance-collaboration/">↗</a> <code>#18</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>消息称谷歌 Gemini 3.2 Flash 现身 iOS 应用及 AI Studio <a href="https://x.com/Waguri_Kaoruko8/status/2051488074589167704">↗</a> <code>#19</code></li>
+<li>传 OpenAI 首款 AI 手机 2027 上半年量产 联发科独供 <a href="https://x.com/mingchikuo/status/2051523855286776034">↗</a> <code>#20</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/gpt-5-5-instant/">OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>宣布向所有 <strong>ChatGPT</strong> 用户推出 <strong><code>GPT-5.5 Instant</code></strong> 作为新默认模型。它在提升智能与图像分析能力的同时大幅减少幻觉，写作风格也更简洁直白。</p>
+<p><strong>ChatGPT</strong>还增强了记忆功能的效果，并上线了记忆源功能。用户可直接查看和管理个性化回复的具体上下文来源。</p>
+</blockquote>
+<p><strong>OpenAI</strong>从近日起开始向所有<strong>ChatGPT</strong>用户推出<code>GPT-5.5 Instant</code>，将其作为新的默认模型并替代<code>GPT-5.3 Instant</code>，同时在 API 中以 <code>gpt-5.5-chat-latest</code>提供。</p>
+<p>官方称这是一次重大升级，该模型在通用智能、事实准确性、图像分析、<code>STEM</code>问题解答以及何时使用网络搜索方面均有提升。写作风格更加简洁直白，减少了冗余和表情符号。其内部评估显示，在医学、法律、金融等高风险领域，<code>GPT-5.5 Instant</code>相比前代模型减少了<code>52.5%</code>的幻觉声明，并将用户标记的事实错误对话中的不准确声明降低了<code>37.3%</code>。</p>
+<p>与此同时，<strong>ChatGPT</strong>的记忆与个性化功能得到加强，能够更有效地利用保存的记忆、历史对话、文件和已连接的 <strong>Gmail</strong>账户上下文来提供个性化回答。并新推出记忆源功能，让用户可查看、更新或删除用于个性化回复的具体上下文来源。</p>
+<p>个性化改进已向 <strong>Plus</strong>和 <strong>Pro</strong>网页端用户推出，移动端即将上线。未来数周内将推广至<strong>Free</strong>、<strong>Go</strong>、<strong>Business</strong>和<strong>Enterprise</strong>用户；记忆源功能则覆盖所有消费者套餐的网页端。对于付费用户，<code>GPT-5.3 Instant</code>将保留三个月后淘汰。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/90788390-c600-41e4-af8e-690038845c8c/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/90788390-c600-41e4-af8e-690038845c8c/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/gpt-5-5-instant/">https://openai.com/index/gpt-5-5-instant/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/">Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 为 <strong>Gemma 4</strong> 系列模型开源了 <code>MTP drafter</code>。</p>
+<p>它通过推测解码和共享 <code>KV cache</code>，能够并行预测多个 token。</p>
+<p>这一技术在不降低输出质量的前提下，将推理速度最高提升至原来的 <strong>3</strong> 倍。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> 为 <strong>Gemma 4</strong> 全系列模型发布 <code>Multi-Token Prediction</code> (<code>MTP</code>) drafter。</p>
+<p>该草稿模型基于推测解码，通过共享主模型 <code>KV cache</code>，单次前向并行预测并验证多个 token。</p>
+<p>官方明确，在不牺牲输出质量和推理逻辑前提下，推理速度最高提升至原来的 <strong>3</strong> 倍；<strong>26B</strong> <code>MoE</code> 模型在 <strong>Apple Silicon</strong> 上可实现约 <strong>2.2</strong> 倍本地加速。</p>
+<p><code>MTP</code> drafter 均以 <strong>Apache 2.0</strong> 协议开源，首日即获 <strong>Hugging Face</strong>、<strong>Kaggle</strong>、<strong>vLLM</strong> 等主流框架支持，并可通过 <strong>Google AI Edge Gallery</strong> 在 <strong>Android</strong> 和 <strong>iOS</strong> 端体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/b3d30530-622d-4335-b74a-64f3cd934f9f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</a></li>
+<li><a href="https://huggingface.co/collections/google/gemma-4">https://huggingface.co/collections/google/gemma-4</a></li>
+</ul>
+<hr>
+<h2><a href="https://subq.ai/how-ssa-makes-long-context-practical">Subquadratic 推出 SubQ，上下文窗口达 1200 万 token</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Subquadratic</strong>公司宣布推出基于<code>Subquadratic Sparse Attention</code>架构的大语言模型 <code>SubQ</code>。</p>
+<p>该模型具备 <strong>1200万</strong> token 上下文窗口，在百万 token 任务中实现最高 <strong>52</strong> 倍预填充加速。</p>
+<p>现已开放早期访问，提供 API 与编码 Agent 两种使用方式。</p>
+</blockquote>
+<p><strong>Subquadratic</strong> 推出基于亚二次方稀疏注意力（<code>Subquadratic Sparse Attention</code>）架构的 <code>SubQ</code>，已开放早期访问。</p>
+<p>官方称，<code>SubQ</code> 具备 <strong>1200 万 token</strong> 上下文窗口。<strong>1M</strong> 长度较 <code>FlashAttention-2</code> 实现 <strong>52.2 倍</strong> 预填充加速，成本据称为其他领先模型的 <strong>1/5</strong>。</p>
+<p>测试中，<code>SubQ</code> 在 <code>RULER</code>（<strong>128K</strong>）得 <strong>95.0%</strong>，<code>SWE-Bench Verified</code> 为 <strong>81.8%</strong>。</p>
+<p>模型提供 API 与编码 Agent。团队预告将发布模型卡。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260506/20260506085135_976a0c228b.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://subq.ai/how-ssa-makes-long-context-practical">https://subq.ai/how-ssa-makes-long-context-practical</a></li>
+</ul>
+<hr>
+<h2><a href="https://inworld.ai/blog/realtime-tts-2">Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Inworld AI</strong>发布了新一代实时对话语音模型<code>Realtime TTS-2</code>。</p>
+<p>该模型能听取完整对话音频，提供对话感知等核心能力。</p>
+<p>它支持在超<code>100</code>种语言中维持同一音色。</p>
+</blockquote>
+<p><strong>Inworld AI</strong> 发布新一代语音模型 <code>Realtime TTS-2</code>。该模型能在完整对话中听取音频、捕捉语气，接受自然语言指令，并在超 <strong>100</strong> 种语言中保持同一说话人身份。</p>
+<p>其具备语音方向、对话感知、跨语言和高级语音设计四大核心能力，支持 <strong>5</strong>-<strong>15</strong> 秒语音克隆。</p>
+<p>该模型串联 <code>STT</code>、<code>LLM</code> 路由与 <code>TTS</code> 实现端到端连接，<code>TTS</code> 层中位首音频延迟低于 <strong>200</strong> 毫秒。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://inworld.ai/blog/realtime-tts-2">https://inworld.ai/blog/realtime-tts-2</a></li>
+</ul>
+<hr>
+<h2><a href="https://lumalabs.ai/news/uni-1-1-api">Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Luma</strong>正式开放<code>UNI-1.1</code>与<code>UNI-1.1-Max</code>的 API。</p>
+<p>相关模型采用 <code>decoder-only</code> 自动回归 <code>transformer</code> 架构。</p>
+<p>在 <strong>Arena.ai</strong> 评测中，<strong>Luma</strong> 凭借该系列模型位列全球实验室第三名。</p>
+</blockquote>
+<p><strong>Luma</strong>宣布正式开放“统一智能”推理模型<code>UNI-1.1-Max</code>与<code>UNI-1.1</code>的 API 访问权限，标志其进入生产环境。该模型采用 <code>decoder-only</code>架构，同步处理文本与图像 token，具备推理能力，在<code>RISEBench</code>测试中领先。API 提供图像生成（支持至多 <strong>9 张</strong>参考图）与自然语言修改两大端点。</p>
+<p>在<code>Arena.ai</code>评测中，<strong>Luma</strong>位列全球实验室<strong>第三</strong>，<code>UNI-1.1-Max</code>以 <strong>1193 分</strong>排<code>Text-to-Image</code>榜单<strong>第六</strong>。官方称其成本与延迟不到同类模型一半。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/2ac6be7d-3b79-4c05-88c7-746155d986d0/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/2ac6be7d-3b79-4c05-88c7-746155d986d0/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://lumalabs.ai/news/uni-1-1-api">https://lumalabs.ai/news/uni-1-1-api</a></li>
+<li><a href="https://x.com/arena/status/2051688029522436295">https://x.com/arena/status/2051688029522436295</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/GoogleAIStudio/status/2051679127824998762">AI Studio 更新 Build 模块，集成 Nano Banana 与编辑模式</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Google AI Studio</strong> 的 <code>Vibe Coding</code> 功能正式上线了编辑模式，并集成了 <strong>Nano Banana</strong> 图像生成能力。</p>
+<p>用户可以直接在界面上进行批注、快速编辑组件。</p>
+<p>在生成应用时，系统将自动创建并替换自定义图像资产。</p>
+</blockquote>
+<p>近日，<strong>Google AI Studio</strong> 为 <strong>Vibe Coding</strong> 推出系列更新，核心为上线编辑模式并集成 <code>Nano Banana</code> 图像生成能力。</p>
+<p>据官方社交账号，此次更新主要包括：一是集成 <code>Nano Banana</code>，支持在应用生成时自动创建自定义图像资产；二是推出重新设计的编辑模式，用户可直接在 UI 界面用笔注释、绘制与选择元素，以快速编辑组件并替换图像资产。</p>
+<p>三是显著简化了图像上传操作。此外，据透露后续还将有更多更新。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/14e906ef-4f7f-4ffd-af91-8a1446ed0118/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/GoogleAIStudio/status/2051679127824998762">https://x.com/GoogleAIStudio/status/2051679127824998762</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/g0hMDh5PPQWbp_HmXePi0A">字节跳动 TRAE 上线 SOLO 移动端，支持跨设备协同</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>字节跳动</strong>旗下 AI 编程产品"<strong>TRAE SOLO</strong>"移动端现已正式上线，支持跨设备同步与手机端向电脑派发任务。</p>
+<p>同时，官方联合<strong>星巴克</strong>推出限时咖啡兑换活动。</p>
+</blockquote>
+<p><strong>字节跳动</strong>旗下 AI 编程产品 <strong>TRAE</strong> 宣布 <code>TRAE SOLO</code> 移动端正式上线，支持跨设备同步，实现“移动端派发、桌面端执行”的协同工作，已开放下载。</p>
+<p>配合发布，<strong>TRAE</strong>与<strong>星巴克</strong>推限时福利：<strong>2026 年 5 月 5 日</strong> 8:00 至 8 日 12:00，用户下载 APP 并下达一次指令，可领限量美式咖啡券。</p>
+<p>该券限<strong>5 月 8 日</strong> 11:00-12:00 在北上深杭广蓉六城指定门店兑换。</p>
+<p>此外，官方将于<strong>5 月 6 日</strong>至<strong>6 月 15 日</strong>每周末在北京嘉里中心主题店举办"SOLO COFFEE TALK"AI 线下分享会，首场<strong>5 月 9 日</strong>开启。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/bbcfeddb-1e1d-4080-82dd-a2294e973b67/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/g0hMDh5PPQWbp_HmXePi0A">https://mp.weixin.qq.com/s/g0hMDh5PPQWbp_HmXePi0A</a></li>
+<li><a href="https://x.com/Trae_ai/status/2051456450837590419">https://x.com/Trae_ai/status/2051456450837590419</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.augmentcode.com/product/cosmos">Augment Code 发布 Augment Cosmos 公开预览</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Augment Code</strong> 宣布推出 <strong>Augment Cosmos</strong> 公开预览版。</p>
+<p>该产品支持多模型运行，通过引入 <code>Prism</code> 路由技术与专业 Agent，让人类在软件开发生命周期中专注关键节点引导。</p>
+<p>现已向 <strong>Max</strong> 计划用户开放。</p>
+</blockquote>
+<p><strong>Augment Code</strong> 近日宣布将其面向 Agent 软件开发的操作系统 <code>Augment Cosmos</code> 推向公开预览版。</p>
+<p>该系统专为团队协作设计，支持 Agent 在本地环境或云端运行，并全面覆盖整个软件开发生命周期（SDLC）。</p>
+<p>目前，该系统已向 <strong>MAX</strong> 计划用户开放。</p>
+<p>其旨在通过模型路由技术（如 <code>Prism</code>）和专业化智能体（如 <code>Milo</code>），帮助企业在模型能力飞速迭代的背景下，实现组织级的效能转化。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/84eb429d-1493-402d-8807-9ac45ab71303/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.augmentcode.com/product/cosmos">https://www.augmentcode.com/product/cosmos</a></li>
+<li><a href="https://x.com/augmentcode/status/2051350118360891584">https://x.com/augmentcode/status/2051350118360891584</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag">谷歌更新 Gemini API 文件搜索，支持多模态检索与精确引用</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Google</strong>宣布更新 <strong>Gemini API</strong> 的 <code>File Search</code> 工具。该工具现支持基于 <code>Gemini Embedding 2</code> 的图文跨模态检索、自定义元数据过滤和精确到页码的引用功能。</p>
+</blockquote>
+<p><strong>Google</strong>近日更新<code>Gemini API</code>的<code>File Search</code>工具，推三项功能助开发者构建高效多模态<code>RAG</code>系统。</p>
+<p>一是基于<code>Gemini Embedding 2</code>模型引入多模态支持，实现图文跨模态检索；二是新增自定义元数据过滤，允许附加键值标签限定搜索范围，提升检索速度与准确性。</p>
+<p>三是支持精确引用，将回答关联至原始文档具体页码，增强结果可验证性。</p>
+<p>据早期测试者反馈，新功能在混合模态语料库上无需预处理即表现优异。<strong>Google</strong>现已在<strong>AI Studio</strong>提供示例应用及<code>API</code>文档。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/10a5dc3b-af48-4bba-8195-5f9e1f735fb8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag">https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag</a></li>
+</ul>
+<hr>
+<h2><a href="https://openclaw.ai/blog/openclaw-rough-week">OpenClaw 发布 2026.5.4 版，优化启动插件，传将发长期支持版</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布了 <strong>2026.5.4</strong> 版本，重点优化了插件安装体验与 <code>Gateway</code> 启动速度。此次更新同时修复了 <strong>Windows</strong> 和 <strong>Discord</strong> 的稳定性问题。</p>
+<p>此外，官方计划在<strong>五月下旬</strong>推出 <code>StableClaw</code> 长期支持版本。</p>
+</blockquote>
+<p>近日，<strong>OpenClaw</strong> 发布 <strong>2026.5.4</strong> 版本。</p>
+<p>本次更新重点优化了插件安装与更新流程，加速了 <code>Gateway</code> 启动路径，改进了诊断提示，并修复了 <code>Windows</code> 与 <code>Discord</code> 的可靠性问题。</p>
+<p>同时，该版本新增了 <code>Twilio</code> 实时 <code>Gemini</code> 语音桥及模型认证查看功能。</p>
+<p>此外，据报道，为回应此前更新导致的性能下降，<strong>OpenClaw</strong> 计划在 <strong>五月下旬</strong> 推出长期支持版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/3de79e5b-e4d0-4bb5-a450-eaaa2b91f161/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openclaw.ai/blog/openclaw-rough-week">https://openclaw.ai/blog/openclaw-rough-week</a></li>
+<li><a href="https://x.com/openclaw/status/2051582130417721696">https://x.com/openclaw/status/2051582130417721696</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/solutions/financial-services">Claude 推出系列金融 Agent 模板，多家机构已落地采用</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 面向金融行业推出投行推介、月终结账及 <code>KYC</code> 筛查等预构建 <strong>Agent</strong> 模板。</p>
+<p>这些模板内嵌连接器与子 <strong>Agent</strong>，可作为插件安装到 <strong>Claude Cowork</strong> 或 <strong>Claude Code</strong>。</p>
+<p>用户也能在 <strong>Managed Agents</strong> 中直接投产运行。</p>
+</blockquote>
+<p><strong>Anthropic</strong>近日面向金融服务行业推出了一系列预构建<code>Agent</code>模板，覆盖投行推介材料制作、估值复核、月终结账、信用承保、<code>KYC</code>筛查及对账等关键任务。</p>
+<p>这些模板可作为插件安装于 <code>Claude Cowork</code> 和<code>Claude Code</code>，或通过官方<code>Cookbooks</code>在<code>Managed Agents</code>中生产化运行。每个模板均内嵌所需的连接器、技能与子<code>Agent</code>，支持直接使用或按机构标准定制。</p>
+<p>与此同时，<strong>Anthropic</strong>官方在金融服务解决方案页面展示了<strong>Claude</strong>在银、保险、资管及金融科技领域的广泛采用。<strong>Coinbase</strong>、<strong>Citadel</strong>、<strong>FIS</strong>、<strong>BNY</strong>、<strong>Carlyle</strong>、<strong>Walleye Capital</strong>、<strong>Citi</strong>等多家机构已将其用于工程加速、投资分析、合规流程自动化等场景。</p>
+<p>该平台具备原生<code>Excel</code>与<code>PowerPoint</code>集成、预构建接入<code>LSEG</code>及<code>FactSet</code>等数据源、满足<code>SOC 2</code>与<code>FedRAMP</code>合规要求等企业级能力，且在金融推理基准上表现领先。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/540a2d43-fef2-49dd-99e9-d02d399ab09a/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/solutions/financial-services">https://claude.com/solutions/financial-services</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NotebookLM/status/2051715594697977870">Google NotebookLM 更新 Mind Maps，移动端开发计划确认</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>NotebookLM</strong>的<code>Mind Maps</code>功能已推送重大更新。</p>
+<p>用户现在能通过输入提示词来定制生成思维导图，还能即时重命名与分享导图，节点导航动画也变得更加丝滑。</p>
+</blockquote>
+<p><strong>Google NotebookLM</strong> 的 <strong>Mind Maps</strong> 功能正在迎来一次重大更新，近日已向用户推出。此次更新引入了三项核心改进。</p>
+<p>首先是定制化（Customization）能力，让用户可以使用特定提示“驾驶”思维导图的生成，并能将导图范围限定至特定主题或来源。</p>
+<p>其次是组织（Organization）功能，支持即时重命名和分享已创建的思维导图。</p>
+<p>最后是导航（Navigation）方面的提升，为节点之间的切换带来丝滑的过渡动画。<strong>NotebookLM</strong> 官方称移动版本正在推进中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/0cee2c22-c957-4dc7-a6ec-1bea07de5ffd/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NotebookLM/status/2051715594697977870">https://x.com/NotebookLM/status/2051715594697977870</a></li>
+</ul>
+<hr>
+<h2><a href="http://finance.google.com/beta">Google Finance 推出 AI 关键瞬间功能解析股价波动</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Google Finance</strong>的<code>beta</code>版上线了AI驱动的“关键瞬间”功能。</p>
+<p>用户查看一个月及以上的股票走势图时，AI会自动标记并解释股价波动原因。</p>
+</blockquote>
+<p><strong>Google</strong> 近日在 <strong>Google Finance</strong> 测试版中上线了 AI 驱动的“关键瞬间”功能。</p>
+<p>用户在查看 1 个月及以上股票走势图时，AI 会自动标注并解释导致股价显著波动的关键事件。</p>
+<p>用户可点击相关文章链接或利用内置工具进行深入追问。</p>
+<p>此外，该功能还支持直接跳转至公司财报电话会议的核心段落，免去了手动检索的繁琐。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/3e98bcf6-f8ff-4ba0-aa29-1f5e408544ff/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="http://finance.google.com/beta">http://finance.google.com/beta</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/joshwoodward/status/2051698440690889108">Google 推出 Pomelli Catalog，免费向全球用户开放体验</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Google</strong> 为 <strong>Pomelli</strong> 项目推出了免费的 <strong>Pomelli Catalog</strong> 新功能。</p>
+<p>全球用户只需在官网添加并编辑产品或服务信息，该 <code>Agent</code> 就会基于品牌 DNA 自动生成产品集合。</p>
+<p>系统将持续产出个性化的营销活动与摄影棚级高质量图片。</p>
+</blockquote>
+<p><strong>Google</strong>宣布为<strong>Pomelli</strong>营销<strong>Agent</strong>实验项目推出<strong>Pomelli Catalog</strong>新功能，该功能免费向全球用户开放。</p>
+<p>用户可通过<strong>Google Labs</strong>官网 <code>labs.google.com/pomelli</code> 进行体验。<strong>Pomelli Catalog</strong>支持添加产品或服务信息，并允许对产品描述进行编辑。</p>
+<p>随后该智能体将基于品牌<strong>DNA</strong>生成一系列产品集合，用于持续产出个性化的营销活动与高质量摄影棚级图片。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/a4e939c2-ff05-470f-8e97-4dd4646737a6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/joshwoodward/status/2051698440690889108">https://x.com/joshwoodward/status/2051698440690889108</a></li>
+<li><a href="http://labs.google.com/pomelli">http://labs.google.com/pomelli</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/">OpenAI 重构 WebRTC，实现语音 AI 低延迟传输</a> <code>#15</code></h2>
+<blockquote>
+<p>为了让<strong>语音AI</strong>跟上自然语速，<strong>OpenAI</strong>发文介绍其重建了 <code>WebRTC</code> 堆栈。</p>
+<p>引入薄中继与有状态收发器架构，为 <strong>ChatGPT</strong> 语音和 <code>Realtime API</code> 实现了大规模低延迟的实时媒体传输。</p>
+</blockquote>
+<p><strong>OpenAI</strong>近日发布技术博文，阐述其如何为 <strong>ChatGPT</strong> 语音和 <code>Realtime API</code> 等产品提供大规模、低延迟的语音 AI 能力。</p>
+<p>为使语音 AI 对话跟上自然语速，<strong>OpenAI</strong>重新设计了 <strong>WebRTC</strong> 技术栈。</p>
+<p>该团队未采用厚重的传统媒体服务器，而是构建了“薄中继结合有状态收发器”的系统架构。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505174142_fea26e22b4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</a></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/announcements/gpt55-cost-analysis">OpenRouter 分析 GPT-5.5 涨价，用户成本增 49% 至 92%。</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong> 发布成本分析指出，由于 <strong>token</strong> 价格翻倍，用户从 <code>GPT-5.4</code> 切换到 <code>GPT-5.5</code> 后，实际支出成本大幅增加了 <strong>49%</strong> 到 <strong>92%</strong>。</p>
+</blockquote>
+<p><strong>OpenRouter</strong> 近期发布的一项成本分析显示，在 <strong>OpenAI</strong> 推出 <code>GPT-5.5</code> 模型后，从 <code>GPT-5.4</code> 切换至该新模型的用户实际支出成本增加了 <strong>49%</strong> 到 <strong>92%</strong>。</p>
+<p><strong>OpenRouter</strong> 的分析证实，对于超过 <strong>1 万 token</strong> 的较长提示，<code>GPT-5.5</code> 的输出长度确实减少了 <strong>19%</strong> 至 <strong>34%</strong>，在一定程度上抵消了价格上涨的影响。</p>
+<p>但在较短提示的场景下，成本增幅更为显著。该研究选取了在 <code>GPT-5.5</code> 发布前后主要使用模型发生切换的用户群体作为样本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/1b261f27-7a21-4160-8b2c-0f2a328f9cde/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/announcements/gpt55-cost-analysis">https://openrouter.ai/announcements/gpt55-cost-analysis</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/new-ways-to-buy-chatgpt-ads/">OpenAI 升级 ChatGPT 广告，开放自助管理及 CPC 竞价</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>宣布扩展 <strong>ChatGPT</strong> 广告功能，面向美国广告主推出测试版自助 <strong>Ads Manager</strong>，并新增单次点击付费的 <code>CPC</code> 竞价模式。</p>
+<p>平台还上线了 <code>Conversions API</code> 等工具，在保障对话隐私的前提下提供聚合转化洞察。</p>
+</blockquote>
+<p><strong>OpenAI</strong>近日宣布，正进一步扩展<strong>ChatGPT</strong>广告功能，推出新的购买和管理方式。</p>
+<p>同时，<strong>OpenAI</strong>新增了按点击付费（<code>CPC</code>）竞价模式，与此前仅有的 <code>CPM</code> 千次展示付费形成互补。</p>
+<p>针对广告主对更强大效果衡量的需求，该公司推出了<strong>Conversions API</strong>和像素级测量工具，可提供聚合转化洞察（如购买、线索、注册等）。</p>
+<p>同时强调对话隐私，确保广告与<strong>ChatGPT</strong>回答分离，广告主无法获取个人对话数据。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/8b396050-492f-4b8c-bdb5-434ea089d8a0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/new-ways-to-buy-chatgpt-ads/">https://openai.com/index/new-ways-to-buy-chatgpt-ads/</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/openai-pwc-finance-collaboration/">OpenAI 与普华永道合作，以 AI Agent 重构财务职能</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>与<strong>普华永道</strong>合作，帮企业<strong>CFO</strong>利用<code>AI Agent</code>自动化财务工作流并强化风控。</p>
+<p>双方已在<strong>OpenAI</strong>内部验证，通过<code>Codex</code>把合同处理量提升<strong>五倍</strong>。</p>
+<p>正将这些经验转化为企业部署路径，让财务团队能在既有工具中规模化应用<code>AI Agent</code>。</p>
+</blockquote>
+<p><strong>OpenAI</strong>与**普华永道（PwC）**近期宣布合作，共同帮助企业的 <strong>CFO</strong> 部门利用 <code>AI Agent</code> 自动化财务工作流、增强预测能力、强化风险控制，从而重构财务职能。</p>
+<p>该合作以实际生产环境为先导，双方围绕规划、预测、报告、采购、支付、资金、税务及会计关账等核心财务节奏构建 <code>AI Agent</code>，并率先在 <strong>OpenAI</strong> 内部财务组织落地验证：</p>
+<p>其团队借助 <code>Codex</code> 工具，在人员规模不变的情况下将合同处理量提升至原来的 <strong>5倍</strong>。</p>
+<p>并利用 <code>IR-GPT</code> 在近期的一轮融资中管理了超过 <strong>200次</strong> 投资者互动。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/57e102de-04c7-4da5-b4c5-a5166e9b745a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/openai-pwc-finance-collaboration/">https://openai.com/index/openai-pwc-finance-collaboration/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Waguri_Kaoruko8/status/2051488074589167704">消息称谷歌 Gemini 3.2 Flash 现身 iOS 应用及 AI Studio</a> <code>#19</code></h2>
+<blockquote>
+<p>多名用户发现，模型标识为 <code>Gemini 3.2 Flash</code> 的模型曾现身 <strong>Gemini app</strong> iOS 端及 <strong>Google AI Studio</strong>，但很快又消失。</p>
+<p>有体验到该模型的用户反馈，其性能接近 <code>Gemini 3.1 Pro</code>。</p>
+</blockquote>
+<p>近日，据多名非官方社区用户报告及截图显示，<strong>Google</strong>未发布的 <code>Gemini 3.2 Flash</code> 模型已现身部分用户的 <strong>iOS</strong> 版 <strong>Gemini</strong> 应用及 <strong>AI Studio</strong> 中。</p>
+<p>因并非全员可见，社区推测这可能是早期灰度测试或 UI 泄露。</p>
+<p>据一名自称参与测试的用户称，该模型实测性能惊人地接近 <code>Gemini 3.1 Pro</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505174251_1e5b55c8e2.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/aceb2ecd-44bf-4096-af84-ea5c6fdcae4e/1795d242-ebb1-4a83-888f-64b1618b6569/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Waguri_Kaoruko8/status/2051488074589167704">https://x.com/Waguri_Kaoruko8/status/2051488074589167704</a></li>
+<li><a href="https://x.com/Xplo8E/status/2051573739200901315">https://x.com/Xplo8E/status/2051573739200901315</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/mingchikuo/status/2051523855286776034">传 OpenAI 首款 AI 手机 2027 上半年量产 联发科独供</a> <code>#20</code></h2>
+<blockquote>
+<p>分析师<strong>郭明錤</strong>透露，<strong>OpenAI</strong>计划最早于<strong>2027年</strong>上半年量产首款 <code>AI Agent</code> 手机。</p>
+<p>该设备预计独家采用<strong>联发科</strong>定制版 <code>天玑9600</code> 处理器。</p>
+</blockquote>
+<p><strong>OpenAI</strong>正在加速其首款 <strong>AI Agent</strong> 手机的推进工作。</p>
+<p>据行业分析师<strong>郭明錤</strong>称，该设备目标最早于 <strong>2027 年</strong> 上半年量产。</p>
+<p>预计将采用<strong>联发科</strong>的<code>天玑 9600</code>定制版处理器作为唯一供应方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505174023_400c3bba70.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/mingchikuo/status/2051523855286776034">https://x.com/mingchikuo/status/2051523855286776034</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/81</guid><pubDate>Wed, 06 May 2026 01:30:36 +0000</pubDate></item><item><title>2026-05-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-80/</link><description>AI 早报 2026-05-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 豆包拟推三档订阅服务，月费最高五百元 ↗ #1 开发生态 Hermes Agent 升级 Hermes Kanban，Trinity 模型一周免费 ↗ #2 TinyFish 宣布搜索与抓取功能免费面向开发者开放 ↗ #3 Vercel 开源 deepsec 基于 AI Agent 的代码安全扫描框架 ↗ #4 Cursor 团队发布开源内部工作流插件 Cursor Team Kit ↗ #5 Higgsfield 上线 CLI 技能支持 30 余种模型生成 ↗ #6 Google 为 Gemini API 引入事件驱动 Webhooks 推送通知功能 ↗ #7 Claude API平台推出 Workload Identity…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260505/20260505085345673781f61f_cover_7688.png" alt=""></p>
 <h1>AI 早报 2026-05-05</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV13ERkBkEqg">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=JYx0o9gM6tY">YouTube</a></p>
 <h2>概览</h2>
