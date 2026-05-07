@@ -1,5 +1,300 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 06 May 2026 01:31:08 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-06</title><link>https://imjuya.github.io/juya-ai-daily/issue-81/</link><description>AI 早报 2026-05-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能 ↗ #1 模型发布 Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter ↗ #2 Subquadratic 推出 SubQ，上下文窗口达 1200 万 token ↗ #3 Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话 ↗ #4 Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三 ↗ #5 开发生态 AI Studio 更新 Build 模块，集成 Nano Banana 与编辑模式 ↗ #6 字节跳动 TRAE 上线 SOLO 移动…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260506/202605060909278165513686_cover_aceb.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 07 May 2026 01:41:10 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-07</title><link>https://imjuya.github.io/juya-ai-daily/issue-82/</link><description>AI 早报 2026-05-07 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 与 SpaceX 合作新增 300MW 算力，放宽使用限制 ↗ #1 模型发布 豆包 Doubao-Seed-2.0-lite 模型升级支持全模态 ↗ #2 Zyphra发布ZAYA1-8B，AMD平台训练开源 ↗ #3 开发生态 Claude Managed Agents 上线 dreaming 与 outcomes 等功能 ↗ #4 Cursor 发布 3.3 版，新增上下文占用明细及 CI 自动修复 ↗ #5 TRAE 宣布三端同步全量免费开放 ↗ #6 OpenClaw 发布 2026.5.5 及 5.6，新增功能并修复问题 ↗ #7 Warp 团队开源 oz-skills 集合，包含 15 个内部…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260507/202605070916379329752ccb_cover_9ab7.png" alt=""></p>
+<h1>AI 早报 2026-05-07</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1jURhBpEkX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=WV8fJiPlvBo">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Anthropic 与 SpaceX 合作新增 300MW 算力，放宽使用限制 <a href="https://www.anthropic.com/news/higher-limits-spacex">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>豆包 Doubao-Seed-2.0-lite 模型升级支持全模态 <a href="https://mp.weixin.qq.com/s/nWOSnTKD07ORQGf54LQqKQ?scene=1&amp;click_id=8">↗</a> <code>#2</code></li>
+<li>Zyphra发布ZAYA1-8B，AMD平台训练开源 <a href="https://www.zyphra.com/post/zaya1-8b">↗</a> <code>#3</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Claude Managed Agents 上线 dreaming 与 outcomes 等功能 <a href="https://claude.com/blog/new-in-claude-managed-agents">↗</a> <code>#4</code></li>
+<li>Cursor 发布 3.3 版，新增上下文占用明细及 CI 自动修复 <a href="https://x.com/cursor_ai/status/2052059748544249918">↗</a> <code>#5</code></li>
+<li>TRAE 宣布三端同步全量免费开放 <a href="https://solo.trae.cn/">↗</a> <code>#6</code></li>
+<li>OpenClaw 发布 2026.5.5 及 5.6，新增功能并修复问题 <a href="https://github.com/openclaw/openclaw/releases">↗</a> <code>#7</code></li>
+<li>Warp 团队开源 oz-skills 集合，包含 15 个内部工作流技能 <a href="https://github.com/warpdotdev/oz-skills">↗</a> <code>#8</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>谷歌更新搜索中AI Mode与AI Overviews，优化链接展示与排序 <a href="https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search">↗</a> <code>#9</code></li>
+<li>Manus 升级 Projects 功能，支持从任务中自动学习复用模式 <a href="https://manus.im/blog/manus-projects-self-updating">↗</a> <code>#10</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Unsloth AI 联合 NVIDIA 优化，大模型训练速度提升约 25% <a href="https://unsloth.ai/blog/nvidia-collab">↗</a> <code>#11</code></li>
+<li>OpenAI 联合英伟达等开源 MRC 网络协议服务 AI 训练 <a href="https://openai.com/index/mrc-supercomputer-networking/">↗</a> <code>#12</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Fenris Creations 宣布独立并联手 DeepMind 启动 AI Agent 研究 <a href="https://www.eveonline.com/news/view/a-new-era">↗</a> <code>#13</code></li>
+<li>谷歌 Flow Music 联手 Believe，向艺人开放 AI 音乐生成工具 <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership">↗</a> <code>#14</code></li>
+<li>WorldClaw 联合特朗普家族 WLFI 平台推出 WorldRouter <a href="https://worldclaw.ai/">↗</a> <code>#15</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>月之暗面传将获 20 亿美元融资，估值超 200 亿美元 <a href="https://mp.weixin.qq.com/s/ThvJjPZfK1fF9rJJIIXSrg">↗</a> <code>#16</code></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/higher-limits-spacex">Anthropic 与 SpaceX 合作新增 300MW 算力，放宽使用限制</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>宣布与<strong>SpaceX</strong>达成合作，获得<code>Colossus 1</code>数据中心全部超过<strong>300</strong>兆瓦的算力。</p>
+<p>基于此及近期其他算力交易，<strong>Anthropic</strong>即日上调使用限额：<code>Claude Code</code>的五小时滚动速率限制翻倍。</p>
+<p>同时移除<strong>Pro</strong>与<strong>Max</strong>方案在高峰时段的限额缩减。<code>API</code>中<code>Opus</code>模型速率限制也得到大幅提升。</p>
+<p>值得注意的是，每周总体限额并未提升。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 近期宣布与 <strong>SpaceX</strong> 达成一项算力合作，该合作使其获得 <strong>SpaceX</strong> 旗下 <code>Colossus 1</code> 数据中心全部超过 <strong>300 兆瓦</strong>（逾 <strong>22 万张</strong> <code>NVIDIA</code> GPU）的算力，并计划于本月内部署上线。</p>
+<p>基于此项合作以及近期其他算力交易，该公司即日生效上调了 <strong>Claude</strong> 的使用限额：将 <strong>Pro</strong>、<strong>Max</strong>、<strong>Team</strong> 及按席位计费的 <strong>Enterprise</strong> 方案的 <strong>Claude Code</strong> 五小时滚动速率限制翻倍；取消 <strong>Pro</strong> 与 <strong>Max</strong> 方案的高峰时段限额缩减；大幅提升 <strong>API</strong> 中 <code>Opus</code> 系列模型的速率限制。</p>
+<p>根据官方及多方信息，<code>Colossus 1</code> 原为 <code>xAI</code> 用于训练 <code>Grok</code> 的超级计算机，随着 <strong>SpaceX</strong> 此前对 <code>xAI</code> 的收购以及 <code>xAI</code> 将训练重心转移至 <code>Colossus 2</code>，该设施得以整体租赁给 <strong>Anthropic</strong> 以支持 <strong>Claude</strong> 的运行。</p>
+<p>此外，双方均表示有兴趣合作开发数吉瓦级别的轨道 <strong>AI</strong> 算力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507085757_4e680533df.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/4b57fa10-19a1-473c-b780-5279dd122c32/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/higher-limits-spacex">https://www.anthropic.com/news/higher-limits-spacex</a></li>
+<li><a href="https://x.ai/news/anthropic-compute-partnership">https://x.ai/news/anthropic-compute-partnership</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/nWOSnTKD07ORQGf54LQqKQ?scene=1&amp;click_id=8">豆包 Doubao-Seed-2.0-lite 模型升级支持全模态</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>字节火山</strong>宣布<code>Doubao-Seed-2.0-lite</code>完成重大升级，成为<strong>豆包</strong>首款全模态理解模型。该模型支持视、图、音、文统一理解与跨模态推理，Agent、Coding与GUI能力增强，可闭环执行界面操作。</p>
+<p>其视觉在物理、医疗推理上超越前代pro版，部分领域达SOTA；音频支持19语种转写互译。</p>
+<p>该模型已在<strong>火山方舟</strong>上线。此外，<code>Doubao-Seed-2.0-mini</code>同步上线，同样支持全模态。</p>
+</blockquote>
+<p><strong>字节跳动</strong> <strong>火山引擎</strong>宣布<code>Doubao-Seed-2.0-lite</code>模型完成重大版本升级。作为<strong>豆包</strong>大模型家族首款全模态理解模型，它已支持视频、图像、音频、文本的原生统一理解与跨模态联合推理。</p>
+<p>同时，其<code>Agent</code>、<code>Coding</code>与<code>GUI</code>能力获得全面增强。该模型的视觉理解在物理及医疗等高阶学科推理上表现大幅超越前代版本<code>Doubao-Seed-2.0-pro</code>。在细粒度感知与具身理解等关键领域，它已达到SOTA水平。</p>
+<p>音频能力方面，它支持19个语种的精准语音转写与多语种互译，并能深度捕捉情绪、环境声等细节。在多项公开基准评测中，其表现优于<code>Gemini-3.1-Pro</code>。</p>
+<p>目前，该模型现已在<strong>火山方舟</strong>平台上线。此外，能力同步升级的<code>Doubao-Seed-2.0-mini</code>也已上线，同样支持全模态理解且Tokens效率较上代更高。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507083525_b8b348c246.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507083933_a193f58921.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/nWOSnTKD07ORQGf54LQqKQ?scene=1&amp;click_id=8">https://mp.weixin.qq.com/s/nWOSnTKD07ORQGf54LQqKQ?scene=1&amp;click_id=8</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.zyphra.com/post/zaya1-8b">Zyphra发布ZAYA1-8B，AMD平台训练开源</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Zyphra</strong>发布了总参数<code>8.4B</code>、活跃参数<code>760M</code>的<code>MoE</code>语言模型<code>ZAYA1-8B</code>。</p>
+<p>该模型完全在<code>AMD</code>集群上训练，在数学与编程推理任务上击败了部分大型模型。</p>
+</blockquote>
+<p><strong>Zyphra</strong> 发布开源 <strong><code>MoE</code></strong> 模型 <strong><code>ZAYA1-8B</code></strong>。该模型拥有 <strong>760M</strong> 活跃参数与 <strong>8.4B</strong> 总参数。</p>
+<p>其完全在 <strong>AMD</strong> <code>MI300X</code> 集群端到端训练，专注数学与代码推理。模型引入 <strong><code>CCA</code></strong> 等创新架构及多阶段后训练。</p>
+<p>配合 <strong><code>Markovian RSA</code></strong> 测试时计算法，在额外高算力下，其于 <code>APEX-shortlist</code> 超越 <strong>DeepSeek-V3.2</strong> 等大模型。</p>
+<p>模型已依 <strong>Apache 2.0</strong> 开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/32657db9-56d9-4dfb-aeab-b4f8b6637202/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.zyphra.com/post/zaya1-8b">https://www.zyphra.com/post/zaya1-8b</a></li>
+<li><a href="https://huggingface.co/Zyphra/ZAYA1-8B">https://huggingface.co/Zyphra/ZAYA1-8B</a></li>
+<li><a href="https://www.zyphra.com/zaya1-8b-technical-report">https://www.zyphra.com/zaya1-8b-technical-report</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/new-in-claude-managed-agents">Claude Managed Agents 上线 dreaming 与 outcomes 等功能</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>为<strong>Claude</strong> <code>Managed Agents</code>推出预览版<code>dreaming</code>与测试版<code>outcomes</code>等功能。</p>
+<p>其中，<code>dreaming</code>可自动优化记忆实现 Agent 自我改进。</p>
+<p><code>outcomes</code> 可通过独立评分提升输出质量。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 为 <strong>Claude Managed Agents</strong> 推出多项升级：发布研究预览版 <code>dreaming</code> 及公开测试版的 <code>outcomes</code>、多 Agent 编排与 webhooks。</p>
+<p><code>dreaming</code> 可回顾历史提取模式优化记忆，实现跨会话自我改进。</p>
+<p><code>outcomes</code> 引入基于评分的自我校正机制，指导 Agent 迭代。</p>
+<p>多 Agent 编排支持将复杂任务拆分给子 Agent 并行处理。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/8194bd24-d217-43ef-9b0d-1f8ba030ac09/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/new-in-claude-managed-agents">https://claude.com/blog/new-in-claude-managed-agents</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/cursor_ai/status/2052059748544249918">Cursor 发布 3.3 版，新增上下文占用明细及 CI 自动修复</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Cursor</strong> 发布了 <strong>3.3</strong> 版本。开发者现在能直观查看上下文中 <code>rules</code>、<code>skills</code> 等内容的占用明细来优化配置。</p>
+<p>该版本还能设置常驻 <code>Agent</code> 自动对 CI 失败提交修复。</p>
+</blockquote>
+<p>近日，<strong>Cursor</strong>在其IDE的<code>3.3</code>版本中为Agent新增了上下文占用细目查看功能，同时上线了CI失败自动修复能力。</p>
+<p>根据官方发布的信息，开发者可以直观查看Agent在rules、skills、<code>MCPs</code>及subagents等模块上的上下文占用明细。用户可以利用这些统计数据诊断问题、优化配置。</p>
+<p>用户还可设置始终在线的Agent监控GitHub仓库。这些Agent能自动调查CI失败根因并提交包含修复的Pull Request。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/91fd6780-ada8-4494-942e-47ff9077a505/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/cursor_ai/status/2052059748544249918">https://x.com/cursor_ai/status/2052059748544249918</a></li>
+</ul>
+<hr>
+<h2><a href="https://solo.trae.cn/">TRAE 宣布三端同步全量免费开放</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>TRAE</strong>宣布 <strong>SOLO</strong>三端同步全量开放。</p>
+<p>该产品支持通过移动端语音跨设备远程调度<code>Agent</code>任务，三端均可语音交互生成会议纪要。</p>
+<p>桌面端与网页端新增<code>飞书</code>接入与定时任务功能。</p>
+</blockquote>
+<p><strong>TRAE</strong> 正式宣布移动端、网页端与新增 <strong>Windows</strong> 版的桌面端同步全量开放，三端中国区均免费提供服务。</p>
+<p>该产品内置双模式智能体，移动端支持语音、文本及文件输入，可连接云端与多台 <strong>PC</strong> 实现跨设备远程任务调度。多端任务状态实时同步，单账号最多允许 <strong>10</strong> 台设备同时在线。</p>
+<p>此次更新中，三端均支持与 <strong>AI</strong> 语音交互并自动生成结构化会议纪要。桌面端与网页端新增飞书 <strong>CLI</strong> 接入能力及定时任务功能。用户可通过应用商店或官网获取体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/45bed958-0beb-452b-8f65-bed8b3d2ee7f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://solo.trae.cn/">https://solo.trae.cn/</a></li>
+<li><a href="https://solo.trae.ai/">https://solo.trae.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases">OpenClaw 发布 2026.5.5 及 5.6，新增功能并修复问题</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong>项目发布 <strong>2026.5.5</strong>和 <strong>2026.5.6</strong>两版更新。</p>
+<p><strong>2026.5.5</strong>版修复了多平台频道与插件更新的稳定性问题。</p>
+<p><strong>2026.5.6</strong>版则紧急修正了系列 Bug 与报错。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 近期发布 <strong>2026.5.5</strong> 与 <strong>2026.5.6</strong> 版本。</p>
+<p>据官方消息，<code>2026.5.5</code> 版重点修复即时通讯频道、控制界面、插件更新及网关诊断的稳定性问题。</p>
+<p>随后紧急发布的 <code>2026.5.6</code> 版用于修复上个版本缺陷。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260506/20260506192105_b487135d35.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507081754_63a2555060.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases">https://github.com/openclaw/openclaw/releases</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/warpdotdev/oz-skills">Warp 团队开源 oz-skills 集合，包含 15 个内部工作流技能</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Warp</strong>团队开源了包含 <strong>15</strong> 个组件的 Agent Skills 合集 <strong>oz-skills</strong>，涵盖 Git 协作与 Web 审计等五大场景。</p>
+<p>开发者可通过执行 <code>npx</code> 指令快速安装。</p>
+</blockquote>
+<p>近日，<strong>Warp</strong> 团队正式将其内部用于加速工作流的 Agent Skills 集合"<strong>oz-skills</strong>"开源。</p>
+<p>项目已在 <strong>GitHub</strong> 发布并遵循 <strong>MIT</strong> 协议。该集合包含 <strong>15</strong> 个可复用 <strong>Skills</strong>，覆盖 Git/<strong>GitHub</strong> 协作、数据分析、Web 质量审计、基础设施工程规范及通用生产力五类场景。</p>
+<p>所有 <strong>Skills</strong> 均为包含 YAML 前置元数据的 Markdown 文件，遵循 <strong>Agent Skills</strong> 规范。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/6dbc0dc7-b83a-49be-96b7-8f3edb80d113/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/warpdotdev/oz-skills">https://github.com/warpdotdev/oz-skills</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search">谷歌更新搜索中AI Mode与AI Overviews，优化链接展示与排序</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Google</strong> 更新了搜索中的 <strong><code>AI Mode</code></strong> 与 <strong><code>AI Overviews</code></strong>，带来五项功能。</p>
+<p><strong>AI</strong> 回答末尾提供延伸阅读建议，帮助用户深入探索主题。</p>
+<p>高亮展示用户订阅的新闻链接，确保第一时间获取关心的资讯。</p>
+<p>引入社区观点预览，让搜索结果呈现更多元的声音。</p>
+<p>在正文旁直接嵌入相关链接，减少点击跳转次数，提升浏览效率。</p>
+<p>桌面端新增悬停链接预览，鼠标滑过即可快速查看目标页面内容。</p>
+</blockquote>
+<p>近日，<strong>Google</strong>更新了<strong>Search</strong>中的<code>AI Mode</code>与<code>AI Overviews</code>，助用户发掘网站及原创内容。</p>
+<p>据官方博客，此次更新包含五项功能：一是在<code>AI</code>回答末尾提供延伸阅读建议；二是推出新闻订阅集成，高亮已订阅媒体链接。官方早期测试显示其点击率显著提升。</p>
+<p>三是引入社区观点预览，提取公开讨论引述并附上下文。四是于<code>AI</code>回答正文要点旁直接嵌入链接。五是桌面端新增悬停预览功能，显示目标网站信息。</p>
+<p>团队正运用<code>query fan-out</code>等技术持续优化链接展示与排序。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search">https://blog.google/products-and-platforms/products/search/explore-web-generative-ai-search</a></li>
+</ul>
+<hr>
+<h2><a href="https://manus.im/blog/manus-projects-self-updating">Manus 升级 Projects 功能，支持从任务中自动学习复用模式</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Manus</strong>为其 <strong>Projects</strong> 功能上线“从每个任务学习”能力。</p>
+<p>该能力能自动识别任务中的可复用指令、文件与工作流。</p>
+<p>经用户审查批准后，将更新项目上下文。</p>
+</blockquote>
+<p><strong>Manus</strong>为 <strong>Projects</strong>功能推出“从每个任务学习”新能力，允许Project在每次任务对话后自动识别可复用的指令、文件、术语或<code>工作流模式</code>。</p>
+<p>并在用户审查批准后更新项目上下文。用户可通过提示词手动触发审查，或将其嵌入重复性<code>工作流</code>的节奏中。</p>
+<p>经授权后方可生效的更新涵盖<code>指令</code>、<code>文件</code>及<code>技能</code>。旨在让<strong>Projects</strong>随时间推移愈发有用，减少每次任务重复设置的成本。使后续任务能基于团队已学到的共识启动。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/a9eeba43-ad87-4a1a-bd00-ced2feec88df/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://manus.im/blog/manus-projects-self-updating">https://manus.im/blog/manus-projects-self-updating</a></li>
+</ul>
+<hr>
+<h2><a href="https://unsloth.ai/blog/nvidia-collab">Unsloth AI 联合 NVIDIA 优化，大模型训练速度提升约 25%</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Unsloth AI</strong>与<strong>NVIDIA</strong>联合发布技术指南，通过引入“打包序列元数据缓存”、“双缓冲检查点重载”以及"<code>MoE</code> 路由优化”三项技术，在 <code>B200</code> 显卡上将大语言模型训练速度提升约 <strong>25%</strong>。</p>
+</blockquote>
+<p><strong>Unsloth AI</strong>近日与<strong>NVIDIA</strong>联合发布技术指南，通过三项关键优化将 <code>LLM</code> 训练速度提升约 <strong>25%</strong>。</p>
+<p>这三项优化主要消除隐性开销中的重复工作与串行等待。</p>
+<p>一是打包序列元数据缓存，在 <strong>Qwen3-14B</strong> 任务中使批次整体提升 <strong>14.3%</strong>。</p>
+<p>二是双缓冲检查点重载，使激活值拷贝与计算并行，在基于 <strong>B200</strong> 的 <strong>8B</strong> 至 <strong>32B</strong> 模型上带来 <strong>4.6%</strong> 至 <strong>8.4%</strong> 的吞吐提升。</p>
+<p>三是 <code>MoE</code> 路由优化，用一次性分组替代动态查询，实现 <strong>10%</strong> 至 <strong>15%</strong> 的整体提速。</p>
+<p>目前相关代码已在 <strong>GitHub</strong> 开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9ab75fd3-da6f-4707-ba61-3a1e36a4d91d/dfe4e5cd-06ff-40ac-a381-f50ecdc1b46d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://unsloth.ai/blog/nvidia-collab">https://unsloth.ai/blog/nvidia-collab</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/mrc-supercomputer-networking/">OpenAI 联合英伟达等开源 MRC 网络协议服务 AI 训练</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>联合<strong>AMD</strong>、<strong>英伟达</strong>等公司，通过开放计算项目正式开源了一种名为<code>MRC</code>的新型网络协议。</p>
+<p>这个协议专为大规模<strong>AI</strong>训练设计，能解决同步训练时<strong>GPU</strong>数据传输的拥塞和故障问题。目前已在<strong>Stargate</strong>等项目中部署。</p>
+</blockquote>
+<p><strong>OpenAI</strong>联合<strong>AMD</strong>、<strong>Broadcom</strong>、<strong>Intel</strong>、<strong>Microsoft</strong>及<strong>NVIDIA</strong>通过<strong>OCP</strong>正式开源新型网络协议<code>MRC</code>。</p>
+<p>该协议将数据包喷洒至多路径并结合<code>SRv6</code>源路由，将网络架构从<strong>3-4 层</strong>交换机简化为<strong>2 层</strong>。仅<strong>2 层</strong>交换机即可连接约<strong>13.1 万张****GPU</strong>，降低了功耗与成本，并能微秒级绕过故障。</p>
+<p><code>MRC</code>已部署于<strong>OpenAI</strong>所有最大<code>GB200</code>超算系统，用于训练前沿模型。官方指出，面对频繁链路抖动甚至重启<strong>4 台</strong>核心交换机，<code>MRC</code>均未对训练任务产生可测量影响。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507082030_6b4aa92b15.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/mrc-supercomputer-networking/">https://openai.com/index/mrc-supercomputer-networking/</a></li>
+<li><a href="https://www.opencompute.org/documents/ocp-mrc-1-0-pdf">https://www.opencompute.org/documents/ocp-mrc-1-0-pdf</a></li>
+<li><a href="https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf">https://cdn.openai.com/pdf/resilient-ai-supercomputer-networking-using-mrc-and-srv6.pdf</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.eveonline.com/news/view/a-new-era">Fenris Creations 宣布独立并联手 DeepMind 启动 AI Agent 研究</a> <code>#13</code></h2>
+<blockquote>
+<p>运营 <strong>EVE Online</strong> 的 <strong>CCP Games</strong> 正式更名为 <strong>Fenris Creations</strong>，并与 <strong>Google DeepMind</strong> 达成合作。</p>
+<p>双方将把该游戏作为安全沙盒，在受控离线环境中探索 <strong>AI Agent</strong> 的记忆、持续学习与长期规划能力。</p>
+</blockquote>
+<p>运营 <strong>《EVE Online》</strong> 的 <strong>CCP Games</strong> 宣布更名为 <strong>Fenris Creations</strong>，结束与 <strong>Pearl Abyss</strong> 的八年隶属关系。</p>
+<p>此外，<strong>Fenris Creations</strong> 与 <strong>Google DeepMind</strong> 达成研究合作，共同在 <strong>EVE Online</strong> 这一由复杂经济、政治与玩家冲突驱动的宇宙中探索 Agent 的记忆、持续学习与长期规划能力。</p>
+<p>官方称，初始研究将在受控离线版本中进行，不与游戏实时服务器 <code>Tranquility</code> 相连。</p>
+<p><strong>Google DeepMind</strong> 总监 <strong>Alexandre Moufarek</strong> 将 <strong>EVE</strong> 称为测试通用人工智能的“独一无二的安全沙盒”，并期待借此拓展 AI 前沿与玩家体验。</p>
+<p>更多细节将在即将举办的 <strong>Fanfest 2026</strong> 上披露。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507083240_e5339547cd.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.eveonline.com/news/view/a-new-era">https://www.eveonline.com/news/view/a-new-era</a></li>
+<li><a href="https://x.com/GoogleDeepMind/status/2052011542707630461">https://x.com/GoogleDeepMind/status/2052011542707630461</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership">谷歌 Flow Music 联手 Believe，向艺人开放 AI 音乐生成工具</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Google</strong>宣布与 <strong>Believe</strong> 达成合作，向其旗下艺人提供 <code>AI</code>音乐生成工具<code>Flow Music</code>。</p>
+<p>在此合作中，<strong>谷歌</strong>不主张对生成内容拥有所有权。</p>
+</blockquote>
+<p>近日，<strong>Google</strong>宣布旗下 AI 音乐工具 <code>Flow Music</code>及底层模型<code>Lyria 3 Pro</code>与<code>Believe</code>达成合作，向<code>Believe</code>及<code>TuneCore</code> 旗下艺人、制作人和词曲作者开放使用。</p>
+<p><strong>Google</strong>明确声明，不主张对该工具生成的原创内容拥有所有权。</p>
+<p>此外，<code>Believe</code>和 <code>TuneCore</code> 将挑选部分艺人与制作人，每周与<strong>Google</strong>团队会面反馈，以促进该工具未来发展。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership">https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership</a></li>
+</ul>
+<hr>
+<h2><a href="https://worldclaw.ai/">WorldClaw 联合特朗普家族 WLFI 平台推出 WorldRouter</a> <code>#15</code></h2>
+<blockquote>
+<p>近日，<strong>WorldClaw</strong>与<strong>特朗普</strong>家族创立的加密项目<strong>WLFI</strong>联合推出模型路由平台<code>WorldRouter</code>。</p>
+<p>用户凭单账户可调用超<code>300</code>款<code>AI</code>模型。</p>
+<p>目前，社区对该平台折扣真实性及相关机制存在诸多质疑。</p>
+</blockquote>
+<p><strong>WorldClaw</strong>近日与加密货币项目 <strong>WLFI</strong>联合推出AI模型路由平台<strong>WorldRouter</strong>。用户通过单一账户即可调用<strong>300</strong>余款<code>AI</code>模型，费用据称比模型官方定价及<strong>OpenRouter</strong>低约<strong>30%</strong>。</p>
+<p>该平台后续还规划了<strong>WorldAgent</strong>运行时与预装操作系统的本地<strong>AI</strong>硬件。<strong>WLFI</strong>由<strong>特朗普</strong>的三个儿子等人创立，<strong>特朗普</strong>曾列为荣誉联合创始人，其家族可从销售中获得**75%**净收益。</p>
+<p>平台现已上线官网，但社区对其折扣真实性、代币锁仓机制与持久性存在诸多质疑。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507075818_b7e55b2986.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://worldclaw.ai/">https://worldclaw.ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/ThvJjPZfK1fF9rJJIIXSrg">月之暗面传将获 20 亿美元融资，估值超 200 亿美元</a> <code>#16</code></h2>
+<blockquote>
+<p>据报道，<strong>Kimi</strong> 即将完成 <strong>20 亿美元</strong> 新一轮融资。</p>
+<p>投后估值突破 <strong>200 亿美元</strong>，且该公司 <code>ARR</code> 已突破 <strong>2 亿美元</strong>。</p>
+</blockquote>
+<p>据《<strong>晚点 LatePost</strong>》消息，<strong>Kimi</strong>（<strong>月之暗面</strong>）即将完成新一轮 <strong>20 亿美元</strong>融资，投后估值突破 <strong>200 亿美元</strong>。</p>
+<p>该轮融资由<strong>美团龙珠</strong>领投，<strong>中国移动</strong>、<code>CPE（源峰资本）</code>等参投，其中仅<strong>龙珠</strong>就出手超 <strong>2 亿美元</strong>。</p>
+<p>据<strong>美团龙珠</strong>合伙人<strong>王新宇</strong>透露，在<code>K2.5</code>模型更新后，<strong>Kimi ARR</strong>于今年 <strong>3 月</strong>突破 <strong>1 亿美元</strong>，并于 <strong>4 月</strong>增长至超 <strong>2 亿美元</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/ThvJjPZfK1fF9rJJIIXSrg">https://mp.weixin.qq.com/s/ThvJjPZfK1fF9rJJIIXSrg</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/82</guid><pubDate>Thu, 07 May 2026 01:40:42 +0000</pubDate></item><item><title>2026-05-06</title><link>https://imjuya.github.io/juya-ai-daily/issue-81/</link><description>AI 早报 2026-05-06 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 推出 GPT-5.5 Instant，ChatGPT 增强记忆功能 ↗ #1 模型发布 Google DeepMind 为 Gemma 4 系列模型开源了 MTP drafter ↗ #2 Subquadratic 推出 SubQ，上下文窗口达 1200 万 token ↗ #3 Inworld AI 发布 Realtime TTS-2，支持跨语言实时对话 ↗ #4 Luma 开放 UNI-1.1 系列模型 API，Image Arena 排名全球实验室第三 ↗ #5 开发生态 AI Studio 更新 Build 模块，集成 Nano Banana 与编辑模式 ↗ #6 字节跳动 TRAE 上线 SOLO 移动…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260506/202605060909278165513686_cover_aceb.png" alt=""></p>
 <h1>AI 早报 2026-05-06</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV14XRpBmEsR">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=-AAJLw2t0Ac">YouTube</a></p>
 <h2>概览</h2>
