@@ -1,5 +1,545 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 08 May 2026 01:47:21 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-07</title><link>https://imjuya.github.io/juya-ai-daily/issue-82/</link><description>AI 早报 2026-05-07 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 与 SpaceX 合作新增 300MW 算力，放宽使用限制 ↗ #1 模型发布 豆包 Doubao-Seed-2.0-lite 模型升级支持全模态 ↗ #2 Zyphra发布ZAYA1-8B，AMD平台训练开源 ↗ #3 开发生态 Claude Managed Agents 上线 dreaming 与 outcomes 等功能 ↗ #4 Cursor 发布 3.3 版，新增上下文占用明细及 CI 自动修复 ↗ #5 TRAE 宣布三端同步全量免费开放 ↗ #6 OpenClaw 发布 2026.5.5 及 5.6，新增功能并修复问题 ↗ #7 Warp 团队开源 oz-skills 集合，包含 15 个内部…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260507/202605070916379329752ccb_cover_9ab7.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 08 May 2026 01:52:54 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-08</title><link>https://imjuya.github.io/juya-ai-daily/issue-83/</link><description>AI 早报 2026-05-08 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI 发布三款实时音频模型，GPT-Realtime-2 具 GPT-5 级推理 ↗ #1 火山方舟上线 Agent Plan 个人订阅套餐支持生成视频图片 ↗ #2 Codex 上线 Chrome 扩展，新增 Vim 模式 ↗ #3 模型发布 OpenAI 推出 GPT-5.5-Cyber 面向网络安全防御人员 ↗ #4 xAI 推出 Grok Imagine Quality Mode API ↗ #5 Zyphra 发布 ZAYA1-74B-Preview，基于 AMD 硬件训练 ↗ #6 Google 发布 Gemini 3.1 Flash-Lite 正式版，预览版本月下线 ↗ #7 开发生态 Qoder CLI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260508/20260508092028183584b408_cover_5f50.png" alt=""></p>
+<h1>AI 早报 2026-05-08</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1S1dKB3EBf">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=58iBsDOyvas">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>OpenAI 发布三款实时音频模型，GPT-Realtime-2 具 GPT-5 级推理 <a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/">↗</a> <code>#1</code></li>
+<li>火山方舟上线 Agent Plan 个人订阅套餐支持生成视频图片 <a href="https://www.volcengine.com/docs/82379/2366394?lang=zh">↗</a> <code>#2</code></li>
+<li>Codex 上线 Chrome 扩展，新增 Vim 模式 <a href="https://developers.openai.com/codex/changelog#codex-2026-05-07">↗</a> <code>#3</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>OpenAI 推出 GPT-5.5-Cyber 面向网络安全防御人员 <a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/">↗</a> <code>#4</code></li>
+<li>xAI 推出 Grok Imagine Quality Mode API <a href="https://x.ai/news/grok-imagine-quality-mode">↗</a> <code>#5</code></li>
+<li>Zyphra 发布 ZAYA1-74B-Preview，基于 AMD 硬件训练 <a href="https://www.zyphra.com/post/zaya1-74b-preview">↗</a> <code>#6</code></li>
+<li>Google 发布 Gemini 3.1 Flash-Lite 正式版，预览版本月下线 <a href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available">↗</a> <code>#7</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Qoder CLI 发布 0.2.0 版本，重做交互层并预告开放 Agent SDK <a href="https://mp.weixin.qq.com/s/NxIIAXwwPFZnQEZ49G8Y0A">↗</a> <code>#8</code></li>
+<li>Amp 发布 CLI 重构版 Neo，支持远程控制与自动压缩 <a href="https://ampcode.com/news/neo">↗</a> <code>#9</code></li>
+<li>Hermes Agent v0.13.0 发布，新增多 Agent 协作看板 <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7">↗</a> <code>#10</code></li>
+<li>OpenAI 开源 openai-cli 命令行工具映射 REST API 端点 <a href="https://github.com/openai/openai-cli">↗</a> <code>#11</code></li>
+<li>OpenRouter 上线专用音频端点并发布统一网页搜索工具 <a href="https://openrouter.ai/docs/features/multimodal/tts">↗</a> <code>#12</code></li>
+<li>strukto-ai 开源 Mirage 为 AI Agent 打造统一虚拟文件系统 <a href="https://github.com/strukto-ai/mirage">↗</a> <code>#13</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>OpenAI ChatGPT 推出可信联系人，人工审核防自残 <a href="https://openai.com/index/introducing-trusted-contact-in-chatgpt/">↗</a> <code>#14</code></li>
+<li>千问 PC 端上线 AI 语音输入，免费开放支持跨应用调用 <a href="https://mp.weixin.qq.com/s/9Tkrvn8_741e01yBk2tKjA">↗</a> <code>#15</code></li>
+<li>Anthropic 发布 Claude for Microsoft 365 插件正式版 <a href="https://claude.com/claude-for-microsoft-365">↗</a> <code>#16</code></li>
+<li>SpaceXAI 为 Grok 推出 Connectors，支持第三方应用集成 <a href="https://x.ai/news/grok-connectors">↗</a> <code>#17</code></li>
+<li>Spotify 发布 save-to-spotify 开源工具 支持私人播客音频上传 <a href="https://github.com/spotify/save-to-spotify">↗</a> <code>#18</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Anthropic 提出 Model Spec Midtraining 优化模型对齐泛化 <a href="https://alignment.anthropic.com/2026/msm/">↗</a> <code>#19</code></li>
+<li>Anthropic 发布 NLA 方法揭示模型被评估意识 <a href="https://www.anthropic.com/research/natural-language-autoencoders">↗</a> <code>#20</code></li>
+<li>Anthropic 旗下 TAI 公布研究议程，聚焦经济安全四大领域 <a href="https://www.anthropic.com/research/anthropic-institute-agenda">↗</a> <code>#21</code></li>
+<li>Anthropic 捐赠 Petri 对齐测试工具至 Meridian Labs <a href="https://www.anthropic.com/research/donating-open-source-petri">↗</a> <code>#22</code></li>
+<li>OpenAI 披露多款 GPT-5 模型训练意外评分思维链 <a href="https://alignment.openai.com/accidental-cot-grading">↗</a> <code>#23</code></li>
+<li>腾讯混元开源 OpenSearch-VL 多模态深度搜索训练方案 <a href="https://github.com/shawn0728/OpenSearch-VL">↗</a> <code>#24</code></li>
+<li>Goodfire 发布神经几何学研究 <a href="https://www.goodfire.ai/research/the-world-inside-neural-networks">↗</a> <code>#25</code></li>
+<li>Mozilla 披露借助Claude Mythos Preview 修复漏洞数超过去十五个月总和 <a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/">↗</a> <code>#26</code></li>
+<li>Google DeepMind 展示 AlphaEvolve 一年间成果 <a href="https://deepmind.google/blog/alphaevolve-impact/">↗</a> <code>#27</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>xAI 并入 SpaceX，更名为 SpaceXAI <a href="https://x.com/elonmusk/status/2052105373621121284">↗</a> <code>#28</code></li>
+<li>Anthropic 在 HackerOne 平台公开漏洞赏金计划 <a href="https://hackerone.com/anthropic">↗</a> <code>#29</code></li>
+<li>DeepL 裁员 250 人，转型 AI 原生公司布局语音翻译 <a href="https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/">↗</a> <code>#30</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/">OpenAI 发布三款实时音频模型，GPT-Realtime-2 具 GPT-5 级推理</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>在<code>Realtime API</code>上线三款实时音频模型。</p>
+<p>其中，<strong>GPT-Realtime-2</strong>模型具备<code>GPT-5</code>级别推理能力，支持 <code>128K</code> 上下文与并行工具调用。</p>
+<p><strong>GPT-Realtime-Whisper</strong>能提供低延迟流式转录。</p>
+<p><strong>GPT-Realtime-Translate</strong>模型能实现超<code>70</code>种语言的实时翻译。</p>
+<p>开发者可通过<strong>API</strong>直接集成它们来构建语音 Agent。</p>
+</blockquote>
+<p><strong>OpenAI</strong>在<code>Realtime API</code>中正式上线了三款新的实时音频模型，分别为具备<code>GPT-5</code>级推理能力的旗舰语音模型<code>GPT-Realtime-2</code>、支持实时语音翻译的<code>GPT-Realtime-Translate</code>以及用于流式转录的<code>GPT-Realtime-Whisper</code>。</p>
+<p>官方公告显示，<code>GPT-Realtime-2</code>引入了可调节的推理力度，其高推理版本在<code>Big Bench Audio</code>基准测试中得分<strong>96.6%</strong>，较上一代提升了约<strong>15</strong>个百分点。该模型在<code>Artificial Analysis</code>的对话动态基准测试以及<code>Scale Labs</code>的<code>Audio MultiChallenge</code>指令遵循基准测试中均排名第一。</p>
+<p>该模型的上下文窗口从<strong>32K</strong>扩展至<strong>128K</strong>，支持并行工具调用与工具调用透明化。它可在回答前发出“我查一下”等简短短语，并在遇到困难时提供更清晰的回应，而非直接失败。</p>
+<p><code>GPT-Realtime-Translate</code>支持超过<strong>70</strong>种输入语言和<strong>13</strong>种输出语言的实时翻译，<code>GPT-Realtime-Whisper</code>则可实现边说话边出字幕的低延迟语音转文字。</p>
+<p>这三款模型现已通过<code>Realtime API</code>向开发者开放，并可在<code>Playground</code>中试用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508082415_9ed52b4978.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/realtime-models-prompting?realtime-model=gpt-realtime-2">https://developers.openai.com/api/docs/guides/realtime-models-prompting?realtime-model=gpt-realtime-2</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/realtime">https://developers.openai.com/api/docs/guides/realtime</a></li>
+<li><a href="https://platform.openai.com/audio/realtime">https://platform.openai.com/audio/realtime</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.volcengine.com/docs/82379/2366394?lang=zh">火山方舟上线 Agent Plan 个人订阅套餐支持生成视频图片</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>火山方舟</strong>正式上线面向个人用户的 <strong>Agent Plan</strong>。</p>
+<p><strong>Agent Plan</strong> 提供最低 <strong>40 元/月</strong> 的四档套餐，主打 <strong>Agent</strong> 场景。</p>
+<p>该方案采用 <code>Agent 燃料值（AFP）</code> 对不同模型按照不同费率计费，包含月额度、周额度和 <strong>五小时</strong> 额度限制。</p>
+<p>套餐支持生成图片与视频，并限时附赠联网搜索额度。</p>
+<p>该套餐额度仅供主流编程及 <strong>Agent</strong> 工具使用，严禁直接用于 <code>API</code> 调用。</p>
+</blockquote>
+<p><strong>火山方舟</strong>已于近日正式上线面向个人用户的订阅式大模型服务套餐包 <code>Agent Plan</code>。该套餐在 <code>Coding Plan</code> 基础上升级而来，主打 <strong>Agent</strong> 场景，新增生图与生视频模型及联网搜索等，采用 <strong>AFP</strong>（Agent 燃料值）作为统一计费单位。</p>
+<p><code>Agent Plan</code> 提供 <strong>Small</strong>、<strong>Medium</strong>、<strong>Large</strong>、<strong>Max</strong> 四档套餐，价格分别为 <strong>40 元/月</strong>、<strong>200 元/月</strong>、<strong>500 元/月</strong>、<strong>1000 元/月</strong>。每月可分别获得 <strong>2 万</strong>、<strong>10 万</strong>、<strong>25 万</strong>、<strong>50 万</strong> AFP 额度，并限时附带不同数量的联网搜索免费次数。</p>
+<p>用户可将额度用于 <code>OpenClaw</code>、<code>Hermes Agent</code>、<code>Claude Code</code>、<code>OpenCode</code> 等主流编程及 Agent 工具中。需注意的是，该套餐额度不可用于 API 直接调用，否则可能触发订阅停用或账号封禁。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507185501_f22cfdc53d.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507185224_76d025cd53.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.volcengine.com/docs/82379/2366394?lang=zh">https://www.volcengine.com/docs/82379/2366394?lang=zh</a></li>
+<li><a href="https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D&amp;advancedActiveKey=agentPlan">https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM={}&amp;advancedActiveKey=agentPlan</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.openai.com/codex/changelog#codex-2026-05-07">Codex 上线 Chrome 扩展，新增 Vim 模式</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Codex</strong> 推出 <strong>Chrome</strong> 扩展并发布更新。该扩展支持 <strong>Codex</strong> 在后台跨标签页并行处理 Web 任务。</p>
+<p>同时，<strong>Codex</strong> 应用更新带来性能提升。新增 <code>Vim</code> 模式与键盘映射调试等功能。</p>
+</blockquote>
+<p><strong>OpenAI</strong>近日为编程 Agent <strong>Codex</strong>发布<strong>Chrome</strong>扩展，支持<strong>macOS</strong>和<strong>Windows</strong>系统。</p>
+<p>官方表示，该扩展支持<strong>Codex</strong>在<code>不接管界面</code>的前提下，于后台跨多标签页并行执行任务。其通过编写运行代码操作页面，适用于<strong>Web</strong>测试、<strong>CRM</strong>更新等重复性工作，并具备“每站点访问控制”增强安全。</p>
+<p>同步更新的应用提升了性能。新版包含键盘映射调试、<strong>PR</strong>状态行、<code>Vim 模式</code>、原始回滚及会话选择器等功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/c852b8a8-eaf3-4e27-92ba-a67b442c25fc/m001.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508081340_988d8a7b4f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.openai.com/codex/changelog#codex-2026-05-07">https://developers.openai.com/codex/changelog#codex-2026-05-07</a></li>
+<li><a href="https://x.com/OpenAI/status/2052480800004956323">https://x.com/OpenAI/status/2052480800004956323</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/">OpenAI 推出 GPT-5.5-Cyber 面向网络安全防御人员</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>推出了面向网络安全防御人员的<code>GPT-5.5-Cyber</code>模型，并同步通过<code>TAC</code>框架提供<code>GPT-5.5</code>模型。</p>
+<p>从业人员可通过官网验证个人身份，或由企业联系官方代表申请访问权限。</p>
+</blockquote>
+<p><strong>OpenAI</strong>宣布推出面向关键基础设施防御人员的<code>GPT-5.5-Cyber</code>受限预览版，旨在支持专业网络安全工作流，并同步通过<code>TAC</code>框架提供<code>GPT-5.5</code>模型。</p>
+<p>官方推荐 <code>TAC</code> 授权的<code>GPT-5.5</code>作为多数防御工作流的起点；<code>GPT-5.5-Cyber</code>权限最高，专为红队演练、渗透测试等高风险受控环境设计，行为更宽松但需更严格身份核实。</p>
+<p>个人可在线验证身份，企业可通过代表申请权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508081935_e46ca53455.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/">https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-imagine-quality-mode">xAI 推出 Grok Imagine Quality Mode API</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong> 推出了 <strong>Grok Imagine Quality Mode</strong> API。</p>
+<p>该模式提供高真实感的图像生成与编辑，能保持人物与物体一致性。</p>
+</blockquote>
+<p>近日，<strong>xAI</strong>宣布面向企业开发者和团队正式上线<code>Grok Imagine Quality Mode API</code>。该图像生成与编辑模式提供更高的真实感与文字渲染能力，能保持人物与物体一致性，强化产品可视化与营销素材生成，并支持结合视频能力。</p>
+<p>据官方数据，该模型此前已生成超<strong>3亿张</strong>图像；在<code>LMArena Text-to-Image Arena</code>评测中位列前五。开发者现可通过<code>xAI API</code>指定模型调用，官方已同步开放完整开发文档及体验控制台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/ec88d139-7dcc-4776-a324-eb0bb01b1d64/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/ec88d139-7dcc-4776-a324-eb0bb01b1d64/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-imagine-quality-mode">https://x.ai/news/grok-imagine-quality-mode</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.zyphra.com/post/zaya1-74b-preview">Zyphra 发布 ZAYA1-74B-Preview，基于 AMD 硬件训练</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Zyphra</strong>发布了总参数<strong>740亿</strong>、激活参数<strong>40亿</strong>的混合专家模型<code>ZAYA1-74B-Preview</code>。</p>
+<p>该模型基于<strong>AMD</strong>硬件端到端训练，未经过<code>RL</code>后训练和指令调优。</p>
+<p>最终版预计<strong>数周内</strong>发布。</p>
+</blockquote>
+<p><strong>Zyphra</strong> 近期发布了 <strong><code>ZAYA1-74B-Preview</code></strong> 模型。这是一个基于 <strong>AMD</strong> 硬件端到端训练的预训练 - 中训练 - 上下文扩展阶段的预推理 RL 检查点，采用 Apache 2.0 许可。</p>
+<p>该模型采用混合专家架构，总参数量达 <strong>740亿</strong>，每次推理激活 <strong>40亿</strong> 参数。</p>
+<p>根据官方发布内容，该预览版模型未经过 RL 后训练和指令调优。其目前基准评测的 pass@1 平均分落后于已完成 RL 的竞品。</p>
+<p>但官方提供的 pass@4 分数在多个测试中具备高竞争力。这被视为未来通过可验证及工具使用 RL 进一步训练的潜力信号。</p>
+<p>官方表示完整 RL 训练已启动，最终版 <strong><code>ZAYA1-74B</code></strong> 预计在数周内发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/48646d10-9149-407e-b7f9-da09c4f1e98d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.zyphra.com/post/zaya1-74b-preview">https://www.zyphra.com/post/zaya1-74b-preview</a></li>
+<li><a href="https://huggingface.co/Zyphra/ZAYA1-74B-preview">https://huggingface.co/Zyphra/ZAYA1-74B-preview</a></li>
+</ul>
+<hr>
+<h2><a href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available">Google 发布 Gemini 3.1 Flash-Lite 正式版，预览版本月下线</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布了 <strong>Gemini 3.1 Flash-Lite</strong> 模型的正式版本。</p>
+<p><strong>Gemini API</strong> 中的预览版将于本月 <strong>25</strong> 日完全关闭。</p>
+</blockquote>
+<p>近日，<strong>Google</strong>正式发布<code>Gemini 3.1 Flash-Lite</code>模型的GA版本。官方将其定位为迄今最具成本效益的模型，针对速度、规模与成本效率进行优化，旨在支撑高吞吐量的Agentic任务、翻译及简单数据处理。</p>
+<p>随新版本上线，Gemini API 计划于<strong>本月下旬</strong>完全关闭原预览版模型。届时相关API流量需迁移至GA版本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/76d487b6-4c7c-4037-a76d-684e16a3f86d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available">https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/NxIIAXwwPFZnQEZ49G8Y0A">Qoder CLI 发布 0.2.0 版本，重做交互层并预告开放 Agent SDK</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Qoder CLI</strong> 发布 <strong>0.2.0</strong> 版本大升级，重做终端界面并加入 <code>Vim</code> 模式与可视化管理面板。</p>
+<p>新版支持多模型灵活切换与手机远程控制。</p>
+</blockquote>
+<p><strong>Qoder CLI</strong> 发布最大规模的 <strong>0.2.0</strong> 版本升级。</p>
+<p>新版重做交互层：输入框支持 <code>Vim</code> 模式，内置命令由 <strong>27</strong> 个扩至 <strong>60</strong> 余个，新增可视化管理面板及实时监控的自定义状态栏，并支持网页或手机远程控制。</p>
+<p>配置方面，推出 AI 驱动的对话式配置，用户说出需求即可自动完成。模型层集成 <code>SOTA</code> 模型，支持自带密钥及灵活切换。</p>
+<p>官方预告，即将开放的 <code>Qoder Agent SDK</code> 可将 CLI 核心能力复用于 <code>Node.js</code> 项目，开发者还可在 CLI 中通过自然语言直接生成基于该 SDK 的完整 <code>TypeScript</code> 脚本。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/14e21994-b4d0-4ac4-9599-7c454af39106/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/NxIIAXwwPFZnQEZ49G8Y0A">https://mp.weixin.qq.com/s/NxIIAXwwPFZnQEZ49G8Y0A</a></li>
+</ul>
+<hr>
+<h2><a href="https://ampcode.com/news/neo">Amp 发布 CLI 重构版 Neo，支持远程控制与自动压缩</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Amp CLI</strong> 正分批推送代号为 <code>Neo</code> 的重构版本。</p>
+<p>新版支持网页端远程控制终端会话，上下文满 <strong>90%</strong> 自动压缩。</p>
+<p>同时推出 <code>Amp Plugin API</code>。</p>
+</blockquote>
+<p>Amp CLI 近日分批推出重构版本 <strong>Neo</strong>。新版支持网页端远程控制及任务队列调整；上下文管理改为全自动压缩，在窗口填充至 <strong>90%</strong> 时触发，移除了 <code>Handoff</code>。</p>
+<p>同期发布的 <strong>Amp Plugin API</strong> 支持插件扩展。交互默认排队并支持优先处理；权限机制重构，默认免请求许可，旧权限转为内置插件。</p>
+<p>在约 <strong>5000</strong> 条消息会话中，CPU 平均占用由旧版约 <strong>84%</strong> 降至约 <strong>17%</strong>，峰值内存缩减 <strong>70%</strong>。此外，文件回滚、手动 <code>bash</code> 调用及技能管理等旧功能被移除。用户可通过邮件申请优先体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/fd0669e8-7fee-4b79-8552-c8f414b030e2/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ampcode.com/news/neo">https://ampcode.com/news/neo</a></li>
+<li><a href="https://ampcode.com/manual/plugin-api">https://ampcode.com/manual/plugin-api</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7">Hermes Agent v0.13.0 发布，新增多 Agent 协作看板</a> <code>#10</code></h2>
+<blockquote>
+<p>Nous Research 发布了 <strong>Hermes Agent</strong> 版本更新。</p>
+<p>此次核心引入持久化多 <strong>Agent</strong> 协作看板与跨轮次锁定目标的 <code>goal</code> 指令。</p>
+<p>同时，团队集中修复了 <strong>八个</strong> P0 级安全漏洞。</p>
+<p>新版本还新增了可接入 <strong>Google Chat</strong> 的功能。</p>
+</blockquote>
+<p><strong>Nous Research</strong>近日发布<code>Hermes Agent v0.13.0</code>。该版本核心推出持久化多<code>Agent</code> <strong>Kanban</strong>协作看板，支持僵尸检测与幻觉恢复。新增<code>/goal</code>指令锁定跨轮次目标，底层实现磁盘防护与会话重启恢复。</p>
+<p>安全方面，集中修复 <strong>8</strong> 个 <strong>P0</strong>级漏洞，默认启用Secret脱敏并封堵<strong>TOCTOU</strong>等漏洞。架构上，<strong>Google Chat</strong>成为第 <strong>20</strong> 个接入的消息平台，推理供应商重构为可插拔接口。新增视频分析与语音克隆等功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/e3a53918-8f57-434d-8484-bde3f5ac6b91/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7">https://github.com/NousResearch/hermes-agent/releases/tag/v2026.5.7</a></li>
+<li><a href="https://x.com/NousResearch/status/2052493732205744303">https://x.com/NousResearch/status/2052493732205744303</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openai/openai-cli">OpenAI 开源 openai-cli 命令行工具映射 REST API 端点</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>在<strong>GitHub</strong>开源了官方命令行工具 <code>openai-cli</code>。</p>
+<p>该工具将 <strong>REST API</strong> 映射为 <strong>shell</strong> 命令，开发者配置环境变量后，即可在终端直接调用 <strong>API</strong>。</p>
+<p>这一举措能够快速实现 <strong>Agent</strong> 任务编排、图像语音生成与项目自动化管理。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 新近发布开源 CLI 工具 <code>openai-cli</code>（Apache 2.0 协议）。</p>
+<p>该项目能将 API 映射为 shell 子命令以用于自动化集成，支持通过 Homebrew 或 Go（<code>v1.25+</code>）安装。</p>
+<p>核心能力涵盖：结合云工具完成 <strong>Agent</strong> 任务。</p>
+<p>输出 JSON 等结构化数据并支持 <code>GJSON</code> 变换。</p>
+<p>单行命令处理图像与语音的生成、编辑及转录。</p>
+<p>执行项目和密钥的 <strong>Admin</strong> 管理。</p>
+<p>支持类 curl 的 @ 语法传参。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508084205_5605909d28.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openai/openai-cli">https://github.com/openai/openai-cli</a></li>
+<li><a href="https://developers.openai.com/api/docs/libraries/openai-cli">https://developers.openai.com/api/docs/libraries/openai-cli</a></li>
+</ul>
+<hr>
+<h2><a href="https://openrouter.ai/docs/features/multimodal/tts">OpenRouter 上线专用音频端点并发布统一网页搜索工具</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong>上线音频API与Web搜索抓取工具。</p>
+<p>新增的<code>TTS</code>与<code>STT</code>专用端点汇聚多家模型，实现统一路由与计费。</p>
+<p>Web工具允许支持工具调用的模型自主发起并发搜索，统一跨模型行为与结果。</p>
+</blockquote>
+<p>近日，<strong>OpenRouter</strong> 上线音频 API 与统一的 Web 搜索及页面获取工具。</p>
+<p>音频方面，新增 <code>TTS</code> 与 <code>STT</code> 专用端点，集成 <strong>OpenAI</strong> 等厂商模型。官方称其比通用音频模型更快更经济，且统一了路由与计费。</p>
+<p>Web 工具方面，推出 <code>web_search</code> 和 <code>web_fetch</code>。其允许支持工具调用的模型自主决策搜索时机，实现跨模型调用与结果格式统一。</p>
+<p>该类工具均提供四种引擎，部分按量计费（如 Exa 搜索 <strong>0.004 美元/条</strong>）。</p>
+<p>官方已发布旧版插件迁移路径，目前所有新功能均已可用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508000851_2a73e7afd4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openrouter.ai/docs/features/multimodal/tts">https://openrouter.ai/docs/features/multimodal/tts</a></li>
+<li><a href="https://openrouter.ai/docs/guides/features/server-tools">https://openrouter.ai/docs/guides/features/server-tools</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/strukto-ai/mirage">strukto-ai 开源 Mirage 为 AI Agent 打造统一虚拟文件系统</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>strukto-ai</strong>团队发布了面向 <strong>AI Agents</strong> 的开源虚拟文件系统 <code>Mirage</code>。</p>
+<p>该系统能将 <code>S3</code> 和 <code>GitHub</code> 等数十种云服务挂载为单一目录树，<strong>AI Agent</strong> 可直接使用 <code>cat</code>、<code>grep</code> 等标准 <strong>Unix</strong> 命令读写多种格式数据。</p>
+</blockquote>
+<p><strong>strukto-ai</strong> 团队近期开源了面向 AI Agents 的统一虚拟文件系统 <code>Mirage</code>。</p>
+<p>它将数十种云服务挂载为单一目录树，Agent 只需标准 Unix 命令即可跨后端读写，无需专属 API。系统内置双层缓存（默认 <strong>512MB</strong> 与 <strong>10 分钟</strong> TTL），支持快照与版本化。</p>
+<p>其提供 SDK 及 CLI，已适配 <code>LangChain</code> 等框架。据作者透露，项目开发耗时<strong>六周</strong>，代码超 <strong>110 万行</strong>并从头重写了 <code>bash</code>。</p>
+<p>现支持 macOS 与 Linux，后续计划增强稳定性并集成 <code>Cloudflare</code> 等。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/f9083782-1827-4e56-ad76-02751a1a3cd4/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/strukto-ai/mirage">https://github.com/strukto-ai/mirage</a></li>
+<li><a href="https://x.com/zechengzh/status/2052105012172792061">https://x.com/zechengzh/status/2052105012172792061</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/introducing-trusted-contact-in-chatgpt/">OpenAI ChatGPT 推出可信联系人，人工审核防自残</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>在<strong>ChatGPT</strong>中推出了<code>Trusted Contact</code>可选安全功能，18 岁及以上用户可在设置中添加一位信任联系人。</p>
+<p>当自动化系统与人工审核员检测到用户谈论自残时，会在一小时内向该联系人发送提醒。</p>
+</blockquote>
+<p><strong>OpenAI</strong>向<strong>ChatGPT</strong>推出名为"<strong>Trusted Contact</strong>"的可选安全功能，旨在帮助<strong>18</strong>岁及以上成年用户在情绪危机时联系信任者。</p>
+<p>若自动化系统与专门的人工审核员检测到用户有严重自残倾向，系统将向其指定的成年联系人发送邮件、短信或应用通知。</p>
+<p>为保护隐私，通知不含聊天细节，官方力求<strong>一小时内</strong>完成人工审核与发送。</p>
+<p>联系人需在<strong>一周内</strong>接受邀请，双方均可随时移除。</p>
+<p>该功能作为专业危机服务的补充，建立在原有家长控制基础上，并获得<strong>美国心理学会</strong>等专家的正面评价。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/3458c0fa-2dec-44fa-995b-f7beab54c4d1/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/3458c0fa-2dec-44fa-995b-f7beab54c4d1/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/introducing-trusted-contact-in-chatgpt/">https://openai.com/index/introducing-trusted-contact-in-chatgpt/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/9Tkrvn8_741e01yBk2tKjA">千问 PC 端上线 AI 语音输入，免费开放支持跨应用调用</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>千问</strong>的 PC 端应用免费上线了 <strong>AI 语音输入</strong>功能。长按快捷键能在各类应用和网页中<code>转录语音</code>，自动修正口误并做结构化整理。</p>
+<p>双击快捷键还能唤醒<strong>千问 AI</strong>助手，通过语音直接完成复杂任务。</p>
+</blockquote>
+<p>近日，<strong>千问</strong>官方为其 PC 端应用上线了 <strong>AI 语音输入能力</strong>，目前已向所有用户免费开放。该功能支持在各类应用和网页中调用，提供两种操作模式。</p>
+<p>一是长按快捷键（<code>Windows 右 Alt / Mac 右 Command 键 </code>）唤醒语音转录。该功能不仅能自动修正口误，还能进行逻辑纠错与结构化整理。</p>
+<p>二是双击相同快捷键唤醒<strong>千问 AI 助手</strong>。用户可直接执行生成外文邮件、语音插入指定数据、对选中内容进行编辑或翻译等复杂任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/5ca73a30-3de4-495e-8fde-d1f90679778e/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/9Tkrvn8_741e01yBk2tKjA">https://mp.weixin.qq.com/s/9Tkrvn8_741e01yBk2tKjA</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/claude-for-microsoft-365">Anthropic 发布 Claude for Microsoft 365 插件正式版</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>正式发布<strong>Claude for Microsoft 365</strong>插件，其中<strong>Excel</strong>、<strong>Word</strong>和<strong>PowerPoint</strong>插件已转为正式版。</p>
+<p><strong>Outlook</strong>进入公测。</p>
+<p>所有付费套餐用户无需额外付费。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 发布 <strong>Claude for Microsoft 365</strong> 插件。其中 <code>Excel</code>、<code>PowerPoint</code> 和 <code>Word</code> 插件已转为正式版，<code>Outlook</code> 插件进入公测。</p>
+<p>用户无需切换窗口即可在应用内调用 <strong>Claude</strong> 处理数据、生成图表及修订文本等。该插件核心特性为跨应用上下文衔接。<strong>Claude</strong> 可在同一会话中跨四款应用携带完整上下文执行任务。</p>
+<p>该功能对所有 <strong>Claude</strong> 付费用户开放，无需额外费用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/74f183ed-54a7-497e-96c0-03af70969774/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/claude-for-microsoft-365">https://claude.com/claude-for-microsoft-365</a></li>
+<li><a href="https://x.com/claudeai/status/2052445786651168849">https://x.com/claudeai/status/2052445786651168849</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-connectors">SpaceXAI 为 Grok 推出 Connectors，支持第三方应用集成</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong> 正式宣布为 <strong>Grok</strong> 推出 <code>Connectors</code> 功能，并已在网页端上线。</p>
+<p>该功能深度集成了 <strong>Outlook</strong> 等第三方应用，能直接处理邮件、日历和文档等。</p>
+</blockquote>
+<p><strong>SpaceXAI</strong> 近日为聊天机器人 <code>Grok</code> 推出 <strong>Connectors</strong> 功能，现已上线 <strong>Grok</strong> Web 端。</p>
+<p>该功能首批支持与 <strong>SharePoint</strong>、<strong>Outlook</strong>、<strong>Google Workspace</strong> 等 <strong>7</strong> 款第三方应用深度集成，实现读写邮件、编辑文档等端到端工作流处理。</p>
+<p>同时，<strong>xAI</strong> 还推出了 <strong>Bring Your Own MCP</strong> 支持，允许接入自定义 <code>MCP</code> 服务器。</p>
+<p>官方表示，<strong>Connectors</strong> 后续将扩展至 <strong>iOS</strong> 与 <strong>Android</strong> 应用，并定期增设更多连接器。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/04f0edee-88e0-4a4b-bc07-d07743f73e69/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-connectors">https://x.ai/news/grok-connectors</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/spotify/save-to-spotify">Spotify 发布 save-to-spotify 开源工具 支持私人播客音频上传</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Spotify</strong>推出命令行工具 <code>save-to-spotify</code>。</p>
+<p>该工具支持通过 <code>Agent</code> 将本地或 <strong>AI</strong> 生成的音频上传至平台，并转为私人播客保存在个人库。</p>
+</blockquote>
+<p>日前，<strong>Spotify</strong> 在 <strong>GitHub</strong> 开源推出处于 beta 阶段的命令行工具 <code>save-to-spotify</code>。该工具允许用户通过 <strong>Agent</strong> 和自动化流程，将 AI 生成或本地音频上传至 <strong>Spotify</strong>，以私人播客形式（仅本人可见）保存在个人库中。</p>
+<p>该工具本身不生成音频，需结合 <strong>TTS</strong> 工具使用。它支持多种安装方式，可无缝集成至 <code>Claude Code</code> 等 Agent 环境。</p>
+<p>用户完成一次性认证后，即可执行音频上传、节目及剧集管理、时间轴标记等操作。据官方博客表示，此举旨在满足用户在 <strong>Spotify</strong> 集中收听由 Agent 生成的简报等个人音频的需求。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/0b4b8c8a-99ad-4f17-85d1-d0c5f15787b0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/spotify/save-to-spotify">https://github.com/spotify/save-to-spotify</a></li>
+</ul>
+<hr>
+<h2><a href="https://alignment.anthropic.com/2026/msm/">Anthropic 提出 Model Spec Midtraining 优化模型对齐泛化</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>的研究人员近日提出了一种名为<code>Model Spec Midtraining</code>（MSM）的新方法。</p>
+<p>通过在预训练后、对齐微调前使用合成文档训练模型学习其<code>Model Spec</code>的内容，从而塑造模型从后续对齐训练中的泛化方式。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 研究人员提出 <strong><code>Model Spec Midtraining</code>（MSM）</strong> 方法。该法在预训练后、对齐微调前用合成文档训练模型，控制其泛化方式。</p>
+<p>实验表明，<strong>MSM</strong> 可引导模型泛化出特定价值观。安全评估中，<strong>MSM</strong> 结合微调将 <code>Qwen3-32B</code> 的 <strong><code>agentic misalignment</code></strong> 率从 <strong>54%</strong> 降至 <strong>7%</strong>，优于传统对齐的 <strong>14%</strong>。</p>
+<p>研究指出，<strong>MSM</strong> 能使对齐微调数据效率提升数十倍。团队还发现，为规则补充价值观解释或子规则均提升泛化，前者减少政策滥用更有效。</p>
+<p>论文与代码已公开。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://alignment.anthropic.com/2026/msm/">https://alignment.anthropic.com/2026/msm/</a></li>
+<li><a href="https://arxiv.org/abs/2605.02087">https://arxiv.org/abs/2605.02087</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/research/natural-language-autoencoders">Anthropic 发布 NLA 方法揭示模型被评估意识</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 发布名为 <strong><code>Natural Language Autoencoders</code></strong> 的新研究，该方法能将 <strong>AI</strong> 模型内部的激活值转成可读文本。</p>
+<p>该技术现已用于安全审计，成功揭示了模型未言明的隐藏心理。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 发布新研究 <strong>Natural Language Autoencoders</strong>，可将 AI 模型内部激活值转换为可读文本。该技术已用于 <strong>Claude</strong> 等新模型的部署前安全审计。</p>
+<p>测试显示，<strong>NLA</strong> 揭示了模型未明说的“被评估意识”（特定测试占 <strong>16%</strong> 至 <strong>26%</strong>，真实使用不足 <strong>1%</strong>）、“作弊规避”等想法，并协助定位异常数据。在审计游戏中，使用 <code>NLA</code> 发现隐藏动机的比例从不足 <strong>3%</strong> 升至 <strong>12%</strong>–<strong>15%</strong>。</p>
+<p>官方坦言 <code>NLA</code> 存在事实性幻觉且成本高昂，部分社区用户也对其循环验证机制提出质疑。目前，<strong>Anthropic</strong> 已公开相关代码及交互式演示。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/01dd0a0f-bb9e-45a2-bde7-ee1c9281ffa5/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/01dd0a0f-bb9e-45a2-bde7-ee1c9281ffa5/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/research/natural-language-autoencoders">https://www.anthropic.com/research/natural-language-autoencoders</a></li>
+<li><a href="https://github.com/kitft/natural_language_autoencoders">https://github.com/kitft/natural_language_autoencoders</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/research/anthropic-institute-agenda">Anthropic 旗下 TAI 公布研究议程，聚焦经济安全四大领域</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>近日正式公布了旗下 <strong>The Anthropic Institute</strong> 的四大研究议程。</p>
+<p>这四大议程涵盖经济扩散、威胁与韧性、真实环境中的<code>AI</code>系统、以及<code>AI</code>驱动的研发。</p>
+<p>该计划旨在评估<code>AI</code>对社会的深层影响。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 的 <strong>The Anthropic Institute（TAI）</strong> 公布研究议程，系统研究 AI 对社会、经济与安全的影响。该动态议程聚焦四大方向。</p>
+<p>一是经济扩散，分析 AI 采用及劳动力市场重构。二是威胁与韧性，评估 <code>Claude</code> <code>Mythos</code> 等模型的双重用途能力，探索风险定价与防御机制。三是真实环境中的 AI 系统，研究自主 Agent 的法律治理及交互规范。四是 AI 驱动研发，追踪递归式自我改进迹象并设计人类干预点。</p>
+<p>该议程将与长期利益信托协同迭代。同时，<strong>TAI</strong> 已开放为期<strong>四个月</strong>的资助计划，供外部研究者申请参与。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508001652_f2487ff150.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/research/anthropic-institute-agenda">https://www.anthropic.com/research/anthropic-institute-agenda</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/research/donating-open-source-petri">Anthropic 捐赠 Petri 对齐测试工具至 Meridian Labs</a> <code>#22</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>宣布将开源对齐测试工具<code>Petri</code>捐赠给非营利组织<strong>Meridian Labs</strong>，并发布<code>3.0</code>版本。</p>
+<p>该工具通过独立的审计员与法官模型，专门测试大语言模型是否存在欺骗或配合有害请求等不良倾向。</p>
+</blockquote>
+<p><strong>Anthropic</strong>宣布将开源对齐测试工具<code>Petri</code>捐赠给非营利组织<strong>Meridian Labs</strong>，并发布<strong>3.0 版</strong>，旨在确保评估独立中立。</p>
+<p><code>Petri</code>于<strong>2025 年</strong>推出，可测查大模型欺骗、谄媚等倾向，已用于<code>Claude Sonnet 4.5</code>起的所有<strong>Claude</strong>模型，获<strong>英国 AI 安全研究所</strong>采纳。</p>
+<p><strong>3.0 版</strong>将审计员与目标模型解耦提升定制性；新增 <code>Dish</code>组件调用真实系统提示增强真实性；并集成<code>Bloom</code> 工具深化评估。</p>
+<p>未来 <code>Petri</code>将与该机构工具共建开放技术栈，向多方提供测试手段。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508084944_4b5e63b8d6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/research/donating-open-source-petri">https://www.anthropic.com/research/donating-open-source-petri</a></li>
+<li><a href="https://meridianlabs.ai/blog/posts/introducing-petri-3/">https://meridianlabs.ai/blog/posts/introducing-petri-3/</a></li>
+<li><a href="https://meridianlabs-ai.github.io/inspect_petri/">https://meridianlabs-ai.github.io/inspect_petri/</a></li>
+</ul>
+<hr>
+<h2><a href="https://alignment.openai.com/accidental-cot-grading">OpenAI 披露多款 GPT-5 模型训练意外评分思维链</a> <code>#23</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 发布博客介绍其发现 <code>GPT-5.4</code> 等多个模型在强化学习训练中意外对思维链进行了评分。</p>
+<p>消融实验表明该情况未对 <code>CoT</code> 可监控性造成实质性损害，团队已修复相关奖励通路并扩展了自动检测系统。</p>
+</blockquote>
+<p>近日，<strong>OpenAI</strong> 发现 <strong>GPT-5.1</strong> 至 <strong>GPT-5.4</strong> 系列多个模型在强化学习训练中，存在意外对思维链评分的情况。</p>
+<p>评分涉及奖励有用性、惩罚确认性问题及提示注入三类，受影响样本比例均低于 <strong>3.8%</strong>。经消融实验确认，上述事件未导致模型的 <code>CoT</code> 可监控性出现明显退化。</p>
+<p>目前团队已修复奖励通路，扩展检测系统并强化流程防复发。<strong>OpenAI</strong> 重申避免直接对 <code>CoT</code> 评分的政策不变，未来将研究相关压力效应。</p>
+<p>相关分析已交 <strong>Redwood Research</strong> 等机构完成独立审查。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/24e2957b-64ea-4fed-bf2b-0268a96839ba/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://alignment.openai.com/accidental-cot-grading">https://alignment.openai.com/accidental-cot-grading</a></li>
+<li><a href="https://x.com/OpenAI/status/2052454114911756687">https://x.com/OpenAI/status/2052454114911756687</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/shawn0728/OpenSearch-VL">腾讯混元开源 OpenSearch-VL 多模态深度搜索训练方案</a> <code>#24</code></h2>
+<blockquote>
+<p><strong>腾讯混元</strong>等机构开源了多模态深度搜索 Agent 训练方案 <code>OpenSearch-VL</code>。</p>
+<p>该方案提供从数据管道到致命感知强化学习算法的完整实现。</p>
+</blockquote>
+<p>近日，<strong>腾讯混元团队</strong>联合<strong>UCLA</strong>、<strong>香港中文大学</strong>等机构，正式开源多模态深度搜索 Agent 训练方案 <code>OpenSearch-VL</code>。</p>
+<p>该方案针对商业闭源瓶颈，提供从数据管道、统一工具环境到多轮致命感知强化学习算法的完整开源实现，产出 <strong>SFT-36k</strong> 与 <strong>RL-8k</strong> 数据集。</p>
+<p>基于 <code>Qwen3-VL</code> 基座，该方案在 <strong>7</strong> 个基准上平均得分提升逾 <strong>10</strong> 分。其中 <strong>30B-A3B</strong> 模型平均分从 <strong>47.8</strong> 升至 <strong>61.6</strong>。</p>
+<p><strong>32B</strong> 模型性能超越 <code>Gemini-2.5-Pro</code> 等商业系统。目前项目代码已全面开源，模型检查点与完整数据集即将发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260507/20260507183837_1a2aa5b6eb.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/shawn0728/OpenSearch-VL">https://github.com/shawn0728/OpenSearch-VL</a></li>
+<li><a href="https://huggingface.co/OpenSearch-VL">https://huggingface.co/OpenSearch-VL</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.goodfire.ai/research/the-world-inside-neural-networks">Goodfire 发布神经几何学研究</a> <code>#25</code></h2>
+<blockquote>
+<p><strong>Goodfire</strong> 发布“神经几何学”研究，认为神经网络内部充满弯曲的几何流形。</p>
+<p>沿流形干预能实现模型平滑操控与精准解读，避免传统线性方法造成的输出混乱。</p>
+</blockquote>
+<p><strong>Goodfire</strong> 发布“神经几何学”研究系列文章指出，神经网络内部并非线性结构，而是充满源自训练数据的弯曲几何结构（流形）。</p>
+<p>该团队以“山地车”模型证实，沿流形干预可实现对模型的平滑控制，而传统线性干预会导致输出混乱或状态“瞬移”。</p>
+<p>研究还发现，稀疏自编码器 (<code>SAE</code>) 会将概念流形打碎为局部片段，从而遮蔽底层整体语义。</p>
+<p><strong>Goodfire</strong>强调，运用神经几何是深度解读和精准控制模型的关键。</p>
+<p>官方确认，其已在表观基因组模型中借此发现了未知的阿尔茨海默症生物标志物。</p>
+<p>后续文章将深入介绍流形的无监督发现等机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/4793a563-63ab-4b2a-9ab1-9071bf8192da/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.goodfire.ai/research/the-world-inside-neural-networks">https://www.goodfire.ai/research/the-world-inside-neural-networks</a></li>
+<li><a href="http://www.goodfire.ai/research/neural-geometry">http://www.goodfire.ai/research/neural-geometry</a></li>
+</ul>
+<hr>
+<h2><a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/">Mozilla 披露借助Claude Mythos Preview 修复漏洞数超过去十五个月总和</a> <code>#26</code></h2>
+<blockquote>
+<p><strong>Mozilla Firefox</strong>团队发文称，今年<strong>4月</strong>借助 <strong>Claude Mythos Preview</strong> 模型，成功修复了<strong>423</strong>个安全漏洞。</p>
+<p>这一数量超过了此前<strong>15个月</strong>的总和。其中该模型直接发现<strong>271</strong>个漏洞。</p>
+</blockquote>
+<p>据 <strong>Mozilla</strong> 官方博客，通过借助 <code>Claude Mythos Preview</code> 模型，<strong>Firefox</strong> 团队今年 <strong>4</strong> 月修复了 <strong>423</strong> 个安全漏洞，超此前 <strong>15</strong> 个月总和。</p>
+<p>其中 <strong>271</strong> 个由该模型发现（含 <strong>180</strong> 个高危），外部报告 <strong>41</strong> 个。<strong>Anthropic</strong> 此前亦上报 <strong>3</strong> 个独立 CVE。上述修复已通过 <code>Firefox 150</code> 等版本推送。</p>
+<p>期间超 <strong>100</strong> 名开发者参与安全加固，团队构建了动态验证漏洞的自动化 pipeline，并公开了 <strong>12</strong> 个代表性漏洞样本。</p>
+<p><strong>Mozilla</strong> 计划将 AI 分析集成至持续集成体系，并呼吁行业采用类似技术强化软件防御。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/d1be2db9-887b-4fb7-892f-b3316eda03ab/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/">https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/</a></li>
+</ul>
+<hr>
+<h2><a href="https://deepmind.google/blog/alphaevolve-impact/">Google DeepMind 展示 AlphaEvolve 一年间成果</a> <code>#27</code></h2>
+<blockquote>
+<p><strong>Google DeepMind</strong> 发文介绍了其此前推出的 AI Agent <strong>AlphaEvolve</strong>，在过去一年中取得的显著成效。</p>
+<p>该系统在推动社会影响方面展现了重要作用，并在加速研究前沿领域发挥了关键驱动能力。</p>
+<p>同时，它成功实现了 <strong>AI</strong> 基础设施的优化，为技术落地提供了坚实基础。</p>
+<p>此外，<strong>AlphaEvolve</strong> 还在规模化商业应用等多个维度上取得了突破性进展。</p>
+</blockquote>
+<p>过去一年，<strong>Google DeepMind</strong> 的 AI 编码 Agent <code>AlphaEvolve</code> 成效显著。</p>
+<p>在社会影响上，该系统将基因组变异检测错误降 <strong>30%</strong>，电网优化可行解比例从 <strong>14%</strong> 升至超 <strong>88%</strong>，灾害预测准确率升 <strong>5%</strong>。</p>
+<p>在研究前沿，它为 <strong>Willow</strong> 量子处理器提出误差低 <strong>10</strong> 倍的电路方案，协助解决 <strong>Erdős</strong> 问题并打破旅行商问题下界和拉姆齐数纪录。</p>
+<p>在内部基建上，其成为 <strong>Google</strong> 常规工具，设计集成至下一代 <code>TPU</code>，将 <code>Spanner</code> 写放大降 <strong>20%</strong>，软件存储减近 <strong>9%</strong>。</p>
+<p>在商业应用上，<strong>Google Cloud</strong> 助 <strong>Klarna</strong> 训练速度提一倍，<strong>FM Logistic</strong> 路径效率升 <strong>10.4%</strong>，<strong>Schrödinger</strong> 力场加速约 <strong>4</strong> 倍。</p>
+<p>未来团队计划将该能力扩展至更多现实挑战。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/485c3bfa-59a9-40c0-9e9a-dd3d91571382/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://deepmind.google/blog/alphaevolve-impact/">https://deepmind.google/blog/alphaevolve-impact/</a></li>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-updates</a></li>
+<li><a href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/">https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/elonmusk/status/2052105373621121284">xAI 并入 SpaceX，更名为 SpaceXAI</a> <code>#28</code></h2>
+<blockquote>
+<p><strong>马斯克</strong>在社交平台 <strong>X</strong> 上宣布，旗下 <strong>xAI</strong> 不再独立运营。</p>
+<p>该公司将整体并入 <strong>SpaceX</strong>。</p>
+<p>并正式更名为 <strong>SpaceXAI</strong>。</p>
+</blockquote>
+<p><strong>5 月 7 日</strong>，<strong>马斯克</strong>宣布旗下 <strong>xAI</strong> 不再独立运营，整体并入 <strong>SpaceX</strong> 并正式更名为 <strong>SpaceXAI</strong>。</p>
+<p>据悉，<strong>SpaceX</strong> 已于今年 <strong>2 月</strong> 以全股票交易方式收购 <strong>xAI</strong>。</p>
+<p>合并后，<strong>SpaceX</strong> 估值达 <strong>1 万亿美元</strong>，<strong>xAI</strong> 估值为 <strong>2500 亿美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/5f50013d-adb0-48ea-9be5-4a4fc0eaa42c/c821240b-1934-4063-ab52-ea0dda850f3a/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/elonmusk/status/2052105373621121284">https://x.com/elonmusk/status/2052105373621121284</a></li>
+</ul>
+<hr>
+<h2><a href="https://hackerone.com/anthropic">Anthropic 在 HackerOne 平台公开漏洞赏金计划</a> <code>#29</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>正式在 <strong>HackerOne</strong> 平台向公众开放安全漏洞赏金计划。</p>
+<p>研究者可通过该平台提交基础设施或者代码层面的漏洞报告获取最高<strong>一万美元</strong>赏金。</p>
+</blockquote>
+<p>近日，<strong>Anthropic</strong> 宣布其在 <strong>HackerOne</strong> 平台的安全漏洞赏金计划结束私密阶段，正式向公众开放。</p>
+<p>官方页面显示，该计划对所有资产按影响定酬，承诺在收到有效报告后 <code>1</code> 个月内支付赏金，并为善意研究者提供安全港保护。</p>
+<p>此外，该计划严格聚焦基础设施与代码层面的安全缺陷。涉及模型内容、越狱等问题需通过独立渠道提交。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260508/20260508075920_bf4cf678b4.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hackerone.com/anthropic">https://hackerone.com/anthropic</a></li>
+<li><a href="https://x.com/AnthropicAI/status/2052466175540629965">https://x.com/AnthropicAI/status/2052466175540629965</a></li>
+</ul>
+<hr>
+<h2><a href="https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/">DeepL 裁员 250 人，转型 AI 原生公司布局语音翻译</a> <code>#30</code></h2>
+<blockquote>
+<p><strong>DeepL</strong> 宣布裁减约 <strong>250</strong> 个岗位，以转型为 <code>AI</code> 原生企业。</p>
+<p>同时该公司通过收购音频流媒体技术公司 <strong>Mixhalo</strong> 团队，将战略重点转向实时语音翻译领域。</p>
+</blockquote>
+<p><strong>DeepL</strong> 近期宣布重组计划，将裁减约 <strong>250</strong> 个岗位。</p>
+<p>CEO 兼创始人 <strong>Jarek Kutylowski</strong> 在 <strong>LinkedIn</strong> 发文称，此举旨在将公司转型为"<strong>AI 原生</strong>"组织，利用 <strong>AI</strong> 让更小团队完成以往需整个部门承担的工作。</p>
+<p>他将亲自领导专项工作组推动重组，重塑产品与内部流程。</p>
+<p>同时，公司战略重点转向实时语音翻译领域，已收购音频流媒体技术公司 <strong>Mixhalo</strong> 团队。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/">https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/83</guid><pubDate>Fri, 08 May 2026 01:47:03 +0000</pubDate></item><item><title>2026-05-07</title><link>https://imjuya.github.io/juya-ai-daily/issue-82/</link><description>AI 早报 2026-05-07 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 与 SpaceX 合作新增 300MW 算力，放宽使用限制 ↗ #1 模型发布 豆包 Doubao-Seed-2.0-lite 模型升级支持全模态 ↗ #2 Zyphra发布ZAYA1-8B，AMD平台训练开源 ↗ #3 开发生态 Claude Managed Agents 上线 dreaming 与 outcomes 等功能 ↗ #4 Cursor 发布 3.3 版，新增上下文占用明细及 CI 自动修复 ↗ #5 TRAE 宣布三端同步全量免费开放 ↗ #6 OpenClaw 发布 2026.5.5 及 5.6，新增功能并修复问题 ↗ #7 Warp 团队开源 oz-skills 集合，包含 15 个内部…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260507/202605070916379329752ccb_cover_9ab7.png" alt=""></p>
 <h1>AI 早报 2026-05-07</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1jURhBpEkX">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=WV8fJiPlvBo">YouTube</a></p>
 <h2>概览</h2>
