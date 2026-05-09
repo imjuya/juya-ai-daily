@@ -17,7 +17,7 @@ PRIMARY_FEED_FILENAME = "rss.xml"
 FEED_ICON_PATH = "static/icon.png"
 FEED_ICON_SIZE = 144
 RSS_SUMMARY_MAX_CHARS = 360
-RSS_MAX_ITEMS = 20
+RSS_MAX_ITEMS = 10
 WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
 
 MD_HEAD = """# 橘鸦AI早报
