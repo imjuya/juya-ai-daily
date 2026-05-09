@@ -17,6 +17,7 @@ PRIMARY_FEED_FILENAME = "rss.xml"
 FEED_ICON_PATH = "static/icon.png"
 FEED_ICON_SIZE = 144
 RSS_SUMMARY_MAX_CHARS = 360
+RSS_MAX_ITEMS = 20
 WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
 
 MD_HEAD = """# 橘鸦AI早报
@@ -441,7 +442,10 @@ def generate_rss_feed(repo, filename, me):
             height=str(FEED_ICON_SIZE),
             description="橘鸦AI早报 RSS 图标",
         )
+    item_count = 0
     for issue in repo.get_issues(state="all", sort="created", direction="desc"):
+        if item_count >= RSS_MAX_ITEMS:
+            break
         if not issue.body or not is_me(issue, me) or issue.pull_request:
             continue
         issue_pages_url = get_repo_pages_issue_url(repo, issue.number)
@@ -458,6 +462,7 @@ def generate_rss_feed(repo, filename, me):
         summary = make_rss_summary(full_content) or issue.title
         item.description(summary)
         item.content(full_content, type="CDATA")
+        item_count += 1
     generator.rss_file(filename)
 
 
