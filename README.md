@@ -4,6 +4,8 @@
 
 正式订阅地址：https://imjuya.github.io/juya-ai-daily/rss.xml
 
+RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器
+
 ## Links
 
 | Platform | Link |

@@ -19,12 +19,15 @@ FEED_ICON_SIZE = 144
 RSS_SUMMARY_MAX_CHARS = 360
 RSS_MAX_ITEMS = 10
 WEBFEEDS_NS = "http://webfeeds.org/rss/1.0"
+RSS_SERVICE_NOTICE = "RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器"
 
 MD_HEAD = """# 橘鸦AI早报
 
 > 本仓库将AI早报备份为Markdown存档并自动生成RSS订阅。资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。内容从互联网上获取，如有侵权请联系删除。
 
 正式订阅地址：https://imjuya.github.io/juya-ai-daily/rss.xml
+
+{rss_service_notice}
 
 ## Links
 
@@ -257,6 +260,7 @@ def add_md_header(md, repo_name, feed_filename, branch_name):
                 repo_name=repo_name,
                 branch_name=branch_name,
                 feed_subscribe_url=get_pages_feed_url(repo_name, feed_filename),
+                rss_service_notice=RSS_SERVICE_NOTICE,
             )
         )
         md.write("\n")
@@ -411,7 +415,9 @@ def generate_rss_feed(repo, filename, me):
     generator = FeedGenerator()
     generator.id(repo.html_url)
     generator.title("橘鸦AI早报")
-    generator.description("资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。")
+    generator.description(
+        f"资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。{RSS_SERVICE_NOTICE}"
+    )
     generator.language("zh-CN")
     generator.author(
         {"name": "Juya", "email": "imjuyaya@gmail.com"}
