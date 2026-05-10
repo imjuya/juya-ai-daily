@@ -1,5 +1,145 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 09 May 2026 04:04:25 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-09</title><link>https://imjuya.github.io/juya-ai-daily/issue-84/</link><description>AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗ #6 开发生态 OpenClaw 发布 2026.5.7 版，强化权限与更新流程 ↗ #7 AWS 发布 Agent Toolkit for AWS 工具集…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260509/202605090859599503730ed9_cover_9c5e.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 10 May 2026 00:44:46 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-85/</link><description>AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 ↗ #6 消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 ↗ #7 前瞻与传闻 报道称字节跳动今年 AI 基建支出超两千…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260510/20260510083202664577feec_cover_26bb.png" alt=""></p>
+<h1>AI 早报 2026-05-10</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV12ERfB2EWV">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=HSFe0qA4-CA">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>百度宣布文心 5.1 模型正式上线 <a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">↗</a> <code>#1</code></li>
+<li>HiDream-ai 开源 HiDream-O1-Image 图像生成模型 <a href="https://github.com/HiDream-ai/HiDream-O1-Image">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenRouter 推出 Pareto Code 实验性编码路由 <a href="https://x.com/OpenRouter/status/2053170520087024109">↗</a> <code>#3</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>OpenAI 公开内部 Codex 安全运行实践 <a href="https://openai.com/index/running-codex-safely/">↗</a> <code>#4</code></li>
+<li>Perplexity 公开内部 Agent Skills 设计维护指南 <a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">↗</a> <code>#5</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 <a href="https://x.com/NousResearch/status/2052904761087729897">↗</a> <code>#6</code></li>
+<li>消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 <a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">↗</a> <code>#7</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>报道称字节跳动今年 AI 基建支出超两千亿 <a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">↗</a> <code>#8</code></li>
+</ul>
+<hr>
+<h2><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">百度宣布文心 5.1 模型正式上线</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>百度</strong>宣布<code>文心 5.1</code>大模型正式上线，用户可登录官网或<strong>星河社区</strong> <code>Playground</code>体验。该模型总参数较前代压缩至<strong>三分之一</strong>，预训练成本仅为同规模<strong>百分之六</strong>。现正陆续上架<strong>数十</strong>个创作 Agent 平台。</p>
+</blockquote>
+<p><strong>百度</strong>宣布 <strong>文心 5.1</strong> 大模型已于即日起正式上线，用户可登录官网或通过<strong>星河社区</strong> <code>Playground</code> 进行体验。</p>
+<p>该模型基于 <code>文心 5.0</code> 进行架构创新，总参数量压缩至原版的约 <strong>1/3</strong>，激活参数量压缩至约 <strong>1/2</strong>。其预训练成本仅为业界同规模模型的约 <strong>6%</strong>。</p>
+<p>在模型能力上，<strong>文心 5.1</strong> 在 <code>Arena</code> 搜索榜上以 <strong>1223</strong> 分取得全球第四、国内第一的成绩。在 <code>GPQA</code> 和 <code>MMLU-Pro</code> 评测中，该模型的世界知识与创意写作能力亦表现领先，创意写作能力在内部评测中接近 <code>Gemini 3.1 Pro</code>。</p>
+<p>技术方面，研发团队引入了多维度弹性预训练技术与 <code>Once-for-All</code> 弹性训练框架。通过分离式全异步强化学习架构、<code>FP8</code> 训推一致性优化及资源异构弹性调度来支持高效稳定的训练。同时采用以多教师在线策略蒸馏为核心的后训练管线，以并行专家训练与统一能力融合解决多目标优化冲突。</p>
+<p>此外，<strong>文心 5.1</strong> 在创意写作领域获得了创作类企业与专业作家的广泛赞誉，并将陆续上线 <code>ISEKAI ZERO</code> 等数十个创作类 Agent 平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/3d69cce0-7f2e-49d5-9172-5c90449647dd/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/3d69cce0-7f2e-49d5-9172-5c90449647dd/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/HiDream-ai/HiDream-O1-Image">HiDream-ai 开源 HiDream-O1-Image 图像生成模型</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>HiDream-ai</strong> 团队开源了 <strong>8B</strong> 参数的图像生成模型 <code>HiDream-O1-Image</code>。该模型基于统一 Transformer 架构，无需外部 <code>VAE</code> 即可原生生成 <code>2048</code> 分辨率图像。</p>
+</blockquote>
+<p><strong>HiDream-ai</strong> 团队开源了其原生统一图像生成基础模型 <strong>HiDream-O1-Image</strong>（代号 <code>Peanut</code>），该模型包含未蒸馏（full）和蒸馏 <code>Dev</code> 两个变体，并同步发布了推理驱动的 <strong>Prompt Agent</strong>。</p>
+<p><strong>HiDream-O1-Image</strong> 参数量为 <code>8B</code>，基于像素级统一 <code>Transformer</code>（<code>UiT</code>）。它无需外部 <code>VAE</code> 或分离式文本编码器，直接在单一共享 Token 空间中编码原始像素、文本及任务条件。</p>
+<p>该模型支持文生图、图像编辑、主体驱动个性化等任务，原生分辨率可达 <strong>2048×2048</strong>。在 <strong>Artificial Analysis Text to Image Arena</strong> 中，该模型首次上榜即位列第 <strong>8</strong>。</p>
+<p>官方称其已成为新晋领先的开放权重文生图模型。该项目代码库及模型权重均已以 <strong>MIT</strong> 许可证发布在 <strong>GitHub</strong> 与 <strong>HuggingFace</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/HiDream-ai/HiDream-O1-Image">https://github.com/HiDream-ai/HiDream-O1-Image</a></li>
+<li><a href="https://huggingface.co/HiDream-ai/HiDream-O1-Image">https://huggingface.co/HiDream-ai/HiDream-O1-Image</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenRouter/status/2053170520087024109">OpenRouter 推出 Pareto Code 实验性编码路由</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong>推出了实验性编码路由<code>Pareto Code</code>。该路由会根据<strong>ArtificialAnalysis</strong>排名，自动把任务分配给满足分数要求且成本最低的模型，并提供了提速的<code>Nitro</code>版本。</p>
+</blockquote>
+<p><strong>OpenRouter</strong>近日推出实验性编码路由<code>Pareto Code</code>。开发者设置<code>min_coding_score</code>参数后，系统会依据<code>ArtificialAnalysis</code>排名，自动将任务定向至满足分数要求且成本最低的模型。</p>
+<p>该路由设3个质量频带，共含13个模型，最高支持<strong>2M</strong>上下文。针对低延迟场景，另提供牺牲多样性换取速度的<code>Nitro</code>变体。</p>
+<p><strong>OpenRouter</strong>称，因模型快速迭代，数月内各频带成本降<strong>10</strong>至<strong>100</strong>倍，该产品旨在顺应此趋势。该功能现已开放试用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/b4f3a8ca-7c7e-4240-80fc-4e6149621cca/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/b4f3a8ca-7c7e-4240-80fc-4e6149621cca/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2053170520087024109">https://x.com/OpenRouter/status/2053170520087024109</a></li>
+<li><a href="http://openrouter.ai/openrouter/pareto-code">http://openrouter.ai/openrouter/pareto-code</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/running-codex-safely/">OpenAI 公开内部 Codex 安全运行实践</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>近期分享了一篇关于其如何在内部安全运行 <code>Codex</code> 的技术实践文章，重点介绍了沙箱执行边界、审批策略、自动审核模式、网络策略、身份验证绑定、命令规则以及 <strong>Agent</strong> 原生遥测等控制措施。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 近期发文分享其内部安全部署编程 Agent <code>Codex</code> 的技术实践。</p>
+<p>该文章显示，<strong>OpenAI</strong> 为 <code>Codex</code> 设定了清晰的技术边界，通过沙箱限定可写路径与网络访问，结合审批机制区分低风险与高风险操作，并启用 <code>Auto-review</code> 功能自动批准常规请求以降低人工中断频率。</p>
+<p>网络策略默认不开放任意出站，仅允许经批准的域并通过缓存进行网络搜索，同时将 <code>CLI</code> 和 <code>MCP OAuth</code> 凭据存入操作系统安全密钥环，强制通过 <strong>ChatGPT</strong> 登录并绑定至企业工作区以集中管控。</p>
+<p>在遥测方面，<code>Codex</code> 支持通过 <code>OpenTelemetry</code> 导出用户提示、工具审批决策、<code>MCP</code> 服务器使用和网络代理允许/拒绝等事件日志，并已集成至 <strong>OpenAI</strong> 合规平台，帮助安全团队理解 Agent 行为意图。</p>
+<p>目前相关配置方案与合规 API 已面向企业及教育用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/986dce4f-287f-4580-ac21-fb59f6314135/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/running-codex-safely/">https://openai.com/index/running-codex-safely/</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">Perplexity 公开内部 Agent Skills 设计维护指南</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Perplexity</strong> 发文介绍其内部 <strong>Agent Skills</strong> 的设计与维护指南。其指出：构建 <code>Skill</code> 需先编写评估，抓住描述中的触发词，用层级组织复杂知识，再通过记录失败案例的 <code>gotchas</code> 飞轮持续维护。</p>
+</blockquote>
+<p><strong>Perplexity Research</strong> 近期公开了其内部使用的 <strong>Agent Skills</strong> 设计、优化与维护指南。这份源自 <strong>Perplexity Computer</strong> 产品实践的文档，旨在将相关经验开放给社区。</p>
+<p>根据指南，<strong>Agent Skill</strong> 是一个由 <code>SKILL.md</code>、<code>scripts/</code>、<code>references/</code> 等文件组成的多级目录。它依靠以"<strong>Load when...</strong>"开头的描述进行隐式路由匹配，并通过索引、加载、运行时三层渐进式上下文机制实现按需调用。</p>
+<p>开发 Skill 的理念与传统代码截然不同，官方提出了"<strong>Skills 之禅</strong>"等对比。文档系统讲解了何时需要 Skill，以及如何从编写评估和描述入手。同时，文章详细介绍了利用层级结构和迭代来构建 Skill 的方法。</p>
+<p>在维护方面，指南阐述了如何借助"<strong>gotchas 飞轮</strong>"和跨模型评估套件进行操作。<strong>Perplexity</strong> 特别强调，每个 Skill 都会对全局上下文构成成本，新增 Skill 可能无意间干扰已有 Skill 的正确路由。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/NousResearch/status/2052904761087729897">Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜</a> <code>#6</code></h2>
+<blockquote>
+<p>Nous Research 团队宣布，旗下<code>Hermes Agent</code>在<code>OpenRouter</code>平台全球 Token 排名中超越<code>OpenClaw</code>登顶，拿下所有 AI 应用第一名。</p>
+</blockquote>
+<p><strong>Nous Research</strong>通过官方社交账号宣布，其旗下 <strong>Hermes Agent</strong> 已攀升至 <strong>OpenRouter</strong> 平台的全球 <code>token</code> 排名首位。</p>
+<p>据该团队成员 <strong>Teknium</strong> 进一步表示，这意味着 <strong>Hermes Agent</strong> 在该平台所有 <strong>AI</strong> 应用中排名全球第一。</p>
+<p>团队借此向近 <strong>1000</strong> 名贡献者、支持者及用户表达感谢。</p>
+<p>同时，<strong>Teknium</strong> 向社区公开征询意见，询问用户对后续新功能或发展方向的期待。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/86a5713e-5383-4b1a-873a-b26385a23596/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/NousResearch/status/2052904761087729897">https://x.com/NousResearch/status/2052904761087729897</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同</a> <code>#7</code></h2>
+<blockquote>
+<p>据报道，<strong>Anthropic</strong>与云服务商<strong>Akamai</strong>签署了价值<strong>十八亿美元</strong>、为期<strong>七年</strong>的<code>云基础设施</code>服务合同，以满足其日益增长的算力需求。受此大单提振，<strong>Akamai</strong>股价连续大涨。</p>
+</blockquote>
+<p>据知情人士透露，人工智能公司<strong>Anthropic</strong>已与云服务提供商<strong>Akamai Technologies</strong>签署一项总额<strong>18亿美元</strong>、为期<strong>七年</strong>的计算服务合同，旨在满足其<code>AI</code>软件日益增长的需求。</p>
+<p><strong>Akamai</strong>在本周四发布<strong>2026年</strong>第一季度财报时披露，一家“领先的前沿模型提供商”已向其<code>CIS</code>（云基础设施服务）承诺<strong>18亿美元</strong>为期<strong>七年</strong>的采购额，但未指名合作方。</p>
+<p>随后有媒体报道指该客户为<strong>Anthropic</strong>，而双方均未予置评。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai">https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">报道称字节跳动今年 AI 基建支出超两千亿</a> <code>#8</code></h2>
+<blockquote>
+<p>据报道，<strong>字节跳动</strong>今年<code>AI</code>基础设施支出将超<strong>2000亿元</strong>，较原计划至少增加<strong>25%</strong>，更多预算投向国产<code>AI</code>芯片。</p>
+</blockquote>
+<p>近日，据《<strong>南华早报</strong>》援引知情人士报道，字节跳动今年在 <code>AI 基础设施</code>方面的支出将超过<code>2000亿元</code>人民币。</p>
+<p>这一数字较去年底的<code>1600亿元</code>计划至少增加<code>25%</code>。增资原因包括<code>AI 投入</code>加大和存储芯片成本上涨。且更大比例的预算将分配给国产 <code>AI 芯片</code>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/85</guid><pubDate>Sun, 10 May 2026 00:44:21 +0000</pubDate></item><item><title>2026-05-09</title><link>https://imjuya.github.io/juya-ai-daily/issue-84/</link><description>AI 早报 2026-05-09 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 蚂蚁百灵发布 Ring-2.6-1T，OpenRouter 免费试用一周 ↗ #1 智谱发布 GLM-5V-Turbo 报告，开放Coding Plan用户申请使用 ↗ #2 商汤科技推出SenseNova 6.7 Flash-Lite ↗ #3 阶跃星辰发布 StepAudio 2.5 Realtime 实时语音大模型 ↗ #4 AI2 发布 EMO 模型，实现混合专家语义模块化 ↗ #5 千问团队开源 WebWorld 世界模型面向 Web Agent 训练 ↗ #6 开发生态 OpenClaw 发布 2026.5.7 版，强化权限与更新流程 ↗ #7 AWS 发布 Agent Toolkit for AWS 工具集…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260509/202605090859599503730ed9_cover_9c5e.png" alt=""></p>
 <h1>AI 早报 2026-05-09</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1KyRDBoE82">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=yupKGbhkRQo">YouTube</a></p>
 <h2>概览</h2>
@@ -2684,361 +2824,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/76</guid><pubDate>Fri, 01 May 2026 01:59:51 +0000</pubDate></item><item><title>2026-04-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-75/</link><description>AI 早报 2026-04-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 灰度测试识图模式，支持多模态理解 ↗ #1 谷歌 Gemini 上线新功能，正式支持对话直接生成多种格式文件 ↗ #2 模型发布 Mistral AI 发布 Mistral Medium 3.5 模型 ↗ #3 腾讯混元开源 Hy-MT1.5-1.8B 端侧翻译模型 ↗ #4 IBM 发布 Granite 4.1 系列开源模型 ↗ #5 蚂蚁百灵开源 Ling-2.6-1T 模型 ↗ #6 科大讯飞发布星火 X2-Flash，基于华为昇腾 910B 训练 ↗ #7 百度发布文心一言 5.1 预览版 ↗ #8 开发生态 Google AI Studio build 模式上线搜索与多会话功能 ↗ #9 Curso…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260430/20260430091442411207c0a9_cover_b133.png" alt=""></p>
-<h1>AI 早报 2026-04-30</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1RJ9bB6EWb">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ECfUeudr2kc">YouTube</a></p>
-<h2>概览</h2>
-<h3>要闻</h3>
-<ul>
-<li>DeepSeek 灰度测试识图模式，支持多模态理解 <a href="https://x.com/victor207755822/status/2049398502632067322">↗</a> <code>#1</code></li>
-<li>谷歌 Gemini 上线新功能，正式支持对话直接生成多种格式文件 <a href="https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/">↗</a> <code>#2</code></li>
-</ul>
-<h3>模型发布</h3>
-<ul>
-<li>Mistral AI 发布 Mistral Medium 3.5 模型 <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5">↗</a> <code>#3</code></li>
-<li>腾讯混元开源 Hy-MT1.5-1.8B 端侧翻译模型 <a href="https://modelscope.cn/collections/AngelSlim/Hy-MT15-18b-quant">↗</a> <code>#4</code></li>
-<li>IBM 发布 Granite 4.1 系列开源模型 <a href="https://research.ibm.com/blog/granite-4-1-ai-foundation-models">↗</a> <code>#5</code></li>
-<li>蚂蚁百灵开源 Ling-2.6-1T 模型 <a href="https://huggingface.co/inclusionAI/Ling-2.6-1T">↗</a> <code>#6</code></li>
-<li>科大讯飞发布星火 X2-Flash，基于华为昇腾 910B 训练 <a href="https://mp.weixin.qq.com/s?__biz=MzU5NzczMDI5OA==&amp;mid=2247520337&amp;idx=1&amp;sn=47be8f669f0deb9ed2e4a03eb65d1c1e&amp;chksm=ffc78660f842b5c5f2f7dfd0fc56d2c4adade662e984dec225e7a55c748492ea9f8fe2e44ac0#rd">↗</a> <code>#7</code></li>
-<li>百度发布文心一言 5.1 预览版 <a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-preview-0430-release-on-lmarena/">↗</a> <code>#8</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>Google AI Studio build 模式上线搜索与多会话功能 <a href="https://x.com/GoogleAIStudio/status/2049519191389073633">↗</a> <code>#9</code></li>
-<li>Cursor 发布 TypeScript SDK 公测 <a href="https://x.com/cursor_ai/status/2049499866217185492">↗</a> <code>#10</code></li>
-<li>OpenAI Codex 接入 Figma 与 Supabase，拟增强长任务能力 <a href="https://x.com/OpenAIDevs/status/2049605820351230158">↗</a> <code>#11</code></li>
-<li>Zed 团队发布 Zed 1.0 版 <a href="https://zed.dev/blog/zed-1-0">↗</a> <code>#12</code></li>
-<li>Hermes Agent 集成 ComfyUI 控制能力，支持工作流管理 <a href="https://x.com/NousResearch/status/2049584595465572752">↗</a> <code>#13</code></li>
-<li>Exa Labs 合作 Google，搜索集成至 Vertex 及 Gemini 企业版 <a href="https://exa.ai/blog/exa-google-cloud">↗</a> <code>#14</code></li>
-</ul>
-<h3>产品应用</h3>
-<ul>
-<li>ima 正式上线知识 Agent 模式，支持全平台及自定义模型接入 <a href="https://mp.weixin.qq.com/s/fxaw_xjIn5iyBXKSQtswDg">↗</a> <code>#15</code></li>
-<li>AWS 正式发布 Amazon Quick，定位为跨应用 AI 办公助理 <a href="https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant">↗</a> <code>#16</code></li>
-<li>ElevenLabs 发布 ElevenMusic 平台，支持创作者变现 <a href="https://x.com/ElevenLabs/status/2049493164902187301">↗</a> <code>#17</code></li>
-<li>xAI 于 Grok Web 推出 Imagine Agent 图像处理功能 <a href="https://x.com/techdevnotes/status/2049605616650408019">↗</a> <code>#18</code></li>
-</ul>
-<h3>技术与洞察</h3>
-<ul>
-<li>Anthropic 发布内省适配器，支持模型审计隐藏不对齐行为 <a href="https://alignment.anthropic.com/2026/introspection-adapters/">↗</a> <code>#19</code></li>
-<li>Qwen 团队开源 FlashQLA 优化 GDN 架构获 2 至 3 倍加速 <a href="https://qwen.ai/blog?id=flashqla">↗</a> <code>#20</code></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/victor207755822/status/2049398502632067322">DeepSeek 灰度测试识图模式，支持多模态理解</a> <code>#1</code></h2>
-<blockquote>
-<p><strong>DeepSeek</strong>正在灰度测试全新的“识图模式”，该功能具备多模态图像理解能力。</p>
-<p>现已作为独立入口向部分用户开放体验。</p>
-</blockquote>
-<p><strong>DeepSeek</strong>正在灰度测试一项全新的“识图模式”，该模式并非简单的 <code>OCR</code> 文字识别，而是具备多模态理解能力。</p>
-<p>允许用户通过上传图片进行深度的图像分析与描述。</p>
-<p>该功能与此前的“快速模式”和“专家模式”并列，作为一个独立入口呈现。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260429/20260429195419_c36ca6eb95.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260430/20260430090409_b49a892f77.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/victor207755822/status/2049398502632067322">https://x.com/victor207755822/status/2049398502632067322</a></li>
-</ul>
-<hr>
-<h2><a href="https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/">谷歌 Gemini 上线新功能，正式支持对话直接生成多种格式文件</a> <code>#2</code></h2>
-<blockquote>
-<p><strong>Gemini</strong>宣布正式上线了全新的文件生成功能。用户现在只需在聊天界面输入一句话，就能直接生成并下载 <code>PDF</code>、<code>Word</code> 或 <code>Excel</code> 等多种格式的完整文件。全程无需手动排版或复制粘贴。</p>
-</blockquote>
-<p><strong>Google Gemini</strong> 正式上线了一项新功能，用户可直接在聊天界面中通过简单的一句话提示，即时生成 <strong>Google Workspace</strong> 文件（<code>Docs</code>、<code>Sheets</code>、<code>Slides</code>）、<code>PDF</code>（<code>.pdf</code>）、<strong>Microsoft Word</strong>（<code>.docx</code>）、<strong>Microsoft Excel</strong>（<code>.xlsx</code>）、<code>CSV</code>（<code>.csv</code>）、<code>LaTeX</code>、纯文本（<code>TXT</code>）、富文本格式（<code>RTF</code>）及 <code>Markdown</code>（<code>MD</code>）。</p>
-<p>无需复制粘贴或手动排版。该功能现已面向全球所有 <code>Gemini</code> 应用用户开放，用户可以直接下载文件到设备，或导出至 <strong>Google Drive</strong>。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/fcabaf94-6471-4f68-aaef-a5f57de18b03/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/">https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/</a></li>
-</ul>
-<hr>
-<h2><a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5">Mistral AI 发布 Mistral Medium 3.5 模型</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>Mistral AI</strong> 发布了 <strong>Mistral Medium 3.5</strong> 模型，官方称该模型具备顶尖的推理与编码能力。</p>
-<p>同时，还推出了 <code>Vibe</code> 云端远程编码 Agent 以及 <code>Le Chat</code> 的 Work 模式。</p>
-</blockquote>
-<p><strong>Mistral AI</strong> 发布了其首个旗舰融合模型 <code>Mistral Medium 3.5</code>。</p>
-<p><code>Mistral Medium 3.5</code> 是一个参数规模达 <strong>128B</strong> 的稠密模型，具备 <strong>256k</strong> 上下文窗口。它将指令遵循、推理和编码能力统一到单一权重中，其 <code>SWE-Bench Verified</code> 得分达到 <strong>77.6%</strong>，<code>τ³-Telecom</code> 得分 <strong>91.4%</strong>。</p>
-<p>该模型以 <code>Modified MIT</code> 许可证开放权重，可通过 <strong>Hugging Face</strong> 获取。同时提供 API 服务，定价为每百万输入 tokens <strong>1.5</strong> 美元、输出 tokens <strong>7.5</strong> 美元。</p>
-<p>基于此模型，<strong>Mistral Vibe</strong> 推出了云端的异步远程 Agent。它允许开发者从 CLI 或 <strong>Le Chat</strong> 中启动可并行运行、独立于本地终端的长期编程任务。</p>
-<p>此外，<strong>Le Chat</strong> 还推出了处于预览阶段的 Work 模式。作为一个强大的 Agent 模式，它能自动调用多种工具，处理和完成跨邮件、日历、文档等多步复杂工作流。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/43f74805-4cd6-4a7e-b8e4-22e3f0d7a3cc/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/43f74805-4cd6-4a7e-b8e4-22e3f0d7a3cc/m002.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5">https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</a></li>
-<li><a href="https://huggingface.co/mistralai/Mistral-Medium-3.5-128B">https://huggingface.co/mistralai/Mistral-Medium-3.5-128B</a></li>
-</ul>
-<hr>
-<h2><a href="https://modelscope.cn/collections/AngelSlim/Hy-MT15-18b-quant">腾讯混元开源 Hy-MT1.5-1.8B 端侧翻译模型</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>腾讯混元团队</strong>开源了专为手机端打造的翻译模型<code>Hy-MT1.5-1.8B</code>。</p>
-<p>只需不到 <strong>600兆</strong> 的存储空间即可在离线环境下流畅运行，支持 <strong>三十多种</strong> 语言。</p>
-<p>官方同步推出了安卓端完全离线演示应用。</p>
-</blockquote>
-<p><strong>腾讯混元</strong>团队近日开源了手机端离线翻译模型 <code>Hy-MT1.5-1.8B-1.25bit</code>。该模型基于混元翻译大模型 <code>Hy-MT1.5</code> 打造，仅需 <strong>440MB</strong>（1.25-bit 版本）或 <strong>574MB</strong>（2-bit 版本）的存储空间，即可在本地无网络环境下运行。</p>
-<p>它支持 <strong>33</strong> 种语言、<strong>5</strong> 种方言及 <strong>1056</strong> 个翻译方向。据官方称，其翻译质量在评测中超越了谷歌翻译和百度翻译等主流系统。</p>
-<p>该模型通过 <code>Sherry</code> 稀疏高效三值量化（已被 <code>ACL 2026</code> 录用）和 <code>SEQ</code> 拉伸弹性量化技术实现极致压缩。其中 2-bit 版本在支持 <code>Arm SME2</code> 的设备上推理速度更快。</p>
-<p><strong>腾讯混元</strong>同时发布了适配安卓的 Demo 应用，支持后台取词模式，实现完全离线、零隐私泄露的翻译体验。所有模型权重、代码及技术报告均已开源，未来将支持 iOS 平台。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/675d2f24-05e0-42dd-8666-ba9acb6b519b/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://modelscope.cn/collections/AngelSlim/Hy-MT15-18b-quant">https://modelscope.cn/collections/AngelSlim/Hy-MT15-18b-quant</a></li>
-</ul>
-<hr>
-<h2><a href="https://research.ibm.com/blog/granite-4-1-ai-foundation-models">IBM 发布 Granite 4.1 系列开源模型</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>IBM</strong> 发布了采用 <strong>Apache 2.0</strong> 开源许可的 <code>Granite 4.1</code> 系列模型。</p>
-<p>全系列涵盖了多种参数规模的语言模型。</p>
-<p>此外，该系列还包括视觉、语音、安全检测和文本嵌入等专用模型。</p>
-</blockquote>
-<p><strong>IBM Research</strong> 发布了 <strong>Granite 4.1</strong> 系列模型，涵盖 <strong>3B</strong>、<strong>8B</strong> 和 <strong>30B</strong> 参数量级的密集解码器语言模型（含基础版与指令微调版）。</p>
-<p>该系列还包括 <strong>Granite Vision 4.1</strong>、<code>Granite Speech 4.1</code>、<code>Granite Guardian 4.1</code> 以及 <code>Granite Embedding Multilingual R2</code> 等多模态与专用模型。</p>
-<p>全系列采用 <strong>Apache 2.0</strong> 开源许可，已上架 <strong>Hugging Face</strong>、<strong>watsonx</strong> 等平台。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260430/20260430083038_432618c333.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://research.ibm.com/blog/granite-4-1-ai-foundation-models">https://research.ibm.com/blog/granite-4-1-ai-foundation-models</a></li>
-<li><a href="https://huggingface.co/collections/ibm-granite/granite-41-language-models">https://huggingface.co/collections/ibm-granite/granite-41-language-models</a></li>
-<li><a href="https://github.com/ibm-granite/granite-4.1-language-models">https://github.com/ibm-granite/granite-4.1-language-models</a></li>
-</ul>
-<hr>
-<h2><a href="https://huggingface.co/inclusionAI/Ling-2.6-1T">蚂蚁百灵开源 Ling-2.6-1T 模型</a> <code>#6</code></h2>
-<blockquote>
-<p><strong>蚂蚁百灵团队</strong>宣布开源此前发布的模型 <code>Ling-2.6-1T</code>。</p>
-<p>目前该模型已在 <strong>Hugging Face</strong> 和 <strong>ModelScope</strong> 平台正式上线开源。</p>
-<p>此外，在 <strong>OpenRouter</strong> 上还将提供延长 <strong>一周</strong> 的免费调用服务。</p>
-</blockquote>
-<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>宣布开源<strong>Ling</strong>系列新旗舰模型**<code>Ling-2.6-1T</code>**。</p>
-<p>该模型总参数量达<strong>1T</strong>，活跃参数<strong>63B</strong>，专为真实复杂场景下的推理、代码生成与 Agent 工作流而设计。</p>
-<p>它采用**<code>MLA</code>**与线性注意力混合架构以降低长上下文推理延迟，并通过后训练中的“Fast Thinking"机制压缩 token 开销。</p>
-<p>在**<code>AIME26</code><strong>、</strong><code>SWE-bench Verified</code>**等执行密集型基准上据官方称达到开源 SOTA。</p>
-<p><strong><code>Ling-2.6-1T</code><strong>被设计为生产就绪，可与</strong><code>Claude Code</code></strong>、**<code>OpenClaw</code>**等主流 Agent 框架无缝集成。</p>
-<p>目前已在<strong>Hugging Face</strong>和<strong>ModelScope</strong>开源。</p>
-<p>开发者可通过<strong>OpenRouter</strong>（与<strong>Novita AI</strong>合作延长免费 API 访问一周）及<strong>Zenmux.ai</strong>等渠道调用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/c4a3f032-aef1-47a9-bed7-209f50eda952/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://huggingface.co/inclusionAI/Ling-2.6-1T">https://huggingface.co/inclusionAI/Ling-2.6-1T</a></li>
-<li><a href="https://openrouter.ai/inclusionai/ling-2.6-1t:free">https://openrouter.ai/inclusionai/ling-2.6-1t:free</a></li>
-</ul>
-<hr>
-<h2><a href="https://mp.weixin.qq.com/s?__biz=MzU5NzczMDI5OA==&amp;mid=2247520337&amp;idx=1&amp;sn=47be8f669f0deb9ed2e4a03eb65d1c1e&amp;chksm=ffc78660f842b5c5f2f7dfd0fc56d2c4adade662e984dec225e7a55c748492ea9f8fe2e44ac0#rd">科大讯飞发布星火 X2-Flash，基于华为昇腾 910B 训练</a> <code>#7</code></h2>
-<blockquote>
-<p><strong>科大讯飞</strong>正式发布了<code>星火X2-Flash</code>模型，并同步开放 API 接口。</p>
-<p>这款模型总参数量为 <strong>30B</strong>，完全基于<strong>华为昇腾910B</strong>集群训练，重点提升了智能体与代码能力。</p>
-</blockquote>
-<p>科大讯飞正式发布<strong>星火X2-Flash</strong>模型，同步开放API接口。该模型采用<code>MoE</code>架构，总参数量为<strong>30B</strong>，最大支持<strong>256K</strong>上下文，完全基于华为昇腾910B集群训练，在智能体与代码能力上实现大幅提升。</p>
-<p>目前，<strong>AstronClaw</strong>、<strong>Loomy</strong>已率先接入。该模型同时深度兼容<code>OpenClaw</code>、<code>Claude Code</code>等主流Agent框架。开发者可通过讯飞星辰Coding Plan或讯飞开放平台、星辰MaaS平台进行体验与API调用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260429/20260429203137_53f0449064.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU5NzczMDI5OA==&amp;mid=2247520337&amp;idx=1&amp;sn=47be8f669f0deb9ed2e4a03eb65d1c1e&amp;chksm=ffc78660f842b5c5f2f7dfd0fc56d2c4adade662e984dec225e7a55c748492ea9f8fe2e44ac0#rd">https://mp.weixin.qq.com/s?__biz=MzU5NzczMDI5OA==&amp;mid=2247520337&amp;idx=1&amp;sn=47be8f669f0deb9ed2e4a03eb65d1c1e&amp;chksm=ffc78660f842b5c5f2f7dfd0fc56d2c4adade662e984dec225e7a55c748492ea9f8fe2e44ac0#rd</a></li>
-</ul>
-<hr>
-<h2><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-preview-0430-release-on-lmarena/">百度发布文心一言 5.1 预览版</a> <code>#8</code></h2>
-<blockquote>
-<p><strong>百度</strong>宣布文心大模型<code>ERNIE-5.1-Preview</code>现已上线。</p>
-<p>它在大模型竞技场<code>LMArena</code>文本榜拿下国内第一、全球第十三的成绩。</p>
-<p>目前可在<strong>文心一言</strong>官网体验。</p>
-</blockquote>
-<p><strong>文心大模型</strong> <code>ERNIE-5.1-Preview</code> 已于近期上线，并在大模型竞技场 <strong>LMArena</strong> 最新公布的文本榜排名中位列全球第 13、国内第 1。</p>
-<p><code>ERNIE-5.1-Preview</code> 基于 <strong>文心 5.0</strong> 预训练基础，通过将总参数压缩至约三分之一、激活参数压缩至约二分之一，以业界同规模模型约 6% 的预训练成本实现了同级别领先的基础效果。</p>
-<p>该模型采用了分离式全异步强化学习技术和规模化智能体后训练技术。</p>
-<p>用户可通过 <strong>文心一言</strong>官网（ernie.baidu.com）体验。官方表示，更多新模型正在规划中。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/68188a21-9cff-4227-b876-745d84212a1e/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-preview-0430-release-on-lmarena/">https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-preview-0430-release-on-lmarena/</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/GoogleAIStudio/status/2049519191389073633">Google AI Studio build 模式上线搜索与多会话功能</a> <code>#9</code></h2>
-<blockquote>
-<p><strong>Google AI Studio</strong> 为 <strong>build</strong> 模式推出了两项新功能。</p>
-<p>现在可以通过新增的 <code>web search</code> 实时联网获取最新文档，还能利用 <code>multi-chat</code> 在不同想法的独立会话间自由切换。</p>
-</blockquote>
-<p><strong>Google AI Studio</strong> 近日在 <strong>build</strong> 模式中推出了两项针对 <code>coding Agent</code> 的更新：<code>web search</code> 与 <code>multi-chat</code>。</p>
-<p><code>coding Agent</code> 现在能够实时从网络拉取信息，将响应 <code>grounded</code> 在最新的 API 文档中。</p>
-<p><code>multi-chat</code> 则允许用户为每个新想法开启一个独立会话，并随时在多个会话之间切换。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260430/20260430082746_29d9515d3b.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/GoogleAIStudio/status/2049519191389073633">https://x.com/GoogleAIStudio/status/2049519191389073633</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/cursor_ai/status/2049499866217185492">Cursor 发布 TypeScript SDK 公测</a> <code>#10</code></h2>
-<blockquote>
-<p><strong>Cursor</strong> 正式推出了官方 <strong><code>TypeScript SDK</code></strong> 公测版。</p>
-<p>开发者现在可以通过它将 <strong>Cursor</strong> 强大的 <strong><code>Agent</code></strong> 运行时直接集成到自己的应用中，支持在本地或云端专属沙箱运行任务。</p>
-</blockquote>
-<p><strong>Cursor</strong> 正式发布 <strong>TypeScript SDK</strong> 公测版，开发者可集成其 <code>Agent</code> 运行时与框架。该 SDK 支持 <code>Agent</code> 在本地或云端专用沙箱虚拟机运行，确保任务在设备休眠或断网时继续执行。</p>
-<p>其开放代码库索引、语义搜索、<code>MCP 服务器</code> 及子 <code>Agent</code> 等功能，支持切换 <code>OpenAI</code>、<code>Anthropic</code> 及 <strong>Cursor Composer 2</strong> 等模型，计费基于 token 用量。<strong>官方</strong>已开源示例项目。</p>
-<p>据<strong>官方</strong>披露，<strong>Rippling</strong>、<strong>Notion</strong> 等公司已使用该 SDK 构建自定义后台 <code>Agent</code> 或维护自愈代码库。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/1309dce6-17e3-4c9e-beea-ca69e5753090/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/cursor_ai/status/2049499866217185492">https://x.com/cursor_ai/status/2049499866217185492</a></li>
-<li><a href="https://github.com/cursor/cookbook">https://github.com/cursor/cookbook</a></li>
-<li><a href="https://cursor.com/docs/sdk/typescript">https://cursor.com/docs/sdk/typescript</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/OpenAIDevs/status/2049605820351230158">OpenAI Codex 接入 Figma 与 Supabase，拟增强长任务能力</a> <code>#11</code></h2>
-<blockquote>
-<p><strong>OpenAI</strong>的<code>Codex</code>迎来多项重要更新，现已正式接入<strong>Figma</strong>的<code>FigJam</code>与<strong>Supabase</strong>，能将实施计划转为可视化看板并跨数据库执行任务。</p>
-<p>同时，<strong>OpenAI</strong>准备发布新变更来优化<code>Codex</code>的长周期运行能力。</p>
-</blockquote>
-<p>近日，<strong>OpenAI</strong> 的 <code>Codex</code> 迎来多项重要更新，涵盖集成扩展与长期任务能力提升。</p>
-<p><strong>Figma</strong> 为其 <code>FigJam</code> 产品发布了 <code>MCP</code> 更新，新增 <code>generate_diagram</code> 工具用于创建架构图与 ERD，以及 <code>figma-use-figjam skill</code> 和 <code>get_figjam</code> 工具。这使得 <code>Codex</code> 能够将实现计划直观地转换为 <code>FigJam</code> 看板，并直接在看板中添加笔记、代码块和注释。</p>
-<p>同时，<strong>Supabase</strong> 现已正式接入 <code>Codex</code>，用户连接项目后，<code>Codex</code> 可跨数据库、认证、存储和边缘函数进行工作。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/65b16913-01e5-40b9-9139-ab32a72e8106/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/OpenAIDevs/status/2049605820351230158">https://x.com/OpenAIDevs/status/2049605820351230158</a></li>
-<li><a href="https://x.com/OpenAIDevs/status/2049581165221486897">https://x.com/OpenAIDevs/status/2049581165221486897</a></li>
-</ul>
-<hr>
-<h2><a href="https://zed.dev/blog/zed-1-0">Zed 团队发布 Zed 1.0 版</a> <code>#12</code></h2>
-<blockquote>
-<p><strong>Zed</strong>团队正式发布了代码编辑器<strong>Zed</strong>的<strong>1.0</strong>版本。</p>
-<p>这款由<strong>Atom</strong>创始人打造的编辑器现已支持三大操作系统。</p>
-<p>它集成了<strong>Git</strong>和<code>SSH</code>等完整开发功能，原生支持多种AI助手协同工作。</p>
-</blockquote>
-<p><strong>Zed</strong> 团队近日正式宣布代码编辑器 <strong>Zed</strong> 推出 <code>1.0</code> 版本。</p>
-<p>该编辑器由 <strong>Atom</strong> 创始人重新构思，采用自研的 <code>Rust</code> 框架 <code>GPUI</code> 并基于 GPU 渲染。</p>
-<p>现已支持 macOS、Windows、Linux 三大平台。</p>
-<p><code>1.0</code> 版本涵盖了 Git 集成、SSH 远程开发、调试器、彩虹括号等开发者所需的完整功能。</p>
-<p>其 AI 原生架构支持多个 Agent 并行运行、基于按键粒度的编辑预测。</p>
-<p>并通过 <code>Agent Client Protocol</code> 接入 <strong>Claude Agent</strong>、<strong>Codex</strong>、<strong>OpenCode</strong>、<strong>Cursor</strong> 等多种 AI 助手。</p>
-<p>团队同步推出 <strong>Zed for Business</strong> 企业版，提供集中计费、基于角色的访问控制与团队管理功能。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/2cca16c4-51a3-49c3-bf21-289244932d5b/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://zed.dev/blog/zed-1-0">https://zed.dev/blog/zed-1-0</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/NousResearch/status/2049584595465572752">Hermes Agent 集成 ComfyUI 控制能力，支持工作流管理</a> <code>#13</code></h2>
-<blockquote>
-<p><strong>Nous Research</strong> 宣布 <strong>Hermes Agent</strong> 现已原生集成对 <code>ComfyUI</code> 的控制能力。</p>
-<p>用户只需运行更新命令，就能直接在本地或云端轻松管理和运行复杂的 <code>ComfyUI</code> 工作流。</p>
-</blockquote>
-<p><strong>Hermes Agent</strong> 现已集成对 <code>ComfyUI</code> 的原生控制能力，用户可通过内置技能轻松管理本地和云端工作流。</p>
-<p>该功能由 <strong>Nous Research</strong> 发布，官方声明称 <strong>Hermes Agent</strong> 现在可以按需安装、启动、管理并运行复杂的 <code>ComfyUI</code> 工作流。</p>
-<p>用户只需执行 <code>hermes update</code> 命令，随后运行 <code>/comfyui</code> 即可开始使用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/823e1957-3136-43c4-b617-4a8af81eb7a2/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/NousResearch/status/2049584595465572752">https://x.com/NousResearch/status/2049584595465572752</a></li>
-</ul>
-<hr>
-<h2><a href="https://exa.ai/blog/exa-google-cloud">Exa Labs 合作 Google，搜索集成至 Vertex 及 Gemini 企业版</a> <code>#14</code></h2>
-<blockquote>
-<p><strong>Exa Labs</strong>与<strong>谷歌</strong>达成合作，将其AI搜索引擎接入<strong>谷歌云</strong>生态。</p>
-<p><strong>Exa</strong>现已通过<code>Vertex AI</code>的<code>Grounding</code>功能为<code>Gemini</code>模型提供实时搜索结果。</p>
-</blockquote>
-<p><strong>Exa Labs</strong>与<strong>Google</strong>达成合作，将该公司的AI搜索引擎以两种方式集成至<strong>Google Cloud</strong>生态。</p>
-<p>据<strong>Exa Labs</strong>官方博客，<code>Exa Web Search</code>现已通过<code>Vertex AI</code>的<code>Grounding</code>功能进入私人预览。作为<code>grounding source</code>，它提供实时搜索结果以锚定<code>Gemini</code>模型的回答。</p>
-<p>此外，<strong>Exa</strong>还作为首发合作伙伴，将其Agent上线至<code>Gemini Enterprise</code>的<code>Agent Marketplace</code>。企业用户可直接在工作空间内调用该Agent执行网页研究、查找相似页面或提取URL内容，无需额外编码或采购流程。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/7817ceab-d79e-4663-8971-2f674902c325/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://exa.ai/blog/exa-google-cloud">https://exa.ai/blog/exa-google-cloud</a></li>
-</ul>
-<hr>
-<h2><a href="https://mp.weixin.qq.com/s/fxaw_xjIn5iyBXKSQtswDg">ima 正式上线知识 Agent 模式，支持全平台及自定义模型接入</a> <code>#15</code></h2>
-<blockquote>
-<p><strong>ima.copilot</strong>正式上线了知识 Agent 模式 <strong>copilot</strong>，目前用户可在全平台申请创建自己的专属 Agent。</p>
-<p>同时，<strong>ima</strong>正式允许用户自行接入各类模型的 API KEY。</p>
-</blockquote>
-<p><strong>ima.copilot</strong> 正式上线知识 <strong>Agent</strong> 模式 <strong>copilot</strong>。该功能支持全平台创建专属 <strong>Agent</strong>，当前采取申请制。</p>
-<p>该功能定位为统一入口式个人知识伙伴，内置自主进化记忆系统，含设定、档案、记忆及技巧模块。</p>
-<p>其具备全场景感知能力，以浮窗形式伴随应用内操作，无需额外上传即可基于当前内容响应。</p>
-<p>技能生态方面，除内置官方 <code>Skills</code> 外，支持通过 <code>Skillhub</code> 或自行上传扩展。</p>
-<p>模型层面，正式允许用户自行接入各大模型的 <code>API KEY</code>，相关消耗由用户自行承担。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/ea61beed-ba5a-44c5-abc8-0e4aaa73797d/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/fxaw_xjIn5iyBXKSQtswDg">https://mp.weixin.qq.com/s/fxaw_xjIn5iyBXKSQtswDg</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant">AWS 正式发布 Amazon Quick，定位为跨应用 AI 办公助理</a> <code>#16</code></h2>
-<blockquote>
-<p><strong>AWS</strong> 发布了 <strong>Amazon Quick</strong> 桌面应用，这是一款跨应用的 <code>AI</code> 办公助理。</p>
-<p>它能连接本地文件、日历邮件及各类第三方工具。</p>
-<p>通过长期记忆和主动提醒功能帮用户高效办公。</p>
-</blockquote>
-<p><strong>Amazon Quick</strong> 桌面应用正式发布，定位为跨应用 <strong>AI</strong> 办公助理。</p>
-<p>其具备长期记忆功能，能索引文档构建知识图谱，跨会话保持记忆。</p>
-<p>其采取主动式工作模式，后台监控动态并主动推送待办与预警。</p>
-<p>用户可用自然语言创建应用及生成文档，支持 <strong>Microsoft 365</strong> 预览及 <strong>Google Workspace</strong> 等集成。</p>
-<p>现已开放注册，提供免费与 <strong>Plus</strong> 方案，仅需邮箱使用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/484a6ef7-5fc0-4252-b0b0-b31697ed78d0/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant">https://www.aboutamazon.com/news/aws/amazon-quick-desktop-ai-assistant</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/ElevenLabs/status/2049493164902187301">ElevenLabs 发布 ElevenMusic 平台，支持创作者变现</a> <code>#17</code></h2>
-<blockquote>
-<p><strong>ElevenLabs</strong>宣布发布<strong>ElevenMusic</strong>平台，用户可以通过这个平台使用 AI 创作或者混音音乐作品。</p>
-<p>用户还能通过发布作品来获得收入。</p>
-</blockquote>
-<p><strong>ElevenLabs</strong> 于今日发布 <strong>ElevenMusic</strong> 平台，这是一个基于其自有音乐生成模型的全新平台，支持音乐发现、混音、创作与变现，现已上线 Web 端和 iOS 应用。</p>
-<p>该平台已汇聚超过 <code>4000</code> 位独立与新兴艺术家。用户可通过探索超过 <code>4000</code> 首曲目、进行流派与节奏的混音改编，或从歌词、旋律、情绪等起点借助 AI 创作完整作品。</p>
-<p><strong>ElevenLabs</strong> 表示，创作者可通过发布原创曲目和混音获得收入。此前其语音库已向创作者支付超过 <code>1100</code> 万美元。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/a287ad18-b83a-48a9-987d-2e7d8eb6d94c/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/ElevenLabs/status/2049493164902187301">https://x.com/ElevenLabs/status/2049493164902187301</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/techdevnotes/status/2049605616650408019">xAI 于 Grok Web 推出 Imagine Agent 图像处理功能</a> <code>#18</code></h2>
-<blockquote>
-<p>据用户发现，<strong>xAI</strong> 在 <strong>Grok</strong> 网页端推出了 <code>Imagine Agent Mode</code>，提供快速动画、群组图片和裁剪等多项图像处理功能。</p>
-</blockquote>
-<p>近日，据 <strong>X 平台</strong>账号 <strong>Tech Dev Notes</strong>披露，<strong>xAI</strong>已在 <strong>Grok Web</strong>端上线<code>Imagine Agent Mode</code>。</p>
-<p>该模式集成 <code>Quick Animate</code>、<code>Group Images</code>及<code>Crop</code>等多项图像处理功能。</p>
-<p>相关截图显示，用户可直接在界面内调用上述能力。</p>
-<p>目前，该功能仅限 <strong>Grok Web</strong>端使用，具体范围及用法尚待官方进一步说明。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/86c308e8-76b0-422e-9090-1ad2f50f2c91/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/techdevnotes/status/2049605616650408019">https://x.com/techdevnotes/status/2049605616650408019</a></li>
-</ul>
-<hr>
-<h2><a href="https://alignment.anthropic.com/2026/introspection-adapters/">Anthropic 发布内省适配器，支持模型审计隐藏不对齐行为</a> <code>#19</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong> 发布最新研究，推出了一款名为 <strong>内省适配器</strong> 的工具。</p>
-<p>它能引导语言模型主动报告在训练中学会的隐藏不良行为。</p>
-<p>并在针对安全后门等隐蔽威胁的检测测试中表现优异。</p>
-<p>为 <strong>人工智能</strong> 的安全对齐审计提供了全新手段。</p>
-</blockquote>
-<p><strong>Anthropic</strong>在最新发布的研究中推出了<code>Introspection Adapter（IA）</code>，这是一种能使语言模型自主报告其在训练过程中学习到的行为（包括潜在的不对齐、后门与安全机制移除）的适配器。</p>
-<p>该研究同时发布了<code>AuditBench</code>基准，包含 <strong>56</strong> 个对抗性训练的隐藏不良行为模型，<code>IA</code>在其中取得了 <strong>59%</strong> 的 Agent 成功率，优于次优方法（<strong>53%</strong>）和最佳白盒方法（<strong>44%</strong>），且在 <strong>89%</strong> 的模型上至少产生一条正确行为描述。</p>
-<p><code>IA</code>还能检测隐蔽的微调 API 攻击（<strong>7/9</strong>模型）、揭示奖励模型谄媚的具体行为（<strong>52</strong>个中的<strong>16</strong>个，未修改模型仅承认<strong>2</strong>个），并为 <strong>UKAISI</strong> 的 sandbagging 模型提供此前不存在的初步信号。</p>
-<p>研究发现 <code>IA</code>随模型规模扩大表现提升（<strong>Qwen3 0.6B→4B→14B</strong>口头化率从<strong>38%→60%→77%</strong>），训练多样性增加与 DPO 步骤进一步改善性能，且该适配器可跨微调变体复用，为对齐审计提供了一种“在测试集上训练”的可能。</p>
-<p>论文、博客、模型与数据集及代码均已公开。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/de68c84a-8222-42a0-8129-68c6b14cbf44/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://alignment.anthropic.com/2026/introspection-adapters/">https://alignment.anthropic.com/2026/introspection-adapters/</a></li>
-<li><a href="https://arxiv.org/abs/2604.16812">https://arxiv.org/abs/2604.16812</a></li>
-<li><a href="https://huggingface.co/introspection-auditing/">https://huggingface.co/introspection-auditing/</a></li>
-</ul>
-<hr>
-<h2><a href="https://qwen.ai/blog?id=flashqla">Qwen 团队开源 FlashQLA 优化 GDN 架构获 2 至 3 倍加速</a> <code>#20</code></h2>
-<blockquote>
-<p><strong>Qwen</strong>团队正式开源了高性能线性注意力算子库 <code>FlashQLA</code>，该算子库在 <code>NVIDIA Hopper</code> 架构上实现了 <strong>2至3倍</strong> 的前向加速与 <strong>2倍</strong> 的反向加速。</p>
-<p>这一性能突破大幅提升了大模型预训练与端侧 Agent 推理的运行效率，为相关领域的计算优化提供了新的强力支持。</p>
-</blockquote>
-<p><strong>Qwen</strong> 团队正式开源 <strong>FlashQLA</strong>，这是一个基于 <code>TileLang</code> 构建的高性能线性注意力算子库。该库专为 <code>Gated Delta Network (GDN)</code> 的 <code>Chunked Prefill</code> 流程设计。</p>
-<p>在 <code>NVIDIA Hopper</code> 架构上，该项目实现了相较于 <code>FLA Triton Kernel</code> <strong>2 至 3 倍</strong>的前向加速与 <strong>2 倍</strong>的反向加速。这一技术在预训练及端侧 Agent 推理场景下效率提升尤为显著。</p>
-<p><strong>FlashQLA</strong> 采用了三项核心设计：首先，利用 GDN gate 的指数衰减性质实现门控驱动的自动化卡内序列并行（<code>AutoCP</code>），以提升小头数或 TP 场景下的 GPU SM 利用率；其次，对前反向流程进行硬件友好的代数改写以降低各类核心开销；最后，基于 <code>TileLang</code> 构建融合的 warp-specialized 内核，通过手动 warpgroup specialization 实现数据搬运与计算的重叠。</p>
-<p>此外，在反向传播中，其基于极紧张的片上内存构建了 <strong>16 级</strong> warp-specialized 流水线。代码已基于 <strong>MIT 协议</strong> 在 <strong>GitHub</strong> 开源。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b133019c-3bcf-4632-bb30-6c6eccf7c575/88d23e47-cf10-436c-9c78-ab30c80cc229/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://qwen.ai/blog?id=flashqla">https://qwen.ai/blog?id=flashqla</a></li>
-<li><a href="https://github.com/QwenLM/FlashQLA">https://github.com/QwenLM/FlashQLA</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/75</guid><pubDate>Thu, 30 Apr 2026 01:26:22 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/76</guid><pubDate>Fri, 01 May 2026 01:59:51 +0000</pubDate></item></channel></rss>
