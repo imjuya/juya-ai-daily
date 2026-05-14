@@ -1,0 +1,337 @@
+# [2026-05-14](https://github.com/imjuya/juya-ai-daily/issues/89)
+
+![](http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260514/202605140903268088475bad_cover_fbfb.png)
+
+# AI 早报 2026-05-14
+
+**视频版**：[哔哩哔哩](https://www.bilibili.com/video/BV1415S6dEKU) ｜ [YouTube](https://www.youtube.com/watch?v=Jb2wk5lYw3Q)
+
+## 概览
+### 要闻
+- Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 [↗](https://x.com/ClaudeDevs/status/2054639777685934564) `#1`
+### 模型发布
+- 小米开源 OneVL 自动驾驶框架 [↗](https://github.com/xiaomi-research/onevl) `#2`
+### 开发生态
+- MiniMax 合并订阅套餐，上线 Agent Teams 功能 [↗](https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A) `#3`
+- OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 [↗](https://openai.com/form/codex-enterprise-promo/) `#4`
+- 支付宝联合扣子编程上线商家入驻与支付集成 Skill [↗](https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw) `#5`
+### 产品应用
+- DeepSeek 专家模式现无法上传附件 页面提示资源紧张 `#6`
+- 腾讯宣布微信已支持将聊天记录一键转发至元宝 [↗](https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA) `#7`
+- Notion 开放 Agent 编排与自定义工具 [↗](https://www.notion.com/product/dev) `#8`
+- Runway 推出对话式视频生成工具 Runway Agent [↗](https://runwayml.com/news/introducing-runway-agent) `#9`
+- 百度发布智能体产品矩阵，李彦宏提出日活智能体数新指标 [↗](https://zhidx.com/p/557482.html) `#10`
+### 技术与洞察
+- OpenAI发文详解Codex在Windows上的专属沙箱构建方案 [↗](https://openai.com/index/building-codex-windows-sandbox/) `#11`
+- OpenAI发布财务团队使用Codex十大场景指南 [↗](https://openai.com/academy/how-finance-teams-use-codex/) `#12`
+- Anthropic 发布 Claude 模型 computer use 和 browser use 最佳实践 [↗](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude) `#13`
+- Claude Mythos 突破多项安全评估，日本三大银行将获防御性访问权限 [↗](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing) `#14`
+### 行业动态
+- 消息称 Anthropic 寻求超 9000 亿美元估值并拓展中小企业市场 [↗](https://ramp.com/data/ai-index) `#15`
+- 报道称前阿里千问负责人林俊旸创业，新公司估值据称约 20 亿美元 [↗](https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA) `#16`
+### 前瞻与传闻
+- Warp 计划向免费用户开放 BYOK 功能 [↗](https://github.com/warpdotdev/warp/issues/9288) `#17`
+- Meta 推出基于 Muse Spark 的 Incognito Chat 隐私对话功能 [↗](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/) `#18`
+
+---
+
+## [Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额](https://x.com/ClaudeDevs/status/2054639777685934564) `#1`
+> **Anthropic**宣布 **Claude Code** 每周限额即日起临时上调**50%**直至**7月13日**。同时，自**6月15日**起，**Claude**付费套餐的程序化调用将独立计算，改用**20**到**200美元**不等的专属月度credit，涵盖**Agent SDK**等工具，耗尽后需按API费率计费。
+
+**Anthropic**宣布**Claude Code**每周限额即日起临时上调 **50%** 至 **7 月 13**日。
+
+此外，自 **6 月 15**日起，**Claude**付费套餐的程序化调用将从交互式使用中分离。这一调整涵盖 `Agent SDK`、`claude -p`、`Claude Code GitHub Actions` 及第三方 `Agent SDK` 应用，改为使用独立的月度 **credit**。
+
+额度按套餐从 **20 美元** 到 **200 美元** 不等。**Credit**按月重置、不可结转、不可跨用户共享。耗尽后需开启 `extra usage` 按 **API** 费率继续计费，否则暂停至下周期重置。
+
+交互式 **Claude Code**、**Claude Cowork** 及网页/桌面/移动聊天的订阅限额不变。**API key** 用户不受影响。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/b656710b-c67f-468d-b594-8caac949db2d/m001.png)
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/b656710b-c67f-468d-b594-8caac949db2d/m002.png)
+
+相关链接：
+- [https://x.com/ClaudeDevs/status/2054639777685934564](https://x.com/ClaudeDevs/status/2054639777685934564)
+- [https://x.com/ClaudeDevs/status/2054610152817619388](https://x.com/ClaudeDevs/status/2054610152817619388)
+
+---
+
+## [小米开源 OneVL 自动驾驶框架](https://github.com/xiaomi-research/onevl) `#2`
+> **小米**具身智能团队开源自动驾驶 `VLA` 框架 `OneVL`。官方称，该模型通过双辅助解码器压缩推理，是首个在四个基准测试中准确率超越显式 `CoT` 的隐式 `CoT` 模型。
+
+**小米**具身智能团队发布了 **OneVL** 自动驾驶 `VLA` 框架，并已同步开源其技术报告、模型权重以及推理与训练代码。
+
+该框架在 `Qwen3-VL-4B-Instruct` 基础上引入了视觉和语言双重辅助解码器，用于在训练时监督隐式标记并预测未来帧与思维链文本。
+
+在推理阶段，这些辅助解码器会被丢弃，所有隐式标记在单次并行传递中预填充，从而实现与仅输出答案相当的极低延迟。
+
+官方表示，**OneVL** 在 `NAVSIM`、`ROADWork`、`Impromptu` 和 `APR1` 四个基准测试中均实现了领先的轨迹预测精度，成为首个在准确率上全面超越显式自回归 `CoT` 的隐式 `CoT` 方法。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514080403_9bd5339f46.png)
+
+相关链接：
+- [https://github.com/xiaomi-research/onevl](https://github.com/xiaomi-research/onevl)
+- [https://arxiv.org/abs/2604.18486](https://arxiv.org/abs/2604.18486)
+
+---
+
+## [MiniMax 合并订阅套餐，上线 Agent Teams 功能](https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A) `#3`
+> **MiniMax** 宣布将 **Agent** 升级为 **Mavis**，新增 **Agent Teams** 功能支持多 **Agent** 并行协作，并合并 **TokenPlan** 与 **Agent Plan** 实现统一订阅。
+
+**MiniMax** 官方宣布其 **Agent** 迎来整体升级并更名为 **Mavis**（**MiniMax as a Jarvis**），同时在桌面端正式上线 **Agent Teams** 功能，支持多个 **Agent** 组成团队并行协作以处理复杂任务。
+
+在新架构下，系统采用 **Owner**、**Worker** 和 **Verifier** 三类核心角色进行分工，通过对抗性的质量门禁和确定性的状态机管理，旨在解决单 **Agent** 在长任务中易中断、易跑偏或无法快速响应的问题。
+
+此外，**MiniMax** 将原有的 `TokenPlan` 和 `Agent Plan` 进行合并，单一订阅即可打通 **CLI**、**API** 和 **Agent**，涵盖全系模型且额度共享，原双计划用户将获赠一个月会员。
+
+目前该产品已提供桌面端下载。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/beb0b366-1faf-48b4-97b0-4c7e282b8497/m001.gif)
+
+相关链接：
+- [https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A](https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A)
+
+---
+
+## [OpenAI 推出 Codex 企业版限时促销，新用户免费用两月](https://openai.com/form/codex-enterprise-promo/) `#4`
+> **OpenAI** 面向企业推出限时促销，符合条件的企业在未来 **30** 天内接入，其纯新增用户可获得两个月的 `Codex` 免费使用权。
+
+**OpenAI** 宣布针对企业客户推出限时促销，鼓励更多团队在工作中使用其 AI 编程产品 **Codex**。
+
+**CEO** **Sam Altman** 官方发文称 `Codex` 是目前最好的 `AI` 编程产品。他表示，在未来 **30** 天内，希望尝试切换的企业可获得**两个月**的免费使用权限。该福利明确限定仅面向纯新增用户。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514083120_cb120bfe5f.png)
+
+相关链接：
+- [https://openai.com/form/codex-enterprise-promo/](https://openai.com/form/codex-enterprise-promo/)
+- [https://x.com/sama/status/2054626219858293128](https://x.com/sama/status/2054626219858293128)
+
+---
+
+## [支付宝联合扣子编程上线商家入驻与支付集成 Skill](https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw) `#5`
+> 支付宝联合**扣子**编程上线全新支付与商家入驻 **Skill**。开发者现可通过自然语言一站式开发应用、集成收款并完成商家入驻。
+
+**支付宝**联合 **AI** 开发平台**扣子编程**升级了商业化服务，上线「**支付宝商家入驻**」`Skill` 并升级了「**支付宝支付集成**」`Skill`。
+
+通过这两项能力，开发者可以通过自然语言对话，一站式完成从创建应用到集成**支付宝**支付，再到商家认证上线的全流程。
+
+目前，开发者已可在**扣子编程**技能列表中直接安装上述 `Skill` 进行调用。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/e62c8d28-3c87-4cee-9f93-e268e7b0c551/m001.png)
+
+相关链接：
+- [https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw](https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw)
+
+---
+
+## DeepSeek 专家模式现无法上传附件 页面提示资源紧张 `#6`
+> 有用户发现 **DeepSeek** 网页端与 App 端专家模式现已无法上传附件，页面提示资源紧张。据透露，此举或为限制反代违规行为。
+
+有用户发现，**DeepSeek** 网页端和 App 端的 `专家模式` 目前已不再支持用户上传附件。
+
+在相关操作界面中，系统会弹出关于“资源紧张”的提示信息。
+
+对于此次功能变动的原因，有用户透露，这可能是为了限制反向代理的违规调用行为。
+
+用户推测，由于上传文件后模型的上下文窗口会扩大至 **1M**，`大上下文机制` 容易导致资源消耗过大并增加被滥用的风险。
+
+---
+
+## [腾讯宣布微信已支持将聊天记录一键转发至元宝](https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA) `#7`
+> **腾讯**宣布**微信**已支持将聊天记录一键转发至**元宝**进行总结或构思回复，该功能以不保存记录的临时对话进行，需将相关应用升级至最新版。
+
+**腾讯**宣布**微信**已支持将最多**100**条聊天记录像文件一样一键转发至**元宝**，由其进行总结、构思回复或生成待办事项。
+
+该功能需将**微信**和**元宝**升级至最新版本。对话以临时方式进行，退出后不保存记录。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/8dd5aee6-df53-41bd-9a36-d7d69a208899/m001.png)
+
+相关链接：
+- [https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA](https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA)
+
+---
+
+## [Notion 开放 Agent 编排与自定义工具](https://www.notion.com/product/dev) `#8`
+> **Notion** 发布开发者平台，推出 `External Agents API` 让任意外部 Agent 可在 **Notion** 内协作、被编排与监控，并开放 `Workers` 运行时用于构建自定义工具。
+
+**Notion**近日正式发布开发者平台。其核心推出的`External Agents API`允许将`Claude`等任意外部`Agent`引入**Notion**，实现任务分配、执行监控与多`Agent`工作流编排。
+
+同时，平台开放 `Workers`运行时，支持构建自定义工具以同步外部数据或调用应用。配套的 Beta 版`CLI` 用于简化部署。
+
+`MCP`据官方称可降低最高 **91%**的 token 消耗。此外，**Notion**预告了 Alpha 阶段的 `Agent SDK`，未来支持将`Notion Agent`嵌入外部应用，现已开放候补注册。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/1a5117eb-6ad2-4001-87f5-f5dd016f3efc/m001.png)
+
+相关链接：
+- [https://www.notion.com/product/dev](https://www.notion.com/product/dev)
+- [https://developers.notion.com/reference/intro](https://developers.notion.com/reference/intro)
+
+---
+
+## [Runway 推出对话式视频生成工具 Runway Agent](https://runwayml.com/news/introducing-runway-agent) `#9`
+> **Runway** 正式推出 **Runway Agent**。用户仅需通过对话描述需求，该 `Agent` 即可生成包含多场景与配乐的高清视频成片，现已上线。
+
+**Runway** 官方宣布正式推出 **Runway Agent**，定位为通过单一对话将用户创意转化为可直接发布视频的 **Agent**。
+
+用户只需用自然语言描述需求并设置基础参数，该 **Agent** 便会提出概念与故事结构。经对话优化后，它能生成包含多场景、画外音、对话及音乐的高分辨率视频。随后，用户可在时间轴编辑器中进行最终微调。
+
+该工具专为品牌团队、营销人员、创意机构及各类影视制作人设计。其旨在以分钟级速度生成多镜头视频，满足营销物料、社交内容及影视前期概念开发等需求。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/1cb94183-16c7-4a2a-ac1e-275fbd73fb92/m001.png)
+
+相关链接：
+- [https://runwayml.com/news/introducing-runway-agent](https://runwayml.com/news/introducing-runway-agent)
+
+---
+
+## [百度发布智能体产品矩阵，李彦宏提出日活智能体数新指标](https://zhidx.com/p/557482.html) `#10`
+> **百度**集中发布`DuMate`、`秒哒 3.0`等智能体矩阵。**李彦宏**提出日活智能体数将取代 `Token`成新度量衡，官方称多款产品登顶基准测试。
+
+**百度**在**AI 开发者大会**上全面转向智能体（Agent），集中发布了包含通用智能体 `DuMate`、应用生成工具 `秒哒 3.0`、数字人智能体 `百度一镜`和决策智能体`百度伐谋 2.0` 在内的产品矩阵。
+
+**百度**创始人**李彦宏**提出，Token 仅代表成本与投入，`DAA`（日活智能体数）才是衡量 AI 时代生态繁荣的新度量衡。
+
+他并预判全球日活智能体数将超过 **100 亿**。
+
+此次发布的新产品实现了多端互通、自然语言生成应用及产业决策优化等多项能力。官方称其在多项基准测试中位居前列。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/4459cd82-cf7a-495f-a1a9-07fad5f39006/m001.png)
+
+相关链接：
+- [https://zhidx.com/p/557482.html](https://zhidx.com/p/557482.html)
+
+---
+
+## [OpenAI发文详解Codex在Windows上的专属沙箱构建方案](https://openai.com/index/building-codex-windows-sandbox/) `#11`
+> **OpenAI**发布工程博文，详解了`Codex`在 Windows 上的专属沙箱机制。因原生沙箱不适配 Agent 运行，团队组合防火墙与权限控制等系统策略，强制隔离了文件读写与网络边界。
+
+**OpenAI**官方发布了关于构建`Codex Windows`沙箱的工程文章。
+
+由于**Windows**缺乏适合 Agent 混合工作负载的开箱即用沙箱原语，团队评估并放弃了 `AppContainer` 等现有方案。
+
+最终实现方案通过组合创建特定本地用户、配置防火墙规则、设定`ACLs`读写边界及使用受写限制令牌等技术，确保在本地运行命令时，由操作系统强制执行写入位置与网络访问的严格限制。
+
+相关链接：
+- [https://openai.com/index/building-codex-windows-sandbox/](https://openai.com/index/building-codex-windows-sandbox/)
+
+---
+
+## [OpenAI发布财务团队使用Codex十大场景指南](https://openai.com/academy/how-finance-teams-use-codex/) `#12`
+> **OpenAI**发文展示了财务团队使用 `Codex`的十大场景，该工具可将原始财务数据转化为月度审查报告等资产，全程无需编写代码。
+
+**OpenAI**发布指导文章，详细展示了财务团队利用`Codex`辅助日常工作的十大应用场景。
+
+财务人员只需输入现有的结账工作簿、仪表板、预测更新和负责人笔记等真实数据，`Codex`即可将其转化为月度业务审查报告、高管报告包、差异分析以及情景规划等可供审查的资产。
+
+该过程无需编写代码，并支持通过**Google Drive**、**SharePoint**、**Slack**和**Teams**等插件与现有的企业技术栈集成。
+
+相关链接：
+- [https://openai.com/academy/how-finance-teams-use-codex/](https://openai.com/academy/how-finance-teams-use-codex/)
+
+---
+
+## [Anthropic 发布 Claude 模型 computer use 和 browser use 最佳实践](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude) `#13`
+> **Claude** 发布适用于 **Claude 4.6** 系列及 **Opus 4.7** 模型的 `computer use` 和 `browser use` 最佳实践指南，涵盖截图缩放、模型选择、思考参数与上下文管理。
+
+**Claude**官方博客发布`computer use`和`browser use`最佳实践指南，适用于**Claude 4.6**系列（**Opus 4.6**、**Sonnet 4.6**、**Haiku 4.5**）与**Opus 4.7**模型。
+
+指南强调点击精度是集成基础，开发者应在发送截图前将其缩放至API限制内：推荐默认分辨率`1280×720`，**Opus 4.7**场景推荐`1080p`。
+
+模型选择上，**Sonnet 4.6**机械点击精度更优，**Opus 4.7**推理更强且点击精度接近**Sonnet 4.6**。
+
+自适应思考设置方面，官方内部测试表明**Opus 4.7**推荐默认`high`，**4.6**系列推荐`medium`。
+
+指南还涵盖提示注入分类器、缓存断点与滚动缓冲区、服务端压缩（beta）、批量工具与Advisor工具（beta）等实验性功能，以及通过录制演示提升任务可靠性的"Teach Mode"方案。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/fba2456e-1a3b-48b7-a796-47bec914a5d6/m001.png)
+
+相关链接：
+- [https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude)
+
+---
+
+## [Claude Mythos 突破多项安全评估，日本三大银行将获防御性访问权限](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing) `#14`
+> 最新测试显示，**Claude Mythos Preview** 突破了多项网络安全评估基准，在源代码审计与漏洞发现上表现优异。与此同时，日本三大银行及金融监管机构正组建防御联盟，即将获得该模型的访问权限以应对潜在威胁。
+
+**AISI** 和 **XBOW** 最新发布的评估报告指出，**Anthropic** 的新模型 `Claude Mythos Preview` 在自主网络能力和漏洞发现上实现了显著跃升。其任务完成时长打破了此前几个月翻倍的加速趋势。
+
+在 **AISI** 的测试中，该模型的一个新检查点首次成功完成了两个复杂的网络靶场。而在 **XBOW** 的测试中，其在源代码审计方面的假阴性率较 `Opus 4.6` 降低了 **42%**，但在实时网站验证和命令安全性判断上仍存在局限。
+
+日本金融界已对其潜在的攻防能力作出反应。据媒体报道，**日本金融厅** 正牵头成立包含 **36** 家机构的公私工作组。**三菱 UFJ** 等三大银行最快将于本月通过 **Anthropic** 的 `Project Glasswing` 获得该模型的访问权限，以强化金融系统的网络防御。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/16ad6807-2853-474c-8ab1-83709ede7123/m001.png)
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/16ad6807-2853-474c-8ab1-83709ede7123/m002.png)
+
+相关链接：
+- [https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing](https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing)
+- [https://xbow.com/blog/mythos-offensive-security-xbow-evaluation](https://xbow.com/blog/mythos-offensive-security-xbow-evaluation)
+- [https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/](https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/)
+
+---
+
+## [消息称 Anthropic 寻求超 9000 亿美元估值并拓展中小企业市场](https://ramp.com/data/ai-index) `#15`
+> 据报道，**Anthropic** 宣布推出面向中小企业的 **`Claude for Small Business`** 服务，并在 **Ramp** 统计的商业客户数据中采用率首次反超 **OpenAI**。同时消息称其正就以超 **9000** 亿美元估值募资至少 **300** 亿美元展开洽谈，并计划收购开发者工具初创公司 **Stainless**。
+
+**Anthropic** 宣布推出专为中小企业设计的 **Claude for Small Business** 套件，付费用户可通过商业自动化平台 `Claude Cowork` 中的开关启用。
+
+该套件提供自动化记账、商业洞察及广告生成等功能，并打通了 `QuickBooks`、`Canva`、`HubSpot` 和 `PayPal` 等软件的集成。
+
+根据金融科技公司 **Ramp** 基于超过 **5 万家**企业样本的数据，**Anthropic** 的商业客户采用率达到 **34.4%**，首次超过 **OpenAI** 的 **32.3%**。
+
+在业务扩张之际，据 **The Information** 报道，**Anthropic** 正就以至少 **3 亿美元**收购初创公司 **Stainless** 进行深入谈判。
+
+此外，据 **彭博社** 等媒体报道，知情人士透露该公司正寻求以超 **9000 亿美元**的估值募集至少 **300 亿美元**新资金。
+
+相关链接：
+- [https://ramp.com/data/ai-index](https://ramp.com/data/ai-index)
+- [https://thein.fo/4u7kSXQ](https://thein.fo/4u7kSXQ)
+
+---
+
+## [报道称前阿里千问负责人林俊旸创业，新公司估值据称约 20 亿美元](https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA) `#16`
+> 据报道，前**阿里**千问负责人**林俊旸**，正在为新创立的 `AI` 实验室寻求数亿美元融资，据称融后估值可能达约 **20 亿** 美元。
+
+据外媒报道，前阿里巴巴千问大模型负责人**林俊旸**正为其新创立的 **AI 实验室**寻求数亿美元融资。
+
+消息称，**高榕资本**和**红杉中国**正在洽谈投资。该实验室融后估值可能达到约 **20 亿美元**。
+
+相关链接：
+- [https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA](https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA)
+
+---
+
+## [Warp 计划向免费用户开放 BYOK 功能](https://github.com/warpdotdev/warp/issues/9288) `#17`
+> **Warp** 官方称计划在未来 **1-2 周** 内，面向个人及 **10 人** 以下企业在免费计划中开放 `BYOK` 功能，并支持 `OpenAI` 兼容端点。
+
+**Warp** 团队在 **GitHub** 确认，计划在未来 **1** 至 **2** 周内将自带 API 密钥（`BYOK`）能力扩展至免费计划。
+
+该功能将面向个人用户和规模不超过 **10** 人的企业开放。同时，系统将支持任意 `OpenAI` 兼容端点。
+
+此前，**Warp** 的 `BYOK` 功能被限定在付费订阅计划中。社区曾发文呼吁其应作为开源软件的基础能力对所有用户开放。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514080926_48903976a6.png)
+
+相关链接：
+- [https://github.com/warpdotdev/warp/issues/9288](https://github.com/warpdotdev/warp/issues/9288)
+- [https://github.com/warpdotdev/warp/discussions/9619](https://github.com/warpdotdev/warp/discussions/9619)
+
+---
+
+## [Meta 推出基于 Muse Spark 的 Incognito Chat 隐私对话功能](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/) `#18`
+> **Meta** 官宣 **WhatsApp** 和 `Meta AI` 推出 Incognito Chat，由 `Muse Spark` 模型在本地硬件安全区域处理，不留日志，未来数月上线。
+
+**Meta** 官方宣布在 **WhatsApp** 和独立的 **Meta AI** 应用中推出 `Incognito Chat` 功能，旨在为用户提供完全私密的对话体验。
+
+该功能由最新的 `Muse Spark` 模型驱动，其推理完全在手机硬件安全飞地内进行，不产生服务器日志。会话在锁屏或关闭应用后自动永久消失。
+
+官方计划在未来几个月内向上述应用逐步推出该功能，并正在开发允许私密分支对话的 `Side Chat`。
+
+此外，**Meta** 还发布了包含语音和实时视觉能力的 `Muse Spark` 更新，目前正在向应用及智能眼镜端推出。
+
+相关链接：
+- [https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/](https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/)
+
+---
+
+**提示**：内容由AI辅助创作，可能存在**幻觉**和**错误**。

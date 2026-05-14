@@ -1,5 +1,291 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 13 May 2026 07:58:50 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-88/</link><description>AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi MiMo 发布 API 适配说明：未回传 reasoning_content 将报错 ↗ #6 “Mini Shai-Hulud”供应链攻击爆发 波及Mistra…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260513/2026051309213640608522e5_cover_eb1d.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 14 May 2026 01:23:12 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-89/</link><description>AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信已支持将聊天记录一键转发至元宝 ↗ #7 Notion 开放 Agent 编排与自定义工具 ↗ #8 Runway 推出对话式视频生成工具 Runway Ag…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260514/202605140903268088475bad_cover_fbfb.png" alt=""></p>
+<h1>AI 早报 2026-05-14</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1415S6dEKU">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Jb2wk5lYw3Q">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 <a href="https://x.com/ClaudeDevs/status/2054639777685934564">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>小米开源 OneVL 自动驾驶框架 <a href="https://github.com/xiaomi-research/onevl">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>MiniMax 合并订阅套餐，上线 Agent Teams 功能 <a href="https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A">↗</a> <code>#3</code></li>
+<li>OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 <a href="https://openai.com/form/codex-enterprise-promo/">↗</a> <code>#4</code></li>
+<li>支付宝联合扣子编程上线商家入驻与支付集成 Skill <a href="https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw">↗</a> <code>#5</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>DeepSeek 专家模式现无法上传附件 页面提示资源紧张 <code>#6</code></li>
+<li>腾讯宣布微信已支持将聊天记录一键转发至元宝 <a href="https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA">↗</a> <code>#7</code></li>
+<li>Notion 开放 Agent 编排与自定义工具 <a href="https://www.notion.com/product/dev">↗</a> <code>#8</code></li>
+<li>Runway 推出对话式视频生成工具 Runway Agent <a href="https://runwayml.com/news/introducing-runway-agent">↗</a> <code>#9</code></li>
+<li>百度发布智能体产品矩阵，李彦宏提出日活智能体数新指标 <a href="https://zhidx.com/p/557482.html">↗</a> <code>#10</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>OpenAI发文详解Codex在Windows上的专属沙箱构建方案 <a href="https://openai.com/index/building-codex-windows-sandbox/">↗</a> <code>#11</code></li>
+<li>OpenAI发布财务团队使用Codex十大场景指南 <a href="https://openai.com/academy/how-finance-teams-use-codex/">↗</a> <code>#12</code></li>
+<li>Anthropic 发布 Claude 模型 computer use 和 browser use 最佳实践 <a href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude">↗</a> <code>#13</code></li>
+<li>Claude Mythos 突破多项安全评估，日本三大银行将获防御性访问权限 <a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing">↗</a> <code>#14</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>消息称 Anthropic 寻求超 9000 亿美元估值并拓展中小企业市场 <a href="https://ramp.com/data/ai-index">↗</a> <code>#15</code></li>
+<li>报道称前阿里千问负责人林俊旸创业，新公司估值据称约 20 亿美元 <a href="https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA">↗</a> <code>#16</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>Warp 计划向免费用户开放 BYOK 功能 <a href="https://github.com/warpdotdev/warp/issues/9288">↗</a> <code>#17</code></li>
+<li>Meta 推出基于 Muse Spark 的 Incognito Chat 隐私对话功能 <a href="https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/ClaudeDevs/status/2054639777685934564">Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>宣布 <strong>Claude Code</strong> 每周限额即日起临时上调<strong>50%<strong>直至</strong>7月13日</strong>。同时，自<strong>6月15日</strong>起，<strong>Claude</strong>付费套餐的程序化调用将独立计算，改用<strong>20</strong>到<strong>200美元</strong>不等的专属月度credit，涵盖<strong>Agent SDK</strong>等工具，耗尽后需按API费率计费。</p>
+</blockquote>
+<p><strong>Anthropic</strong>宣布<strong>Claude Code</strong>每周限额即日起临时上调 <strong>50%</strong> 至 <strong>7 月 13</strong>日。</p>
+<p>此外，自 <strong>6 月 15</strong>日起，<strong>Claude</strong>付费套餐的程序化调用将从交互式使用中分离。这一调整涵盖 <code>Agent SDK</code>、<code>claude -p</code>、<code>Claude Code GitHub Actions</code> 及第三方 <code>Agent SDK</code> 应用，改为使用独立的月度 <strong>credit</strong>。</p>
+<p>额度按套餐从 <strong>20 美元</strong> 到 <strong>200 美元</strong> 不等。<strong>Credit</strong>按月重置、不可结转、不可跨用户共享。耗尽后需开启 <code>extra usage</code> 按 <strong>API</strong> 费率继续计费，否则暂停至下周期重置。</p>
+<p>交互式 <strong>Claude Code</strong>、<strong>Claude Cowork</strong> 及网页/桌面/移动聊天的订阅限额不变。<strong>API key</strong> 用户不受影响。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/b656710b-c67f-468d-b594-8caac949db2d/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/b656710b-c67f-468d-b594-8caac949db2d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/ClaudeDevs/status/2054639777685934564">https://x.com/ClaudeDevs/status/2054639777685934564</a></li>
+<li><a href="https://x.com/ClaudeDevs/status/2054610152817619388">https://x.com/ClaudeDevs/status/2054610152817619388</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/xiaomi-research/onevl">小米开源 OneVL 自动驾驶框架</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>小米</strong>具身智能团队开源自动驾驶 <code>VLA</code> 框架 <code>OneVL</code>。官方称，该模型通过双辅助解码器压缩推理，是首个在四个基准测试中准确率超越显式 <code>CoT</code> 的隐式 <code>CoT</code> 模型。</p>
+</blockquote>
+<p><strong>小米</strong>具身智能团队发布了 <strong>OneVL</strong> 自动驾驶 <code>VLA</code> 框架，并已同步开源其技术报告、模型权重以及推理与训练代码。</p>
+<p>该框架在 <code>Qwen3-VL-4B-Instruct</code> 基础上引入了视觉和语言双重辅助解码器，用于在训练时监督隐式标记并预测未来帧与思维链文本。</p>
+<p>在推理阶段，这些辅助解码器会被丢弃，所有隐式标记在单次并行传递中预填充，从而实现与仅输出答案相当的极低延迟。</p>
+<p>官方表示，<strong>OneVL</strong> 在 <code>NAVSIM</code>、<code>ROADWork</code>、<code>Impromptu</code> 和 <code>APR1</code> 四个基准测试中均实现了领先的轨迹预测精度，成为首个在准确率上全面超越显式自回归 <code>CoT</code> 的隐式 <code>CoT</code> 方法。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514080403_9bd5339f46.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/xiaomi-research/onevl">https://github.com/xiaomi-research/onevl</a></li>
+<li><a href="https://arxiv.org/abs/2604.18486">https://arxiv.org/abs/2604.18486</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A">MiniMax 合并订阅套餐，上线 Agent Teams 功能</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong> 宣布将 <strong>Agent</strong> 升级为 <strong>Mavis</strong>，新增 <strong>Agent Teams</strong> 功能支持多 <strong>Agent</strong> 并行协作，并合并 <strong>TokenPlan</strong> 与 <strong>Agent Plan</strong> 实现统一订阅。</p>
+</blockquote>
+<p><strong>MiniMax</strong> 官方宣布其 <strong>Agent</strong> 迎来整体升级并更名为 <strong>Mavis</strong>（<strong>MiniMax as a Jarvis</strong>），同时在桌面端正式上线 <strong>Agent Teams</strong> 功能，支持多个 <strong>Agent</strong> 组成团队并行协作以处理复杂任务。</p>
+<p>在新架构下，系统采用 <strong>Owner</strong>、<strong>Worker</strong> 和 <strong>Verifier</strong> 三类核心角色进行分工，通过对抗性的质量门禁和确定性的状态机管理，旨在解决单 <strong>Agent</strong> 在长任务中易中断、易跑偏或无法快速响应的问题。</p>
+<p>此外，<strong>MiniMax</strong> 将原有的 <code>TokenPlan</code> 和 <code>Agent Plan</code> 进行合并，单一订阅即可打通 <strong>CLI</strong>、<strong>API</strong> 和 <strong>Agent</strong>，涵盖全系模型且额度共享，原双计划用户将获赠一个月会员。</p>
+<p>目前该产品已提供桌面端下载。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/beb0b366-1faf-48b4-97b0-4c7e282b8497/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A">https://mp.weixin.qq.com/s/TIL7o92f71DsPPLWT4_37A</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/form/codex-enterprise-promo/">OpenAI 推出 Codex 企业版限时促销，新用户免费用两月</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 面向企业推出限时促销，符合条件的企业在未来 <strong>30</strong> 天内接入，其纯新增用户可获得两个月的 <code>Codex</code> 免费使用权。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 宣布针对企业客户推出限时促销，鼓励更多团队在工作中使用其 AI 编程产品 <strong>Codex</strong>。</p>
+<p><strong>CEO</strong> <strong>Sam Altman</strong> 官方发文称 <code>Codex</code> 是目前最好的 <code>AI</code> 编程产品。他表示，在未来 <strong>30</strong> 天内，希望尝试切换的企业可获得<strong>两个月</strong>的免费使用权限。该福利明确限定仅面向纯新增用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514083120_cb120bfe5f.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/form/codex-enterprise-promo/">https://openai.com/form/codex-enterprise-promo/</a></li>
+<li><a href="https://x.com/sama/status/2054626219858293128">https://x.com/sama/status/2054626219858293128</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw">支付宝联合扣子编程上线商家入驻与支付集成 Skill</a> <code>#5</code></h2>
+<blockquote>
+<p>支付宝联合<strong>扣子</strong>编程上线全新支付与商家入驻 <strong>Skill</strong>。开发者现可通过自然语言一站式开发应用、集成收款并完成商家入驻。</p>
+</blockquote>
+<p><strong>支付宝</strong>联合 <strong>AI</strong> 开发平台<strong>扣子编程</strong>升级了商业化服务，上线「<strong>支付宝商家入驻</strong>」<code>Skill</code> 并升级了「<strong>支付宝支付集成</strong>」<code>Skill</code>。</p>
+<p>通过这两项能力，开发者可以通过自然语言对话，一站式完成从创建应用到集成<strong>支付宝</strong>支付，再到商家认证上线的全流程。</p>
+<p>目前，开发者已可在<strong>扣子编程</strong>技能列表中直接安装上述 <code>Skill</code> 进行调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/e62c8d28-3c87-4cee-9f93-e268e7b0c551/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw">https://mp.weixin.qq.com/s/kE8Wjp7VOhaDvVHwnjrcNw</a></li>
+</ul>
+<hr>
+<h2>DeepSeek 专家模式现无法上传附件 页面提示资源紧张 <code>#6</code></h2>
+<blockquote>
+<p>有用户发现 <strong>DeepSeek</strong> 网页端与 App 端专家模式现已无法上传附件，页面提示资源紧张。据透露，此举或为限制反代违规行为。</p>
+</blockquote>
+<p>有用户发现，<strong>DeepSeek</strong> 网页端和 App 端的 <code>专家模式</code> 目前已不再支持用户上传附件。</p>
+<p>在相关操作界面中，系统会弹出关于“资源紧张”的提示信息。</p>
+<p>对于此次功能变动的原因，有用户透露，这可能是为了限制反向代理的违规调用行为。</p>
+<p>用户推测，由于上传文件后模型的上下文窗口会扩大至 <strong>1M</strong>，<code>大上下文机制</code> 容易导致资源消耗过大并增加被滥用的风险。</p>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA">腾讯宣布微信已支持将聊天记录一键转发至元宝</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>腾讯</strong>宣布<strong>微信</strong>已支持将聊天记录一键转发至<strong>元宝</strong>进行总结或构思回复，该功能以不保存记录的临时对话进行，需将相关应用升级至最新版。</p>
+</blockquote>
+<p><strong>腾讯</strong>宣布<strong>微信</strong>已支持将最多<strong>100</strong>条聊天记录像文件一样一键转发至<strong>元宝</strong>，由其进行总结、构思回复或生成待办事项。</p>
+<p>该功能需将<strong>微信</strong>和<strong>元宝</strong>升级至最新版本。对话以临时方式进行，退出后不保存记录。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/8dd5aee6-df53-41bd-9a36-d7d69a208899/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA">https://mp.weixin.qq.com/s/t9yvIdiuyT_bjE5Ix9rTzA</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.notion.com/product/dev">Notion 开放 Agent 编排与自定义工具</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Notion</strong> 发布开发者平台，推出 <code>External Agents API</code> 让任意外部 Agent 可在 <strong>Notion</strong> 内协作、被编排与监控，并开放 <code>Workers</code> 运行时用于构建自定义工具。</p>
+</blockquote>
+<p><strong>Notion</strong>近日正式发布开发者平台。其核心推出的<code>External Agents API</code>允许将<code>Claude</code>等任意外部<code>Agent</code>引入<strong>Notion</strong>，实现任务分配、执行监控与多<code>Agent</code>工作流编排。</p>
+<p>同时，平台开放 <code>Workers</code>运行时，支持构建自定义工具以同步外部数据或调用应用。配套的 Beta 版<code>CLI</code> 用于简化部署。</p>
+<p><code>MCP</code>据官方称可降低最高 **91%**的 token 消耗。此外，<strong>Notion</strong>预告了 Alpha 阶段的 <code>Agent SDK</code>，未来支持将<code>Notion Agent</code>嵌入外部应用，现已开放候补注册。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/1a5117eb-6ad2-4001-87f5-f5dd016f3efc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.notion.com/product/dev">https://www.notion.com/product/dev</a></li>
+<li><a href="https://developers.notion.com/reference/intro">https://developers.notion.com/reference/intro</a></li>
+</ul>
+<hr>
+<h2><a href="https://runwayml.com/news/introducing-runway-agent">Runway 推出对话式视频生成工具 Runway Agent</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Runway</strong> 正式推出 <strong>Runway Agent</strong>。用户仅需通过对话描述需求，该 <code>Agent</code> 即可生成包含多场景与配乐的高清视频成片，现已上线。</p>
+</blockquote>
+<p><strong>Runway</strong> 官方宣布正式推出 <strong>Runway Agent</strong>，定位为通过单一对话将用户创意转化为可直接发布视频的 <strong>Agent</strong>。</p>
+<p>用户只需用自然语言描述需求并设置基础参数，该 <strong>Agent</strong> 便会提出概念与故事结构。经对话优化后，它能生成包含多场景、画外音、对话及音乐的高分辨率视频。随后，用户可在时间轴编辑器中进行最终微调。</p>
+<p>该工具专为品牌团队、营销人员、创意机构及各类影视制作人设计。其旨在以分钟级速度生成多镜头视频，满足营销物料、社交内容及影视前期概念开发等需求。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/1cb94183-16c7-4a2a-ac1e-275fbd73fb92/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://runwayml.com/news/introducing-runway-agent">https://runwayml.com/news/introducing-runway-agent</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhidx.com/p/557482.html">百度发布智能体产品矩阵，李彦宏提出日活智能体数新指标</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>百度</strong>集中发布<code>DuMate</code>、<code>秒哒 3.0</code>等智能体矩阵。<strong>李彦宏</strong>提出日活智能体数将取代 <code>Token</code>成新度量衡，官方称多款产品登顶基准测试。</p>
+</blockquote>
+<p><strong>百度</strong>在<strong>AI 开发者大会</strong>上全面转向智能体（Agent），集中发布了包含通用智能体 <code>DuMate</code>、应用生成工具 <code>秒哒 3.0</code>、数字人智能体 <code>百度一镜</code>和决策智能体<code>百度伐谋 2.0</code> 在内的产品矩阵。</p>
+<p><strong>百度</strong>创始人<strong>李彦宏</strong>提出，Token 仅代表成本与投入，<code>DAA</code>（日活智能体数）才是衡量 AI 时代生态繁荣的新度量衡。</p>
+<p>他并预判全球日活智能体数将超过 <strong>100 亿</strong>。</p>
+<p>此次发布的新产品实现了多端互通、自然语言生成应用及产业决策优化等多项能力。官方称其在多项基准测试中位居前列。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/4459cd82-cf7a-495f-a1a9-07fad5f39006/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/557482.html">https://zhidx.com/p/557482.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/building-codex-windows-sandbox/">OpenAI发文详解Codex在Windows上的专属沙箱构建方案</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>发布工程博文，详解了<code>Codex</code>在 Windows 上的专属沙箱机制。因原生沙箱不适配 Agent 运行，团队组合防火墙与权限控制等系统策略，强制隔离了文件读写与网络边界。</p>
+</blockquote>
+<p><strong>OpenAI</strong>官方发布了关于构建<code>Codex Windows</code>沙箱的工程文章。</p>
+<p>由于<strong>Windows</strong>缺乏适合 Agent 混合工作负载的开箱即用沙箱原语，团队评估并放弃了 <code>AppContainer</code> 等现有方案。</p>
+<p>最终实现方案通过组合创建特定本地用户、配置防火墙规则、设定<code>ACLs</code>读写边界及使用受写限制令牌等技术，确保在本地运行命令时，由操作系统强制执行写入位置与网络访问的严格限制。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/building-codex-windows-sandbox/">https://openai.com/index/building-codex-windows-sandbox/</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/academy/how-finance-teams-use-codex/">OpenAI发布财务团队使用Codex十大场景指南</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong>发文展示了财务团队使用 <code>Codex</code>的十大场景，该工具可将原始财务数据转化为月度审查报告等资产，全程无需编写代码。</p>
+</blockquote>
+<p><strong>OpenAI</strong>发布指导文章，详细展示了财务团队利用<code>Codex</code>辅助日常工作的十大应用场景。</p>
+<p>财务人员只需输入现有的结账工作簿、仪表板、预测更新和负责人笔记等真实数据，<code>Codex</code>即可将其转化为月度业务审查报告、高管报告包、差异分析以及情景规划等可供审查的资产。</p>
+<p>该过程无需编写代码，并支持通过<strong>Google Drive</strong>、<strong>SharePoint</strong>、<strong>Slack</strong>和<strong>Teams</strong>等插件与现有的企业技术栈集成。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/academy/how-finance-teams-use-codex/">https://openai.com/academy/how-finance-teams-use-codex/</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude">Anthropic 发布 Claude 模型 computer use 和 browser use 最佳实践</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>Claude</strong> 发布适用于 <strong>Claude 4.6</strong> 系列及 <strong>Opus 4.7</strong> 模型的 <code>computer use</code> 和 <code>browser use</code> 最佳实践指南，涵盖截图缩放、模型选择、思考参数与上下文管理。</p>
+</blockquote>
+<p><strong>Claude</strong>官方博客发布<code>computer use</code>和<code>browser use</code>最佳实践指南，适用于<strong>Claude 4.6</strong>系列（<strong>Opus 4.6</strong>、<strong>Sonnet 4.6</strong>、<strong>Haiku 4.5</strong>）与<strong>Opus 4.7</strong>模型。</p>
+<p>指南强调点击精度是集成基础，开发者应在发送截图前将其缩放至API限制内：推荐默认分辨率<code>1280×720</code>，<strong>Opus 4.7</strong>场景推荐<code>1080p</code>。</p>
+<p>模型选择上，<strong>Sonnet 4.6</strong>机械点击精度更优，<strong>Opus 4.7</strong>推理更强且点击精度接近<strong>Sonnet 4.6</strong>。</p>
+<p>自适应思考设置方面，官方内部测试表明<strong>Opus 4.7</strong>推荐默认<code>high</code>，<strong>4.6</strong>系列推荐<code>medium</code>。</p>
+<p>指南还涵盖提示注入分类器、缓存断点与滚动缓冲区、服务端压缩（beta）、批量工具与Advisor工具（beta）等实验性功能，以及通过录制演示提升任务可靠性的"Teach Mode"方案。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/fba2456e-1a3b-48b7-a796-47bec914a5d6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude">https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing">Claude Mythos 突破多项安全评估，日本三大银行将获防御性访问权限</a> <code>#14</code></h2>
+<blockquote>
+<p>最新测试显示，<strong>Claude Mythos Preview</strong> 突破了多项网络安全评估基准，在源代码审计与漏洞发现上表现优异。与此同时，日本三大银行及金融监管机构正组建防御联盟，即将获得该模型的访问权限以应对潜在威胁。</p>
+</blockquote>
+<p><strong>AISI</strong> 和 <strong>XBOW</strong> 最新发布的评估报告指出，<strong>Anthropic</strong> 的新模型 <code>Claude Mythos Preview</code> 在自主网络能力和漏洞发现上实现了显著跃升。其任务完成时长打破了此前几个月翻倍的加速趋势。</p>
+<p>在 <strong>AISI</strong> 的测试中，该模型的一个新检查点首次成功完成了两个复杂的网络靶场。而在 <strong>XBOW</strong> 的测试中，其在源代码审计方面的假阴性率较 <code>Opus 4.6</code> 降低了 <strong>42%</strong>，但在实时网站验证和命令安全性判断上仍存在局限。</p>
+<p>日本金融界已对其潜在的攻防能力作出反应。据媒体报道，<strong>日本金融厅</strong> 正牵头成立包含 <strong>36</strong> 家机构的公私工作组。<strong>三菱 UFJ</strong> 等三大银行最快将于本月通过 <strong>Anthropic</strong> 的 <code>Project Glasswing</code> 获得该模型的访问权限，以强化金融系统的网络防御。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/16ad6807-2853-474c-8ab1-83709ede7123/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fbfb5cc9-b6df-4665-8a49-97346458359d/16ad6807-2853-474c-8ab1-83709ede7123/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing">https://www.aisi.gov.uk/blog/how-fast-is-autonomous-ai-cyber-capability-advancing</a></li>
+<li><a href="https://xbow.com/blog/mythos-offensive-security-xbow-evaluation">https://xbow.com/blog/mythos-offensive-security-xbow-evaluation</a></li>
+<li><a href="https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/">https://www.nikkei.com/article/DGXZQOUB130SI0T10C26A5000000/</a></li>
+</ul>
+<hr>
+<h2><a href="https://ramp.com/data/ai-index">消息称 Anthropic 寻求超 9000 亿美元估值并拓展中小企业市场</a> <code>#15</code></h2>
+<blockquote>
+<p>据报道，<strong>Anthropic</strong> 宣布推出面向中小企业的 <strong><code>Claude for Small Business</code></strong> 服务，并在 <strong>Ramp</strong> 统计的商业客户数据中采用率首次反超 <strong>OpenAI</strong>。同时消息称其正就以超 <strong>9000</strong> 亿美元估值募资至少 <strong>300</strong> 亿美元展开洽谈，并计划收购开发者工具初创公司 <strong>Stainless</strong>。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 宣布推出专为中小企业设计的 <strong>Claude for Small Business</strong> 套件，付费用户可通过商业自动化平台 <code>Claude Cowork</code> 中的开关启用。</p>
+<p>该套件提供自动化记账、商业洞察及广告生成等功能，并打通了 <code>QuickBooks</code>、<code>Canva</code>、<code>HubSpot</code> 和 <code>PayPal</code> 等软件的集成。</p>
+<p>根据金融科技公司 <strong>Ramp</strong> 基于超过 <strong>5 万家</strong>企业样本的数据，<strong>Anthropic</strong> 的商业客户采用率达到 <strong>34.4%</strong>，首次超过 <strong>OpenAI</strong> 的 <strong>32.3%</strong>。</p>
+<p>在业务扩张之际，据 <strong>The Information</strong> 报道，<strong>Anthropic</strong> 正就以至少 <strong>3 亿美元</strong>收购初创公司 <strong>Stainless</strong> 进行深入谈判。</p>
+<p>此外，据 <strong>彭博社</strong> 等媒体报道，知情人士透露该公司正寻求以超 <strong>9000 亿美元</strong>的估值募集至少 <strong>300 亿美元</strong>新资金。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ramp.com/data/ai-index">https://ramp.com/data/ai-index</a></li>
+<li><a href="https://thein.fo/4u7kSXQ">https://thein.fo/4u7kSXQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA">报道称前阿里千问负责人林俊旸创业，新公司估值据称约 20 亿美元</a> <code>#16</code></h2>
+<blockquote>
+<p>据报道，前<strong>阿里</strong>千问负责人<strong>林俊旸</strong>，正在为新创立的 <code>AI</code> 实验室寻求数亿美元融资，据称融后估值可能达约 <strong>20 亿</strong> 美元。</p>
+</blockquote>
+<p>据外媒报道，前阿里巴巴千问大模型负责人<strong>林俊旸</strong>正为其新创立的 <strong>AI 实验室</strong>寻求数亿美元融资。</p>
+<p>消息称，<strong>高榕资本</strong>和<strong>红杉中国</strong>正在洽谈投资。该实验室融后估值可能达到约 <strong>20 亿美元</strong>。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA">https://mp.weixin.qq.com/s/R5u-MxFUibH18tOUN0FEZA</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/warpdotdev/warp/issues/9288">Warp 计划向免费用户开放 BYOK 功能</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>Warp</strong> 官方称计划在未来 <strong>1-2 周</strong> 内，面向个人及 <strong>10 人</strong> 以下企业在免费计划中开放 <code>BYOK</code> 功能，并支持 <code>OpenAI</code> 兼容端点。</p>
+</blockquote>
+<p><strong>Warp</strong> 团队在 <strong>GitHub</strong> 确认，计划在未来 <strong>1</strong> 至 <strong>2</strong> 周内将自带 API 密钥（<code>BYOK</code>）能力扩展至免费计划。</p>
+<p>该功能将面向个人用户和规模不超过 <strong>10</strong> 人的企业开放。同时，系统将支持任意 <code>OpenAI</code> 兼容端点。</p>
+<p>此前，<strong>Warp</strong> 的 <code>BYOK</code> 功能被限定在付费订阅计划中。社区曾发文呼吁其应作为开源软件的基础能力对所有用户开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260514/20260514080926_48903976a6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/warpdotdev/warp/issues/9288">https://github.com/warpdotdev/warp/issues/9288</a></li>
+<li><a href="https://github.com/warpdotdev/warp/discussions/9619">https://github.com/warpdotdev/warp/discussions/9619</a></li>
+</ul>
+<hr>
+<h2><a href="https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/">Meta 推出基于 Muse Spark 的 Incognito Chat 隐私对话功能</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>Meta</strong> 官宣 <strong>WhatsApp</strong> 和 <code>Meta AI</code> 推出 Incognito Chat，由 <code>Muse Spark</code> 模型在本地硬件安全区域处理，不留日志，未来数月上线。</p>
+</blockquote>
+<p><strong>Meta</strong> 官方宣布在 <strong>WhatsApp</strong> 和独立的 <strong>Meta AI</strong> 应用中推出 <code>Incognito Chat</code> 功能，旨在为用户提供完全私密的对话体验。</p>
+<p>该功能由最新的 <code>Muse Spark</code> 模型驱动，其推理完全在手机硬件安全飞地内进行，不产生服务器日志。会话在锁屏或关闭应用后自动永久消失。</p>
+<p>官方计划在未来几个月内向上述应用逐步推出该功能，并正在开发允许私密分支对话的 <code>Side Chat</code>。</p>
+<p>此外，<strong>Meta</strong> 还发布了包含语音和实时视觉能力的 <code>Muse Spark</code> 更新，目前正在向应用及智能眼镜端推出。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/">https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/89</guid><pubDate>Thu, 14 May 2026 01:22:48 +0000</pubDate></item><item><title>2026-05-13</title><link>https://imjuya.github.io/juya-ai-daily/issue-88/</link><description>AI 早报 2026-05-13 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini Intelligence 升级安卓体验 ↗ #1 模型发布 Claude Opus 4.7 快速模式以研究预览形式上线 API 及多款工具 ↗ #2 Jina AI 新模型 jina-embeddings-v5-omni 支持文本图像音视频混合检索 ↗ #3 Perceptron 推出 Mk1 模型，专攻视频理解与具身推理 ↗ #4 开发生态 GitHub更新Copilot计费与订阅：引入弹性配额与Max计划 ↗ #5 Xiaomi MiMo 发布 API 适配说明：未回传 reasoning_content 将报错 ↗ #6 “Mini Shai-Hulud”供应链攻击爆发 波及Mistra…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260513/2026051309213640608522e5_cover_eb1d.png" alt=""></p>
 <h1>AI 早报 2026-05-13</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ir556rEo5">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=mfxVnPNAkMU">YouTube</a></p>
 <h2>概览</h2>
@@ -2748,114 +3034,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/80</guid><pubDate>Tue, 05 May 2026 01:13:50 +0000</pubDate></item><item><title>2026-05-04</title><link>https://imjuya.github.io/juya-ai-daily/issue-79/</link><description>AI 早报 2026-05-04 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 商汤科技推出 Token Plan 服务，限量免费公测 ↗ #1 DeepSeek API 调整兼容性，修复部分第三方框架 400 错误 #2 开发生态 Codex 发布 Codex Security 插件，集成五个安全工作流 ↗ #3 OpenClaw 发布 2026.5.2 版本，重写插件架构优化运行性能 ↗ #4 网易内测 ClawEmail，为 AI Agent 分配真实邮箱 ↗ #5 前瞻与传闻 据称 Google 测试 Omni 视频模型，或于 I/O 大会亮相 ↗ #6 商汤科技推出 Token Plan 服务，限量免费公测 #1 商汤科技 SenseNova 平台推出 Token Plan 服务公测。 目前 F…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260504/202605040840177981626bb0_cover_d459.png" alt=""></p>
-<h1>AI 早报 2026-05-04</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1ZiRPB1EXY">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=KxnX0OFi1dQ">YouTube</a></p>
-<h2>概览</h2>
-<h3>要闻</h3>
-<ul>
-<li>商汤科技推出 Token Plan 服务，限量免费公测 <a href="https://www.sensenova.cn/token-plan">↗</a> <code>#1</code></li>
-<li>DeepSeek API 调整兼容性，修复部分第三方框架 400 错误 <code>#2</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>Codex 发布 Codex Security 插件，集成五个安全工作流 <a href="https://x.com/reach_vb/status/2051019108028969251">↗</a> <code>#3</code></li>
-<li>OpenClaw 发布 2026.5.2 版本，重写插件架构优化运行性能 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.2">↗</a> <code>#4</code></li>
-<li>网易内测 ClawEmail，为 AI Agent 分配真实邮箱 <a href="https://claw.163.com/">↗</a> <code>#5</code></li>
-</ul>
-<h3>前瞻与传闻</h3>
-<ul>
-<li>据称 Google 测试 Omni 视频模型，或于 I/O 大会亮相 <a href="https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/">↗</a> <code>#6</code></li>
-</ul>
-<hr>
-<h2><a href="https://www.sensenova.cn/token-plan">商汤科技推出 Token Plan 服务，限量免费公测</a> <code>#1</code></h2>
-<blockquote>
-<p><strong>商汤科技</strong> <strong>SenseNova</strong> 平台推出 <code>Token Plan</code> 服务公测。</p>
-<p>目前 <code>Free</code> 套餐限时放量中，公测期间可免费调用 <strong>SenseNova</strong> 系列和 <code>DeepSeek-V4-flash</code> 模型。</p>
-<p>后续将推出 <code>Lite</code> 及 <code>Pro</code> 等付费档位。</p>
-</blockquote>
-<p><strong>商汤</strong> <strong>SenseNova</strong> 平台推出 <strong>Token Plan</strong> 服务，现处于免费公测阶段。官方称 <strong>Lite</strong> 及 <strong>Pro</strong> 等付费档位即将上线。</p>
-<p>公测期用户可免费调用 <strong>SenseNova</strong> 自有的 <strong><code>6.7 Flash-Lite</code></strong> 与 <strong><code>U1 Fast</code></strong> 两模型，每模型每 <strong>5 小时</strong> 限 <strong>1500 次</strong> 额度。另有 <strong><code>DeepSeek-V4-flash</code></strong> 模型供每 <strong>5 小时</strong> <strong>150 次</strong> 免费调用。</p>
-<p>该服务原生支持 <strong>Cowork-Skills</strong> 办公技能体系，并可通过 <strong>Hermes Agent</strong> 与 <strong>OpenClaw</strong> 快速接入。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260503/20260503200654_61a242f81b.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260504/20260504082946_86dfef2cb5.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.sensenova.cn/token-plan">https://www.sensenova.cn/token-plan</a></li>
-</ul>
-<hr>
-<h2>DeepSeek API 调整兼容性，修复部分第三方框架 400 错误 <code>#2</code></h2>
-<blockquote>
-<p><strong>DeepSeek</strong>在官方微信群宣布 <strong>DeepSeek API</strong>进行了一些兼容性调整，解决了部分第三方框架调用报 <code>400</code>错误的问题。</p>
-</blockquote>
-<p>近日，<strong>DeepSeek</strong> API 进行了兼容性调整，解决了部分第三方框架在调用时出现 <code>400</code> 错误的问题。</p>
-<p>官方邀请之前因该问题遇到访问障碍的用户重新尝试接入。</p>
-<p>并欢迎继续反馈问题，以便持续优化服务。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260503/20260503200249_0e7ee4d95a.png" alt=""></p>
-<hr>
-<h2><a href="https://x.com/reach_vb/status/2051019108028969251">Codex 发布 Codex Security 插件，集成五个安全工作流</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>Codex</strong>推出了<strong>Codex Security</strong>安全扫描插件，内置安全扫描、威胁建模、漏洞发现、验证和攻击路径分析这五个标准化的<code>AppSec</code>工作流。</p>
-</blockquote>
-<p><strong>Codex</strong> 团队发布了“<strong>Codex Security</strong>”安全插件，目前已可使用。</p>
-<p>该插件将安全审查整合为一条自动化流水线，内置五个应用安全工作流：</p>
-<p><code>安全扫描</code> 对 PR、分支及代码仓库进行全面扫描。</p>
-<p><code>威胁建模</code> 自动绘制仓库地图，识别资产及潜在失效模式。</p>
-<p><code>漏洞发现</code> 探查权限绕过、注入攻击等多种潜在漏洞。</p>
-<p><code>验证</code> 通过构建概念验证和执行测试等方式，分离有效信号与误报。</p>
-<p><code>攻击路径分析</code> 将核实发现转化为攻击者视角的报告，评估严重性并生成最终报告。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d4599b3d-c3ab-40ca-a32a-b1888216b3fc/3b8e62ca-2a3b-4e3d-aa00-5385021d7cb8/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/reach_vb/status/2051019108028969251">https://x.com/reach_vb/status/2051019108028969251</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.2">OpenClaw 发布 2026.5.2 版本，重写插件架构优化运行性能</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>OpenClaw</strong> 发布了 <strong>2026.5.2</strong> 版本，通过重写 <code>插件架构</code>实现<code>npm</code>优先安装，大幅优化了<code>Gateway</code>与<code>Agent</code>的启动性能。</p>
-<p>新版本接入了 <strong>Grok 4.3</strong> 支持，并集中修复了主流消息通道的边缘问题，提升了整体稳定性。</p>
-</blockquote>
-<p>近日，<strong>OpenClaw</strong> 官方正式发布 <code>2026.5.2</code> 版本。</p>
-<p>该版本重写了插件架构，全面切换至 <code>npm</code> 优先安装路径以解决此前的依赖问题，并新增 Beta 通道回退及医生修复功能。</p>
-<p>性能上，显著优化了 <code>Gateway</code> 与 <code>Agent</code> 的启动及热路径，有效降低了就绪延迟与重复 <code>CPU</code> 工作。</p>
-<p>同时，大量修复了 <code>Discord</code>、<code>Slack</code> 及 <code>WhatsApp</code> 等消息通道的边缘情况。</p>
-<p>此外，新增 <code>xAI Grok 4.3</code> 为默认模型，并完善了多项网络搜索引擎集成。</p>
-<p>官方表示，此版本解决了近期升级中用户遇到的多数问题。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260503/20260503195850_dc5dba20b6.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.2">https://github.com/openclaw/openclaw/releases/tag/v2026.5.2</a></li>
-<li><a href="https://x.com/openclaw/status/2050735037230801042">https://x.com/openclaw/status/2050735037230801042</a></li>
-</ul>
-<hr>
-<h2><a href="https://claw.163.com/">网易内测 ClawEmail，为 AI Agent 分配真实邮箱</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>网易</strong>正在内测一款名为 <strong>ClawEmail</strong> 的产品，可以为每个 <code>Agent</code> 分配真实的邮箱地址。</p>
-<p>只要向该邮箱发信就能触发 <code>Agent</code> 处理任务并自动收到回复。</p>
-<p>目前处于内测阶段。</p>
-</blockquote>
-<p><strong>网易 163</strong>团队推出邮件处理引擎<code>ClawEmail</code>，定位"<code>Email for AI Agent</code>"。</p>
-<p>该产品内测期间免费，每账号限建<strong>5</strong>个 Agent 邮箱，每月发信额度<strong>3000</strong>封。用户可为 Agent 分配专属<code>@claw.163.com</code>邮箱，发送邮件即可调用 Agent 并自动获回复。</p>
-<p>产品支持主流框架集成，具备邮件收发、正文解析、附件处理、检索及批量管理功能，单附件限<strong>30MB</strong>。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d4599b3d-c3ab-40ca-a32a-b1888216b3fc/0466a02b-8999-415b-9b4e-62a809c961dd/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://claw.163.com/">https://claw.163.com/</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/">据称 Google 测试 Omni 视频模型，或于 I/O 大会亮相</a> <code>#6</code></h2>
-<blockquote>
-<p>据报道，<strong>Google</strong> 疑似正在 <strong>Gemini</strong> 平台测试名为 <strong>Omni</strong> 的新视频生成模型。</p>
-<p>泄露截图显示它可能是整合图像与视频的全新多模态模型，有望在 <strong>Google I/O 2026</strong> 大会上亮相。</p>
-</blockquote>
-<p>据科技媒体 <strong>TestingCatalog</strong> 报道，泄露截图显示 <strong>Google</strong> 正为 <strong>Gemini</strong> 平台测试名为 <code>Omni</code> 的新视频生成模型。</p>
-<p><code>Omni</code> 或是 <code>Veo</code> 的新包装、全新视频模型，甚至是首个具备视频输出能力的顶级全模态模型。</p>
-<p>该模型极可能在 <strong>5月19日至20日</strong> 的 <strong>Google I/O 2026</strong> 大会亮相。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d4599b3d-c3ab-40ca-a32a-b1888216b3fc/02670c41-55f3-4ab5-994b-0672b25b2381/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/">https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o/</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/79</guid><pubDate>Mon, 04 May 2026 00:51:13 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/80</guid><pubDate>Tue, 05 May 2026 01:13:50 +0000</pubDate></item></channel></rss>
