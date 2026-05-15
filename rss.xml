@@ -1,5 +1,281 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 14 May 2026 06:10:52 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-89/</link><description>AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信已支持将聊天记录一键转发至元宝 ↗ #7 Notion 开放 Agent 编排与自定义工具 ↗ #8 Runway 推出对话式视频生成工具 Runway Ag…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260514/202605140903268088475bad_cover_fbfb.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 15 May 2026 01:00:38 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-15</title><link>https://imjuya.github.io/juya-ai-daily/issue-90/</link><description>AI 早报 2026-05-15 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 ChatGPT 移动应用上线 Codex 远程控制功能 ↗ #1 模型发布 蚂蚁百灵正式开源 Ring-2.6-1T ↗ #2 开发生态 Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 ↗ #3 GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 ↗ #4 SpaceXAI推出编程Agent工具Grok Build早期测试版 ↗ #5 Kimi 发布 WebBridge 扩展，支持第三方 Agent ↗ #6 OpenClaw 更新 2026.5.12 版 ↗ #7 Hermes Agent 集成 Codex App-Server Runtime ↗ #8 Nous…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260515/202605150841510351081fb4_cover_90e8.png" alt=""></p>
+<h1>AI 早报 2026-05-15</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV11X5h6MEfm">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=hvhQ_T-7r1A">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>ChatGPT 移动应用上线 Codex 远程控制功能 <a href="https://openai.com/index/work-with-codex-from-anywhere/">↗</a> <code>#1</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>蚂蚁百灵正式开源 Ring-2.6-1T <a href="https://huggingface.co/inclusionAI/Ring-2.6-1T">↗</a> <code>#2</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0 <a href="https://cline.bot/blog/introducing-cline-sdk-the-upgraded-agent-runtime">↗</a> <code>#3</code></li>
+<li>GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版 <a href="https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/">↗</a> <code>#4</code></li>
+<li>SpaceXAI推出编程Agent工具Grok Build早期测试版 <a href="https://x.ai/cli">↗</a> <code>#5</code></li>
+<li>Kimi 发布 WebBridge 扩展，支持第三方 Agent <a href="https://www.kimi.com/features/webbridge">↗</a> <code>#6</code></li>
+<li>OpenClaw 更新 2026.5.12 版 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.12">↗</a> <code>#7</code></li>
+<li>Hermes Agent 集成 Codex App-Server Runtime <a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/codex-app-server-runtime">↗</a> <code>#8</code></li>
+<li>Nous Portal 携手 Novita Labs 限时提供免费 DeepSeek V4 Flash <a href="https://x.com/Teknium/status/2055051368055046617">↗</a> <code>#9</code></li>
+<li>OpenCode 宣布 Qwen 3.6 Plus 再次免费开放 <a href="https://x.com/opencode/status/2055068702538612784">↗</a> <code>#10</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Anthropic 联手盖茨基金会投入 2 亿美元推进 AI 公益 <a href="https://www.anthropic.com/news/gates-foundation-partnership">↗</a> <code>#11</code></li>
+<li>Cerebras以每股185美元完成IPO并正式挂牌交易 <a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering">↗</a> <code>#12</code></li>
+<li>初创公司 Recursive 完成 6.5 亿美元融资 <a href="https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html">↗</a> <code>#13</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>据报道Apple批评欧盟协助AI对手访问Google服务的措施 <a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">↗</a> <code>#14</code></li>
+<li>消息称 OpenAI 拟因合作未达预期起诉 Apple <a href="https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned">↗</a> <code>#15</code></li>
+<li>消息称 Microsoft 要求内部团队停用 Claude Code 转向 Copilot CLI <a href="https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad">↗</a> <code>#16</code></li>
+<li>报道称美国批准向10家中国企业出售英伟达H200芯片但尚未交付 <a href="https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/">↗</a> <code>#17</code></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/index/work-with-codex-from-anywhere/">ChatGPT 移动应用上线 Codex 远程控制功能</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 宣布在 <strong>ChatGPT</strong> 移动应用中推出 <code>Codex</code> 预览版。该功能现已面向 <strong>iOS</strong> 和 <strong>Android</strong> 平台的所有用户开放，允许其通过手机远程监控和管理运行在本地计算机或开发机上的 <code>Codex</code> 任务，不过目前仅支持连接 <strong>macOS</strong> 端 <code>Codex</code> 应用。此外，官方还宣布正式上线 <code>Remote SSH</code> 和 <code>Hooks</code> 等功能。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 宣布将编程工具 <code>Codex</code> 引入 <strong>ChatGPT</strong> 移动应用，目前该功能已处于预览状态并面向所有套餐（含免费版与 Go 套餐）的 <strong>iOS</strong> 和 <strong>Android</strong> 用户开放。</p>
+<p>用户可通过手机端实时查看跨线程的工作状态、审查代码差异与测试结果、批准指令或更改模型，而真实的开发环境、文件与凭证仍保留在本地或远程计算机上。</p>
+<p>底层通信通过安全中继层跨设备同步状态，但目前手机端仅支持连接 <strong>macOS</strong> 上的 <code>Codex</code> 应用，<strong>Windows</strong> 平台的支持即将推出。</p>
+<p>此外，官方还宣布 <strong>Remote SSH</strong> 和 <code>Hooks</code> 功能正式可用，并推出了面向企业团队的编程访问令牌及本地环境的 <strong>HIPAA</strong> 合规支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/760fb3eb-5fe3-4f51-8da3-6bab6f357b0e/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/760fb3eb-5fe3-4f51-8da3-6bab6f357b0e/m002.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/index/work-with-codex-from-anywhere/">https://openai.com/index/work-with-codex-from-anywhere/</a></li>
+<li><a href="https://x.com/OpenAI/status/2055016850849993072">https://x.com/OpenAI/status/2055016850849993072</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/inclusionAI/Ring-2.6-1T">蚂蚁百灵正式开源 Ring-2.6-1T</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>蚂蚁百灵团队</strong>宣布正式开源其此前发布的万亿参数旗舰思考模型 <code>Ring-2.6-1T</code>。该模型已在 <strong>Hugging Face</strong> 及 <strong>ModelScope</strong> 提供下载。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong> <strong>百灵团队</strong>宣布正式开源其此前发布的万亿参数旗舰思考模型 <code>Ring-2.6-1T</code>，现已面向开发者等群体在 <strong>Hugging Face</strong> 和 <strong>ModelScope</strong> 上线。</p>
+<p>该模型专为真实复杂任务场景设计，核心从“回答”升级为“执行”，重点增强了多步骤任务与工具协作等 <strong>Agent</strong> 执行能力。</p>
+<p>并引入了支持 high 与 xhigh 两个档位的 <code>Reasoning Effort</code> 机制。<strong>蚂蚁集团</strong>称该模型在 <strong>PinchBench</strong> 等多个基准测试中达到 <strong>SOTA</strong> 水平。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/b701c5b4-e828-4c9b-88c9-912521bb174a/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/b701c5b4-e828-4c9b-88c9-912521bb174a/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/inclusionAI/Ring-2.6-1T">https://huggingface.co/inclusionAI/Ring-2.6-1T</a></li>
+<li><a href="https://modelscope.cn/models/inclusionAI/Ring-2.6-1T">https://modelscope.cn/models/inclusionAI/Ring-2.6-1T</a></li>
+</ul>
+<hr>
+<h2><a href="https://cline.bot/blog/introducing-cline-sdk-the-upgraded-agent-runtime">Cline 开源 Cline SDK 并重构底层架构，推出 Cline 2.0</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Cline</strong> 宣布推出并开源 <strong><code>Cline SDK</code></strong>，将核心 <strong>Agent</strong> 运行时抽象为独立的可插拔框架，并基于此推出 <strong>Cline 2.0</strong>。目前其 <strong>CLI</strong> 和看板应用已迁移至该 <strong><code>SDK</code></strong>，IDE 扩展正处于迁移过程中。</p>
+</blockquote>
+<p><strong>Cline</strong> 官方宣布推出并开源 <code>Cline SDK</code>，将原本内置于 <code>VS Code</code> 扩展中的核心 <code>Agent</code> 运行时剥离，重塑为分层、模块化的独立架构。</p>
+<p>基于该 SDK 构建的 <strong>Cline 2.0</strong> 改变了运行时的设计逻辑，使得长时间运行的任务不再因 UI 重启而中断，且具备更好的持久性与跨平台移植能力。</p>
+<p>该框架在运行时层原生支持插件系统、多种 <code>LLM</code> 提供商接入、定时任务以及无需额外编排层的 <code>Agent Teams</code> 多智能体协作，同时内置了对 <code>MCP</code> 连接器的支持。</p>
+<p>目前，<strong>Cline CLI</strong> 和看板应用已基于该 SDK 完成重构，<code>VS Code</code> 和 <code>JetBrains</code> 扩展正在迁移中。</p>
+<p>此外，升级后的 <strong>Cline CLI</strong> 引入了实验性的连接器通道，用户可通过交互式向导将 <code>Agent</code> 接入 <code>WhatsApp</code> 和 <code>Slack</code> 等平台。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/8fe015f5-ee38-442d-b7a2-203f14a380d3/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://cline.bot/blog/introducing-cline-sdk-the-upgraded-agent-runtime">https://cline.bot/blog/introducing-cline-sdk-the-upgraded-agent-runtime</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/">GitHub 推出原生桌面应用 GitHub Copilot app 技术预览版</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>GitHub</strong> 宣布推出原生桌面应用 <strong><code>GitHub Copilot app</code></strong> 技术预览版，目前 <strong>Copilot Pro</strong> 和 <strong>Pro+</strong> 订阅用户可注册抢先体验。</p>
+</blockquote>
+<p><strong>GitHub</strong> 官方宣布其原生桌面应用 <code>GitHub Copilot app</code> 进入技术预览阶段。</p>
+<p>该工具允许开发者基于 <strong>GitHub</strong> 上的 issue、pull request 等上下文直接启动 <code>Agentic</code> 开发，并在拥有专属分支、文件和对话的独立空间内进行隔离工作。</p>
+<p>开发者能够在应用内审查代码变更、通过集成终端验证结果，并直接发起 pull request，还能利用 <code>Agent Merge</code> 自动处理后续审查与检查。</p>
+<p>目前 <code>Copilot Pro</code> 和 <code>Pro+</code> 订阅用户可以注册参与抢先体验；<code>Copilot Business</code> 和 <code>Enterprise</code> 订阅用户将在<strong>本周内</strong>逐步获得访问权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/66256d42-6c18-4e8b-ad1a-c5615c6fb9e6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/">https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/cli">SpaceXAI推出编程Agent工具Grok Build早期测试版</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong>宣布推出 CLI 编程工具 <strong>Grok Build</strong> 早期测试版，集成原生 <code>subagent</code> 视图、全屏终端 UI 及 <code>ACP</code> 集成等功能，目前仅面向 <strong>SuperGrok Heavy</strong> 订阅用户开放。</p>
+</blockquote>
+<p><strong>SpaceXAI</strong> 官方发布了名为 <strong>Grok Build</strong> 的 <code>Agentic</code> 命令行工具早期测试版，用于编写代码、构建应用及自动化工作流。</p>
+<p>该工具提供支持鼠标交互的全屏终端 UI、用于并行处理任务的 <code>subagent</code> 视图、无头模式以及 <code>Agent Client Protocol</code> 集成。并且零配置完全兼容 <code>Claude Code</code> 的插件与配置。</p>
+<p>目前该工具仅限 <strong>SuperGrok Heavy</strong> 订阅用户使用，<strong>SpaceXAI</strong> 官方表示将通过此次测试收集反馈以改进模型与产品。</p>
+<p>部分社区用户在社交媒体上对高达 <strong>300 美元</strong> 每月的订阅门槛表达了不满，希望能向更低级别的订阅者或 API 用户开放测试权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260515/20260515075629_4f667e436a.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/73aa104e-9061-4fd5-b231-d7aa7ee0e51b/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/cli">https://x.ai/cli</a></li>
+<li><a href="https://docs.x.ai/build/overview">https://docs.x.ai/build/overview</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.kimi.com/features/webbridge">Kimi 发布 WebBridge 扩展，支持第三方 Agent</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 正式宣布推出名为"<strong>Kimi WebBridge</strong>"的浏览器扩展，使 <code>AI Agent</code> 能接管浏览器自动执行点击与填写等任务。该工具支持 <code>Kimi Claw Desktop</code>，也兼容 <code>Claude Code</code> 等第三方 Agent。</p>
+</blockquote>
+<p><strong>Kimi</strong> 正式发布浏览器扩展 <strong><code>Kimi WebBridge</code></strong>，允许 AI Agent 在用户的浏览器中自动执行点击、导航、输入和提取等繁琐任务。</p>
+<p>该扩展通过本地服务与 <strong><code>Chrome DevTools Protocol</code></strong> 结合运行，确保登录会话和页面内容等数据完全留在本地设备。</p>
+<p>目前，用户可通过 <strong>Kimi</strong> 官网或 Chrome Web Store 下载该工具，它不仅支持 <strong><code>Kimi Claw Desktop</code></strong>，还兼容 <strong><code>Claude Code</code></strong>、<strong><code>Cursor</code></strong>、<strong><code>Codex</code></strong> 和 <strong><code>Hermes</code></strong> 等多种第三方 Agent。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/b1b262d4-9cce-4f0b-92f5-42903e81bd14/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.kimi.com/features/webbridge">https://www.kimi.com/features/webbridge</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.12">OpenClaw 更新 2026.5.12 版</a> <code>#7</code></h2>
+<blockquote>
+<p><code>OpenClaw</code> 发布 <strong>2026.5.12</strong> 版本，重点优化了安装体积、运行时容错以及与 <code>OpenAI</code> 的集成体验。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 正式发布 <strong>2026.5.12</strong> 版本，重点优化了安装体积、运行时容错以及与 <strong>OpenAI</strong> 的集成体验。</p>
+<p>该版本将 <strong>OpenAI</strong> 设置默认为 <code>ChatGPT/Codex</code> 登录，引入 <code>ACP</code> 备用运行时回退机制以应对停滞的流式响应。</p>
+<p>为了支持更精简的安装，<strong>WhatsApp</strong>、<strong>Slack</strong> 及 <strong>Amazon Bedrock</strong> 等依赖已移出核心运行时。</p>
+<p>此外，<strong>Tg</strong> 渠道获得了隔离轮询和 <strong>HTML</strong> 格式支持。系统安全性也通过沙箱绑定和凭据管理的强化而显著提升。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260515/20260515073444_714598f140.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.12">https://github.com/openclaw/openclaw/releases/tag/v2026.5.12</a></li>
+</ul>
+<hr>
+<h2><a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/codex-app-server-runtime">Hermes Agent 集成 Codex App-Server Runtime</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Hermes Agent</strong> 推出可选的 <code>Codex App-Server Runtime</code> 测试功能。该功能允许 <strong>Hermes</strong> 在处理 <code>openai/*</code> 和 <code>openai-codex/*</code> 模型轮次时，将其交给 <code>Codex CLI app-server</code> 执行。</p>
+</blockquote>
+<p>Nous Research 旗下 <strong>Hermes Agent</strong> 新增可选的 <code>Codex App-Server Runtime</code> 集成。</p>
+<p>开启该功能后，<strong>Hermes</strong> 会将 <strong>OpenAI</strong> 模型的轮次交由 <code>Codex CLI app-server</code> 处理。用户无需 API 密钥即可使用 <strong>ChatGPT</strong> 订阅额度，并直接调用 <code>Codex</code> 内置的终端命令、文件编辑、沙盒隔离及原生插件。</p>
+<p><strong>Hermes</strong> 自身的浏览器自动化、视觉分析等高级工具通过 MCP 回调机制保持可用。但 <code>delegate_task</code>、<code>memory</code> 等依赖内部上下文的工具在此运行时下暂不可用。</p>
+<p>该功能目前为 <strong>Opt-in Beta</strong> 状态，需安装 <strong>0.130.0</strong> 或更高版本的 <code>Codex CLI</code> 并完成单独授权。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/90e81afc-6728-453d-a197-6f07d1106de1/1e920e9c-1735-4323-8385-5b5ebc636b60/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/codex-app-server-runtime">https://hermes-agent.nousresearch.com/docs/user-guide/features/codex-app-server-runtime</a></li>
+<li><a href="https://x.com/NousResearch/status/2054958564951912714">https://x.com/NousResearch/status/2054958564951912714</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Teknium/status/2055051368055046617">Nous Portal 携手 Novita Labs 限时提供免费 DeepSeek V4 Flash</a> <code>#9</code></h2>
+<blockquote>
+<p>Nous Research 宣布，得益于 Novita Labs 支持，<code>DeepSeek V4 Flash</code> 现已在 <strong>Nous Portal</strong> 限时免费提供。</p>
+</blockquote>
+<p><strong>Nous Research</strong>宣布，<code>DeepSeek V4 Flash</code> 模型现已登陆 <strong>Nous Portal</strong> 平台。</p>
+<p>得益于 <strong>Novita Labs</strong> 的支持，该模型目前正通过 <strong>Nous Portal</strong> 的免费层级向用户限时免费开放。</p>
+<p>用户只需注册相关免费层级，即可直接在 <code>Hermes Agent</code> 中调用该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260515/20260515072602_63a6646eca.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Teknium/status/2055051368055046617">https://x.com/Teknium/status/2055051368055046617</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/opencode/status/2055068702538612784">OpenCode 宣布 Qwen 3.6 Plus 再次免费开放</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>OpenCode</strong> 官方宣布 <strong>Qwen 3.6 Plus</strong> 模型再次面向用户免费开放。</p>
+</blockquote>
+<p><strong>OpenCode</strong> 官方宣布 <strong><code>Qwen 3.6 Plus</code></strong> 模型在其平台上再次免费提供。</p>
+<p>此前，由于用户大量消耗平台算力，该模型的免费服务曾受到限制。</p>
+<p>目前，<strong>OpenCode</strong> 团队已找到并扩充了更多的 GPU 资源，以支持本次的“第二轮”免费活动。</p>
+<p>用户现可继续在平台上免费使用该模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260515/20260515082737_8e01242122.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/opencode/status/2055068702538612784">https://x.com/opencode/status/2055068702538612784</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/gates-foundation-partnership">Anthropic 联手盖茨基金会投入 2 亿美元推进 AI 公益</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布与<strong>盖茨基金会</strong>合作，未来四年将投入 <strong>2 亿美元</strong>资金、<code>Claude</code>额度及技术支持，以推进全球健康、生命科学、教育及经济流动性项目。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 官方宣布与<strong>盖茨基金会</strong>建立合作伙伴关系，承诺在未来四年内共同投入 <strong>2 亿美元</strong>的赠款、<code>Claude</code> 使用额度以及技术支持。</p>
+<p>该合作由 <strong>Anthropic</strong> 的 <code>Beneficial Deployments</code> 团队牵头，重点聚焦全球健康与生命科学、教育以及经济流动性三大领域。项目将在美国及全球范围内与多方合作实施。</p>
+<p>作为合作的一部分，<strong>Anthropic</strong> 将开发相关的连接器、基准测试和公共数据集，并把针对农业等特定领域的改进工具作为公共产品公开发布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260515/20260515074436_398cd706f5.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/gates-foundation-partnership">https://www.anthropic.com/news/gates-foundation-partnership</a></li>
+<li><a href="https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/05/ai-anthropic-partnership">https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/05/ai-anthropic-partnership</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering">Cerebras以每股185美元完成IPO并正式挂牌交易</a> <code>#12</code></h2>
+<blockquote>
+<p>芯片公司 <strong>Cerebras Systems</strong> 以每股 <strong>185 美元</strong> 的价格完成首次公开募股并登陆纳斯达克。据媒体报道，该股首日开盘价飙升至 <strong>350 美元</strong>，较发行价大涨 <strong>89%</strong>。</p>
+</blockquote>
+<p><strong>Cerebras Systems</strong> 官方宣布以每股 <strong>185</strong> 美元的价格发行 <strong>3000</strong> 万股 <code>A 类普通股</code>，成功筹集 <strong>55.5</strong> 亿美元资金。</p>
+<p>股票已在纳斯达克全球精选市场开始交易。据报道，受市场对人工智能概念股的狂热追捧，该股首日开盘价飙升至 <strong>350</strong> 美元，较发行价上涨 <strong>89%</strong>。</p>
+<p>基于开盘价计算的彻底稀释后估值达到 <strong>1067.5</strong> 亿美元。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering">https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering</a></li>
+<li><a href="https://www.reuters.com/legal/transactional/cerebras-set-debut-stock-market-gripped-by-ai-mania-2026-05-14/">https://www.reuters.com/legal/transactional/cerebras-set-debut-stock-market-gripped-by-ai-mania-2026-05-14/</a></li>
+<li><a href="https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang">https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html">初创公司 Recursive 完成 6.5 亿美元融资</a> <code>#13</code></h2>
+<blockquote>
+<p>由 <strong>田渊栋</strong> 与 <strong>Richard Socher</strong> 等人联合创办的 <strong>Recursive Superintelligence</strong> 宣布获 <strong>6.5 亿美元</strong> 融资，该公司致力于构建无需人类干预即可持续自我优化的递归式超级智能系统。</p>
+</blockquote>
+<p><strong>Recursive Superintelligence</strong> 正式亮相并宣布完成 <strong>6.5 亿美元</strong> 融资，估值据报达 <strong>46.5 亿美元</strong>。</p>
+<p>该公司由 <strong>8</strong> 位来自 <strong>Meta</strong>、<code>OpenAI</code> 和 <code>DeepMind</code> 等机构的研究者联合创办。核心成员包括 <strong>Richard Socher</strong>、<strong>田渊栋</strong>、<strong>施天麟</strong> 及 <strong>Tim Rocktäschel</strong>。</p>
+<p>团队计划利用“开放式演化”技术，构建能够自动发现弱点并持续优化自身的递归式超级智能系统。据联合创始人透露，其研发将首先聚焦“<strong>AI</strong> 改进 <strong>AI</strong>"，并预计在数季度内推出首批产品。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html">https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">据报道Apple批评欧盟协助AI对手访问Google服务的措施</a> <code>#14</code></h2>
+<blockquote>
+<p>据路透社报道，<strong>Apple</strong> 批评欧盟拟议的帮助 <strong>AI</strong> 竞争对手访问 <strong>Google</strong> 服务的措施，警告此举将引发严重的隐私与安全风险。</p>
+</blockquote>
+<p>据<strong>路透社</strong>报道，<strong>Apple</strong>呼应了<strong>Google</strong>的立场，公开批评欧盟反垄断监管机构拟议的草案措施，反对其强制要求<strong>Google</strong>协助<code>AI</code>竞争对手访问其服务以遵守《数字市场法》。</p>
+<p><strong>Apple</strong>警告称，允许第三方<code>AI</code>服务与系统应用深度交互将对用户隐私、安全性及设备性能构成深远风险。该公司还强烈质疑欧盟委员会的技术专长，批评监管机构仅基于不到三个月的工作就试图取代<strong>Google</strong>工程师的判断，实质上是在重新设计操作系统。</p>
+<p>由于自身同样面临欧盟要求开放生态系统的压力，<strong>Apple</strong>强调此案对其自身的操作系统具有广泛的指示性影响。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/">https://www.reuters.com/sustainability/boards-policy-regulation/apple-criticises-eu-measures-help-ai-rivals-access-google-services-2026-05-13/</a></li>
+</ul>
+<hr>
+<h2><a href="https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned">消息称 OpenAI 拟因合作未达预期起诉 Apple</a> <code>#15</code></h2>
+<blockquote>
+<p>据报道，<strong>OpenAI</strong> 因与 <strong>Apple</strong> 双方于 <strong>2024 年 WWDC</strong> 宣布的 <code>ChatGPT</code> 集成合作未达预期，正考虑对其采取法律行动。</p>
+</blockquote>
+<p>据媒体报道，<strong>OpenAI</strong> 正考虑就双方于 <strong>2024 年</strong> <strong>WWDC</strong> 宣布的 <strong>ChatGPT</strong> 集成合作对 <strong>Apple</strong> 采取法律行动。</p>
+<p>目前已聘请外部律师事务所研究包括发送正式违约通知在内的选项。报道引述未具名 <strong>OpenAI</strong> 高管称，公司“从产品角度已做了一切”。</p>
+<p>但 <strong>Apple</strong> 未能履行协议义务，导致功能被埋没、难以找到。且收入远低于此前预期的 <strong>数十亿美元</strong> 级别。</p>
+<p>该高管透露，<strong>Apple</strong> 曾让 <strong>OpenAI</strong> “盲目信任”，但结果并不理想。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned">https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned</a></li>
+<li><a href="https://9to5mac.com/2026/05/14/openai-preparing-legal-action-against-apple-over-siri-partnership-report/">https://9to5mac.com/2026/05/14/openai-preparing-legal-action-against-apple-over-siri-partnership-report/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad">消息称 Microsoft 要求内部团队停用 Claude Code 转向 Copilot CLI</a> <code>#16</code></h2>
+<blockquote>
+<p>据媒体报道，<strong>Microsoft</strong> 要求内部团队在 <strong>6 月底前</strong> 停用 <code>Claude Code</code> 并转向 <code>GitHub Copilot CLI</code>。另有报道指出，<strong>Microsoft</strong> 构建了让逾百个 <code>AI Agent</code> 互相竞争以寻找 <strong>Windows</strong> 漏洞的系统。</p>
+</blockquote>
+<p>据 <strong>The Verge</strong> 报道，<strong>Microsoft</strong> 正在取消内部大部分 <code>Claude Code</code> 许可证，要求开发者改用 <code>GitHub Copilot CLI</code>。</p>
+<p>此次调整主要针对负责 Windows 和 <strong>Microsoft 365</strong> 等产品的体验与设备团队，工程师需在 <strong>6 月</strong>底前完成过渡。</p>
+<p>官方内部备忘录称此举旨在整合命令行工具，但消息人士指其同样出于削减新财年运营开支的财务考量。</p>
+<p>此外据媒体报道，<strong>Microsoft</strong> 建立了名为 <code>MDASH</code> 的系统，利用超过 <strong>100</strong> 个 <code>AI Agent</code> 互相竞争挖掘漏洞，近期发现了 <strong>16</strong> 个 Windows 安全漏洞。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad">https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad</a></li>
+<li><a href="https://the-decoder.com/microsoft-pits-more-than-100-ai-agents-against-each-other-to-find-windows-vulnerabilities/">https://the-decoder.com/microsoft-pits-more-than-100-ai-agents-against-each-other-to-find-windows-vulnerabilities/</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/">报道称美国批准向10家中国企业出售英伟达H200芯片但尚未交付</a> <code>#17</code></h2>
+<blockquote>
+<p>据<strong>路透社</strong>报道，<strong>美国政府</strong>已批准向约<strong>10</strong>家<strong>中国公司</strong>出售<strong>英伟达</strong><code>H200</code>芯片，每家获准最高采购<strong>7.5万</strong>枚。但因双方的监管审查与附加条件，目前尚未有任何实际交付，该笔交易仍处于停滞状态。</p>
+</blockquote>
+<p>据<strong>路透社</strong>报道，<strong>美国</strong>已批准包括<strong>阿里巴巴</strong>、<strong>腾讯</strong>、<strong>字节跳动</strong>和<strong>京东</strong>在内的约<strong>10</strong>家中国企业购买<strong>英伟达</strong><code>H200</code>芯片，<strong>联想</strong>和<strong>富士康</strong>也获准成为该芯片的分销商。</p>
+<p>根据<strong>美国</strong>许可条款，每位获批客户最高可采购<strong>7.5万</strong>枚芯片，买家可直接向<strong>英伟达</strong>或通过授权分销商购买。</p>
+<p>尽管获得美方放行，但截至目前尚未有任何实际交付。交易因有关部门的供应链安全审查以及美方的多项苛刻附加条件而陷入停滞。</p>
+<p><strong>美国</strong>方面要求买家保证芯片不用于军事用途，且<strong>特朗普政府</strong>达成了一项<strong>美国</strong>获得**25%**销售收入的特殊协议，引发了中方对安全漏洞的担忧。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/">https://www.reuters.com/business/retail-consumer/us-clears-h200-chip-sales-10-china-firms-nvidia-ceo-looks-breakthrough-2026-05-14/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/90</guid><pubDate>Fri, 15 May 2026 01:00:08 +0000</pubDate></item><item><title>2026-05-14</title><link>https://imjuya.github.io/juya-ai-daily/issue-89/</link><description>AI 早报 2026-05-14 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 剥离 Claude 程序化调用额度并临时放宽 Claude Code 限额 ↗ #1 模型发布 小米开源 OneVL 自动驾驶框架 ↗ #2 开发生态 MiniMax 合并订阅套餐，上线 Agent Teams 功能 ↗ #3 OpenAI 推出 Codex 企业版限时促销，新用户免费用两月 ↗ #4 支付宝联合扣子编程上线商家入驻与支付集成 Skill ↗ #5 产品应用 DeepSeek 专家模式现无法上传附件 页面提示资源紧张 #6 腾讯宣布微信已支持将聊天记录一键转发至元宝 ↗ #7 Notion 开放 Agent 编排与自定义工具 ↗ #8 Runway 推出对话式视频生成工具 Runway Ag…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260514/202605140903268088475bad_cover_fbfb.png" alt=""></p>
 <h1>AI 早报 2026-05-14</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1gq5S6wEYZ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Jb2wk5lYw3Q">YouTube</a></p>
 <h2>概览</h2>
@@ -2820,218 +3096,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/81</guid><pubDate>Wed, 06 May 2026 01:30:36 +0000</pubDate></item><item><title>2026-05-05</title><link>https://imjuya.github.io/juya-ai-daily/issue-80/</link><description>AI 早报 2026-05-05 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 豆包拟推三档订阅服务，月费最高五百元 ↗ #1 开发生态 Hermes Agent 升级 Hermes Kanban，Trinity 模型一周免费 ↗ #2 TinyFish 宣布搜索与抓取功能免费面向开发者开放 ↗ #3 Vercel 开源 deepsec 基于 AI Agent 的代码安全扫描框架 ↗ #4 Cursor 团队发布开源内部工作流插件 Cursor Team Kit ↗ #5 Higgsfield 上线 CLI 技能支持 30 余种模型生成 ↗ #6 Google 为 Gemini API 引入事件驱动 Webhooks 推送通知功能 ↗ #7 Claude API平台推出 Workload Identity…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260505/20260505085345673781f61f_cover_7688.png" alt=""></p>
-<h1>AI 早报 2026-05-05</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV13ERkBkEqg">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=JYx0o9gM6tY">YouTube</a></p>
-<h2>概览</h2>
-<h3>要闻</h3>
-<ul>
-<li>豆包拟推三档订阅服务，月费最高五百元 <a href="https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E9%9A%8F%E6%97%B6%E5%B8%AE%E5%BF%99%E7%9A%84-ai-%E5%8A%A9%E6%89%8B/id6459478672">↗</a> <code>#1</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>Hermes Agent 升级 Hermes Kanban，Trinity 模型一周免费 <a href="https://x.com/Teknium/status/2051418338254061937">↗</a> <code>#2</code></li>
-<li>TinyFish 宣布搜索与抓取功能免费面向开发者开放 <a href="https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere">↗</a> <code>#3</code></li>
-<li>Vercel 开源 deepsec 基于 AI Agent 的代码安全扫描框架 <a href="https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base">↗</a> <code>#4</code></li>
-<li>Cursor 团队发布开源内部工作流插件 Cursor Team Kit <a href="https://cursor.com/cn/marketplace/cursor/cursor-team-kit">↗</a> <code>#5</code></li>
-<li>Higgsfield 上线 CLI 技能支持 30 余种模型生成 <a href="https://higgsfield.ai/cli">↗</a> <code>#6</code></li>
-<li>Google 为 Gemini API 引入事件驱动 Webhooks 推送通知功能 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks">↗</a> <code>#7</code></li>
-<li>Claude API平台推出 Workload Identity Federation功能 <a href="https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation">↗</a> <code>#8</code></li>
-<li>OpenClaw 发布 2026.5.3 版本，新增文件传输与实时控制功能 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.3">↗</a> <code>#9</code></li>
-</ul>
-<h3>行业动态</h3>
-<ul>
-<li>Anthropic 联合黑石成立新公司，助 Claude 部署 <a href="https://www.anthropic.com/news/enterprise-ai-services-company">↗</a> <code>#10</code></li>
-<li>Cerebras 启动 IPO 路演，估值 266 亿美元 <a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering">↗</a> <code>#11</code></li>
-</ul>
-<h3>前瞻与传闻</h3>
-<ul>
-<li>传特朗普政府考虑组建工作组在 AI 模型发布前实施安全审查 <a href="https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html">↗</a> <code>#12</code></li>
-</ul>
-<hr>
-<h2><a href="https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E9%9A%8F%E6%97%B6%E5%B8%AE%E5%BF%99%E7%9A%84-ai-%E5%8A%A9%E6%89%8B/id6459478672">豆包拟推三档订阅服务，月费最高五百元</a> <code>#1</code></h2>
-<blockquote>
-<p>豆包 <strong>App Store</strong> 页面近日被发现有每月 <strong>68元</strong> 到 <strong>500元</strong> 不等的三档付费服务定价。</p>
-<p>据媒体报道，<strong>豆包</strong> 官方回应称产品将始终提供免费服务，目前正探索更多增值服务，相关方案仍处测试阶段。</p>
-</blockquote>
-<p>近日，<strong>豆包</strong>在 <strong>App Store</strong> 页面出现"<strong>豆包订阅</strong>"服务声明。</p>
-<p>该声明展示了三个档位价格：<strong>标准版每月 68 元</strong>、<strong>加强版 200 元</strong>、<strong>专业版 500 元</strong>。</p>
-<p><strong>豆包</strong>官方对此回应称，产品将始终提供免费服务，目前正探索更多增值服务。相关方案仍处测试阶段，具体定价与上线时间表尚未公布。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260504/20260504172755_a56ed5939f.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E9%9A%8F%E6%97%B6%E5%B8%AE%E5%BF%99%E7%9A%84-ai-%E5%8A%A9%E6%89%8B/id6459478672">https://apps.apple.com/cn/app/%E8%B1%86%E5%8C%85-%E9%9A%8F%E6%97%B6%E5%B8%AE%E5%BF%99%E7%9A%84-ai-%E5%8A%A9%E6%89%8B/id6459478672</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/Teknium/status/2051418338254061937">Hermes Agent 升级 Hermes Kanban，Trinity 模型一周免费</a> <code>#2</code></h2>
-<blockquote>
-<p><strong>Nous Research</strong>宣布 <strong>Hermes Kanban</strong> 更新，用户运行 <code>hermes update</code> 命令即可解锁无限看板与项目。</p>
-<p>另外，<strong>Arcee AI</strong>的 <code>Trinity-Large-Thinking</code> 模型将在未来一周内于 <strong>Nous Portal</strong> 免费提供。</p>
-</blockquote>
-<p>Nous Research 宣布其 <code>Hermes Kanban</code> 功能更新：现已支持创建无限数量的看板与项目，并允许跨已配置的网关信使将特定项目更新订阅至主频道。用户运行 <code>hermes update</code> 命令即可获取新特性。</p>
-<p>此外，<strong>Arcee AI</strong> 最新模型 <code>Trinity-Large-Thinking</code> 将在<strong>未来一周内</strong>于 <strong>Nous Portal</strong> 免费提供。用户注册该平台后，即可在其 <code>Hermes Agent</code> 中调用该模型。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/043f5fed-2145-4923-b1a4-88db29185256/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505083759_73ccf76354.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/Teknium/status/2051418338254061937">https://x.com/Teknium/status/2051418338254061937</a></li>
-<li><a href="https://x.com/Teknium/status/2051332550401094116">https://x.com/Teknium/status/2051332550401094116</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere">TinyFish 宣布搜索与抓取功能免费面向开发者开放</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>TinyFish</strong>宣布，其<code>Web Search</code>与<code>Fetch</code>两项核心功能即日起面向所有开发者和 Agent 免费开放。</p>
-<p>免费套餐包含每分钟 <strong>5</strong> 次搜索查询和每分钟 <strong>25</strong> 次 URL 抓取的速率限制。</p>
-</blockquote>
-<p><strong>TinyFish</strong>宣布<strong>Web Search</strong>与<strong>Fetch</strong>功能即日起向开发者和<strong>Agent</strong>免费开放，无需信用卡。免费套餐限制为每分钟<strong>5</strong>次搜索和<strong>25</strong>次URL抓取，失败不计配额。</p>
-<p>两项功能基于其自有<code>Chromium</code>集群构建，支持<code>JS</code>渲染，<code>Fetch</code>可将网页清洗为结构化内容以减少模型<code>token</code>消耗。</p>
-<p>服务支持<code>REST API</code>、<code>MCP</code>等多种接口，并已接入<strong>Claude Code</strong>、<strong>Cursor</strong>等主流平台。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/ee890aac-81e0-421d-a7f3-b6ff586ecba1/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere">https://www.tinyfish.ai/blog/search-and-fetch-are-now-free-for-every-agent-everywhere</a></li>
-</ul>
-<hr>
-<h2><a href="https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base">Vercel 开源 deepsec 基于 AI Agent 的代码安全扫描框架</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>Vercel</strong> 开源了基于 <code>coding Agent</code> 的安全扫描框架 <code>deepsec</code>。</p>
-<p>该工具能在本地直接运行，通过五步工作流精准发现大规模代码库中的隐蔽漏洞。</p>
-</blockquote>
-<p><strong>Vercel</strong> 近期开源代码安全扫描框架 <code>deepsec</code>。</p>
-<p>该工具基于 <code>coding Agent</code>，采用 <strong>CLI</strong> 设计，支持本地运行且无需配置云服务。</p>
-<p>其工作流涵盖静态分析、<code>Agent</code> 调查、二次验证、元数据丰富与导出五大阶段，并设计了误报重验证环节以降低 <strong>10%</strong> 至 <strong>20%</strong> 的假阳性率。</p>
-<p>针对大型仓库，该工具支持 <strong>Vercel Sandboxes</strong> 远程并行扩展。</p>
-<p>此外，它提供插件系统供用户定制规则，开发者运行 <code>npx deepsec init</code> 即可上手。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/f7adc328-996d-488d-9dcc-5efe2a18e7b6/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base">https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base</a></li>
-<li><a href="https://github.com/vercel-labs/deepsec">https://github.com/vercel-labs/deepsec</a></li>
-</ul>
-<hr>
-<h2><a href="https://cursor.com/cn/marketplace/cursor/cursor-team-kit">Cursor 团队发布开源内部工作流插件 Cursor Team Kit</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>Cursor</strong>团队发布了其内部工作流插件<code>Cursor Team Kit</code>。</p>
-<p>该套件内置 <code>17</code>个 <code>Skills</code>、<code>1</code> 个<code>Agent</code>与<code>2</code>条规则，全面打包了在代码审查、测试验证及自动修复等环节的自动化实践。</p>
-</blockquote>
-<p>近日，<strong>Cursor</strong> 团队开源发布了内部工作流插件"<strong>Cursor Team Kit</strong>"。该插件可一键安装，无需第三方服务即可运行。</p>
-<p>套件包含 <strong>17</strong> 个 <code>Skills</code>、<strong>1</strong> 个 <code>Agent</code> 与 <strong>2</strong> 条代码规则，打包了团队在 <code>CI</code>、代码审查、测试及代码清理等环节的自动化实践。</p>
-<p>其核心功能涵盖自动迭代修复 <code>CI</code>、生成交互式 PR 评审报告、基于基线验证变更、驱动本地 <code>UI</code> 测试及清理 AI 冗余代码等。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505082035_95b5c7bb21.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://cursor.com/cn/marketplace/cursor/cursor-team-kit">https://cursor.com/cn/marketplace/cursor/cursor-team-kit</a></li>
-</ul>
-<hr>
-<h2><a href="https://higgsfield.ai/cli">Higgsfield 上线 CLI 技能支持 30 余种模型生成</a> <code>#6</code></h2>
-<blockquote>
-<p><strong>Higgsfield</strong>宣布推出<code>CLI</code>与<code>Marketing Skills</code>。现在，任何兼容<code>MCP</code>的<code>Agent</code>都能直接调用三十多种模型。</p>
-<p>这些模型能生成最高 <code>4K</code> 图像与最长 <strong>15秒</strong> 视频。</p>
-</blockquote>
-<p><strong>2026年5月4日</strong>，<code>Higgsfield</code>官方宣布为其AI媒体生成平台推出<code>CLI</code>与<code>Marketing Skills</code>。该功能允许任何兼容<code>MCP</code>的Agent直接调用其平台能力进行专业媒体制作。</p>
-<p>平台开放了超过<strong>30种</strong>图像与视频模型，内置<strong>10余种</strong>预设模式，覆盖产品广告、品牌建设等场景，支持生成最高<code>4K</code>分辨率的图像及最长<strong>15秒</strong>的视频。</p>
-<p>Agent通过指定命令添加技能并经<code>Higgsfield</code>账户认证后，即可使用现有套餐积分，以异步方式执行任务。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/d1e92387-82b3-463b-92e0-6074b1c9dc36/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://higgsfield.ai/cli">https://higgsfield.ai/cli</a></li>
-</ul>
-<hr>
-<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks">Google 为 Gemini API 引入事件驱动 Webhooks 推送通知功能</a> <code>#7</code></h2>
-<blockquote>
-<p><strong>Gemini API</strong> 引入了 <strong>Event-Driven Webhooks</strong> 功能。</p>
-<p>面对 <strong>Agent</strong> 工作流等长耗时任务，<strong>API</strong> 会在完成时主动向服务器推送 <strong>HTTP POST</strong> 通知，告别低效轮询。</p>
-</blockquote>
-<p><strong>Google</strong> 近期为 <strong>Gemini</strong> API 正式引入"<strong>Event-Driven Webhooks</strong>"功能，以推送式通知取代开发者处理耗时任务时的低效轮询操作。</p>
-<p>任务完成时，API 会即时向指定服务器发送 <code>HTTP POST</code> 负载。该服务遵循 <strong>Standard Webhooks</strong> 规范，通过特定签名与时间戳保障操作幂等性并防重放攻击。</p>
-<p>系统提供“至少一次”送达保证及 <code>24小时</code> 自动重试。开发者可进行 <strong>HMAC</strong> 全局配置或 <strong>JWKS</strong> 单次动态路由。</p>
-<p>目前该功能已向所有开发者全面开放，官方同步上线了技术文档与编程指南。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/eb5a694f-c3d4-4724-944e-c752455e8d83/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks">https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks</a></li>
-</ul>
-<hr>
-<h2><a href="https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation">Claude API平台推出 Workload Identity Federation功能</a> <code>#8</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong> 旗下的 <strong>Claude API</strong> 平台推出了 <code>Workload Identity Federation</code> 功能。</p>
-<p>开发者可利用 <strong>AWS</strong>、<strong>GCP</strong> 或 <strong>GitHub Actions</strong> 等环境的短时效 JWT 令牌进行无密钥认证调用 API。</p>
-</blockquote>
-<p><strong>Anthropic</strong> 为 <strong>Claude</strong> 平台正式推出了<strong>工作负载身份联合</strong>（<code>Workload Identity Federation</code>）功能，为开发者提供了不使用静态 API 密钥的“无密钥”认证方式。</p>
-<p>该功能允许用户在 <strong>Claude</strong> 控制台中配置<strong>身份提供商</strong>（<code>IdP</code>）发放的 <code>JWT</code> 令牌与平台内服务账户之间的信任关系。</p>
-<p>随后运行在 <strong>AWS IAM</strong>、<strong>Google Cloud</strong>、<strong>GitHub Actions</strong>、<strong>Kubernetes</strong>、<strong>Microsoft Entra ID</strong> 或 <strong>Okta</strong> 等环境中的工作负载即可用这些短时效令牌换取 <strong>Anthropic</strong> 访问令牌。</p>
-<p>此举旨在消除创建、存储、轮换或泄露长期 API 密钥的风险。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/76888c2c-99ed-4420-9bcc-6ce3ed9483f7/49c76cae-7742-47a7-be30-98f8be88c22d/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation">https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.3">OpenClaw 发布 2026.5.3 版本，新增文件传输与实时控制功能</a> <code>#9</code></h2>
-<blockquote>
-<p><strong>OpenClaw</strong> 发布了 <strong>2026.5.3</strong> 版本。</p>
-<p>新版本支持配对节点间文件传输，同时引入了 <code>/steer</code> 命令与 <code>/side</code> 命令，分别能实时干预任务以及进行不污染上下文的快速提问。</p>
-<p>此外，插件体系全面转向官方 <code>npm</code> 包，系统性能与稳定性也得到显著提升。</p>
-</blockquote>
-<p><strong>OpenClaw</strong> 正式发布 <strong>2026.5.3</strong> 版本。该版本支持在已配对节点间传输文件，每个跃点上限 <strong>16MB</strong>，默认拒绝。</p>
-<p><code>/steer</code> 命令可在不启动新会话或更改默认设置的情况下直接对活跃运行中的任务进行运行时干预。</p>
-<p><code>/side</code> 命令作为 <code>/btw</code> 的别名，允许在保持同一会话上下文的前提下发起无工具、无转录污染的快速提问。</p>
-<p>此外，插件体系转向官方 npm 包为主要来源，引入 <code>ClawHub</code> 后备机制，并拒绝纯源码 TypeScript 包安装。</p>
-<p>官方同时修复了大量交付、状态与恢复问题，并对 macOS 升级恢复路径、使用情况聚合缓存、Web 搜索与 DNS 代理策略等进行优化。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260504/20260504181239_7d89378527.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.3">https://github.com/openclaw/openclaw/releases/tag/v2026.5.3</a></li>
-<li><a href="https://docs.openclaw.ai/">https://docs.openclaw.ai/</a></li>
-<li><a href="https://docs.openclaw.ai/plugins/reference/file-transfer">https://docs.openclaw.ai/plugins/reference/file-transfer</a></li>
-<li><a href="https://docs.openclaw.ai/tools/steer">https://docs.openclaw.ai/tools/steer</a></li>
-<li><a href="https://docs.openclaw.ai/cli/plugins">https://docs.openclaw.ai/cli/plugins</a></li>
-<li><a href="https://docs.openclaw.ai/tools/btw">https://docs.openclaw.ai/tools/btw</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.anthropic.com/news/enterprise-ai-services-company">Anthropic 联合黑石成立新公司，助 Claude 部署</a> <code>#10</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong>宣布与<strong>Blackstone</strong>等投资方联合成立一家AI服务公司，并加入<strong>Claude Partner Network</strong>。</p>
-<p>通过专属工程团队帮助中型企业，将**<code>Claude</code>**模型定制部署到其核心业务中。</p>
-</blockquote>
-<p>近日，<strong>Anthropic</strong>与<strong>Blackstone</strong>、<strong>H&amp;F</strong>、<strong>Goldman Sachs</strong>联合成立新<code>AI</code>服务公司。</p>
-<p>官方公告称，该公司旨在帮助中型企业将<code>Claude</code>模型部署到核心业务并定制解决方案。</p>
-<p>据媒体报道，该合资企业估值约<strong>15亿美元</strong>。其中，<strong>Anthropic</strong>、<strong>Blackstone</strong>和<strong>H&amp;F</strong>各出资约<strong>3亿美元</strong>，<strong>Goldman Sachs</strong>出资约<strong>1.5亿美元</strong>。</p>
-<p><strong>Anthropic</strong>高管表示，新公司加入<code>Claude Partner Network</code>，为生态带来额外运营能力与资本。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505081736_570baf7dd8.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.anthropic.com/news/enterprise-ai-services-company">https://www.anthropic.com/news/enterprise-ai-services-company</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering">Cerebras 启动 IPO 路演，估值 266 亿美元</a> <code>#11</code></h2>
-<blockquote>
-<p><strong>Cerebras Systems</strong> 正推进首次公开募股。</p>
-<p>该公司计划最高募资 <strong>35亿美元</strong>。</p>
-<p>此轮募资对应市值约为 <strong>266.2亿美元</strong>。</p>
-</blockquote>
-<p><strong>AI 芯片公司</strong> <strong>Cerebras Systems</strong>正推进 IPO，计划以每股 <strong>115 至 125 美元</strong>发行 <strong>2800 万股</strong>。若按上限定价将募资 <strong>35 亿美元</strong>，估值约 <strong>266.2 亿美元</strong>。</p>
-<p><code>SEC</code>文件显示，<strong>Cerebras</strong>与 <strong>OpenAI</strong>深度绑定：双方签有超 <strong>200 亿美元</strong>多年期协议，<strong>OpenAI</strong>同意部署 <strong>750 兆瓦</strong>算力。</p>
-<p><strong>OpenAI</strong>曾提供 <strong>10 亿美元</strong>贷款，并获超 <strong>3300 万股</strong>认股权证，其高管为早期投资者。</p>
-<p>财务方面，<strong>Cerebras</strong>上一财年营收增至 <strong>5.1 亿美元</strong>并扭亏为盈。据媒体报道，该 IPO 已获约 <strong>100 亿美元</strong>认购订单，需求远超发行规模。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering">https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html">传特朗普政府考虑组建工作组在 AI 模型发布前实施安全审查</a> <code>#12</code></h2>
-<blockquote>
-<p>据报道，受<strong>Anthropic</strong>推出的<code>Mythos</code>模型所触发，<strong>白宫</strong>已向科技企业通报。</p>
-<p>正考虑发布行政命令成立政企联合的<code>AI</code>工作组，以研究在<code>AI</code>模型公开发布前实施政府安全审查的流程。</p>
-</blockquote>
-<p>据**《纽约时报》<strong>援引</strong>美国官员<strong>及知情人士消息报道，此前对人工智能采取不干预政策的</strong>特朗普政府**，正在讨论对公开发布前的<code>AI</code>模型实施政府监督。</p>
-<p>这包括考虑通过行政命令成立一个由科技公司高管和政府官员组成的<strong>AI工作组</strong>，以研究潜在的审查流程。该政策转变始于<strong>Anthropic</strong>推出强大<code>AI</code>模型<code>Mythos</code>之后。</p>
-<p><strong>白宫</strong>官员已在上周向<strong>Anthropic</strong>、<strong>谷歌</strong>和<strong>OpenAI</strong>的高管通报了部分计划。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260505/20260505082844_ab10f76bd2.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html">https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/80</guid><pubDate>Tue, 05 May 2026 01:13:50 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/81</guid><pubDate>Wed, 06 May 2026 01:30:36 +0000</pubDate></item></channel></rss>
