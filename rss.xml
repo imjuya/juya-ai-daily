@@ -1,5 +1,585 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 19 May 2026 01:19:47 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-95/</link><description>AI 早报 2026-05-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview ↗ #1 模型发布 Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 ↗ #2 开发生态 Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 ↗ #3 Claude Code 上线基于 Opus 4.7 的 /fast 模式 ↗ #4 GitHub 发布多项 Copilot 更新 一键修复 Actions 上线 ↗ #5 OpenRouter 发布长周期 Agent 构建原语与 SDK ↗ #6 Browserbase 推出 Browse.sh 技能目录…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260519/20260519090243818278329c_cover_fb7c.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 20 May 2026 02:23:10 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-20</title><link>https://imjuya.github.io/juya-ai-daily/issue-96/</link><description>AI 早报 2026-05-20 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Google 发布 Gemini 3.5 Flash 模型 ↗ #1 Google 发布视频生成模型 Gemini Omni ↗ #2 Google 发布 Gemini App 重大更新 ↗ #3 Google AI Ultra降价至200美元并新增100美元月费档位 ↗ #4 Google 推出 AI Studio 原生 Android 应用构建及移动端预注册 ↗ #5 Google发布Antigravity 2.0并推出CLI工具，要求Gemini CLI用户迁移 ↗ #6 DeepSeek 官方回应特定字符触发异常 #7 模型发布 字节跳动开源原生多模态模型 Lance ↗ #8 Odyssey 发布 Starchild…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260520/202605200952213603257384_cover_93fd.png" alt=""></p>
+<h1>AI 早报 2026-05-20</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV141Ly6LE7x">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=LkX5V-Qn8Lc">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Google 发布 Gemini 3.5 Flash 模型 <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">↗</a> <code>#1</code></li>
+<li>Google 发布视频生成模型 Gemini Omni <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni">↗</a> <code>#2</code></li>
+<li>Google 发布 Gemini App 重大更新 <a href="https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app">↗</a> <code>#3</code></li>
+<li>Google AI Ultra降价至200美元并新增100美元月费档位 <a href="https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/">↗</a> <code>#4</code></li>
+<li>Google 推出 AI Studio 原生 Android 应用构建及移动端预注册 <a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026">↗</a> <code>#5</code></li>
+<li>Google发布Antigravity 2.0并推出CLI工具，要求Gemini CLI用户迁移 <a href="https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/">↗</a> <code>#6</code></li>
+<li>DeepSeek 官方回应特定字符触发异常 <code>#7</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>字节跳动开源原生多模态模型 Lance <a href="https://lance-project.github.io/">↗</a> <code>#8</code></li>
+<li>Odyssey 发布 Starchild-1 与多智能体模型 Agora-1 <a href="https://odyssey.ml/introducing-agora-1">↗</a> <code>#9</code></li>
+<li>1B 参数模型 HRM-Text-1B 发布，采用双时间尺度层级推理架构 <a href="https://huggingface.co/sapientinc/HRM-Text-1B">↗</a> <code>#10</code></li>
+<li>NVIDIA 开源 Nemotron-Labs-Diffusion 系列模型 <a href="https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B">↗</a> <code>#11</code></li>
+<li>Skywork发布Agent模型SkyClaw-v1.0及轻量版 <a href="https://www.apifree.ai/">↗</a> <code>#12</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>SpaceXAI 宣布 Grok 订阅接入 OpenClaw <a href="https://x.ai/news/grok-openclaw">↗</a> <code>#13</code></li>
+<li>Anthropic 推出 Claude Managed Agents 自托管沙箱与 MCP 隧道 <a href="https://claude.com/blog/claude-managed-agents-updates">↗</a> <code>#14</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>腾讯发布AI助手Marvis，支持自然语言控屏与本地隐私模式 <a href="https://marvis.qq.com/">↗</a> <code>#15</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>Andrej Karpathy 宣布加入 Anthropic 回归大模型研发 <a href="https://x.com/karpathy/status/2056753169888334312">↗</a> <code>#16</code></li>
+<li>OpenAI 推出 Guaranteed Capacity 算力保障服务 <a href="https://openai.com/business/guaranteed-capacity/">↗</a> <code>#17</code></li>
+<li>谷歌联手黑石建 AI 云公司，2027 年目标上线 500 兆瓦 <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud">↗</a> <code>#18</code></li>
+<li>月之暗面20亿美元融资步入尾声 获国资及央企加持 <a href="https://www.ithome.com/0/952/336.htm">↗</a> <code>#19</code></li>
+<li>KPMG 与 Anthropic 建立全球联盟并向超 27 万员工推出 Claude <a href="https://www.anthropic.com/news/anthropic-kpmg">↗</a> <code>#20</code></li>
+<li>报道称：Meta计划裁员8000人以抵消AI巨额支出 <a href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency">↗</a> <code>#21</code></li>
+</ul>
+<h3>Google I/O</h3>
+<ul>
+<li>Google 搜索发布 AI Mode 重大更新 <a href="https://blog.google/products-and-platforms/products/search/search-io-2026/">↗</a> <code>#22</code></li>
+<li>Google 发布智能购物车Universal Cart并扩展UCP与AP2 <a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/">↗</a> <code>#23</code></li>
+<li>谷歌推出 Gemini for Science 科研工具集 <a href="https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/">↗</a> <code>#24</code></li>
+<li>Google 推出 Project Genie 与 Street View 整合功能 <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/">↗</a> <code>#25</code></li>
+<li>Google Flow 引入全新 Agent 与 Gemini Omni 模型 <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/">↗</a> <code>#26</code></li>
+<li>Pomelli 推出 AI Agent 及品牌手册与建站功能 <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities/">↗</a> <code>#27</code></li>
+<li>谷歌发布 Wear OS 7：最高提升 10% 续航，将引入 Gemini Intelligence <a href="https://developer.android.com/blog/posts/what-s-new-in-wear-os-7">↗</a> <code>#28</code></li>
+<li>谷歌发布 Ask YouTube 对话式搜索功能 <a href="https://blog.youtube/news-and-events/youtube-news-google-io-2026/">↗</a> <code>#29</code></li>
+<li>Chrome 148 推出稳定版 Prompt API，WebMCP 源试用即将开启 <a href="https://developer.chrome.com/docs/modern-web-guidance">↗</a> <code>#30</code></li>
+<li>Gemini API 引入 Managed Agents 一键启动云端沙箱 Agent <a href="https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/">↗</a> <code>#31</code></li>
+<li>Google 升级端侧 AI 工具栈，AI Edge Gallery 支持 MCP 并扩充平台生态 <a href="https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/">↗</a> <code>#32</code></li>
+<li>Google 预告 Agent 状态栏追踪功能 Android Halo <a href="https://blog.google/products-and-platforms/platforms/android/android-halo/">↗</a> <code>#33</code></li>
+<li>Google预告Gemini智能音频眼镜 <a href="https://goo.gle/intelligenteyewear">↗</a> <code>#34</code></li>
+<li>Google 宣布Workspace多项AI更新 <a href="https://blog.google/products-and-platforms/products/workspace/workspace-updates/">↗</a> <code>#35</code></li>
+<li>Google与OpenAI深化SynthID合作并扩展内容验证工具 <a href="https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/">↗</a> <code>#36</code></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Google 发布 Gemini 3.5 Flash 模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Google</strong>正式发布<code>Gemini 3.5 Flash</code>模型。官方称该模型在编码和<code>Agent</code>任务上超越前代，并且速度快<strong>四倍</strong>。它能自主规划工作流并部署协作子<code>Agent</code>，已成为<code>Gemini</code>和<code>AI Mode</code>的默认模型。同时<strong>Google</strong>宣布<strong>下个月</strong>将发布<code>Gemini 3.5 Pro</code>。</p>
+</blockquote>
+<p><strong>Google</strong> 正式发布最新 AI 模型系列 <code>Gemini 3.5</code>，并率先推出专为复杂任务设计的 <code>Gemini 3.5 Flash</code>。</p>
+<p>官方称，该模型在编码和 Agent 任务上超越了前代 <code>3.1 Pro</code>，输出速度比其他前沿模型快 <strong>4 倍</strong>，且运行成本通常不到后者的一半。</p>
+<p>该模型现已通过 <code>Antigravity 2.0</code> 平台及 <code>Gemini API</code> 向开发者普遍开放，并成为 <strong>Gemini 应用</strong> 和 <strong>Google 搜索</strong> AI Mode 的全球默认模型。</p>
+<p>此外，<strong>Google</strong> 官方确认计划于下个月发布 <code>3.5 Pro</code> 模型，未来该模型将作为主控调度 <code>3.5 Flash</code> 执行具体的 Agent 任务。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/815030dd-b0ef-40a3-885b-5e1c6e264613/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260520/20260520085248_0d19732db9.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni">Google 发布视频生成模型 Gemini Omni</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Google</strong> 在 <strong>IO</strong> 大会发布多模态模型 <code>Gemini Omni</code> 及首发版本 <code>Gemini Omni Flash</code>，支持通过图文音视组合输入生成视频并进行对话式编辑，目前已面向全球付费订阅用户开放。</p>
+</blockquote>
+<p><strong>Google</strong> 推出多模态模型 <code>Gemini Omni</code>，首发版本 <code>Omni Flash</code> 现已向 <strong>Gemini App</strong> 和 <strong>Flow</strong> 平台的全球 <strong>Plus</strong>、<strong>Pro</strong> 及 <strong>Ultra</strong> 订阅用户开放。</p>
+<p>该模型支持基于文本、图像、音频和视频的任意组合输入进行视频生成，并允许用户利用自然语言进行视频编辑及创建数字 Avatar。</p>
+<p>官方计划本周起将此功能陆续推送至 <strong>YouTube Shorts</strong>，未来几周将通过 API 面向开发者开放。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/da9b675c-83b0-43d9-9a80-cdb7e0155cb8/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni</a></li>
+<li><a href="https://deepmind.google/models/gemini-omni/">https://deepmind.google/models/gemini-omni/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app">Google 发布 Gemini App 重大更新</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布对 <strong>Gemini App</strong> 进行全面升级，推出全新的 <code>Neural Expressive</code> 设计语言，并发布了个性化早间摘要 <code>Agent Daily Brief</code> 以及 <code>24/7</code> 全天候个人 Agent <code>Gemini Spark</code>。其中，<strong>Daily Brief</strong> 今日起面向美国地区的部分订阅者推出，而 <strong>Gemini Spark</strong> 计划下周向美国的 <strong>AI Ultra</strong> 订阅者开启 <code>Beta</code> 测试，同时官方还启用了基于运算量的新额度系统。</p>
+</blockquote>
+<p><strong>Google</strong> 官方宣布对 <strong>Gemini App</strong> 进行重大更新，推出了全新的设计语言、多款 <strong>Agent</strong> 以及 <strong>AI</strong> 视频模型。</p>
+<p>官方推出的个性化早间摘要 Agent <strong>Daily Brief</strong> 能够综合用户的 <strong>Gmail</strong>、日历和任务信息并提供优先级排序和下一步行动建议。该功能目前已开始面向美国地区年满 <strong>18</strong> 岁的 <strong>Google AI Plus</strong>、<strong>Pro</strong> 和 <strong>Ultra</strong> 订阅者推出。</p>
+<p>此外，全新的 <strong>24/7</strong> 全天候云端 Agent <strong>Gemini Spark</strong> 和视频模型 <strong>Gemini Omni</strong> 也同步登场。前者将于下周面向美国的 <strong>AI Ultra</strong> 订阅者开启 <strong>Beta</strong> 测试，后者已面向全球订阅者推出。</p>
+<p>伴随新功能上线，官方启用了基于复杂程度的新额度系统，将额度重置周期设定为 <strong>5</strong> 小时，并明确了各订阅层级的倍数关系。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/b9b37e73-af35-4af4-bb64-f25285b68547/m002.gif" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/b9b37e73-af35-4af4-bb64-f25285b68547/m003.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260519/20260519193619_cb86a5971a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app">https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app</a></li>
+<li><a href="https://support.google.com/gemini/answer/17004136">https://support.google.com/gemini/answer/17004136</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/">Google AI Ultra降价至200美元并新增100美元月费档位</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布，<code>AI Ultra</code>订阅新增每月 <strong>100美元</strong> 档位，并将顶级档位从 <strong>250美元</strong> 降至 <strong>200美元</strong>。新档位提供 <strong>5倍</strong> <code>Gemini</code> 使用限制、<code>20TB</code> 云存储和 <strong>YouTube Premium</strong>，<strong>即日</strong> 上线。</p>
+</blockquote>
+<p><strong>谷歌</strong>在 <strong>Google I/O 2026</strong> 大会期间对 <code>AI Ultra</code> 订阅计划做出调整：原每月 <strong>250美元</strong> 的顶级档位正式降至 <strong>200美元</strong>。</p>
+<p>同时推出面向开发者、技术负责人和高级创作者的每月 <strong>100美元</strong> 新档位。<strong>100美元</strong> 档位提供 <strong>5倍</strong> 于 <code>Pro</code> 计划的 <code>Gemini app</code> 与 <code>Google Antigravity</code> 使用限额。</p>
+<p>该档位还包含 <strong>20TB</strong> 云端存储、<strong>YouTube Premium</strong> 个人版以及优先体验新功能。<strong>200美元</strong> 档位则保留 <strong>20倍</strong> 使用限额及原有全部权益。</p>
+<p>即日起全球上线，<code>AI Plus</code> 和 <code>Pro</code> 计划也同步获得多项权益升级。部分功能仅限美国，计费模式亦转向按计算量动态分配的新机制。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/43a6680a-2c57-41d9-9248-8c5aa2cf49af/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/">https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/</a></li>
+<li><a href="https://one.google.com/about/google-ai-plans/">https://one.google.com/about/google-ai-plans/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026">Google 推出 AI Studio 原生 Android 应用构建及移动端预注册</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布 <strong>AI Studio</strong> 推出多项更新，原生支持通过提示词构建 <strong>Android</strong> 原生应用，并集成 <strong>Google Workspace</strong>，同时开启移动端 App 预注册。</p>
+</blockquote>
+<p>在 <code>Google I/O 2026</code> 大会上，<strong>Google</strong> 官方宣布其网页端开发工具 <code>Google AI Studio</code> 新增原生 <code>Android</code> 应用构建能力，用户无需配置本地环境即可生成基于 <code>Kotlin</code> 和 <code>Jetpack Compose</code> 的应用代码。</p>
+<p>该平台现已深度集成 <code>Google Workspace</code>，允许开发者直接在应用中调用 <code>Docs</code>、<code>Sheets</code> 和 <code>Gmail</code> 等服务，并引入了包含自定义图片生成的全新设计功能。</p>
+<p>用户目前可将构建的应用免费部署至 <code>Cloud Run</code>（<strong>无需信用卡</strong>），或将测试版一键推送至 <strong>Google Play Console</strong> 的内部测试轨道，但官方提示目前生成的原生应用仅限个人使用。</p>
+<p>此外，<strong>Google</strong> 正式推出了 <code>AI Studio</code> 的移动端 App 并已开放预注册，支持开发者随时随地进行代码迭代和预览。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/eaf0adac-e188-4673-bba6-0f8ea3efb44f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026">https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026</a></li>
+<li><a href="https://android-developers.googleblog.com/2026/05/build-android-apps-google-ai-studio.html">https://android-developers.googleblog.com/2026/05/build-android-apps-google-ai-studio.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/">Google发布Antigravity 2.0并推出CLI工具，要求Gemini CLI用户迁移</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>Google</strong>发布<code>Antigravity 2.0</code>，同步推出<code>Antigravity CLI </code>、独立桌面应用与<code>SDK</code>。即日起，<code>Gemini CLI</code>个人及免费用户须迁移至<code>Antigravity CLI</code>。</p>
+</blockquote>
+<p><strong>Google</strong> 在近日的 <strong>Google I/O</strong> 大会上正式发布 <code>Antigravity 2.0</code> 开发平台，并同步推出 <code>Antigravity CLI</code>、独立桌面应用与 SDK。它们共享统一的 agent harness，为开发者提供多端一致的 agent-first 体验。</p>
+<p>桌面应用支持原生语音交互、<code>Multi-Agent</code> 并行与后台任务编排。CLI 采用 <strong>Go</strong> 语言重构以提升异步工作流执行速度，两者还同步用户的常用设置。</p>
+<p>目前新平台已面向全球开放。但官方已要求所有通过 <strong>Google AI Pro/Ultra</strong> 或免费 <strong>Gemini Code Assist</strong> 使用 <strong>Gemini CLI</strong> 的个人消费者在约 <strong>30 天</strong> 内迁移至 <code>Antigravity CLI</code>。该旧服务将于约 <strong>30 天</strong> 后关停。</p>
+<p>持企业许可的用户及通过 <strong>Google Cloud</strong> 的使用者不受影响，可继续使用或选择迁移。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/cdff0f06-6ac8-4065-9e3f-8bc01afa1fe6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/">https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/</a></li>
+<li><a href="https://antigravity.google/blog/introducing-google-antigravity-cli">https://antigravity.google/blog/introducing-google-antigravity-cli</a></li>
+<li><a href="https://github.com/google-antigravity/antigravity-cli">https://github.com/google-antigravity/antigravity-cli</a></li>
+</ul>
+<hr>
+<h2>DeepSeek 官方回应特定字符触发异常 <code>#7</code></h2>
+<blockquote>
+<p>针对输入特定特殊字符触发模型异常回复的现象，<strong>DeepSeek</strong> 官方发布说明确认，该现象属于模型幻觉，明确表示不存在安全漏洞或隐私泄露风险，后续将通过针对性训练修复该问题。</p>
+</blockquote>
+<p><strong>DeepSeek</strong> 官方发布说明，回应了用户反馈的输入特定特殊字符触发模型异常回复的现象。</p>
+<p>官方技术团队经排查后确认，该异常属于特殊字符引发的模型幻觉，明确表示不涉及安全漏洞或用户隐私泄露。</p>
+<p>后续官方将通过针对性训练增强模型对此类字符的识别与处理能力，以修复已知问题并优化模型表现。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260519/20260519192819_bf696f7811.png" alt=""></p>
+<hr>
+<h2><a href="https://lance-project.github.io/">字节跳动开源原生多模态模型 Lance</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>字节</strong>开源了 <strong>3B</strong> 参数的原生统一多模态模型 <code>Lance</code>，该模型支持在同一框架内完成图像和视频的理解、生成与编辑。据官方数据，其在多项生成基准测试中表现强劲。</p>
+</blockquote>
+<p><strong>字节跳动</strong>智能创作团队发布了 <strong>3B</strong> 参数的原生统一多模态模型 <code>Lance</code>，并在 GitHub 和 HuggingFace 上开源了代码与权重。</p>
+<p>官方信息显示，该模型采用双流混合专家架构，完全从零开始使用 <strong>128</strong> 块 <code>A100</code> GPU 训练，原生支持文生图、文生视频、多模态理解和编辑等六类任务。</p>
+<p>官方宣称，<code>Lance</code> 在 <code>VBench</code> 视频生成等基准测试中取得了较高分数，超越了现有的部分开源统一模型。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/d94abe40-db9c-438f-8332-7cc9ae98ba12/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/d94abe40-db9c-438f-8332-7cc9ae98ba12/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://lance-project.github.io/">https://lance-project.github.io/</a></li>
+<li><a href="https://github.com/bytedance/Lance">https://github.com/bytedance/Lance</a></li>
+<li><a href="https://huggingface.co/bytedance-research/Lance">https://huggingface.co/bytedance-research/Lance</a></li>
+</ul>
+<hr>
+<h2><a href="https://odyssey.ml/introducing-agora-1">Odyssey 发布 Starchild-1 与多智能体模型 Agora-1</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Odyssey</strong> 发布 <code>Starchild-1</code> 预览版与 <code>Agora-1</code> 研究预览版。<code>Starchild-1</code> 可实时生成音视频，<code>Agora-1</code> 支持人类和 <strong>AI</strong> 在同一世界中实时互动。</p>
+</blockquote>
+<p><strong>Odyssey</strong> 官方宣布推出 <strong>Starchild-1</strong> 预览版和 <strong>Agora-1</strong> 研究预览版。</p>
+<p>官方称 <strong>Starchild-1</strong> 是首个实时多模态世界模型，能自回归生成同步音视频并响应用户输入。</p>
+<p>而 <strong>Agora-1</strong> 通过解耦模拟与渲染，允许多个参与者（人类或 AI）在同一世界中实时交互。用户现已可在线体验基于 <code>GoldenEye</code> 的多人对战演示。</p>
+<p>团队还在社交平台确认 <strong>Agora-2</strong> 即将到来。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/2fe514ba-2938-41b5-a2c7-7ebf152a2b62/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://odyssey.ml/introducing-agora-1">https://odyssey.ml/introducing-agora-1</a></li>
+<li><a href="https://agora.odyssey.ml/">https://agora.odyssey.ml/</a></li>
+<li><a href="https://odyssey.ml/introducing-starchild-1">https://odyssey.ml/introducing-starchild-1</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/sapientinc/HRM-Text-1B">1B 参数模型 HRM-Text-1B 发布，采用双时间尺度层级推理架构</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>Sapient Intelligence</strong> 发布了 <strong>10 亿</strong>参数的语言模型 <code>HRM-Text-1B</code>。官方称该模型基于双时间尺度的层级循环架构，实现了极具竞争力的性能。该模型目前属于预对齐状态。</p>
+</blockquote>
+<p><strong>Sapient Intelligence</strong> 推出了 <strong>10 亿参数</strong>的语言模型 <code>HRM-Text-1B</code>，并同步在 <code>Hugging Face</code> 和 <code>GitHub</code> 开源了模型权重及完整预训练框架。</p>
+<p>该模型基于全新的层级推理模型（<code>HRM</code>）架构，由快慢两个 <code>Transformer</code> 模块迭代计算。</p>
+<p>官方宣称，通过结构化数据集和架构优化，该模型仅需约 <strong>400 亿 token</strong> 即可完成预训练。</p>
+<p>参考运行显示使用 <strong>16 块 H100</strong> 训练耗时约 <strong>46 小时</strong>，成本在 <strong>1000 至 1400 美元</strong>左右。</p>
+<p>在可用性方面，当前发布的是预对齐基础检查点，尚未经过指令微调或多轮对话对齐。</p>
+<p>官方明确其仅支持英语且未包含代码训练数据。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/bee4a371-3c71-4f85-90b4-14d130472154/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/sapientinc/HRM-Text-1B">https://huggingface.co/sapientinc/HRM-Text-1B</a></li>
+<li><a href="https://github.com/sapientinc/HRM-Text">https://github.com/sapientinc/HRM-Text</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B">NVIDIA 开源 Nemotron-Labs-Diffusion 系列模型</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 发布 <strong>Nemotron-Labs-Diffusion</strong> <code>模型系列</code>。该系列支持通过切换注意力模式在自回归、并行扩散及自推测解码三种模式间转换。</p>
+</blockquote>
+<p><strong>NVIDIA</strong> 于近期开源了 <strong>Nemotron-Labs-Diffusion</strong> 系列模型，包括 <code>3B</code>、<code>8B</code>、<code>14B</code> 的 Base 和 Instruct 版本，以及一款 <code>9B</code> 参数规模的视觉语言模型（VLM-8B）。</p>
+<p>该系列架构的核心特点是支持三模式解码。用户仅需在推理时切换注意力模式，即可在传统的自回归（AR）解码、基于扩散的并行解码，以及结合两者的自推测解码模式间无缝切换。</p>
+<p>根据官方提供的数据，相较于使用 <code>MTP</code> 方案的 <strong>Qwen3-8B-Eagle3</strong>，其自推测模式在接受长度上实现约 <strong>3 倍</strong> 提升。在 <strong>GB200</strong> 平台运行 <code>8B</code> 模型时，配合定制 CUDA 内核，推理速度可达 <strong>1015 tok/sec</strong>。</p>
+<p>该系列模型采用 <strong>BF16</strong> 精度，依赖 <code>transformers&gt;=5.0.0</code> 环境，并已在 Hugging Face 上基于不同的官方许可协议开放下载。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/570c3595-b2a0-4edc-9061-862871ee5402/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B">https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B</a></li>
+<li><a href="https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-VLM-8B">https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-VLM-8B</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.apifree.ai/">Skywork发布Agent模型SkyClaw-v1.0及轻量版</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Skywork</strong> 官方发布了专为 <strong>Agent</strong> 环境优化的 <strong>SkyClaw</strong> 模型及其轻量版变体，目前正通过 <code>APIFree</code> 平台提供免费 API 访问。</p>
+</blockquote>
+<p><strong>Skywork</strong> 正式推出 <strong>Agent</strong> 模型 <strong><code>SkyClaw-v1.0</code></strong> 与主打低延迟、低成本的变体 <strong><code>SkyClaw-v1.0-lite</code></strong>。</p>
+<p>官方称这两个模型在基于真实用户模式构建的 <strong><code>PinchBench</code></strong> 和 <strong><code>Claw-Eval</code></strong> 等基准测试中表现优于 <strong>Minimax 2.7</strong>、<strong>DeepSeek V4 Flash</strong> 和 <strong>Qwen</strong>。</p>
+<p><strong><code>SkyClaw-v1.0</code></strong> 原生支持 <strong><code>MCP</code></strong>、函数调用及包含流式输出的多种思考模式，重点强化了多步规划与工具调用能力。</p>
+<p>用户现可通过 <strong>APIFree</strong> 平台获取 <strong>API Key</strong> 进行免费调用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/10898dcf-0c87-448d-a772-a0e2b78833c1/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.apifree.ai/">https://www.apifree.ai/</a></li>
+<li><a href="https://x.com/Skywork_ai/status/2056712235909890368">https://x.com/Skywork_ai/status/2056712235909890368</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.ai/news/grok-openclaw">SpaceXAI 宣布 Grok 订阅接入 OpenClaw</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong> 宣布 <strong>Grok</strong> 现已支持接入 <code>OpenClaw</code>，持有 <code>SuperGrok</code> 或 <code>X Premium</code> 订阅的用户可直接跨设备与平台实现对话、生成多媒体及搜索 <strong>X</strong> 帖子。</p>
+</blockquote>
+<p><strong>SpaceXAI</strong> 官方宣布，用户现可在开源且本地优先的智能助手 <code>OpenClaw</code> 中直接使用 <code>Grok</code> 模型。</p>
+<p>所有持有 <strong>SuperGrok</strong> 或 <strong>X Premium</strong> 订阅的用户均可接入该功能，并与 <code>Agent</code> 对话、生成图像和视频或搜索 <strong>X</strong> 平台帖子。</p>
+<p><code>OpenClaw</code> 支持在包括树莓派在内的多种硬件上运行并保持跨会话记忆，同时能连接 <strong>WhatsApp</strong>、<strong>Telegram</strong> 等多款主流通讯平台。</p>
+<p>此外，<code>OpenClaw</code> 近期发布的 <strong>2026.5.18</strong> 版本也专门修复了相关的 <code>xAI</code>/<code>Grok</code> <code>OAuth</code> 验证等问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/ff5ef81f-d9e1-4680-b8b5-294998277bae/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.ai/news/grok-openclaw">https://x.ai/news/grok-openclaw</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/claude-managed-agents-updates">Anthropic 推出 Claude Managed Agents 自托管沙箱与 MCP 隧道</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布，<strong>Claude</strong> <code>Managed Agents</code>推出自托管沙箱公开测试版及<code>MCP</code> 隧道研究预览版。此外，<strong>Claude</strong>全平台的“extra usage”更名为"usage credits"。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 在 <strong>Code with Claude London</strong> 活动上宣布，为 <code>Claude Managed Agents</code> 新增自托管沙箱与 <code>MCP</code> 隧道两项功能。</p>
+<p>自托管沙箱目前处于公开测试版，允许 Agent 在自有基础设施或 <strong>Cloudflare</strong>、<strong>Daytona</strong>、<strong>Modal</strong> 和 <strong>Vercel</strong> 等托管环境中执行工具，而负责编排的 Agent 循环仍在 <strong>Anthropic</strong> 基础设施上运行。</p>
+<p><strong>MCP</strong> 隧道目前为研究预览版，需申请使用。该功能使 Agent 能通过轻量级网关的单向出站连接安全访问私有网络中的 MCP 服务器，无需向公共互联网暴露服务端点。</p>
+<p>此外，<strong>Claude</strong> 开发者团队确认已将全平台的“额外使用量”（extra usage）重命名为“使用额度”（usage credits）。用户原有余额与限制保持不变，但该额度现在可直接用于驱动“快速模式”等功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/feb618d6-f33b-4950-b426-c09dc7743e80/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260519/20260519221504_aa01e9729e.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/claude-managed-agents-updates">https://claude.com/blog/claude-managed-agents-updates</a></li>
+<li><a href="https://x.com/ClaudeDevs/status/2056543965672083966">https://x.com/ClaudeDevs/status/2056543965672083966</a></li>
+</ul>
+<hr>
+<h2><a href="https://marvis.qq.com/">腾讯发布AI助手Marvis，支持自然语言控屏与本地隐私模式</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>腾讯</strong>推出 <strong>AI</strong> 助手"<strong>Marvis 马维斯</strong>"，整合 <code>DeepSeek</code>与<code>混元</code>模型，支持自然语言控制电脑，目前需凭邀请码体验。</p>
+</blockquote>
+<p><strong>腾讯</strong>推出操作系统层级 AI 助手"<strong>Marvis马维斯</strong>"，目前用户需通过官方问卷获取邀请码后进行体验。</p>
+<p>该助手整合了<code>DeepSeek v4</code>与<code>混元Hunyuan3</code>等最新模型，支持跨 PC、手机和<strong>微信</strong>多端在线。</p>
+<p><strong>Marvis</strong>支持通过自然语言一句话调用 APK 与 EXE 应用、修改电脑设置，并能对本地文档、表格及图片进行深度理解、内容搜索与生成。</p>
+<p>为保护用户数据，该产品提供基于本地大模型的隐私模式，可确保敏感文件不上云。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/290298dd-706c-4860-ace0-ea34bfd1fc57/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://marvis.qq.com/">https://marvis.qq.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/karpathy/status/2056753169888334312">Andrej Karpathy 宣布加入 Anthropic 回归大模型研发</a> <code>#16</code></h2>
+<blockquote>
+<p>知名 <strong>AI</strong> 研究员 <strong>Andrej Karpathy</strong> 宣布已加入 <strong>Anthropic</strong>，将回归大语言模型前沿研发，并计划未来适时恢复教育工作。</p>
+</blockquote>
+<p><strong>Andrej Karpathy</strong> 通过个人社交账号宣布已加入 <strong>Anthropic</strong>。他表示，<code>LLM</code> 前沿领域未来几年将“尤为关键”，自己很高兴回归研发工作，同时仍对教育保持热情，计划适时恢复相关项目。</p>
+<p><strong>Karpathy</strong> 此前曾任 <strong>OpenAI</strong> 核心团队成员及 <strong>Tesla Autopilot</strong> 架构师。据媒体报道，他此次选择 <strong>Anthropic</strong> 而非重返 <strong>OpenAI</strong>，被外界视为前东家的明显损失。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/karpathy/status/2056753169888334312">https://x.com/karpathy/status/2056753169888334312</a></li>
+</ul>
+<hr>
+<h2><a href="https://openai.com/business/guaranteed-capacity/">OpenAI 推出 Guaranteed Capacity 算力保障服务</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>OpenAI</strong> 推出全新服务 <strong>Guaranteed Capacity</strong>，允许客户通过 <code>1</code> 到 <code>3</code> 年的承诺锁定长期算力访问权限并获取 <code>token</code> 折扣，以应对预期的全球算力紧缺。</p>
+</blockquote>
+<p><strong>OpenAI</strong> 宣布推出名为 <strong>Guaranteed Capacity</strong> 的新服务，旨在帮助符合条件的客户确保关键工作负载、<strong>Agent</strong> 和生产基础设施的长期算力访问。</p>
+<p>客户可选择 <strong>1</strong> 到 <strong>3</strong> 年的承诺期，不仅能获得随年度承诺增加的 <strong>token</strong> 折扣，还能跨支持的云提供商和模型系列灵活调配支出额度。</p>
+<p><strong>OpenAI</strong> 高管表示，随着模型能力提升，预计全球将在一段时间内持续面临算力受限。此举既满足了客户对算力确定性的需求，也有助于团队规划基础设施。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/2a78d4e3-6ba1-47aa-8faf-b793c52ae8b2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openai.com/business/guaranteed-capacity/">https://openai.com/business/guaranteed-capacity/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud">谷歌联手黑石建 AI 云公司，2027 年目标上线 500 兆瓦</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>与<strong>黑石</strong>宣布成立一家新 <code>AI</code> 云合资公司。<strong>黑石</strong>投入 <strong>50 亿美元</strong>初始股权，<strong>谷歌</strong>提供 <code>TPU</code> 及技术，计划 <strong>2027 年</strong>上线 <strong>500 兆瓦</strong>容量。</p>
+</blockquote>
+<p><strong>谷歌</strong>与<strong>黑石</strong>宣布将成立一家暂无名称的 <strong>AI</strong> 云合资公司。<strong>黑石</strong>将投入 <strong>50 亿美元</strong>初始股权，<strong>谷歌</strong>则负责提供 <code>TPU</code> 硬件、软件和服务。</p>
+<p>新公司计划于 <strong>2027 年</strong>上线 <strong>500 兆瓦</strong>容量，预计包含杠杆在内的总计算投资规模约 <strong>250 亿美元</strong>。</p>
+<p>据《华尔街日报》报道，<strong>黑石</strong>将持有多数股权，并由<strong>谷歌</strong>长期高管 <strong>Benjamin Treynor Sloss</strong> 担任 CEO。</p>
+<p>此举被视为<strong>谷歌</strong>迄今最大规模的对外芯片商业化尝试，旨在挑战 <strong>CoreWeave</strong> 等算力服务商。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/de3e3141-45de-427e-9766-36211bfda6da/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.ithome.com/0/952/336.htm">月之暗面20亿美元融资步入尾声 获国资及央企加持</a> <code>#19</code></h2>
+<blockquote>
+<p>据媒体报道，<strong>月之暗面</strong>正进行的 <strong>20 亿美元</strong> 融资已进入收尾阶段，<strong>国智投</strong>与<strong>中国移动</strong>等多家国资机构及央企已加入该公司的最新股东名单。</p>
+</blockquote>
+<p>据媒体报道，<strong>月之暗面</strong>近期正在进行的 <strong>20 亿美元</strong>融资已进入收尾阶段。</p>
+<p>其最新股东名单中除原有互联网大厂与产业基金外，已新增<strong>国智投</strong>、<strong>北京人工智能基金</strong>等国资机构及<strong>中国移动</strong>等央企巨头。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.ithome.com/0/952/336.htm">https://www.ithome.com/0/952/336.htm</a></li>
+<li><a href="https://www.aibase.com/zh/news/28132">https://www.aibase.com/zh/news/28132</a></li>
+<li><a href="https://www.ithome.com/0/941/385.htm">https://www.ithome.com/0/941/385.htm</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/anthropic-kpmg">KPMG 与 Anthropic 建立全球联盟并向超 27 万员工推出 Claude</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>毕马威</strong>宣布与 <strong>Anthropic</strong> 建立全球联盟，将 <code>Claude</code> 嵌入其核心业务平台，并向全球超 <code>27.6 万</code> 名员工全面开放使用权限。</p>
+</blockquote>
+<p><strong>Anthropic</strong>与全球性专业服务机构 <strong>KPMG</strong>（毕马威）宣布达成全球战略联盟。</p>
+<p><strong>KPMG</strong>正在将 <code>Claude Cowork</code>和<code>Managed Agents</code>嵌入其基于<code>Microsoft Azure</code>构建的核心平台<code>Digital Gateway</code>中，初期将面向税务和法务客户推出新工具。</p>
+<p>此次整合将使 <strong>KPMG</strong> 分布在全球的超过 <strong>27.6 万名</strong>员工获得 <code>Claude</code>的访问权限，进一步扩大其过去两年在<strong>美国市场</strong>的应用范围。</p>
+<p>此外，双方还将在网络安全漏洞排查领域展开合作。<strong>Anthropic</strong>同时指定 <strong>KPMG</strong>为私募股权行业的首选合作伙伴。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/anthropic-kpmg">https://www.anthropic.com/news/anthropic-kpmg</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency">报道称：Meta计划裁员8000人以抵消AI巨额支出</a> <code>#21</code></h2>
+<blockquote>
+<p>据报道，<strong>Meta</strong>计划裁员约<strong>8000</strong>人以提升效率并抵消 <code>AI</code>支出，同时将冻结 <strong>6000</strong> 个空缺岗位的招聘。</p>
+</blockquote>
+<p>据<strong>彭博社</strong>报道，<strong>Meta</strong>向员工发布内部备忘录，计划削减约**10%**的员工以提升效率，并抵消其在人工智能领域的巨额支出。</p>
+<p>此次裁员涉及大约<strong>8000</strong>名员工，预计将于次月执行。同时，该公司决定不再招聘原本计划填补的<strong>6000</strong>个空缺职位。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency">https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/search/search-io-2026/">Google 搜索发布 AI Mode 重大更新</a> <code>#22</code></h2>
+<blockquote>
+<p><strong>Google</strong>宣布升级<code>AI Mode</code>，推出了支持多模态输入与长对话的智能搜索框。并将推出能根据提问实时生成定制交互界面的 <code>Generative UI</code>，以及能全天候监控数据的<code>Information Agents</code>等功能。</p>
+</blockquote>
+<p><strong>Google</strong> 在 <strong>2026 年 I/O 大会</strong>上宣布了 <strong>25</strong> 年来最大规模的搜索升级，推出了支持多模态输入与长对话的智能搜索框，并将全球 <code>AI Mode</code> 默认模型升级为 <strong>Gemini 3.5 Flash</strong>。</p>
+<p>通过整合 <strong>Google Antigravity</strong> 平台，官方计划今年夏季向所有用户免费推出 <code>Generative UI</code>，使搜索能根据提问实时生成定制化的交互界面与模拟。</p>
+<p>同时，能在后台 <strong>24</strong> 小时监控全网并汇总更新的 <code>Information Agents</code>，以及构建个性化 <code>Mini Apps</code> 的能力，将在夏季优先面向美国的 <strong>Google AI Pro</strong> 与 <strong>Ultra</strong> 订阅者推出。</p>
+<p>此外，<code>Agentic Booking</code> 服务与免订阅的 <code>Personal Intelligence</code> 功能也将陆续向全球更多市场扩展。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/32e983d0-df0e-4596-b433-1d33bc4e460b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/search/search-io-2026/">https://blog.google/products-and-platforms/products/search/search-io-2026/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/">Google 发布智能购物车Universal Cart并扩展UCP与AP2</a> <code>#23</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布智能购物车 <code>Universal Cart</code>，计划 <strong>今夏</strong> 在 <strong>美国</strong> <strong>Search</strong> 和 <code>Gemini</code> 应用中上线；此外，<code>UCP</code> 协议将扩展至酒店预订和本地外卖，<code>AP2</code> 支付协议也将整合至 <code>Gemini Spark</code> 等产品。</p>
+</blockquote>
+<p><strong>Google</strong> 在 <strong>I/O 2026</strong> 上发布了智能购物车 <code>Universal Cart</code>，并宣布对通用商务协议 <code>UCP</code> 和代理支付协议 <code>AP2</code> 的更新。</p>
+<p><code>Universal Cart</code> 可跨多个 <strong>Google</strong> 服务使用，在后台自动寻找优惠和降价。它利用 <code>Gemini</code> 模型主动标记产品不兼容问题，并基于用户的支付方式和忠诚度计划推荐最优结账选择。</p>
+<p>该购物车定于今夏在美国 <code>Search</code> 和 <code>Gemini</code> 应用中上线，<strong>YouTube</strong> 和 <strong>Gmail</strong> 将随后支持。</p>
+<p>此外，<code>UCP</code> 协议将扩展至酒店预订和本地外卖等垂直场景，其结账体验也将在未来几个月内进入加拿大、澳大利亚和英国市场。</p>
+<p><code>AP2</code> 支付协议则计划于未来几个月整合至 <code>Gemini Spark</code> 等产品。用户可设定花费上限和品牌偏好，代理仅在满足条件时完成交易，全程隐私保护并留存数字凭证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/c27f7a1f-88ed-406d-a6b9-5a9c8aee5094/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/">https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/">谷歌推出 Gemini for Science 科研工具集</a> <code>#24</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>宣布推出 <strong>Gemini for Science</strong> 实验工具集。该系列包含 <code>Literature Insights</code> 等三大科研原型，旨在加速科学发现，现已逐步开放访问与注册。</p>
+</blockquote>
+<p><strong>谷歌</strong>正式宣布推出 <strong>Gemini for Science</strong>，这是一系列旨在扩展科学探索规模与精确度的实验性工具与技能集合。</p>
+<p>该系列包含三个核心原型：基于 <code>NotebookLM</code> 构建的 <code>Literature Insights</code>，用于合成文献并生成报告；基于 <code>Co-Scientist</code> 构建的 <code>Hypothesis Generation</code>，利用多 Agent 模拟科学方法生成与评估假设；以及基于 <code>AlphaEvolve</code> 和 <code>ERA</code> 构建的 <code>Computational Discovery</code>，可并行生成并评估数千个代码变体。</p>
+<p>目前相关实验已通过 <strong>Google Labs</strong> 逐步开放，企业级解决方案也正处于私有预览阶段。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/f39586e5-8844-425b-9c83-7b4e9d9c7e23/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/">https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/</a></li>
+<li><a href="http://labs.google/science">http://labs.google/science</a></li>
+<li><a href="https://ai.google/gemini-for-science/">https://ai.google/gemini-for-science/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/">Google 推出 Project Genie 与 Street View 整合功能</a> <code>#25</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布在 <code>Project Genie</code> 中接入 <code>Street View</code>，允许用户基于真实街景生成可交互世界。该功能现逐步面向全球符合条件的 <strong>Google AI Ultra</strong> 订阅者开放，目前仅限美国地点。</p>
+</blockquote>
+<p><strong>Google DeepMind</strong> 宣布在通用世界模型 <code>Project Genie</code> 中接入 <strong>Google Street View</strong>，使其能够基于真实街景数据生成虚拟环境。</p>
+<p>用户现可选择美国境内的真实地点作为基础，配合特定视觉风格与自定义角色创建交互式世界。</p>
+<p>这项整合了 <code>Maps Imagery Grounding</code> 技术的新功能正逐步向全球年满 <strong>18</strong> 岁且支付 <strong>200</strong> 美元月费的 <strong>Google AI Ultra</strong> 订阅用户开放。</p>
+<p>官方同时提醒，<code>Project Genie</code> 仍处于实验性研究原型阶段。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/dfef2079-dc8e-442e-8244-4ab80d6d5466/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie-expands/</a></li>
+<li><a href="http://labs.google/projectgenie/">http://labs.google/projectgenie/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/">Google Flow 引入全新 Agent 与 Gemini Omni 模型</a> <code>#26</code></h2>
+<blockquote>
+<p><strong>Google</strong> 为 <strong>Google Flow</strong> 推出全新 <code>Agent</code> 与 <code>Gemini Omni</code> 模型。<code>Agent</code> 已面向所有用户开放，高级模型与工具创建仅限订阅者，相关移动端应用已陆续推出。</p>
+</blockquote>
+<p><strong>Google</strong> 近期为其 AI 创意工作室 <strong>Google Flow</strong> 及音乐工具 <strong>Google Flow Music</strong> 发布多项重大更新，引入了全新的 <code>Gemini Omni</code> 模型、<strong>Google Flow Agent</strong> 以及 <strong>Google Flow Tools</strong>。</p>
+<p>全新的 <code>Gemini Omni Flash</code> 模型结合了 <code>Gemini</code> 的理解能力与生成式媒体模型，官方称其为视频版的 Nano Banana。这一更新显著提升了多模态处理、精确视频编辑和角色一致性。目前，该功能已面向全球的 <strong>Google AI</strong> 订阅者开放。</p>
+<p>定位为“创意伙伴”的 <strong>Google Flow Agent</strong> 能够规划并推理复杂任务，支持同时执行多项操作和批量编辑。现已向全球所有 <strong>Flow</strong> 用户开放。</p>
+<p>此外，用户可以通过 <strong>Google Flow Tools</strong> 使用自然语言"<strong>vibe code</strong>"无需代码即可创建自定义工作流。所有用户均可使用现有工具，但创建和重混功能仅限 <strong>Google AI</strong> 订阅者。</p>
+<p>同时，这两款工具的移动端应用也已在 <strong>Android</strong> 和 <strong>iOS</strong> 平台逐步上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/c79fee7a-3402-4da3-ac16-c6de19b91e5e/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/">https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/</a></li>
+<li><a href="https://flow.google/">https://flow.google/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities/">Pomelli 推出 AI Agent 及品牌手册与建站功能</a> <code>#27</code></h2>
+<blockquote>
+<p><strong>Google Labs</strong> 旗下 <strong>Pomelli</strong> 官方引入 <code>AI Agent</code>，协助中小企业构建品牌身份，并推出自动生成品牌手册与一键建站的新功能。</p>
+</blockquote>
+<p><strong>Google Labs</strong> 旗下的 <strong>Pomelli</strong> 官方宣布引入 <code>AI Agent</code> 能力，协助中小企业构建品牌身份并制作相关内容。</p>
+<p>用户可通过上传素材或与 <code>Pomelli Agent</code> 对话来生成"<strong>Business DNA</strong>"，并据此创建包含定制图像与字体的综合指南。</p>
+<p>此外，该产品新增了网站设计功能，支持用户在几次点击内设计并上线完整网站。目前，上述新功能已面向用户开放体验。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/83b19bba-8287-43d2-94fc-3767f14cf071/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities/">https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-agentic-capabilities/</a></li>
+<li><a href="https://labs.google.com/pomelli/about/">https://labs.google.com/pomelli/about/</a></li>
+</ul>
+<hr>
+<h2><a href="https://developer.android.com/blog/posts/what-s-new-in-wear-os-7">谷歌发布 Wear OS 7：最高提升 10% 续航，将引入 Gemini Intelligence</a> <code>#28</code></h2>
+<blockquote>
+<p><strong>谷歌</strong>在 <strong>I/O</strong> 开发者大会发布 <strong><code>Wear OS 7</code></strong>。官方称该系统较 <strong><code>Wear OS 6</code></strong> 最高提升 <strong>10%</strong> 续航，并计划在<strong>今年晚些时候</strong>为部分手表新增 <strong>Gemini Intelligence</strong> 支持。</p>
+</blockquote>
+<p><strong>谷歌</strong>在 <strong>2026</strong> 年 <strong>I/O</strong> 开发者大会上正式发布了全新的智能手表平台 <code>Wear OS 7</code>。</p>
+<p>新系统带来了更优的电源管理，官方表示从 <code>Wear OS 6</code> 升级后最高可提升 <strong>10%</strong> 的电池续航。</p>
+<p>同时引入了灵活的 <code>Wear Widgets</code>、<code>Live Updates</code> 以及全新的系统媒体控制与训练追踪功能。</p>
+<p>在智能化方面，<strong>谷歌</strong>计划在今年晚些时候为部分设备推送 <code>Gemini Intelligence</code>，并提供 <code>AppFunctions API</code> 支持 Agent 语音执行任务。</p>
+<p>目前，基于 <code>Android 17</code> 的 <code>Wear OS 7</code> Canary 模拟器已面向开发者开放测试。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/f68262b3-1179-455b-8914-fd913ad2b741/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developer.android.com/blog/posts/what-s-new-in-wear-os-7">https://developer.android.com/blog/posts/what-s-new-in-wear-os-7</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.youtube/news-and-events/youtube-news-google-io-2026/">谷歌发布 Ask YouTube 对话式搜索功能</a> <code>#29</code></h2>
+<blockquote>
+<p><strong>YouTube</strong> 发布了 <strong>Ask YouTube</strong> 对话式搜索功能，支持用完整句子与连续追问检索长视频及 <strong>Shorts</strong>。</p>
+</blockquote>
+<p><strong>谷歌</strong>在 <strong>2026 年 I/O 大会</strong>上正式推出对话式搜索体验 <code>Ask YouTube</code>，将传统的关键词搜索升级为意图理解模式。</p>
+<p>用户可输入复杂长句描述需求，并通过连续追问缩小范围，系统会自动整理全平台的长视频和 Shorts 并生成互动式结构化回应。</p>
+<p>该功能目前通过特定页面面向<strong>美国</strong> <strong>18 岁及以上</strong>的 <strong>YouTube Premium</strong>会员开放，官方计划未来向全体用户推广。</p>
+<p>同期，<strong>谷歌</strong>还将 <code>Gemini Omni</code>引入<code>YouTube Shorts Remix</code>和<code>YouTube Create</code>应用，允许创作者通过文本指令重塑视频场景与风格，并确保生成内容带有数字水印及原始视频链接。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/fd576c9b-5f9d-4c4a-ac95-8ca75a6c31a3/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.youtube/news-and-events/youtube-news-google-io-2026/">https://blog.youtube/news-and-events/youtube-news-google-io-2026/</a></li>
+</ul>
+<hr>
+<h2><a href="https://developer.chrome.com/docs/modern-web-guidance">Chrome 148 推出稳定版 Prompt API，WebMCP 源试用即将开启</a> <code>#30</code></h2>
+<blockquote>
+<p><strong>Chrome团队</strong>发布了面向开发者的<code>WebMCP</code>实验性标准、<code>Modern Web Guidance</code>早期预览及<code>Chrome DevTools for agents</code>和 <code>Prompt API</code> 稳定版。</p>
+</blockquote>
+<p><strong>谷歌</strong>宣布了构建"<strong>Agentic Web</strong>"的系列工具更新，其中 <code>Prompt API</code> 和 <code>Chrome DevTools for agents</code> 已正式进入 <strong>Stable</strong> 状态。</p>
+<p><code>Prompt API</code> 现已于 <strong>Chrome 148</strong> 中可用，允许开发者利用内置的 <code>Gemini Nano</code> 模型处理多模态输入（图像和音频）及输出结构化 <strong>JSON</strong> 数据。</p>
+<p>面向未来，<strong>谷歌</strong>提出了 <code>WebMCP</code> 提议标准，旨在通过命令式与声明式 <strong>API</strong> 让网站向 <strong>Agent</strong> 暴露结构化工具，该功能预计将在 <strong>Chrome 149</strong> 开启源试用。</p>
+<p>同步进入早期预览的 <strong>Modern Web Guidance</strong> 则集成了 <strong>Baseline</strong>，旨在指导 <strong>AI</strong> 编程 <strong>Agent</strong> 遵循最佳实践构建现代化 <strong>Web</strong> 体验。</p>
+<p>此外，面向日常用户的 <code>Gemini in Chrome</code> 即将登陆 <strong>Android</strong> 平台，提供自动浏览、图像生成及全局语音输入等新交互方式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/c3715c8a-c1e2-41e9-949b-eba17c2e46db/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developer.chrome.com/docs/modern-web-guidance">https://developer.chrome.com/docs/modern-web-guidance</a></li>
+<li><a href="https://developer.chrome.com/docs/ai/prompt-api">https://developer.chrome.com/docs/ai/prompt-api</a></li>
+<li><a href="https://developer.chrome.com/docs/ai/webmcp">https://developer.chrome.com/docs/ai/webmcp</a></li>
+<li><a href="https://developer.chrome.com/blog/chrome-at-io26">https://developer.chrome.com/blog/chrome-at-io26</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/">Gemini API 引入 Managed Agents 一键启动云端沙箱 Agent</a> <code>#31</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布在 <strong>Gemini API</strong> 推出预览版 <code>Managed Agents</code>。开发者可通过底层 <code>Antigravity agent</code> 在隔离沙箱内启动具备代码执行等能力的完整 Agent。</p>
+</blockquote>
+<p><strong>Google</strong> 宣布在 <strong>Gemini API</strong> 中推出预览版的 <code>Managed Agents</code> 功能。</p>
+<p>开发者只需一次 API 调用，即可通过基于 <strong>Gemini 3.5 Flash</strong> 的 <code>Antigravity agent</code>，在隔离的云端 Linux 沙箱中启动能够执行代码、浏览网页和管理文件的自定义 Agent。</p>
+<p>该功能抽象了底层基础设施的复杂性，支持使用 Markdown 文件定义技能。</p>
+<p>目前已面向开发者在 <strong>Gemini API</strong> 和 <strong>Google AI Studio</strong> 中提供，并针对企业用户开启了私下预览。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/037706eb-3210-47df-8dd7-b6af27133f74/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/">https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/</a></li>
+</ul>
+<hr>
+<h2><a href="https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/">Google 升级端侧 AI 工具栈，AI Edge Gallery 支持 MCP 并扩充平台生态</a> <code>#32</code></h2>
+<blockquote>
+<p><strong>Google</strong> 发布多项端侧 <strong>AI</strong> 更新，<strong>AI Edge Gallery</strong> 应用引入 <code>MCP</code> 集成等功能；<code>LiteRT-LM</code> 扩展至 <strong>Apple</strong> 与 <code>Web</code> 平台，<code>Tensor ML SDK</code> 进入 <strong>Beta</strong> 并面向 <strong>Pixel 10</strong> 设备开放超百种 <code>TPU</code> 优化模型。</p>
+</blockquote>
+<p><strong>Google</strong> 发布了一系列针对端侧 <strong>AI</strong> 的更新，涵盖应用层、推理引擎及特定硬件 SDK。</p>
+<p><strong>AI Edge Gallery</strong> 应用在 Android 端以实验性质支持开源 <code>MCP</code> 协议进行外部工具调用，并加入主动通知提醒与持久聊天记录功能。</p>
+<p>底层引擎 <code>LiteRT-LM</code> 针对 <code>Gemma 4</code> 引入最高 <strong>2.2 倍</strong>加速的 <code>Multi-Token Prediction</code> 机制。该引擎同时新增面向 Apple 生态的 Swift API 和面向 Web 端的 <code>WebGPU</code> JavaScript API。</p>
+<p>面向 <code>Pixel 10</code> 系列设备的 <strong>Google Tensor ML SDK</strong> 正式进入 Beta 阶段。通过与 <strong>LiteRT</strong> 集成，该 SDK 提供包含 <strong>100 多个</strong> TPU 优化模型在内的统一开发工作流。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/5df4236e-1d14-46ae-9c0a-2c6b374d8c6f/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/">https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/</a></li>
+<li><a href="https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/">https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/</a></li>
+<li><a href="https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/">https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/platforms/android/android-halo/">Google 预告 Agent 状态栏追踪功能 Android Halo</a> <code>#33</code></h2>
+<blockquote>
+<p><strong>Google</strong> 今日预告了 <strong>Android</strong> <code>Halo</code> 功能。该功能计划于今年晚些时候推出，支持在屏幕顶部实时查看 <code>Agent</code> 的运行状态。</p>
+</blockquote>
+<p><strong>Google</strong> 官方今日预览了 <strong>Android Halo</strong> 功能，这是 <strong>Android</strong> 设备上专为 <strong>Agent</strong> 设立的新空间。</p>
+<p>该功能将于今年晚些时候推出。届时用户无需中断当前操作，即可在屏幕顶部的状态栏直接查看 <strong>Agent</strong> 的任务进度、实时模式或消息通知。</p>
+<p><strong>Android Halo</strong> 将兼容 <code>Gemini Spark</code> 及其他受支持的 <strong>Agent</strong>。且在搭载 <code>Gemini Intelligence</code> 的最先进设备上将提供额外的进阶能力。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/42ad5262-115e-4011-8302-0cfd095dbc92/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/platforms/android/android-halo/">https://blog.google/products-and-platforms/platforms/android/android-halo/</a></li>
+</ul>
+<hr>
+<h2><a href="https://goo.gle/intelligenteyewear">Google预告Gemini智能音频眼镜</a> <code>#34</code></h2>
+<blockquote>
+<p><strong>Google</strong>预告了将于<strong>今秋</strong>推出的<code>Gemini</code>智能音频眼镜。该产品由<strong>三星</strong>及<strong>Warby Parker</strong>等品牌合作打造，提供拍照、导航和实时音频翻译等系列功能，并同时兼容<strong>Android</strong>和<strong>iOS</strong>设备。</p>
+</blockquote>
+<p><strong>Google</strong>官方预览了其全新的智能音频眼镜。该产品集成了<code>Gemini</code>，旨在提供全天候免提帮助，支持拍照、导航和实时音频翻译。</p>
+<p>这些设备由<strong>Google</strong>联合<strong>三星</strong>、<strong>Gentle Monster</strong>和<strong>Warby Parker</strong>共同打造，并提前展示了秋季的部分设计。</p>
+<p>这款眼镜计划于今年秋季率先上市，且将同时适配 <strong>Android</strong> 和 <strong>iOS</strong> 手机。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/751e48f3-0694-4707-9b67-844e521bbda7/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260520/20260520091914_ce68cb6f08.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://goo.gle/intelligenteyewear">https://goo.gle/intelligenteyewear</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/products-and-platforms/products/workspace/workspace-updates/">Google 宣布Workspace多项AI更新</a> <code>#35</code></h2>
+<blockquote>
+<p><strong>Google</strong>宣布，今夏将面向<strong>Workspace</strong>的订阅用户推出多项基于 <code>Gemini</code> 的 AI 新功能，包括可语音问答的 <strong>Gmail Live</strong>、辅助起草文档的 <strong>Docs Live</strong>、自动整理笔记的 <strong>Keep</strong>，以及精准图像编辑工具 <strong>Pics</strong>和更多 <strong>AI Inbox</strong>管理能力。</p>
+</blockquote>
+<p><strong>Google</strong> 在 <strong>I/O 2026</strong> 大会宣布了一系列 <strong>Workspace</strong> AI 更新，包括 <strong>Gmail</strong>、<strong>Docs</strong>、<strong>Keep</strong> 的语音交互功能、新图像工具 <code>Google Pics</code>、升级版 <code>AI Inbox</code>，以及 <strong>24/7</strong> 个人 AI Agent <code>Gemini Spark</code>，预计 <strong>今夏</strong> 向部分用户推出。</p>
+<p>其中 <strong>Gmail Live</strong> 可用自然语言问答收件箱内容，<strong>Docs Live</strong> 能充当写作搭档并调用 <strong>Gmail</strong> 等数据辅助创作，<strong>Keep</strong> 可自动将口述转为结构化笔记。<strong>Pics</strong> 支持精准对象编辑、文字翻译和协作编辑。</p>
+<p><strong>AI Inbox</strong> 新增个性化草稿、文件直达和任务管理功能；<code>Gemini Spark</code> 则可在用户指示下代为执行操作并与 <strong>Workspace</strong> 集成。这些功能 <strong>今夏</strong> 将面向 <strong>Google AI Pro</strong> 和 <strong>Ultra</strong> 订阅者及商业客户推出。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/916da3aa-b414-4145-95d7-e18aaad8da54/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/products-and-platforms/products/workspace/workspace-updates/">https://blog.google/products-and-platforms/products/workspace/workspace-updates/</a></li>
+</ul>
+<hr>
+<h2><a href="https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/">Google与OpenAI深化SynthID合作并扩展内容验证工具</a> <code>#36</code></h2>
+<blockquote>
+<p><strong>Google</strong>宣布在多平台扩展内容验证工具，联合 <strong>OpenAI</strong> 等推广 <strong>SynthID</strong> 水印；<strong>OpenAI</strong> 同步采用该技术，并推出图像公开验证工具预览版。</p>
+</blockquote>
+<p><strong>Google</strong>与<strong>OpenAI</strong>相继宣布推进<strong>AI</strong>内容来源透明度，双方通过整合<strong>C2PA</strong>标准与<code>SynthID</code>数字水印技术，帮助用户识别和验证生成式媒体。</p>
+<p><strong>Google</strong>正将<code>SynthID</code>及<strong>C2PA</strong>验证能力扩展至<strong>Search</strong>、<strong>Chrome</strong>和<code>Gemini</code>，并联合<strong>OpenAI</strong>、<strong>Nvidia</strong>、<strong>Kakao</strong>与<strong>ElevenLabs</strong>等合作伙伴将<code>SynthID</code>应用于更多生成内容。</p>
+<p><strong>OpenAI</strong>已成为<strong>C2PA</strong>符合规范的生成器，开始在通过<strong>ChatGPT</strong>、<code>Codex</code>及<strong>API</strong>生成的图像中嵌入<code>SynthID</code>，并发布了可检测图像是否由其生成的公开验证工具预览版。</p>
+<p><strong>OpenAI</strong>提示该验证工具在未检测到相关信号时无法得出明确结论，且在上线之初仅限于检测<strong>OpenAI</strong>自家产品生成的图像内容。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/93fd7623-caba-409f-9e5c-ab5a1786a581/3c038a2f-e143-416d-a079-7756e805563b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/">https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/</a></li>
+<li><a href="https://openai.com/index/advancing-content-provenance/">https://openai.com/index/advancing-content-provenance/</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/96</guid><pubDate>Wed, 20 May 2026 02:22:45 +0000</pubDate></item><item><title>2026-05-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-95/</link><description>AI 早报 2026-05-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview ↗ #1 模型发布 Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 ↗ #2 开发生态 Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 ↗ #3 Claude Code 上线基于 Opus 4.7 的 /fast 模式 ↗ #4 GitHub 发布多项 Copilot 更新 一键修复 Actions 上线 ↗ #5 OpenRouter 发布长周期 Agent 构建原语与 SDK ↗ #6 Browserbase 推出 Browse.sh 技能目录…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260519/20260519090243818278329c_cover_fb7c.png" alt=""></p>
 <h1>AI 早报 2026-05-19</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1LoLK6pEXE">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=FzRTrUbr4cw">YouTube</a></p>
 <h2>概览</h2>
@@ -2012,144 +2592,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/86</guid><pubDate>Mon, 11 May 2026 00:39:58 +0000</pubDate></item><item><title>2026-05-10</title><link>https://imjuya.github.io/juya-ai-daily/issue-85/</link><description>AI 早报 2026-05-10 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 百度宣布文心 5.1 模型正式上线 ↗ #1 HiDream-ai 开源 HiDream-O1-Image 图像生成模型 ↗ #2 开发生态 OpenRouter 推出 Pareto Code 实验性编码路由 ↗ #3 技术与洞察 OpenAI 公开内部 Codex 安全运行实践 ↗ #4 Perplexity 公开内部 Agent Skills 设计维护指南 ↗ #5 行业动态 Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 ↗ #6 消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 ↗ #7 前瞻与传闻 报道称字节跳动今年 AI 基建支出超两千…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260510/20260510083202664577feec_cover_26bb.png" alt=""></p>
-<h1>AI 早报 2026-05-10</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV12ERfB2EWV">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=HSFe0qA4-CA">YouTube</a></p>
-<h2>概览</h2>
-<h3>模型发布</h3>
-<ul>
-<li>百度宣布文心 5.1 模型正式上线 <a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">↗</a> <code>#1</code></li>
-<li>HiDream-ai 开源 HiDream-O1-Image 图像生成模型 <a href="https://github.com/HiDream-ai/HiDream-O1-Image">↗</a> <code>#2</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>OpenRouter 推出 Pareto Code 实验性编码路由 <a href="https://x.com/OpenRouter/status/2053170520087024109">↗</a> <code>#3</code></li>
-</ul>
-<h3>技术与洞察</h3>
-<ul>
-<li>OpenAI 公开内部 Codex 安全运行实践 <a href="https://openai.com/index/running-codex-safely/">↗</a> <code>#4</code></li>
-<li>Perplexity 公开内部 Agent Skills 设计维护指南 <a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">↗</a> <code>#5</code></li>
-</ul>
-<h3>行业动态</h3>
-<ul>
-<li>Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜 <a href="https://x.com/NousResearch/status/2052904761087729897">↗</a> <code>#6</code></li>
-<li>消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同 <a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">↗</a> <code>#7</code></li>
-</ul>
-<h3>前瞻与传闻</h3>
-<ul>
-<li>报道称字节跳动今年 AI 基建支出超两千亿 <a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">↗</a> <code>#8</code></li>
-</ul>
-<hr>
-<h2><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">百度宣布文心 5.1 模型正式上线</a> <code>#1</code></h2>
-<blockquote>
-<p><strong>百度</strong>宣布<code>文心 5.1</code>大模型正式上线，用户可登录官网或<strong>星河社区</strong> <code>Playground</code>体验。该模型总参数较前代压缩至<strong>三分之一</strong>，预训练成本仅为同规模<strong>百分之六</strong>。现正陆续上架<strong>数十</strong>个创作 Agent 平台。</p>
-</blockquote>
-<p><strong>百度</strong>宣布 <strong>文心 5.1</strong> 大模型已于即日起正式上线，用户可登录官网或通过<strong>星河社区</strong> <code>Playground</code> 进行体验。</p>
-<p>该模型基于 <code>文心 5.0</code> 进行架构创新，总参数量压缩至原版的约 <strong>1/3</strong>，激活参数量压缩至约 <strong>1/2</strong>。其预训练成本仅为业界同规模模型的约 <strong>6%</strong>。</p>
-<p>在模型能力上，<strong>文心 5.1</strong> 在 <code>Arena</code> 搜索榜上以 <strong>1223</strong> 分取得全球第四、国内第一的成绩。在 <code>GPQA</code> 和 <code>MMLU-Pro</code> 评测中，该模型的世界知识与创意写作能力亦表现领先，创意写作能力在内部评测中接近 <code>Gemini 3.1 Pro</code>。</p>
-<p>技术方面，研发团队引入了多维度弹性预训练技术与 <code>Once-for-All</code> 弹性训练框架。通过分离式全异步强化学习架构、<code>FP8</code> 训推一致性优化及资源异构弹性调度来支持高效稳定的训练。同时采用以多教师在线策略蒸馏为核心的后训练管线，以并行专家训练与统一能力融合解决多目标优化冲突。</p>
-<p>此外，<strong>文心 5.1</strong> 在创意写作领域获得了创作类企业与专业作家的广泛赞誉，并将陆续上线 <code>ISEKAI ZERO</code> 等数十个创作类 Agent 平台。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/3d69cce0-7f2e-49d5-9172-5c90449647dd/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/3d69cce0-7f2e-49d5-9172-5c90449647dd/m002.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/">https://yiyan.baidu.com/blog/zh/posts/ernie-5.1-0508-release/</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/HiDream-ai/HiDream-O1-Image">HiDream-ai 开源 HiDream-O1-Image 图像生成模型</a> <code>#2</code></h2>
-<blockquote>
-<p><strong>HiDream-ai</strong> 团队开源了 <strong>8B</strong> 参数的图像生成模型 <code>HiDream-O1-Image</code>。该模型基于统一 Transformer 架构，无需外部 <code>VAE</code> 即可原生生成 <code>2048</code> 分辨率图像。</p>
-</blockquote>
-<p><strong>HiDream-ai</strong> 团队开源了其原生统一图像生成基础模型 <strong>HiDream-O1-Image</strong>（代号 <code>Peanut</code>），该模型包含未蒸馏（full）和蒸馏 <code>Dev</code> 两个变体，并同步发布了推理驱动的 <strong>Prompt Agent</strong>。</p>
-<p><strong>HiDream-O1-Image</strong> 参数量为 <code>8B</code>，基于像素级统一 <code>Transformer</code>（<code>UiT</code>）。它无需外部 <code>VAE</code> 或分离式文本编码器，直接在单一共享 Token 空间中编码原始像素、文本及任务条件。</p>
-<p>该模型支持文生图、图像编辑、主体驱动个性化等任务，原生分辨率可达 <strong>2048×2048</strong>。在 <strong>Artificial Analysis Text to Image Arena</strong> 中，该模型首次上榜即位列第 <strong>8</strong>。</p>
-<p>官方称其已成为新晋领先的开放权重文生图模型。该项目代码库及模型权重均已以 <strong>MIT</strong> 许可证发布在 <strong>GitHub</strong> 与 <strong>HuggingFace</strong>。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/HiDream-ai/HiDream-O1-Image">https://github.com/HiDream-ai/HiDream-O1-Image</a></li>
-<li><a href="https://huggingface.co/HiDream-ai/HiDream-O1-Image">https://huggingface.co/HiDream-ai/HiDream-O1-Image</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/OpenRouter/status/2053170520087024109">OpenRouter 推出 Pareto Code 实验性编码路由</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>OpenRouter</strong>推出了实验性编码路由<code>Pareto Code</code>。该路由会根据<strong>ArtificialAnalysis</strong>排名，自动把任务分配给满足分数要求且成本最低的模型，并提供了提速的<code>Nitro</code>版本。</p>
-</blockquote>
-<p><strong>OpenRouter</strong>近日推出实验性编码路由<code>Pareto Code</code>。开发者设置<code>min_coding_score</code>参数后，系统会依据<code>ArtificialAnalysis</code>排名，自动将任务定向至满足分数要求且成本最低的模型。</p>
-<p>该路由设3个质量频带，共含13个模型，最高支持<strong>2M</strong>上下文。针对低延迟场景，另提供牺牲多样性换取速度的<code>Nitro</code>变体。</p>
-<p><strong>OpenRouter</strong>称，因模型快速迭代，数月内各频带成本降<strong>10</strong>至<strong>100</strong>倍，该产品旨在顺应此趋势。该功能现已开放试用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/b4f3a8ca-7c7e-4240-80fc-4e6149621cca/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/b4f3a8ca-7c7e-4240-80fc-4e6149621cca/m002.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/OpenRouter/status/2053170520087024109">https://x.com/OpenRouter/status/2053170520087024109</a></li>
-<li><a href="http://openrouter.ai/openrouter/pareto-code">http://openrouter.ai/openrouter/pareto-code</a></li>
-</ul>
-<hr>
-<h2><a href="https://openai.com/index/running-codex-safely/">OpenAI 公开内部 Codex 安全运行实践</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>OpenAI</strong>近期分享了一篇关于其如何在内部安全运行 <code>Codex</code> 的技术实践文章，重点介绍了沙箱执行边界、审批策略、自动审核模式、网络策略、身份验证绑定、命令规则以及 <strong>Agent</strong> 原生遥测等控制措施。</p>
-</blockquote>
-<p><strong>OpenAI</strong> 近期发文分享其内部安全部署编程 Agent <code>Codex</code> 的技术实践。</p>
-<p>该文章显示，<strong>OpenAI</strong> 为 <code>Codex</code> 设定了清晰的技术边界，通过沙箱限定可写路径与网络访问，结合审批机制区分低风险与高风险操作，并启用 <code>Auto-review</code> 功能自动批准常规请求以降低人工中断频率。</p>
-<p>网络策略默认不开放任意出站，仅允许经批准的域并通过缓存进行网络搜索，同时将 <code>CLI</code> 和 <code>MCP OAuth</code> 凭据存入操作系统安全密钥环，强制通过 <strong>ChatGPT</strong> 登录并绑定至企业工作区以集中管控。</p>
-<p>在遥测方面，<code>Codex</code> 支持通过 <code>OpenTelemetry</code> 导出用户提示、工具审批决策、<code>MCP</code> 服务器使用和网络代理允许/拒绝等事件日志，并已集成至 <strong>OpenAI</strong> 合规平台，帮助安全团队理解 Agent 行为意图。</p>
-<p>目前相关配置方案与合规 API 已面向企业及教育用户开放。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/986dce4f-287f-4580-ac21-fb59f6314135/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://openai.com/index/running-codex-safely/">https://openai.com/index/running-codex-safely/</a></li>
-</ul>
-<hr>
-<h2><a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">Perplexity 公开内部 Agent Skills 设计维护指南</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>Perplexity</strong> 发文介绍其内部 <strong>Agent Skills</strong> 的设计与维护指南。其指出：构建 <code>Skill</code> 需先编写评估，抓住描述中的触发词，用层级组织复杂知识，再通过记录失败案例的 <code>gotchas</code> 飞轮持续维护。</p>
-</blockquote>
-<p><strong>Perplexity Research</strong> 近期公开了其内部使用的 <strong>Agent Skills</strong> 设计、优化与维护指南。这份源自 <strong>Perplexity Computer</strong> 产品实践的文档，旨在将相关经验开放给社区。</p>
-<p>根据指南，<strong>Agent Skill</strong> 是一个由 <code>SKILL.md</code>、<code>scripts/</code>、<code>references/</code> 等文件组成的多级目录。它依靠以"<strong>Load when...</strong>"开头的描述进行隐式路由匹配，并通过索引、加载、运行时三层渐进式上下文机制实现按需调用。</p>
-<p>开发 Skill 的理念与传统代码截然不同，官方提出了"<strong>Skills 之禅</strong>"等对比。文档系统讲解了何时需要 Skill，以及如何从编写评估和描述入手。同时，文章详细介绍了利用层级结构和迭代来构建 Skill 的方法。</p>
-<p>在维护方面，指南阐述了如何借助"<strong>gotchas 飞轮</strong>"和跨模型评估套件进行操作。<strong>Perplexity</strong> 特别强调，每个 Skill 都会对全局上下文构成成本，新增 Skill 可能无意间干扰已有 Skill 的正确路由。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity">https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/NousResearch/status/2052904761087729897">Nous Research 宣布 Hermes Agent 登顶 OpenRouter 应用用量榜</a> <code>#6</code></h2>
-<blockquote>
-<p>Nous Research 团队宣布，旗下<code>Hermes Agent</code>在<code>OpenRouter</code>平台全球 Token 排名中超越<code>OpenClaw</code>登顶，拿下所有 AI 应用第一名。</p>
-</blockquote>
-<p><strong>Nous Research</strong>通过官方社交账号宣布，其旗下 <strong>Hermes Agent</strong> 已攀升至 <strong>OpenRouter</strong> 平台的全球 <code>token</code> 排名首位。</p>
-<p>据该团队成员 <strong>Teknium</strong> 进一步表示，这意味着 <strong>Hermes Agent</strong> 在该平台所有 <strong>AI</strong> 应用中排名全球第一。</p>
-<p>团队借此向近 <strong>1000</strong> 名贡献者、支持者及用户表达感谢。</p>
-<p>同时，<strong>Teknium</strong> 向社区公开征询意见，询问用户对后续新功能或发展方向的期待。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/26bb79e8-daf8-4d13-bf39-54eedf16f2f5/86a5713e-5383-4b1a-873a-b26385a23596/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/NousResearch/status/2052904761087729897">https://x.com/NousResearch/status/2052904761087729897</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">消息称 Anthropic 与 Akamai 签署 18 亿美元七年合同</a> <code>#7</code></h2>
-<blockquote>
-<p>据报道，<strong>Anthropic</strong>与云服务商<strong>Akamai</strong>签署了价值<strong>十八亿美元</strong>、为期<strong>七年</strong>的<code>云基础设施</code>服务合同，以满足其日益增长的算力需求。受此大单提振，<strong>Akamai</strong>股价连续大涨。</p>
-</blockquote>
-<p>据知情人士透露，人工智能公司<strong>Anthropic</strong>已与云服务提供商<strong>Akamai Technologies</strong>签署一项总额<strong>18亿美元</strong>、为期<strong>七年</strong>的计算服务合同，旨在满足其<code>AI</code>软件日益增长的需求。</p>
-<p><strong>Akamai</strong>在本周四发布<strong>2026年</strong>第一季度财报时披露，一家“领先的前沿模型提供商”已向其<code>CIS</code>（云基础设施服务）承诺<strong>18亿美元</strong>为期<strong>七年</strong>的采购额，但未指名合作方。</p>
-<p>随后有媒体报道指该客户为<strong>Anthropic</strong>，而双方均未予置评。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html">https://www.globenewswire.com/news-release/2026/05/07/3290507/0/en/akamai-reports-first-quarter-2026-financial-results.html</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai">https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">报道称字节跳动今年 AI 基建支出超两千亿</a> <code>#8</code></h2>
-<blockquote>
-<p>据报道，<strong>字节跳动</strong>今年<code>AI</code>基础设施支出将超<strong>2000亿元</strong>，较原计划至少增加<strong>25%</strong>，更多预算投向国产<code>AI</code>芯片。</p>
-</blockquote>
-<p>近日，据《<strong>南华早报</strong>》援引知情人士报道，字节跳动今年在 <code>AI 基础设施</code>方面的支出将超过<code>2000亿元</code>人民币。</p>
-<p>这一数字较去年底的<code>1600亿元</code>计划至少增加<code>25%</code>。增资原因包括<code>AI 投入</code>加大和存储芯片成本上涨。且更大比例的预算将分配给国产 <code>AI 芯片</code>。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand">https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/85</guid><pubDate>Sun, 10 May 2026 00:44:21 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/86</guid><pubDate>Mon, 11 May 2026 00:39:58 +0000</pubDate></item></channel></rss>
