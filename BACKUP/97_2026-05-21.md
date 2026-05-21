@@ -1,0 +1,381 @@
+# [2026-05-21](https://github.com/imjuya/juya-ai-daily/issues/97)
+
+![](http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260521/2026052109093256239509e2_cover_b59a.png)
+
+# AI 早报 2026-05-21
+
+**视频版**：[哔哩哔哩](https://www.bilibili.com/video/BV15vLx6uEGZ) ｜ [YouTube](https://www.youtube.com/watch?v=F6lSopOv2zc)
+
+## 概览
+### 模型发布
+- 千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API [↗](https://qwenlm.github.io/zh/blog/qwen3.7/) `#1`
+- 千问发布实时同传模型 Qwen3.5-LiveTranslate [↗](https://qwen.ai/blog?id=qwen3.5-livetranslate) `#2`
+- Cohere 发布开源模型 Command A+ [↗](https://cohere.com/blog/command-a-plus) `#3`
+- Stability AI 发布 Stable Audio 3.0 系列音频模型 [↗](https://stability.ai/stable-audio) `#4`
+- NVIDIA 推出 SANA-WM 分钟级视频生成模型 [↗](https://nvlabs.github.io/Sana/WM/) `#5`
+### 开发生态
+- Codex 重置使用限制 [↗](https://x.com/thsottiaux/status/2056851041132696025) `#6`
+- Hermes agent 上线 SpaceXAI 网络搜索功能 [↗](https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok) `#7`
+- OpenClaw 发布 2026.5.19 更新 [↗](https://github.com/openclaw/openclaw/releases/tag/v2026.5.19) `#8`
+### 产品应用
+- Hugging Face 上线 Hardware 页面及模型参数筛选功能 [↗](https://huggingface.co/datasets?benchmark=benchmark:official&sort=trending) `#9`
+- Google 发布跨平台 Agent Ask Advisor 及多项广告 AI 更新 [↗](https://blog.google/products/ads-commerce/ask-advisor/) `#10`
+### 技术与洞察
+- OpenAI宣布内部通用模型自主攻克Erdős问题，证明已获外部验证 [↗](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) `#11`
+- Z.ai 等联合部署 ZCube 网络架构：推理吞吐提升 15% [↗](https://x.com/Zai_org/status/2057216685040443743) `#12`
+### 行业动态
+- DeepSeek 组建 Harness 团队，招聘中 `#13`
+- Anthropic 宣布与 SpaceX 扩大算力合作并即将启用 Colossus 2 数据中心 [↗](https://x.com/nottombrown/status/2057194829986300375) `#14`
+- 阿里云发布磐久AL128超节点服务器及自研真武M890芯片 [↗](https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA) `#15`
+- GitHub 调查内部仓库泄露事件，官方称客户数据暂未受影响 [↗](https://x.com/github/status/2056949168208552080) `#16`
+- Exa 完成 2.5 亿美元 C 轮融资，估值达 22 亿美元 [↗](https://a16z.com/announcement/investing-in-exa/) `#17`
+- OpenAI 推出“OpenAI for Singapore”多年期合作计划 [↗](https://openai.com/index/introducing-openai-for-singapore/) `#18`
+### 前瞻与传闻
+- 报道称 OpenAI 计划最快本周提交 IPO 申请 [↗](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1) `#19`
+- 消息称白宫已向 OpenAI 等企业通报前沿 AI 模型审查计划 [↗](https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/) `#20`
+
+---
+
+## [千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API](https://qwenlm.github.io/zh/blog/qwen3.7/) `#1`
+> **Qwen** 团队正式发布面向 **Agent** 时代的旗舰模型 `Qwen3.7-Max`，主打编程、办公自动化与长周期自主执行能力。官方称，该模型在编程 **Agent**、通用 **Agent** 及高难度推理等多个评测维度表现领先，即将通过 **阿里云** `百炼 API` 上线。
+
+**阿里**千问正式发布新一代旗舰模型 `Qwen3.7-Max`，定位为面向 Agent 时代的全能基座模型。
+
+官方称，该模型在编程 Agent、通用 Agent 及高难度推理等多个评测维度表现领先或居前。在一项 **35 小时**、**1158 次**工具调用的自主 `kernel` 优化实验中，实现相对参考实现 **10.0 倍**的几何平均加速。
+
+该模型采用任务 - 运行框架 - 验证器正交解耦训练架构，原生适配 `Claude Code`、`OpenClaw`、`Qwen Code` 等主流智能体框架。同时支持 `MCP` 集成与多智能体协作，并可通过工具调用操控机器狗等具身设备。
+
+API 即将通过 **阿里云百炼**上线。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/128ebcf2-5d18-428d-b9b9-f0d20a067b72/m001.png)
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/128ebcf2-5d18-428d-b9b9-f0d20a067b72/m002.png)
+
+相关链接：
+- [https://qwenlm.github.io/zh/blog/qwen3.7/](https://qwenlm.github.io/zh/blog/qwen3.7/)
+
+---
+
+## [千问发布实时同传模型 Qwen3.5-LiveTranslate](https://qwen.ai/blog?id=qwen3.5-livetranslate) `#2`
+> **千问**发布实时同传模型 `Qwen3.5-LiveTranslate-Flash`。该模型支持**60**种语言音频输入及**29**种语言语音输出，并具备实时跨语言音色克隆能力，现已开放 **Demo** 体验。
+
+**通义实验室**正式发布实时同传翻译大模型 `Qwen3.5-LiveTranslate-Flash`。官方数据显示，该模型将输入文本与音频语种扩展至 **60 种**，音频输出语种提升至 **29 种**。
+
+端到端字均延迟降至 **2.8 秒**，并支持实时音色克隆及最高 **1000 个词条** 的动态热词配置。该模型基于 `Qwen3.5-Omni Thinker-Talker` 架构打造。
+
+目前在 `FLEURS` 等公开基准测试中，其翻译准确率优于前代及主流语音大模型。**官方 Blog** 与在线 Demo 已开放，**阿里云百炼平台**集成服务即将上线。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/240e7111-3784-4493-bde0-66c502ba5e37/m001.png)
+
+相关链接：
+- [https://qwen.ai/blog?id=qwen3.5-livetranslate](https://qwen.ai/blog?id=qwen3.5-livetranslate)
+- [https://omni.qwen.ai/live-translate](https://omni.qwen.ai/live-translate)
+- [https://mp.weixin.qq.com/s/N6mr3RPIzbLuU5lTgy4P-w](https://mp.weixin.qq.com/s/N6mr3RPIzbLuU5lTgy4P-w)
+
+---
+
+## [Cohere 发布开源模型 Command A+](https://cohere.com/blog/command-a-plus) `#3`
+> **Cohere** 发布开源大模型 **Command A+**。该模型采用 `218B` 总参数和 `25B` 激活参数的 `MoE` 架构，它整合了前代视觉与推理能力，专精 `Agentic` 任务。
+
+**Cohere** 发布开源大模型 `Command A+`，该模型基于 `Apache 2.0` 许可，采用 **218B** 总参与 **25B** 激活参的 `Sparse MoE` 架构。
+
+官方称，该模型统一了前代 **Command A** 系列能力，支持 **128K** 上下文、**64K** 输出、图像输入及 **48** 种语言，专为 `Agentic` 任务与高性能企业环境优化。
+
+模型提供 `BF16`、`FP8` 和 `W4A4` 三种量化版本，通过引入推测解码和新分词器提升了推理效率。
+
+官方推荐的 `W4A4` 版本最低仅需单块 `B200` 或两块 `H100` GPU 即可运行，目前权重已在 **Hugging Face** 发布。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/a67d4278-94a8-4405-bea5-57368558e0aa/m001.png)
+
+相关链接：
+- [https://cohere.com/blog/command-a-plus](https://cohere.com/blog/command-a-plus)
+- [https://huggingface.co/CohereLabs/command-a-plus-05-2026](https://huggingface.co/CohereLabs/command-a-plus-05-2026)
+
+---
+
+## [Stability AI 发布 Stable Audio 3.0 系列音频模型](https://stability.ai/stable-audio) `#4`
+> **Stability AI** 发布 **Stable Audio 3.0** 系列音频生成模型，提供多个规格，其中小号与中号版本以开放权重形式发布，支持最长 `6` 分钟的音频生成，可在一定限制下免费商用。
+
+**Stability AI** 推出了名为 **Stable Audio 3.0** 的音频生成模型系列。
+
+该系列共包含四个模型，基于新的 `语义 - 声学自编码器` 架构构建，旨在实现可变长度的音频生成与编辑。
+
+其中，`small SFX`、`small` 与 `medium` 三个模型的权重已开放，`large` 模型则仅通过 API 及付费自托管服务提供。
+
+官方表示，用户对生成内容的输出拥有所有权，年收入低于 **100 万美元** 的用户可根据社区许可证进行分发与商业化。
+
+公司同时开放了面向专业音乐家的产品套件候补名单。
+
+相关链接：
+- [https://stability.ai/stable-audio](https://stability.ai/stable-audio)
+- [https://huggingface.co/collections/stabilityai/stable-audio-3](https://huggingface.co/collections/stabilityai/stable-audio-3)
+
+---
+
+## [NVIDIA 推出 SANA-WM 分钟级视频生成模型](https://nvlabs.github.io/Sana/WM/) `#5`
+> **NVIDIA** 开源世界模型 `SANA-WM`，支持基于单张图像与摄像机轨迹，在单块 **GPU** 上生成 `720p` 分辨率的 **60 秒**可控视频。
+
+**NVIDIA** 研究团队发布了名为 **SANA-WM** 的开源世界模型，该模型原生支持一分钟时长的视频生成。
+
+**SANA-WM** 包含 `26 亿` 参数，能够接收单张图像、文本提示词以及精确的 6 自由度摄像机轨迹作为输入，进而合成 `720p` 分辨率的高保真视频。
+
+其架构核心采用混合线性注意力机制与双分支摄像机控制设计，并结合了两阶段生成管道。
+
+官方称，该模型在单块 `H100 GPU` 上即可完成一分钟视频的推理。
+
+而其经过蒸馏与 `NVFP4` 量化的变体更可在单块 `RTX 5090` 上仅需 `34 秒` 完成 `60 秒` `720p` 视频的去噪。
+
+目前，该模型的双向检查点、推理代码及相关组件已在 **Hugging Face** 上正式开源。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/63490b7b-44c3-404a-87a4-97f381c0a380/m001.png)
+
+相关链接：
+- [https://nvlabs.github.io/Sana/WM/](https://nvlabs.github.io/Sana/WM/)
+- [https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional](https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional)
+
+---
+
+## [Codex 重置使用限制](https://x.com/thsottiaux/status/2056851041132696025) `#6`
+> 疑似迎接 **Google** I/O 召开，**OpenAI** 于**5月20日**早上宣布重置了 `Codex` 的速率限制。
+
+疑似迎接 **Google** I/O 召开，**OpenAI** 于 **5 月 20 日**早上宣布重置了 `Codex` 的速率限制。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/e32daf2a-467e-40a6-b0a7-ed6f016d4fcf/m001.png)
+
+相关链接：
+- [https://x.com/thsottiaux/status/2056851041132696025](https://x.com/thsottiaux/status/2056851041132696025)
+
+---
+
+## [Hermes agent 上线 SpaceXAI 网络搜索功能](https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok) `#7`
+> **NousResearch** 的 **Hermes agent** 现已支持调用 `Grok` 执行网络搜索，相关功能文档已同步上线。
+
+**NousResearch** 的 **Hermes** `agent` 正式集成了 **SpaceXAI** 的网络搜索能力。
+
+用户可以在该 `Agent` 中直接使用 **SpaceXAI** 执行联网查询。
+
+目前，官方已公开了该功能的用户指南文档，详细介绍了其配置与使用方法。
+
+相关链接：
+- [https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok](https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok)
+
+---
+
+## [OpenClaw 发布 2026.5.19 更新](https://github.com/openclaw/openclaw/releases/tag/v2026.5.19) `#8`
+> `OpenClaw` 发布 **2026.5.19** 更新，Android `Talk Mode` 迎来实时化升级，并优化了 Mac 设置界面与无头设备的 `SpaceXAI` 登录体验。
+
+**OpenClaw** 官方发布 **2026.5.19** 版本更新。
+
+此次更新将 Android 平台的 `Talk Mode` 升级为实时语音会话，支持流式麦克风输入、实时音频播放、工具结果桥接及屏幕显示转录文本。
+
+同时，新版优化了 Mac 设置界面的布局与稳定性，改进了无头和远程机器上基于设备码 OAuth 的 `SpaceXAI` 登录体验。
+
+此外，Tg 的论坛主题处理与浏览器对话框交互也得到了相应改善。
+
+相关链接：
+- [https://github.com/openclaw/openclaw/releases/tag/v2026.5.19](https://github.com/openclaw/openclaw/releases/tag/v2026.5.19)
+
+---
+
+## [Hugging Face 上线 Hardware 页面及模型参数筛选功能](https://huggingface.co/datasets?benchmark=benchmark:official&sort=trending) `#9`
+> **Hugging Face** 宣布为 **Dataset Leaderboard** 新增按模型参数量级筛选基准测试结果的功能，并推出用于展示开源 **AI** 社区真实硬件使用情况的 **Hugging Face Hardware**。
+
+**Hugging Face** 官方宣布为 **Dataset Leaderboard** 新增了按模型参数范围筛选基准测试结果的功能，帮助用户查找特定参数限制下的最优模型。
+
+同时，其联合创始人 **Julien Chaumond** 宣布推出 **Hugging Face Hardware**，旨在呈现开源 AI 生态系统的真实世界硬件运行情况。
+
+该硬件追踪功能将提供热门 GPU 与 CPU 统计、VRAM 分布情况以及推理硬件的发展趋势。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/7c394a7d-aec1-4096-b109-024418ba248c/m001.png)
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521083248_0112b96442.png)
+
+相关链接：
+- [https://huggingface.co/datasets?benchmark=benchmark:official&sort=trending](https://huggingface.co/datasets?benchmark=benchmark:official&sort=trending)
+- [https://huggingface.co/hardware](https://huggingface.co/hardware)
+
+---
+
+## [Google 发布跨平台 Agent Ask Advisor 及多项广告 AI 更新](https://blog.google/products/ads-commerce/ask-advisor/) `#10`
+> **Google** 连续发布多项广告与营销 **AI** 更新，宣布跨产品 **Agent** ``Ask Advisor`` 现已面向英文账户推出测试版，`Asset Studio` 即将集成 ``Gemini Omni`` 模型，并在 ``AI Mode`` 中测试多种由 ``Gemini`` 驱动的新型广告格式。
+
+**Google** 宣布了一系列针对其广告与营销平台的 **AI** 更新，旨在统一用户体验并提升广告互动性。
+
+该公司推出了跨产品 `Agent Ask Advisor` 以连接 **Google Ads**、**Analytics** 和 **Merchant Center**。同时为 `Asset Studio` 引入了多模态功能，并即将整合 `Gemini Omni`。此外，公司还在测试由 `Gemini` 模型驱动的新型搜索广告格式。
+
+目前 `Ask Advisor` 仅限英文账户参与测试。`Asset Studio` 的新功能将于 **今年夏季** 面向全球英语用户推出。而新的搜索广告格式和扩展的 `Direct Offers` 试点正处于测试或逐步推进阶段。
+
+相关链接：
+- [https://blog.google/products/ads-commerce/ask-advisor/](https://blog.google/products/ads-commerce/ask-advisor/)
+- [https://blog.google/products/ads-commerce/asset-studio-updates/](https://blog.google/products/ads-commerce/asset-studio-updates/)
+- [https://blog.google/products/ads-commerce/google-marketing-live-search-ads/](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
+
+---
+
+## [OpenAI宣布内部通用模型自主攻克Erdős问题，证明已获外部验证](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) `#11`
+> **OpenAI**宣布其通用推理模型自主解决平面单位距离问题，成功推翻近**80**年的离散几何核心猜想，标志着**AI**首次独立解决数学界著名开放问题。
+
+**OpenAI** 宣布其通用推理模型 `o1` 成功解决了由 **保罗·埃尔德什** 于 **1946** 年提出的平面单位距离问题，推翻了离散几何学领域长达近 **80** 年的核心猜想。
+
+该模型并非专门针对数学构建，而是自主发现了代数数论在几何问题上的新应用，构建出优于传统“方形网格”的全新无限族构造。
+
+该证明目前已通过外部数学家团队的验证，官方称这也是 **AI** 首次自主解决处于数学子领域中心地位的著名开放问题。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521085029_1f6ad403ae.png)
+
+相关链接：
+- [https://openai.com/index/model-disproves-discrete-geometry-conjecture/](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf](https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf)
+
+---
+
+## [Z.ai 等联合部署 ZCube 网络架构：推理吞吐提升 15%](https://x.com/Zai_org/status/2057216685040443743) `#12`
+> **智谱**与相关机构联合开发并在生产环境部署了 **ZCube** `网络架构`。官方数据显示，该架构使 `GLM-5.1` 推理集群的网络硬件成本降低 **33%**，平均吞吐量提升 **15%**，目前已稳定运行超 **两周**。
+
+**Z.ai**、**Harnets.AI** 与 **清华大学** 联合开发了名为 `ZCube` 的新一代 `LLM` 推理网络架构，并已将其部署于线上生产集群。
+
+该架构采用完全扁平化的拓扑结构，旨在解决传统架构在 `Prefill-Decode` 分离场景下因流量不对称导致的网络拥塞问题。
+
+根据官方提供的基准测试数据，在运行 `GLM-5.1` 推理服务时，**ZCube** 在降低约三分之一交换机及光模块硬件成本的同时，使平均 **GPU** 推理吞吐量提升了 **15%**，并将 **TTFT P99** 尾部延迟降低了 **40.6%**。
+
+该生产集群目前已在无应用层修改的情况下稳定运行超过 **两周**，其相关论文已在 **ACM SIGCOMM 2025** 发表。
+
+相关链接：
+- [https://x.com/Zai_org/status/2057216685040443743](https://x.com/Zai_org/status/2057216685040443743)
+
+---
+
+## DeepSeek 组建 Harness 团队，招聘中 `#13`
+> 据 **DeepSeek** 工作人员透露，**DeepSeek** 正在组建一个新的 `Harness` 团队做 `Harness` 方向的产品和研究。目前正在招聘产品和研发方向的两个岗位。
+
+**DeepSeek**正在内部组建新团队，聚焦 **Harness**方向的产品和研究。
+
+该公司已在官方招聘平台开放了"`Agent Harness 产品经理`"和"`Agent Harness 研发工程师`"两个职位，工作地点目前仅限北京。
+
+**DeepSeek**资深研究员**陈德里**在社交媒体上证实了这一动向，明确提出要“对标 **Claude Code**，做 **DeepSeek Code Harness**"。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/2d086d4d-eecc-478f-b778-12454942acaf/m001.png)
+
+---
+
+## [Anthropic 宣布与 SpaceX 扩大算力合作并即将启用 Colossus 2 数据中心](https://x.com/nottombrown/status/2057194829986300375) `#14`
+> **Anthropic** 宣布与 **SpaceX** 扩大合作，并将在六月起的 **Colossus 2** 数据中心大规模扩展 **Claude** 所需的 `GB200` 算力。与此同时，有报道称该公司预计在当季收入将首次突破百亿美元并实现运营盈利。
+
+**Anthropic** 联合创始人 **Tom Brown** 日前表示，公司正在扩展与 **SpaceX** 的合作，并将在 **六月** 期间于 `Colossus 2` 数据中心扩充 `GB200` 算力，以满足 **Claude** 日益增长的推理需求。
+
+据《华尔街日报》独家报道，**Anthropic** 在向投资者披露的预测中预计，**第二季度**收入将激增 **130%** 至 **109亿美元**，并在此季度首次实现运营利润；该报道同时指出，**Anthropic** 正在进行新一轮融资，估值可能将超越 **OpenAI**。
+
+此外，据 **TechCrunch** 消息，**Anthropic** 与 `xAI` 达成了一份算力采购协议，将在 **2029年5月** 前每月向 `xAI` 支付 **12.5亿美元**，以使用其位于孟菲斯的 `Colossus 1` 数据中心的全部 **300兆瓦** 算力输出，合同允许任意一方提前 **90天** 通知终止。
+
+**Elon Musk** 也在社交平台上确认，**SpaceX** 正以服务形式向 **Anthropic** 及其他公司提供规模化 AI 算力。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521085426_d78829239d.png)
+
+相关链接：
+- [https://x.com/nottombrown/status/2057194829986300375](https://x.com/nottombrown/status/2057194829986300375)
+- [https://x.com/elonmusk/status/2057228707606196434](https://x.com/elonmusk/status/2057228707606196434)
+- [https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4](https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4)
+- [https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute](https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute)
+
+---
+
+## [阿里云发布磐久AL128超节点服务器及自研真武M890芯片](https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA) `#15`
+> **阿里云**发布**磐久`AL128`超节点服务器**及自研**真武`M890`芯片**，官方称其支持**万亿参数**大模型单节点运行。同时，宣布面向 Agent 时代推出聚合 **150多款** 模型 API 的新门户“**千问云**”。
+
+在 **2026** **阿里云峰会** 上，**阿里云** 正式发布 `磐久AL128` 超节点服务器。该单机柜紧密耦合 **128** 张首次亮相的自研训推一体芯片 `真武M890`。
+
+该服务器搭配自研互联芯片，官方称其能支持万亿参数大模型单节点运行，并已上线百炼平台。
+
+同时，**阿里云** 发布在第三方盲测中位列国产第一的旗舰模型 `Qwen3.7-Max`，并推出聚合 **150** 多款模型 API 的新门户"**千问云**"。
+
+目前，**阿里云** 产品已进行 Skill 化、MCP 化和 CLI 化改造。百炼平台也计划接入 Kimi、DeepSeek 等第三方模型。
+
+相关链接：
+- [https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA](https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA)
+
+---
+
+## [GitHub 调查内部仓库泄露事件，官方称客户数据暂未受影响](https://x.com/github/status/2056949168208552080) `#16`
+> 据媒体报道，黑客组织 **TeamPCP** 正挂牌出售窃取的约 **3800** 个 `GitHub` 内部仓库数据。**GitHub** 官方确认此次泄露源于一名员工安装了恶意的 `Visual Studio Code` 扩展，目前无证据显示客户数据受到影响，并已轮换了关键凭证。
+
+**GitHub** 正在调查一起涉及内部仓库的未授权访问事件，起因是一名员工安装了被投毒的 `Visual Studio Code` 扩展导致设备被攻破。
+
+黑客组织 **TeamPCP** 宣称窃取了这些内部源代码，并在网络犯罪论坛上以不低于 **5 万美元** 的价格寻找买家，声称若未售出将免费公开数据。
+
+**GitHub** 官方评估认为，此次外泄仅涉及其内部仓库，数量约为 **3800 个**，与黑客声称的数量基本一致。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260520/20260520182405_8a3719e650.png)
+
+相关链接：
+- [https://x.com/github/status/2056949168208552080](https://x.com/github/status/2056949168208552080)
+
+---
+
+## [Exa 完成 2.5 亿美元 C 轮融资，估值达 22 亿美元](https://a16z.com/announcement/investing-in-exa/) `#17`
+> AI 搜索引擎公司 **Exa** 完成 **2.5 亿美元** `C 轮` 融资，估值达 **22 亿美元**，由 **a16z** 领投，致力于为 **AI Agent** 构建专属搜索引擎。
+
+**Exa** 官方宣布完成 **2.5 亿美元** C 轮融资，估值达到 **22 亿美元**，本轮由 **a16z** 领投。
+
+该公司从零构建了专为 `AI Agent` 设计的搜索堆栈，提供低于 **200** 毫秒的搜索延迟及定制的嵌入模型。
+
+目前已为 **Cursor** 等超 **5000** 家企业及 **40 万** 开发者提供支持。
+
+面对未来大语言模型预计千倍于传统搜索的需求量，**Exa** 计划利用新资金训练下一代模型。
+
+公司将基础设施扩展至每秒处理**十万次**搜索，并拓展全球市场团队。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/eae5a97d-eab0-4bbf-b1eb-10e5ded00e2b/m001.png)
+
+相关链接：
+- [https://a16z.com/announcement/investing-in-exa/](https://a16z.com/announcement/investing-in-exa/)
+- [https://exa.ai/blog/announcing-series-c](https://exa.ai/blog/announcing-series-c)
+
+---
+
+## [OpenAI 推出“OpenAI for Singapore”多年期合作计划](https://openai.com/index/introducing-openai-for-singapore/) `#18`
+> **OpenAI** 宣布推出“**OpenAI for Singapore**”合作计划，承诺投入超**3**亿新元，并设立其美国境外的首个 `Applied AI Lab` 以支持该国国家 `AI` 战略。
+
+**OpenAI**宣布推出“**OpenAI for Singapore**”多年期合作计划，以支持新加坡国家 AI 战略。
+
+根据官方公告，该计划承诺投入超 **3 亿**新元资金，将在当地设立 **OpenAI**首个美国境外的 `Applied AI Lab`。
+
+未来几年将创造 **200**多个技术岗位。此项合作将重点聚焦前沿 `AI`部署、本土`AI`人才培养以及赋能本地中小企业与初创公司。
+
+![](https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/676120d1-1c52-4e66-bcb4-d750837d65a9/m001.png)
+
+相关链接：
+- [https://openai.com/index/introducing-openai-for-singapore/](https://openai.com/index/introducing-openai-for-singapore/)
+
+---
+
+## [报道称 OpenAI 计划最快本周提交 IPO 申请](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1) `#19`
+> 媒体报道称，**OpenAI** 计划在未来几天或几周内提交 IPO 申请，传闻估值最高达 **2 万亿美元**，预计最快于 **9 月** 上市。
+
+据**《华尔街日报》**报道，**OpenAI**正准备在未来的几天或几周内向监管机构秘密提交首次公开募股（IPO）申请。
+
+首席执行官**Sam Altman**希望公司能在今年 9 月前准备好上市，目前该公司正与**Goldman Sachs**和**Morgan Stanley**合作处理相关事宜。
+
+科技圈及社交媒体传闻其 IPO 估值可能在 **1 万亿至 2 万亿美元**之间。
+
+相关链接：
+- [https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1](https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1)
+- [https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september](https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september)
+- [https://x.com/theinformation/status/2057173173104226318](https://x.com/theinformation/status/2057173173104226318)
+
+---
+
+## [消息称白宫已向 OpenAI 等企业通报前沿 AI 模型审查计划](https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/) `#20`
+> 据媒体报道，**白宫**向多家 **AI** 公司通报了一项行政令计划，拟建立自愿审查框架，要求企业在发布前沿模型前最多提前 **90** 天与政府共享。
+
+据 **The Information** 报道，**白宫国家网络总监办公室**近期为**主流 AI**企业举办了一场简报会，讨论一项旨在审查高级`AI`模型的行政命令。
+
+参会企业包括 **OpenAI**、**Anthropic** 和 **Reflection AI**。该报道指出，这项预计最快将于**本周**签署的行政令旨在建立一个自愿框架，授权情报等政府机构在模型发布前进行评估。
+
+此外，行政令要求前沿模型开发者在重大发布前通知政府，且最多可提前 **90 天**将模型共享给政府。
+
+相关链接：
+- [https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/](https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/)
+
+---
+
+**提示**：内容由AI辅助创作，可能存在**幻觉**和**错误**。
