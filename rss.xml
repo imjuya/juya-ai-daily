@@ -1,5 +1,306 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Tue, 26 May 2026 00:43:49 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-102/</link><description>AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ)定律：麒麟芯片将首发逻辑折叠技术 ↗ #6 前瞻与传闻 社区反馈 Claude 注册疑似取消手机验证并重开申诉 ↗ #7 SpaceXAI 完成 Grok…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260526/20260526083058289091331f_cover_2165.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Wed, 27 May 2026 01:32:37 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-27</title><link>https://imjuya.github.io/juya-ai-daily/issue-103/</link><description>AI 早报 2026-05-27 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan 计费体系 ↗ #1 Kimi 升级风控误封 Kimi Code 用户，官方致歉并恢复账号 ↗ #2 模型发布 Kwai-Keye 发布 Keye-VL-2.0-30B-A3B 多模态模型 ↗ #3 PrismML 发布 Bonsai Image 4B 开源图像模型 ↗ #4 微软发布文生图模型 MAI-Image-2.5 强化文本渲染能力 ↗ #5 OpenMOSS 团队发布 MOSS-TTS-v1.5 与音效生成模型 MOSS-SoundEffect-v2.0 ↗ #6 NVIDIA开源PiD解码器：统一解码与超分 ↗ #7 腾讯 Hy-MT2 模型…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260527/20260527083415022309f9de_cover_d662.png" alt=""></p>
+<h1>AI 早报 2026-05-27</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1uQGC66EEB">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=1pA6zbqhcoE">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan 计费体系 <a href="https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-price-update">↗</a> <code>#1</code></li>
+<li>Kimi 升级风控误封 Kimi Code 用户，官方致歉并恢复账号 <a href="https://x.com/Young_AGI/status/2059248586559488352">↗</a> <code>#2</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>Kwai-Keye 发布 Keye-VL-2.0-30B-A3B 多模态模型 <a href="https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B">↗</a> <code>#3</code></li>
+<li>PrismML 发布 Bonsai Image 4B 开源图像模型 <a href="https://prismml.com/news/bonsai-image-4b">↗</a> <code>#4</code></li>
+<li>微软发布文生图模型 MAI-Image-2.5 强化文本渲染能力 <a href="https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai/">↗</a> <code>#5</code></li>
+<li>OpenMOSS 团队发布 MOSS-TTS-v1.5 与音效生成模型 MOSS-SoundEffect-v2.0 <a href="https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5">↗</a> <code>#6</code></li>
+<li>NVIDIA开源PiD解码器：统一解码与超分 <a href="https://research.nvidia.com/labs/sil/projects/pid/">↗</a> <code>#7</code></li>
+<li>腾讯 Hy-MT2 模型更换为 Apache 2.0 协议 <a href="https://x.com/TencentHunyuan/status/2059249996256711150">↗</a> <code>#8</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Anthropic 发布 Claude Code 安全审查插件 <a href="https://code.claude.com/docs/en/security-guidance">↗</a> <code>#9</code></li>
+<li>SpaceXAI 改进缓存并重置 Grok Build 额度 <a href="https://x.com/xai/status/2059375342683636066">↗</a> <code>#10</code></li>
+<li>OpenCode Go 上线 Qwen3.7 Max 模型 <a href="https://x.com/opencode/status/2059335771002114462">↗</a> <code>#11</code></li>
+<li>美团发布面向 AI Agent 的跑腿下单助手 Skill <a href="https://github.com/meituan/MT-Paotui-For-Client">↗</a> <code>#12</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>支付宝推出全栈AI支付体系及首个Token Pay服务 <a href="https://mp.weixin.qq.com/s/WwcAM0SzMbSt-vD25TiAgg">↗</a> <code>#13</code></li>
+<li>秘塔AI搜索上线事实核验功能并扩容视频库 <a href="https://mp.weixin.qq.com/s/-9xXP8F1qW8Hy9yr5NLt1A">↗</a> <code>#14</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Datacurve 发布 DeepSWE 长周期软件工程基准 <a href="https://deepswe.datacurve.ai/">↗</a> <code>#15</code></li>
+<li>蚂蚁集团与新加坡国立大学团队提出KPop训练方法 <a href="https://ringtech.notion.site/kpop">↗</a> <code>#16</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>OpenRouter 宣布完成 1.13 亿美元融资 <a href="https://x.com/OpenRouter/status/2059277623629664758">↗</a> <code>#17</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>MiniMax预热M3模型及MSA稀疏注意力架构 <a href="https://x.com/MiniMax_AI/status/2059286515155599595">↗</a> <code>#18</code></li>
+</ul>
+<hr>
+<h2><a href="https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-price-update">小米宣布 MiMo-V2.5 系列模型永久降价，优化 Token Plan 计费体系</a> <code>#1</code></h2>
+<blockquote>
+<p>小米宣布 MiMo-V2.5 系列 API 永久降价，且不再使用阶梯计费。官方同步优化了 Token Plan 计费体系，用量提升至原来的 5至8 倍，并重置了所有仍在有效期内的用户额度。</p>
+</blockquote>
+<p><strong>小米</strong>大模型团队宣布对 <code>MiMo-V2.5</code> 系列模型 API 进行永久降价，新定价于北京时间 <strong>5 月 27 日 0 点</strong> 全球同步生效。此次调价最高降幅达 <strong>99%</strong> ，不再区分输入长度区间。</p>
+<p>官方同步优化了 <code>Token Plan</code> 计费体系，用量提升至原来的 <strong>5-8 倍</strong> ，并重置了所有仍在有效期内的用户额度，同时旧版 <code>V2</code> 系列模型即将下线。</p>
+<p>此外， <strong>“百万亿 Token 创造者激励计划”</strong> 因 <strong>100T Tokens</strong> 提前发完而收官。</p>
+<p>官方称，其团队基于 <code>SGLang HiCache</code> 完整支持 <code>SWA</code> （<code>Sliding Window Attention</code>），将 <code>KV Cache</code> 在 <code>GPU</code> 显存、<code>CPU</code> 内存、<code>SSD</code> 等多级存储间的数据搬运量降低至优化前的近 <strong>1/7</strong> ，并将可缓存 token 数量提升至优化前的近 <strong>5 倍</strong> ，显著提升了缓存命中率和推理效率。</p>
+<p>同时，通过优化专家并行方案、输入长度分桶策略等，进一步提升了集群输入吞吐能力。后续将发布更加详细的推理优化技术 Blog。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527082234_1053645402.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527082302_d36347f371.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-price-update">https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-price-update</a></li>
+<li><a href="https://mp.weixin.qq.com/s/PuJcTCUO0MjB2V1D-V0_oA">https://mp.weixin.qq.com/s/PuJcTCUO0MjB2V1D-V0_oA</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Young_AGI/status/2059248586559488352">Kimi 升级风控误封 Kimi Code 用户，官方致歉并恢复账号</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Kimi</strong> 发布声明称，近期为打击中转站售卖升级了风控策略，因将 <code>User Agent</code> 作为判定依据，误封了一批使用第三方 <code>Agent</code> 的 <strong>Kimi Code</strong> 用户。官方对此致歉，称已调整策略，目前受限账号已全部恢复正常。</p>
+</blockquote>
+<p><strong>Kimi Code</strong> 近期为应对中转站售卖和数据异常请求升级了 <code>风控防御策略</code>。</p>
+<p>由于该策略将 <code>User Agent</code> 作为判定依据之一，导致部分构造为 <strong>Kimi CLI</strong> 的第三方 <code>Code Agent</code> 正常请求被误伤，多名社区用户反馈在使用第三方工具或测试工作流时遭遇封号。</p>
+<p>对此，<strong>Kimi</strong> 团队代表发文致歉，承认初期策略制定粗糙且缺乏充分的反馈机制。</p>
+<p>目前官方已调整 <code>风控策略</code>，相关受限账号的请求已全部恢复，团队正联系相关开发者进行 <code>User Agent</code> 的优化工作。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527080115_69dcd31e78.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Young_AGI/status/2059248586559488352">https://x.com/Young_AGI/status/2059248586559488352</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B">Kwai-Keye 发布 Keye-VL-2.0-30B-A3B 多模态模型</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>快手</strong><code>Kwai-Keye</code>团队开源了<code>300 亿</code>参数的多模态模型<code>Keye-VL-2.0-30B-A3B</code>。官方称其为首个在生产环境落地<code>DSA</code>架构的视觉语言模型，长视频理解能力极佳。</p>
+</blockquote>
+<p><strong>快手 Kwai-Keye</strong> 团队发布了 <strong>300 亿</strong> 参数级别的旗舰多模态基础模型 <code>Keye-VL-2.0-30B-A3B</code>，并在 <strong>Hugging Face</strong> 与 <strong>GitHub</strong> 上完全开源。</p>
+<p>该模型是首个在生产环境中落地 <code>DSA（DeepSeek Sparse Attention）</code> 的视觉语言模型，能够在保持计算效率的同时，对长达一小时的视频进行精准理解。</p>
+<p>并在 <strong>256K</strong> 超长上下文中实现近乎无损的推理。官方数据显示，在同级别模型中，其长视频理解能力表现最佳，并在多项精细时序感知基准上媲美或超越 <code>Gemini 3 Flash</code> 等顶级闭源模型。</p>
+<p>作为 <strong>Keye</strong> 系列的首个 <code>Agent-Ready</code> 基础模型，它内置了系统级的编排机制，原生支持 Search、Tool 和 Code 场景。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/ea5bdb96-6d9b-4025-b605-b50129930f6b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B">https://huggingface.co/Kwai-Keye/Keye-VL-2.0-30B-A3B</a></li>
+<li><a href="https://github.com/Kwai-Keye/Keye">https://github.com/Kwai-Keye/Keye</a></li>
+</ul>
+<hr>
+<h2><a href="https://prismml.com/news/bonsai-image-4b">PrismML 发布 Bonsai Image 4B 开源图像模型</a> <code>#4</code></h2>
+<blockquote>
+<p><code>PrismML</code> 官方发布 <strong>Bonsai Image 4B</strong> 开源图像模型，包含 <code>1-bit</code> 和 <code>Ternary</code> 两种版本。主打在手机等本地设备运行。</p>
+</blockquote>
+<p><strong>PrismML</strong> 官方发布了专为本地设备设计的 <strong>Bonsai Image 4B</strong> 图像生成模型家族，包含 <code>1-bit</code> 和 <code>Ternary</code> 两种版本。</p>
+<p>官方数据显示，基于 <code>FLUX.2 Klein 4B</code> 架构，这两款模型将 <code>Diffusion Transformer</code> 体积最高压缩了 <strong>8.3</strong> 倍至 <strong>0.93GB</strong> 和 <strong>1.21GB</strong>。</p>
+<p>同时保留了原模型 <strong>88%</strong> 至 <strong>95%</strong> 的基准性能，支持在 <strong>iPhone</strong> 等设备上本地运行。两款模型已采用 <code>Apache 2.0</code> 协议开源并推出 <strong>iOS</strong> 应用 <strong>Bonsai Studio</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/49dd4fa6-f6ae-47aa-a078-8e7e1271a575/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://prismml.com/news/bonsai-image-4b">https://prismml.com/news/bonsai-image-4b</a></li>
+<li><a href="https://huggingface.co/collections/prism-ml/bonsai-image">https://huggingface.co/collections/prism-ml/bonsai-image</a></li>
+<li><a href="https://github.com/PrismML-Eng/Bonsai-Image-Demo">https://github.com/PrismML-Eng/Bonsai-Image-Demo</a></li>
+</ul>
+<hr>
+<h2><a href="https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai/">微软发布文生图模型 MAI-Image-2.5 强化文本渲染能力</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>微软</strong>宣布推出图像生成模型 <code>MAI-Image-2.5</code>，官方称其已登上 <strong>Arena</strong> 文生图排行榜第三名，并在文本渲染与视觉推理方面实现重大改进，该模型现已上线 <strong>Arena</strong> 平台供用户体验。</p>
+</blockquote>
+<p><strong>微软</strong>正式发布了其最新的<code>图像生成模型``MAI-Image-2.5</code>。官方表示，该模型目前已在 <code>Arena</code> 文生图排行榜上位居<strong>第三</strong>。</p>
+<p>相比前代 <code>MAI-Image-2</code>，<code>MAI-Image-2.5</code> 在文本渲染、风格化插图和商业图像方面取得了显著进步，能够处理多种风格、准确遵循指令，并在对象、场景结构及空间关系上展现出强大的视觉推理能力。</p>
+<p>目前该模型已向公众开放体验，但暂时仅限在 <code>Arena</code> 平台使用；官方博客预计其将在未来<strong>两周</strong>内陆续登陆 <code>MAI Playground</code> 和 <code>Foundry</code>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527075812_3a150c8480.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/dd2ac792-25e4-4368-9b65-a320bd870616/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai/">https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai/</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5">OpenMOSS 团队发布 MOSS-TTS-v1.5 与音效生成模型 MOSS-SoundEffect-v2.0</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>OpenMOSS</strong> 团队发布 <code>MOSS-TTS-v1.5</code> 语音合成模型，将多语种支持扩展至 <strong>31</strong> 种并优化了语音克隆稳定性，同时推出采用 <code>DiT</code> 架构的音效生成模型 <code>MOSS-SoundEffect-v2.0</code>。</p>
+</blockquote>
+<p><strong>OpenMOSS</strong> 团队发布了新一代语音合成模型 <code>MOSS-TTS-v1.5</code> 及文本到音效模型 <code>MOSS-SoundEffect-v2.0</code>。</p>
+<p><code>MOSS-TTS-v1.5</code> 保留了零样本克隆等基础能力，将多语种支持扩展至 <strong>31 种</strong>，在指定语言标签时合成质量高于前代，同时改进了长参考音频短文本克隆与标点韵律跟随，并支持内联标记控制停顿。</p>
+<p>音效模型 <code>MOSS-SoundEffect-v2.0</code> 拥有 <strong>13 亿</strong> 参数，采用 <code>DiT</code> 架构与 <code>Flow Matching</code> 目标，支持根据中英文文本生成长达 <strong>30 秒</strong> 的 <strong>48 kHz</strong> 高保真音效。</p>
+<p>两款模型均已在 <strong>Hugging Face</strong> 开源并提供推理代码。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527075636_62410366c6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5">https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5</a></li>
+<li><a href="https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0">https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0</a></li>
+</ul>
+<hr>
+<h2><a href="https://research.nvidia.com/labs/sil/projects/pid/">NVIDIA开源PiD解码器：统一解码与超分</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong> 推出像素扩散解码器 <code>PiD</code>，一种将 <strong>潜空间解码</strong> 与 <strong>超分辨率</strong> 统一为单一过程的 <strong>条件像素扩散模型</strong>。它兼容 <code>Flux</code> 和 <code>SD3</code> 等架构，权重已开放下载，仅限 <strong>非商业</strong> 用途。</p>
+</blockquote>
+<p><strong>NVIDIA</strong>正式发布了<code>PiD</code>（<code>Pixel Diffusion Decoder</code>），这是一种将潜空间解码与超分辨率统一为单一过程的条件像素扩散模型。</p>
+<p>它通过直接在高分辨率像素空间进行去噪，取代了传统的“先解码后超分”级联流程，并利用<code>DMD2</code>蒸馏将推理步骤压缩至4步。</p>
+<p>官方数据显示，<code>PiD</code>在<code>RTX 5090</code>上可将512分辨率的潜变量在不到1秒内解码为2048图像，在<code>GB200</code>上仅需210毫秒，比<code>SeedVR2</code>等基于级联扩散的超分流程快约5.9倍。</p>
+<p>该模型针对多种主干架构的检查点已在<strong>Hugging Face</strong>开源，明确要求仅限用于非商业的研究或评估目的。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/43bffc71-86f6-4b55-a88c-445dc6a24bb6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://research.nvidia.com/labs/sil/projects/pid/">https://research.nvidia.com/labs/sil/projects/pid/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/TencentHunyuan/status/2059249996256711150">腾讯 Hy-MT2 模型更换为 Apache 2.0 协议</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>腾讯</strong>官方宣布将 <code>Hy-MT2</code> 模型改为采用 Apache License 2.0 协议开源，无限制支持商业使用与微调。</p>
+</blockquote>
+<p><strong>腾讯</strong>已将其 <code>Hy-MT2</code> 模型的开源许可协议正式更改为 <code>Apache License 2.0</code>。</p>
+<p>该协议允许社区在无任何附加限制的条件下，将模型用于学术研究、商业用途、微调以及创建衍生品。</p>
+<p>根据官方提供的数据，该模型的两个版本目前在 <code>Hugging Face</code> 趋势排行榜上分别位列<strong>第一名</strong>和<strong>第四名</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/6f5d7b07-f00c-4443-9b0c-14a3cbc44e84/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/TencentHunyuan/status/2059249996256711150">https://x.com/TencentHunyuan/status/2059249996256711150</a></li>
+</ul>
+<hr>
+<h2><a href="https://code.claude.com/docs/en/security-guidance">Anthropic 发布 Claude Code 安全审查插件</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 发布 <code>Claude Code</code> 的 <code>security-guidance</code> 插件，可在编写代码时自动审查变更并修复常见安全漏洞，已面向所有用户开放。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 发布了面向 <strong>Claude Code</strong> 的 <code>security-guidance</code> 插件，该插件在编码过程中自动运行，无需单独调用命令。</p>
+<p>插件通过 <strong>三个层级</strong> 进行检查：文件编辑时的快速模式匹配（无模型调用）、每轮对话结束后的后台模型审查，以及 <strong>Claude</strong> 执行 <code>git commit</code> 或 <code>git push</code> 时的深度 Agent 审查，<strong>三个层级</strong>均不阻塞写入或提交操作。</p>
+<p>该插件已面向 <strong>所有</strong> <strong>Claude Code</strong> 用户开放，用户可在会话中通过 <code>/plugin install security-guidance@claude-plugins-official</code> 从官方 <strong>Anthropic</strong> 插件市场安装，其中模型审查默认使用 <code>Claude Opus 4.7</code>，会产生相应的模型用量。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/cd275d50-7c6d-4e2b-bb20-cabd74c1cac2/m001.gif" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://code.claude.com/docs/en/security-guidance">https://code.claude.com/docs/en/security-guidance</a></li>
+<li><a href="https://x.com/ClaudeDevs/status/2059385239781384341">https://x.com/ClaudeDevs/status/2059385239781384341</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/xai/status/2059375342683636066">SpaceXAI 改进缓存并重置 Grok Build 额度</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>SpaceXAI</strong>针对用户反馈<code>Grok Build Beta</code>迅速触达限制的问题，改进了相关<code>缓存机制</code>，并已重置所有账户的该功能使用额度。</p>
+</blockquote>
+<p><strong>SpaceXAI</strong> 官方确认，部分用户在测试 <code>Grok Build Beta</code> 时遇到了使用额度迅速耗尽的问题。</p>
+<p>针对这一反馈，开发团队找到了优化 <code>缓存</code> 的方向并进行了改进。</p>
+<p>目前官方已经重置了所有账户的 <code>Grok Build</code> 使用限制，同时团队鼓励用户继续分享测试反馈。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/24a0a2c7-8ea2-46af-a897-7c2fca8de8b6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/xai/status/2059375342683636066">https://x.com/xai/status/2059375342683636066</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/opencode/status/2059335771002114462">OpenCode Go 上线 Qwen3.7 Max 模型</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>OpenCode Go</strong> 套餐现已支持 <code>Qwen3.7 Max</code> 模型，仅限纯文本且提供 <strong>100 万</strong> 上下文。<strong>Arena.ai</strong> 称该模型在 <strong>Code Arena</strong> 首秀排第四。</p>
+</blockquote>
+<p><strong>OpenCode</strong> 官方宣布其 <strong>Go</strong> 套餐现已支持 <code>Qwen3.7 Max</code> 模型。</p>
+<p>官方将该模型描述为 <code>Qwen</code> 家族迄今最聪明的模型，提供 <strong>100 万</strong> 上下文能力，但目前仅支持纯文本输入。</p>
+<p>此外，据 <strong>Arena.ai</strong> 公布的评测数据，<code>Qwen3.7 Max</code> 在 <strong>Code Arena</strong> 榜单首次亮相排名 <strong>第四</strong>，超越了 <code>GLM-5.1</code> 并与 <code>Claude Opus 4.6</code> 表现持平。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/0f8cdd25-2d13-4202-9690-990e91da359d/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/0f8cdd25-2d13-4202-9690-990e91da359d/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/opencode/status/2059335771002114462">https://x.com/opencode/status/2059335771002114462</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/meituan/MT-Paotui-For-Client">美团发布面向 AI Agent 的跑腿下单助手 Skill</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>美团</strong>发布面向 <code>AI Agent</code> 的 <code>跑腿下单助手</code>。该 <code>Skill</code> 支持直接调用 <strong>美团</strong> 跑腿接口完成 <code>帮取送</code>、<code>帮忙</code> 和 <code>帮买</code> 等场景，并内置地址搜索与订单查询功能。</p>
+</blockquote>
+<p><strong>美团</strong>在 <code>GitHub</code> 官方仓库发布了 <code>MT-Paotui-For-Client</code> 项目，这是一个面向 <code>AI Agent</code> 的跑腿下单助手 <code>Skill</code>。</p>
+<p>该工具由用户自选的大模型驱动，支持直接调用 <strong>美团</strong> 跑腿接口完成帮取送、帮忙和帮买等场景，并内置地址搜索与订单查询功能。</p>
+<p>该项目内置了两步确认及超 <strong>100 元</strong> 金额拦截等安全门控机制。<strong>美团</strong> 官方声明仅提供跑腿接口与 <code>Skill</code> 定义，不对 <code>AI</code> 助手环境及大模型的安全合规性承担责任。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/e7eaecd3-5abd-4552-a36c-14bdd58c4d77/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/meituan/MT-Paotui-For-Client">https://github.com/meituan/MT-Paotui-For-Client</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/WwcAM0SzMbSt-vD25TiAgg">支付宝推出全栈AI支付体系及首个Token Pay服务</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong>旗下<strong>支付宝</strong>正式发布由<code>AI付</code>、<code>AI收</code>、<code>Token Pay</code>和<code>AI钱包</code>构成的<code>AI支付</code>“全家桶”，建立覆盖授权、支付、结算和管理的全栈<code>AI原生支付体系</code>。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong>旗下<strong>支付宝</strong>正式发布由<code>AI 付</code>、<code>AI 收</code>、<code>Token Pay</code>和<code>AI 钱包</code>构成的<code>AI</code>支付“全家桶”，建立覆盖授权、支付、结算和管理的全栈<code>AI</code>原生支付体系。</p>
+<p>官方数据显示，其核心产品“<code>AI 付</code>”已完成<strong>3 亿笔</strong>智能体支付，支持市面上**95%**的主流智能体框架，并覆盖手机、眼镜、车机等多终端硬件。</p>
+<p>本次推出的<code>Token Pay</code>是目前市场唯一的模型付款解决方案，官方称采用订阅制可将模型订阅成功率提升<strong>70%</strong>；而<code>AI 钱包</code>则支持意图授权与<strong>24 小时</strong>风险预警，<strong>支付宝</strong>对此承诺“你敢付，我敢赔”。</p>
+<p>同时，<strong>支付宝</strong>基于“碰一下”终端发布了首个商家经营智能体“晓雨”，并宣布推出包含每月最高<strong>5000 元</strong><code>Token</code>算力补贴及费率减免的<code>AI</code>开发者激励计划，详细方案将于<strong>6 月</strong>公布。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/a163ce66-23dd-48f1-991d-eb66028456ec/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/WwcAM0SzMbSt-vD25TiAgg">https://mp.weixin.qq.com/s/WwcAM0SzMbSt-vD25TiAgg</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/-9xXP8F1qW8Hy9yr5NLt1A">秘塔AI搜索上线事实核验功能并扩容视频库</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>秘塔AI搜索</strong>近期宣布扩容视频库<strong>十倍</strong>，提升搜索速度与深度，并新增<code>“事实核验”</code>功能，支持比对多方来源判断信息真伪，现已面向<code>PC端</code>开放。</p>
+</blockquote>
+<p><strong>秘塔AI搜索</strong>官方宣布在<strong>最近一个月</strong>内对其产品进行了三项核心更新。</p>
+<p>平台不仅将视频搜索库的数据规模扩容至原有的<strong>10倍</strong>，还将搜索深度提升了<strong>33%</strong>、速度实现了翻倍，且性能提升同时覆盖 <code>API</code> 与产品端。</p>
+<p>此外，<strong>秘塔</strong>新增了 <strong>“事实核验”</strong> 功能，能够自动识别上传内容中的事实细节，通过比对多方来源来判断信息可信度。</p>
+<p>目前，用户已可在 <code>PC端</code> 首页使用该功能。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260526/20260526195735_d79b2e2003.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/-9xXP8F1qW8Hy9yr5NLt1A">https://mp.weixin.qq.com/s/-9xXP8F1qW8Hy9yr5NLt1A</a></li>
+</ul>
+<hr>
+<h2><a href="https://deepswe.datacurve.ai/">Datacurve 发布 DeepSWE 长周期软件工程基准</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Datacurve</strong> 团队推出软件工程基准 <code>DeepSWE</code>，含 <strong>91</strong> 个仓库的 <strong>113</strong> 项原创长周期任务，官方评测显示 <code>gpt-5.5</code> 以 <strong>70%</strong> 通过率排名第一。</p>
+</blockquote>
+<p><strong>Datacurve</strong> 团队发布了长周期软件工程基准 <code>DeepSWE</code>，包含横跨 <code>TypeScript</code>、<code>Go</code>、<code>Python</code>、<code>JavaScript</code> 和 <code>Rust</code> 五种语言。</p>
+<p>该基准涵盖 <strong>91</strong> 个活跃开源仓库的 <strong>113</strong> 项从零编写的原创任务，旨在解决现有公开基准的数据污染与验证器不可靠问题。</p>
+<p>官方公布的评测结果显示，在统一使用 <code>mini-swe-agent</code> 的条件下，<code>gpt-5.5</code> 以 <strong>70%</strong> 通过率居首。</p>
+<p><code>gpt-5.4</code> 和 <code>claude-opus-4.7</code> 分别为 <strong>56%</strong> 和 <strong>54%</strong>。</p>
+<p>基准代码与全部运行轨迹已在 <strong>GitHub</strong> 公开。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527080926_3092cebcf2.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://deepswe.datacurve.ai/">https://deepswe.datacurve.ai/</a></li>
+<li><a href="https://github.com/datacurve-ai/deep-swe">https://github.com/datacurve-ai/deep-swe</a></li>
+</ul>
+<hr>
+<h2><a href="https://ringtech.notion.site/kpop">蚂蚁集团与新加坡国立大学团队提出KPop训练方法</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>蚂蚁集团</strong>等联合提出<code>KPop</code>方法，使用<code>自适应二元KL 散度</code>替代<code>固定比率约束</code>，以解决大规模<code>MoE</code>模型<code>强化学习</code>训练中的<code>训练 - 推理不匹配问</code>。</p>
+</blockquote>
+<p><strong>蚂蚁集团</strong>与<strong>新加坡国立大学</strong>团队提出名为<code>KPop</code>的强化学习训练稳定性方法。</p>
+<p>该方法采用对称二元<code>KL散度</code>替代先前<code>IcePop</code>方法中的固定比率约束，能够根据不同<code>Token</code>的概率自适应调整遮蔽区域，从而更准确地捕获异构<code>Token</code>级别的训练-推理差异。</p>
+<p>实验表明，在不修改<code>RL</code>基础设施或引入路由重放等额外机制的前提下，<code>KPop</code>在混合复杂推理任务和长程编码<code>Agentic RL</code>中均能稳定优化过程。</p>
+<p>官方称使<strong>万亿美元</strong>参数的<code>Ring-2.6-1T</code>模型在<code>SWE-bench-Verified</code>基准上取得超过<strong>76</strong>的分数。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/77c841b5-d63a-4997-9287-d9b63dbba728/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://ringtech.notion.site/kpop">https://ringtech.notion.site/kpop</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/OpenRouter/status/2059277623629664758">OpenRouter 宣布完成 1.13 亿美元融资</a> <code>#17</code></h2>
+<blockquote>
+<p><strong>OpenRouter</strong> 宣布完成 <strong>1.13 亿美元</strong> <strong>B 轮</strong>融资，本轮融资由 <strong>Alphabet</strong> 旗下的 <strong>CapitalG</strong> 领投。官方数据显示，该平台每周处理的 <code>token</code> 量已增长至 <strong>25 万亿</strong>。</p>
+</blockquote>
+<p>OpenRouter 官方宣布了这笔 <strong>1.13 亿美元</strong>的 <code>B 轮</code>融资，领投方为 <code>CapitalG</code>，同时获得了 <code>a16z</code>、<code>Menlo Ventures</code> 以及 <code>nvidia</code> 旗下 <code>NVentures</code> 等多家投资机构的支持。</p>
+<p>官方数据显示，随着 <code>AI</code>从实验阶段转向生产应用，<code>OpenRouter</code>每周处理的 <code>token</code>量在 <strong>六个月</strong>内从 <strong>5 万亿</strong>激增至 <strong>25 万亿</strong>。</p>
+<p>另据 <code>OpenRouter</code>团队成员透露，该平台目前已拥有超过 <strong>800 万</strong>全球用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/f93660cc-96d4-49b7-a6c9-77053b389aa3/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/OpenRouter/status/2059277623629664758">https://x.com/OpenRouter/status/2059277623629664758</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/MiniMax_AI/status/2059286515155599595">MiniMax预热M3模型及MSA稀疏注意力架构</a> <code>#18</code></h2>
+<blockquote>
+<p><strong>MiniMax</strong>近日预告了<code>M3</code>模型及其使用的稀疏注意力架构<code>MiniMax Sparse Attention</code>。官方数据显示，在<code>100 万</code>token 长文本下，<code>M3</code>预填充速度较前代<code>M2</code>提升<code>9.7</code>倍，解码速度提升<code>15.6</code>倍。</p>
+</blockquote>
+<p><strong>MiniMax</strong>近日通过社交平台正式预告了<code>M3</code>模型及其使用的新一代稀疏注意力架构 <code>MiniMax Sparse Attention</code>（<code>MSA</code>）。</p>
+<p>根据官方发布的性能对比，在处理<code>1M tokens</code>的超长上下文时，<code>M3</code> 的预填充延迟从<code>M2</code>的近<code>20秒</code>降至线性水平，解码延迟从约<code>1.6毫秒</code>被大幅压缩。</p>
+<p>整体取得了<code>9.7倍</code>和<code>15.6倍</code>的提速。<code>MSA</code>采用“索引分支 + 稀疏分支”的两阶段设计：先由轻量索引分支筛选关键<code>KV</code>区块，再于稀疏分支中仅对选中区块执行注意力计算。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/d662a7d4-c85d-4ee8-9d79-38f02a3c8ee4/e56a02f1-d6b8-4a5f-997e-4a598b620189/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260527/20260527080327_74adf7cfa6.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/MiniMax_AI/status/2059286515155599595">https://x.com/MiniMax_AI/status/2059286515155599595</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/103</guid><pubDate>Wed, 27 May 2026 01:32:20 +0000</pubDate></item><item><title>2026-05-26</title><link>https://imjuya.github.io/juya-ai-daily/issue-102/</link><description>AI 早报 2026-05-26 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 SpaceXAI 完成 Grok V9-Medium 模型训练并预告开源计划 ↗ #1 OpenBMB 发布 MiniCPM5-1B 开源模型 ↗ #2 开发生态 Grok Build 面向 SuperGrok 和 X Premium+ 用户开放 ↗ #3 Google Antigravity 新增 Gemini 3.5 Flash (Low) ↗ #4 产品应用 ima 宣布全面开放 copilot 并上线 Skill 发布功能 ↗ #5 技术与洞察 华为发布韬(τ)定律：麒麟芯片将首发逻辑折叠技术 ↗ #6 前瞻与传闻 社区反馈 Claude 注册疑似取消手机验证并重开申诉 ↗ #7 SpaceXAI 完成 Grok…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260526/20260526083058289091331f_cover_2165.png" alt=""></p>
 <h1>AI 早报 2026-05-26</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1e8VF6fEX4">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=PArEvWUAjgE">YouTube</a></p>
 <h2>概览</h2>
@@ -2037,108 +2338,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/94</guid><pubDate>Mon, 18 May 2026 01:19:53 +0000</pubDate></item><item><title>2026-05-17</title><link>https://imjuya.github.io/juya-ai-daily/issue-93/</link><description>AI 早报 2026-05-17 视频版：哔哩哔哩 ｜ YouTube 概览 开发生态 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 ↗ #1 Codex 修复 GPT-5.5 性能下降问题并重置付费用户额度 ↗ #2 Vercel Labs 推出面向 Agent 的实验性编程语言 Zero ↗ #3 产品应用 微信读书推出 AI 助手 Skill ↗ #4 行业动态 OpenAI 与马耳他政府合作向完成培训的公民提供一年免费 ChatGPT Plus ↗ #5 上海电信上线Token算力服务及免费体验活动 ↗ #6 Codex发布更新：自定义快捷键、Git优化与大幅性能提升 #1 Codex 发布多项功能与性能改进，现已支持自定义键盘快捷键、优化 Git 操作并提升线程面板和本地服务器列表体验…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260517/2026051708463064671837b1_cover_9e23.png" alt=""></p>
-<h1>AI 早报 2026-05-17</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1VpL76LEwA">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=Xl2offmOHZM">YouTube</a></p>
-<h2>概览</h2>
-<h3>开发生态</h3>
-<ul>
-<li>Codex发布更新：自定义快捷键、Git优化与大幅性能提升 <a href="https://x.com/OpenAIDevs/status/2055717793841221796">↗</a> <code>#1</code></li>
-<li>Codex 修复 GPT-5.5 性能下降问题并重置付费用户额度 <a href="https://x.com/thsottiaux/status/2055707616605835333">↗</a> <code>#2</code></li>
-<li>Vercel Labs 推出面向 Agent 的实验性编程语言 Zero <a href="https://github.com/vercel-labs/zero">↗</a> <code>#3</code></li>
-</ul>
-<h3>产品应用</h3>
-<ul>
-<li>微信读书推出 AI 助手 Skill <a href="https://weread.qq.com/r/weread-skills">↗</a> <code>#4</code></li>
-</ul>
-<h3>行业动态</h3>
-<ul>
-<li>OpenAI 与马耳他政府合作向完成培训的公民提供一年免费 ChatGPT Plus <a href="https://openai.com/index/malta-chatgpt-plus-partnership/">↗</a> <code>#5</code></li>
-<li>上海电信上线Token算力服务及免费体验活动 <a href="https://mp.weixin.qq.com/s/H8D6ClBheNj3a_Au-4LKQg">↗</a> <code>#6</code></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/OpenAIDevs/status/2055717793841221796">Codex发布更新：自定义快捷键、Git优化与大幅性能提升</a> <code>#1</code></h2>
-<blockquote>
-<p><code>Codex</code> 发布多项功能与性能改进，现已支持自定义键盘快捷键、优化 <code>Git</code> 操作并提升线程面板和本地服务器列表体验，官方称大型仓库下 <code>Git</code> 操作提速约 <strong>10</strong> 至 <strong>50</strong> 倍，线程切换重渲染减少约 <strong>75%</strong>。</p>
-</blockquote>
-<p><strong>OpenAI</strong>通过其开发者社交账号宣布，根据用户反馈已为<code>Codex</code>推出一系列更新。</p>
-<p>功能方面，键盘快捷键现可在设置中自定义，让工具适配个人工作流。<strong>Git</strong>关键操作（提交、推送、分支、PR 创建与状态）被移回审查流程更易触及。线程面板头像、本地服务器列表获得更整洁的加载与过滤优化。</p>
-<p>性能上，官方称切换线程时重渲染降低约 <strong>75%</strong>，部分流路径实现零无谓重渲染。大型仓库中<strong>Git</strong>操作加速约 <strong>10</strong> 至 <strong>50</strong> 倍，UI 卡顿减少，启动与首次交互更快。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9e230ae1-2eeb-47c1-bef2-3bf0b4b26314/bc036756-e225-48fd-8e1b-8f7e2ee489fe/m002.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/OpenAIDevs/status/2055717793841221796">https://x.com/OpenAIDevs/status/2055717793841221796</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/thsottiaux/status/2055707616605835333">Codex 修复 GPT-5.5 性能下降问题并重置付费用户额度</a> <code>#2</code></h2>
-<blockquote>
-<p>针对用户反馈，<strong>Codex</strong> 团队确认已修复导致 <strong><code>GPT-5.5</code></strong> 能力下降的两个问题，并于北京时间<strong>17日</strong>凌晨宣布已重置所有付费计划的使用额度。</p>
-</blockquote>
-<p><strong>Codex</strong> 团队成员 <strong>Tibo</strong> 发布声明称，已找到并修复了导致 <code>GPT-5.5</code> 模型在过去约 <strong>48</strong> 小时内对部分用户表现变差的两个问题。</p>
-<p>作为补偿，官方已重置所有付费计划的 <code>Codex</code> 使用额度限制。</p>
-<p>不过，<strong>Tibo</strong> 随后承认部分账户的重置存在传播延迟问题，团队正在就此进行排查。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260517/20260517083109_652f4cc5eb.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/thsottiaux/status/2055707616605835333">https://x.com/thsottiaux/status/2055707616605835333</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/vercel-labs/zero">Vercel Labs 推出面向 Agent 的实验性编程语言 Zero</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>Vercel Labs</strong> 宣布推出一款专为 <strong>AI Agent</strong> 打造的实验性编程语言 <strong>Zero</strong>，提供显式能力与 <code>JSON</code> 诊断。官方强调尚未稳定，主要供开发者试用和反馈。</p>
-</blockquote>
-<p><strong>Vercel Labs</strong> 团队在 <strong>GitHub</strong> 推出了一款名为 <strong>Zero</strong> 的新型编程语言，专门面向 <strong>AI Agent</strong> 的开发与运行需求设计。</p>
-<p>官方将其定位为一种系统级语言，主打构建更小、更快的原生工具。该语言具备显式能力、可预测内存以及结构化的编译器输出。</p>
-<p>该项目目前仍处于实验且频繁变动的阶段。虽然已在 <strong>GitHub</strong> 开源并提供安装脚本和 <code>VSCode</code> 插件支持，但官方强调其语言本身尚未稳定。</p>
-<p>主要供开发者试用和反馈。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9e230ae1-2eeb-47c1-bef2-3bf0b4b26314/39d941da-c09d-4bac-8f66-6ae713dc3316/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/vercel-labs/zero">https://github.com/vercel-labs/zero</a></li>
-<li><a href="https://x.com/ctatedev/status/2055434061322039377">https://x.com/ctatedev/status/2055434061322039377</a></li>
-</ul>
-<hr>
-<h2><a href="https://weread.qq.com/r/weread-skills">微信读书推出 AI 助手 Skill</a> <code>#4</code></h2>
-<blockquote>
-<p>微信读书新增 <strong>AI</strong> 助手 <code>Skill</code>，用户连接账号后可用 <code>AI</code> 搜书、导出笔记及分析阅读数据。</p>
-</blockquote>
-<p><strong>微信读书</strong>官方推出全新的“<strong>微信读书 AI 助手</strong>”<code>Skill</code>。</p>
-<p>该功能允许用户连接个人账号，让 AI 助手随时查阅书架、分析阅读时长与偏好等数据、搜索书籍详情，并支持查看和导出个人的划线与读书笔记。</p>
-<p>用户需下载指定的 <code>skill</code> 安装包发送给 AI 助手，并获取仅限个人可见的 <code>API Key</code> 完成配置。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/9e230ae1-2eeb-47c1-bef2-3bf0b4b26314/6b6bdcf6-34ab-4b6f-99be-d47e3cb935b6/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://weread.qq.com/r/weread-skills">https://weread.qq.com/r/weread-skills</a></li>
-</ul>
-<hr>
-<h2><a href="https://openai.com/index/malta-chatgpt-plus-partnership/">OpenAI 与马耳他政府合作向完成培训的公民提供一年免费 ChatGPT Plus</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>OpenAI</strong> 与 <strong>马耳他政府</strong>宣布达成合作。<strong>马耳他</strong>公民在完成当地大学开发的 <code>AI</code> 培训课程后，可获得为期一年的 <code>ChatGPT Plus</code> 免费使用权。</p>
-</blockquote>
-<p><strong>OpenAI</strong>与<strong>马耳他政府</strong>宣布建立合作伙伴关系，计划向该国全体公民推广 <code>ChatGPT Plus</code>。</p>
-<p>根据这项官方称为“全球首创”的计划，<strong>马耳他</strong>公民需要先完成由<strong>马耳他大学</strong>开发的 <strong>AI</strong> 素养课程。</p>
-<p>在完成该课程后，符合条件的参与者将由<strong>马耳他数字创新局</strong>分发账号，获得为期一年的 <code>ChatGPT Plus</code> 免费访问权限。</p>
-<p>该项目第一阶段预计于 <strong>5 月</strong>启动，并计划随着更多本地居民及海外侨民完成课程而逐步扩大规模。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260516/20260516192901_0782256b37.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://openai.com/index/malta-chatgpt-plus-partnership/">https://openai.com/index/malta-chatgpt-plus-partnership/</a></li>
-</ul>
-<hr>
-<h2><a href="https://mp.weixin.qq.com/s/H8D6ClBheNj3a_Au-4LKQg">上海电信上线Token算力服务及免费体验活动</a> <code>#6</code></h2>
-<blockquote>
-<p>据报道，<strong>上海电信</strong>发布多档大模型调用<code>Token</code>资费套餐，<strong>1 元</strong>可享<strong>25 万</strong>额度点，支持话费支付。同时，限量向<strong>上海</strong>手机号用户提供免费<strong>2500 万</strong>额度体验。</p>
-</blockquote>
-<p>据媒体报道，在近期举行的<strong>中国电信</strong>第六届科技节上海站，<strong>上海电信</strong>宣布即日起正式推出<code>Token</code>算力服务。</p>
-<p>即日起推出多档<code>Token</code>资费套餐，支持话费支付，用户可通过API调用<strong>30余款</strong>主流大模型。</p>
-<p>同时限量向上海手机号用户提供有效期一个月的<code>2500万</code>额度免费体验。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260516/20260516191514_b7a97322ca.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260516/20260516191756_f05b8f27ba.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/H8D6ClBheNj3a_Au-4LKQg">https://mp.weixin.qq.com/s/H8D6ClBheNj3a_Au-4LKQg</a></li>
-<li><a href="https://mp.weixin.qq.com/s/2QcaNLJoG27StyQ7uUCzcw">https://mp.weixin.qq.com/s/2QcaNLJoG27StyQ7uUCzcw</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/93</guid><pubDate>Sun, 17 May 2026 01:06:22 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/94</guid><pubDate>Mon, 18 May 2026 01:19:53 +0000</pubDate></item></channel></rss>
