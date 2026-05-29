@@ -1,5 +1,437 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Thu, 28 May 2026 01:34:24 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-104/</link><description>AI 早报 2026-05-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Foundation 宣布投入 2.5 亿美元应对 AI 经济变革 ↗ #1 模型发布 Biohub 发布蛋白质生物学世界模型 ESMFold2 并全面开源 ↗ #2 开发生态 Claude Code 推出响应速度与可靠性优化更新 ↗ #3 Codex 将于 6 月 2 日下线 GPT-5.2 及 5.3-Codex 模型 ↗ #4 OpenCode 限时免费提供 MiMo V2.5 模型 ↗ #5 SuperGrok 及 X Premium+ 用户可在 Kilo Code 使用 Grok 模型 ↗ #6 OpenAI 推出 Secure MCP Tunnel 等多项企业级安全与管理功能 ↗ #7 腾讯发布 AI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260528/202605280923503118194401_cover_98cc.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Fri, 29 May 2026 01:33:33 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-29</title><link>https://imjuya.github.io/juya-ai-daily/issue-105/</link><description>AI 早报 2026-05-29 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Anthropic 发布 Claude Opus 4.8 模型 ↗ #1 Claude Code 推出 dynamic workflows 研究预览，支持数百 subagent 并行编排 ↗ #2 Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元 ↗ #3 阶跃星辰开源 Step 3.7 Flash 多模态推理模型 ↗ #4 模型发布 PaddlePaddle 推出 PaddleOCR-VL 1.6 升级文档解析能力 ↗ #5 商汤开源 SenseNova-U1-8B-MoT-Infographic 模型 ↗ #6 Liquid AI 发布 LFM2.5-8B-A1B 设备端模型 ↗ #7 B…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260529/202605290907446043745c78_cover_4ed6.png" alt=""></p>
+<h1>AI 早报 2026-05-29</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1h1V46eEfL">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=w5Ke-YatkTE">YouTube</a></p>
+<h2>概览</h2>
+<h3>要闻</h3>
+<ul>
+<li>Anthropic 发布 Claude Opus 4.8 模型 <a href="https://www.anthropic.com/news/claude-opus-4-8">↗</a> <code>#1</code></li>
+<li>Claude Code 推出 dynamic workflows 研究预览，支持数百 subagent 并行编排 <a href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code">↗</a> <code>#2</code></li>
+<li>Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元 <a href="https://www.anthropic.com/news/series-h">↗</a> <code>#3</code></li>
+<li>阶跃星辰开源 Step 3.7 Flash 多模态推理模型 <a href="https://static.stepfun.com/blog/step-3.7-flash/">↗</a> <code>#4</code></li>
+</ul>
+<h3>模型发布</h3>
+<ul>
+<li>PaddlePaddle 推出 PaddleOCR-VL 1.6 升级文档解析能力 <a href="https://x.com/PaddlePaddle/status/2059990434827661769">↗</a> <code>#5</code></li>
+<li>商汤开源 SenseNova-U1-8B-MoT-Infographic 模型 <a href="https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic">↗</a> <code>#6</code></li>
+<li>Liquid AI 发布 LFM2.5-8B-A1B 设备端模型 <a href="https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF">↗</a> <code>#7</code></li>
+<li>Bagel Labs 发布 Paris 2.0 去中心化视频生成模型 <a href="https://huggingface.co/bageldotcom/paris2">↗</a> <code>#8</code></li>
+<li>ElevenLabs 推出支持 90 多种语言的 Dubbing v2 <a href="https://elevenlabs.io/dubbing-studio">↗</a> <code>#9</code></li>
+<li>ElevenLabs 发布 Music v2 模型，支持跨流派无缝转换与局部重绘 <a href="https://elevenlabs.io/blog/introducing-music-v2">↗</a> <code>#10</code></li>
+<li>Nano Banana 系列模型 GA，可通过 Gemini API 投入生产使用 <a href="https://x.com/googleaidevs/status/2060068093485895978">↗</a> <code>#11</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>Antigravity CLI 1.0.3 发布：支持配额耗尽后使用 Google AI credits <a href="https://x.com/shengzheyao/status/2059814938609332726">↗</a> <code>#12</code></li>
+<li>腾讯混元发布 Hy-Memory 插件提升 Agent 长期记忆能力 <a href="https://memory.hunyuan.tencent.com/">↗</a> <code>#13</code></li>
+<li>Firecrawl 发布 Monitoring 网页变更监控功能 <a href="https://x.com/firecrawl/status/2060042535003701523">↗</a> <code>#14</code></li>
+<li>Nous Research 发布 Hermes Agent v0.15.0 版本 <a href="https://x.com/Teknium/status/2060088572049559893">↗</a> <code>#15</code></li>
+<li>OpenClaw 更新 v2026.5.27：官方称包体积缩小 59%，强化安全边界 <a href="https://openclaw.ai/blog/lighter-core-sharper-claws/">↗</a> <code>#16</code></li>
+</ul>
+<h3>产品应用</h3>
+<ul>
+<li>Mistral AI 将 Le Chat 更名为 Vibe 并推出 Work 与 Code 模式 <code>#17</code></li>
+<li>Perplexity AI 助手 Computer 上线插件接入 Microsoft 365 <a href="https://www.perplexity.ai/hub/products/integrations/microsoft">↗</a> <code>#18</code></li>
+<li>微软重构 Microsoft 365 Copilot 并提升加载速度 <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/">↗</a> <code>#19</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>Qwen 团队发布文生图评测基准 Qwen-Image-Bench <a href="https://github.com/QwenLM/Qwen-Image-Bench">↗</a> <code>#20</code></li>
+<li>Sakana AI 提出 DiffusionBlocks 训练框架 <a href="https://x.com/SakanaAILabs/status/2059648778051924281">↗</a> <code>#21</code></li>
+<li>NVIDIA发布Dynamo Snapshot：K8s推理冷启动降至5秒内 <a href="https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/">↗</a> <code>#22</code></li>
+<li>小米分享 AI Coding 工程化实践：VAF、VKF 与 eight-claw <a href="https://mp.weixin.qq.com/s/l5qeFWtXtaStweOqLP7RKA">↗</a> <code>#23</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>豆包澄清“听信AI致婴儿喂养不足”传闻 <a href="https://weibo.com/7778831349/R1vRkEqCY">↗</a> <code>#24</code></li>
+<li>Linux Foundation 发布 OpenMDW-1.1，NVIDIA 宣布采用该模型许可证 <a href="https://openmdw.ai/">↗</a> <code>#25</code></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/claude-opus-4-8">Anthropic 发布 Claude Opus 4.8 模型</a> <code>#1</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>发布<code>Claude Opus 4.8</code>模型，强化了编码、Agent任务及长时运行工作的一致性方面的能力。该模型现已在官方全平台和各类第三方平台上线，官方<code>API</code><strong>定价不变</strong>，<code>Fast</code>模式<strong>降价三分之二</strong>且<strong>提速约2.5倍</strong>。同步面向 <code>claude.ai</code> 和 <code>Cowork</code> 的所有用户推出<code>推理努力程度控制</code>功能。<strong>Anthropic</strong>还表示正开发更低成本同等能力模型，同时预计<strong>数周内</strong>将<code>Mythos</code>级别模型推向所有客户。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 正式发布 <code>Claude Opus 4.8</code> 模型，现已全平台上线。</p>
+<p>该模型基于 <code>Opus 4.7</code> 构建，具备 <strong>100 万</strong> <code>Token</code> 上下文窗口。</p>
+<p>官方称其在编码、<code>Agent</code> 任务及长时运行工作的一致性上均有增强，更倾向于标记工作中的不确定性，官方评测显示其让代码缺陷未被注意地通过的概率约为前代的四分之一。</p>
+<p>在定价方面，<code>API</code> 常规定价不变。</p>
+<p>同步上线的 <code>Fast</code> 模式使用同一模型以约 <strong>2.5</strong> 倍速度运行，定价降至输入 <strong>$10</strong>、输出 <strong>$50</strong>，降幅达三分之二。</p>
+<p>据第三方机构 <strong>Artificial Analysis</strong> 数据，<code>Opus 4.8</code> 以 <strong>61.4</strong> 分登顶 <code>Intelligence Index</code>，领先 <code>GPT-5.5（xhigh）</code> <strong>1.2</strong> 分。</p>
+<p>在 <code>GDPval-AA</code> 评测中以 <strong>1890</strong> <code>Elo</code> 重夺第一，隐含对 <code>GPT-5.5</code> 约 <strong>67%</strong> 胜率。</p>
+<p>该机构指出其 <code>Token</code> 效率因任务而异。</p>
+<p>此外，其在 <code>Humanity's Last Exam</code> 超过 <strong>OpenAI</strong> 和 <strong>Google</strong> 模型，幻觉率显著低于同类。</p>
+<p>据 <strong>Databricks</strong> 反馈，该模型在其平台的 <code>Token</code> 成本比前代低 <strong>61%</strong>。</p>
+<p>本次同步推出多项新功能：<code>努力程度控制</code>面向全平台开放，提供 <code>Low</code> 到 <code>Max</code> 五个档位，<code>Opus 4.8</code> 默认使用 <code>High</code> 档位。</p>
+<p><code>动态工作流</code>以研究预览形式面向 <strong>Enterprise</strong> 等特定计划，支持运行数百个并行子 <code>Agent</code>。</p>
+<p><code>Messages API</code> 新增支持在任务中途更新指令而不破坏 <code>prompt cache</code>。</p>
+<p>安全方面，<strong>Anthropic</strong> 称其不对齐行为发生率显著低于前代。</p>
+<p>未来，<strong>Anthropic</strong> 计划开发更低成本及更高智能的模型，并预计在未来数周内将正由少数组织进行网络安全测试的 <code>Mythos</code> 级别模型推向所有客户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/c6c55aa1-d4ba-4a5c-8490-da4b7be7c4c9/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/c6c55aa1-d4ba-4a5c-8490-da4b7be7c4c9/m002.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260529/20260529084047_8df02574cf.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/claude-opus-4-8">https://www.anthropic.com/news/claude-opus-4-8</a></li>
+<li><a href="https://www.anthropic.com/claude-opus-4-8-system-card">https://www.anthropic.com/claude-opus-4-8-system-card</a></li>
+</ul>
+<hr>
+<h2><a href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code">Claude Code 推出 dynamic workflows 研究预览，支持数百 subagent 并行编排</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong>发布<code>Claude Code</code>更新，上线<strong>dynamic workflows</strong>功能与<strong>Opus 4.8</strong>模型。<code>workflows</code>可调度<strong>上千个</strong><code>subagent</code>并行处理<strong>大规模任务</strong>，同时<code>Opus 4.8</code>的<strong>fast mode</strong>能以<strong>两倍价格</strong>换取约<strong>2.5倍</strong>速度。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 发布 <code>Claude Code v2.1.154</code>，核心更新包括 <code>Opus 4.8</code> 模型上线和名为 <code>dynamic workflows</code> 的新功能。</p>
+<p><code>Dynamic workflows</code> 允许 <code>Claude</code> 根据用户描述自动生成 <code>JavaScript</code> 编排脚本，在后台调度最多 <strong>16</strong> 个并发 <code>subagent</code>、单次运行上限 <strong>1000</strong> 个 <code>agent</code>。</p>
+<p>中间结果保存在脚本变量中而非占用上下文窗口，运行中断后可在同一会话内恢复。</p>
+<p>该功能目前处于研究预览阶段，面向 <strong>Max</strong>、<strong>Team</strong> 套餐及 <strong>Anthropic API</strong>、<code>Amazon Bedrock</code>、<code>Google Cloud Vertex AI</code>、<code>Microsoft Foundry</code> 用户默认开启。</p>
+<p><strong>Enterprise</strong> 套餐默认关闭需管理员手动启用，<strong>Pro</strong> 套餐用户需在 <code>/config</code> 中手动开启。</p>
+<p>官方提示单次运行 <code>token</code> 消耗远高于普通会话，建议从小范围任务开始。</p>
+<p><code>Opus 4.8</code> 的 <code>fast mode</code> 以标准费率的两倍提供约 <strong>2.5</strong> 倍速度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/056ef1e8-f4f4-4d48-9fd3-915f9d60e502/m001.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/056ef1e8-f4f4-4d48-9fd3-915f9d60e502/m002.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code">https://claude.com/blog/introducing-dynamic-workflows-in-claude-code</a></li>
+<li><a href="https://code.claude.com/docs/en/workflows">https://code.claude.com/docs/en/workflows</a></li>
+<li><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.154">https://github.com/anthropics/claude-code/releases/tag/v2.1.154</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.anthropic.com/news/series-h">Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>Anthropic</strong> 宣布完成 <strong>650 亿美元</strong><code>H 轮</code>融资，投后估值达 <strong>9650 亿美元</strong>。这笔资金预计将用于推进<code>安全</code>与<code>可解释性</code>研究，并扩展<code>算力</code>满足对 <code>Claude</code> 的需求。</p>
+</blockquote>
+<p><strong>Anthropic</strong> 宣布完成 <strong>650亿美元</strong> <code>H轮</code> 融资，投后估值达 <strong>9650亿美元</strong>。</p>
+<p>本轮融资由 <strong>Altimeter Capital</strong> 等领投，包含超大规模计算厂商 <strong>150亿美元</strong> 先前承诺投资。</p>
+<p>该公司本月早些时候经常性收入已突破 <strong>47亿美元</strong>。</p>
+<p>官方预计，资金将用于推进 <code>安全和可解释性</code> 研究、扩展算力规模并深化产品开发。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260529/20260529084702_233c9493ac.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.anthropic.com/news/series-h">https://www.anthropic.com/news/series-h</a></li>
+</ul>
+<hr>
+<h2><a href="https://static.stepfun.com/blog/step-3.7-flash/">阶跃星辰开源 Step 3.7 Flash 多模态推理模型</a> <code>#4</code></h2>
+<blockquote>
+<p><strong>阶跃星辰</strong>发布 <strong><code>Step 3.7 Flash</code></strong> 多模态推理模型，采用 <strong><code>198B</code></strong> 稀疏 <strong><code>MoE</code></strong> 架构且仅激活约 <strong><code>11B</code></strong> 参数，支持多档推理努力程度，已开放 <strong><code>API</code></strong> 调用并以 <strong><code>Apache 2.0</code></strong> 协议开源全部权重。</p>
+</blockquote>
+<p><strong>Step 3.7 Flash</strong> 是<strong>阶跃星辰</strong>推出的旗舰多模态推理模型，由 <code>196B</code> 参数语言骨干与 <code>1.8B</code> 参数视觉编码器组成。</p>
+<p>每 <code>token</code> 激活约 <code>11B</code> 参数，最高吞吐达 <strong>400 TPS</strong>，支持 <code>256K</code> 上下文窗口与低、中、高三档可选推理强度。</p>
+<p>官方称该模型在 <code>ClawEval-1.1</code> 上得分 <code>67.1</code>、<code>SimpleVQA (Search)</code> 得分 <code>79.2</code> 均为同期第一。</p>
+<p><code>SWE-Bench Pro</code> 得分 <code>56.3</code> 为同期第二，并新增 <code>Advisor Mode</code> 可在约九分之一成本下达到 <code>Claude Opus 4.6</code> 约 <strong>97%</strong> 的编码性能。</p>
+<p>模型已上线 <code>StepFun</code> 国内外 <code>API</code> 平台、<code>OpenRouter</code> 及 <code>NVIDIA NIM</code>，兼容 <code>OpenAI</code> 与 <code>Anthropic</code> 协议。</p>
+<p>权重以 <strong>Apache 2.0</strong> 开源并提供 <code>BF16</code>、<code>FP8</code>、<code>NVFP4</code>、<code>GGUF</code> 等多种格式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/03cd671e-fa02-403a-8947-9274217f54d0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://static.stepfun.com/blog/step-3.7-flash/">https://static.stepfun.com/blog/step-3.7-flash/</a></li>
+<li><a href="https://github.com/stepfun-ai/Step-3.7-Flash">https://github.com/stepfun-ai/Step-3.7-Flash</a></li>
+<li><a href="https://huggingface.co/stepfun-ai/Step-3.7-Flash-GGUF">https://huggingface.co/stepfun-ai/Step-3.7-Flash-GGUF</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/PaddlePaddle/status/2059990434827661769">PaddlePaddle 推出 PaddleOCR-VL 1.6 升级文档解析能力</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>PaddlePaddle</strong> 正式发布 <code>PaddleOCR-VL 1.6</code> 模型。官方称其在 <code>OmniDocBench v1.6</code> 基准达到 <strong>96.33%</strong> ，且架构兼容前代，支持即插即用。</p>
+</blockquote>
+<p><strong>PaddlePaddle</strong> 团队正式发布了文档解析模型 <code>PaddleOCR-VL 1.6</code>。</p>
+<p>官方数据显示，该模型在 <code>OmniDocBench v1.6</code> 基准测试中取得了 <strong>96.33%</strong> 的新 <code>SOTA</code> 成绩，并在文本、公式和表格识别上超越了现有的开源与闭源方案。</p>
+<p>新版本引入了区域感知数据优化框架和渐进式后训练方案，显著提升了表格、中文古籍、生僻字及印章等复杂场景的识别能力。</p>
+<p>其模型架构与 <code>PaddleOCR-VL 1.5</code> 完全兼容，支持零成本即插即用迁移。</p>
+<p>目前已通过 <strong>Hugging Face</strong> 等渠道开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/4e96f143-846f-4bb0-a7b2-1b6c5304bd1d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/PaddlePaddle/status/2059990434827661769">https://x.com/PaddlePaddle/status/2059990434827661769</a></li>
+<li><a href="https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6">https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic">商汤开源 SenseNova-U1-8B-MoT-Infographic 模型</a> <code>#6</code></h2>
+<blockquote>
+<p><strong>商汤</strong>发布并开源了 <code>SenseNova-U1-8B-MoT-Infographic</code> 模型。官方称该模型提升了高密度信息图的文字准确率与排版稳定性，在相关基准测试中达到开源 <strong>SOTA</strong> 水平。</p>
+</blockquote>
+<p><strong>商汤</strong>官方正式发布升级版信息图生成模型 <code>SenseNova-U1-8B-MoT-Infographic</code>，重点强化了高密度视觉信息的生成能力。</p>
+<p>官方表示，该模型在文字准确率、排版合理性、图表质量及学术页面渲染方面均有所增强，能够支持 <strong>100</strong> 种以上风格与布局的复杂内容生成。</p>
+<p>根据官方公布的评测数据，其在 <code>BizGenEval</code> 和 <code>IGenBench</code> 等基准测试中达到开源模型中的最先进水平。</p>
+<p>目前，该模型已在 <code>Hugging Face</code> 平台开源。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/efb71f1f-be17-4657-821b-9cd22e707ef2/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic">https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF">Liquid AI 发布 LFM2.5-8B-A1B 设备端模型</a> <code>#7</code></h2>
+<blockquote>
+<p><strong>Liquid AI</strong> 发布 <code>LFM2.5-8B-A1B</code> 模型。该模型具有<strong>128K</strong> 上下文，官方称其性能可媲美参数量大 <strong>4</strong> 倍的同类 <code>MoE</code> 模型。</p>
+</blockquote>
+<p><strong>Liquid AI</strong> 正式发布 <strong>LFM2.5-8B-A1B</strong> 模型，这是一款专为手机、笔记本、PC 和机器人等设备优化的混合专家模型。</p>
+<p>该模型总参数量为 <strong>8B</strong>，活跃参数量为 <strong>1.5B</strong>，支持 <code>128K 上下文</code>，并在 <strong>38T tokens</strong> 上进行了训练。</p>
+<p>官方称其可在单台机器上实现完整的 <code>Agent</code> 循环，具备快速的工具调用能力，且性能可媲美参数量大 <strong>4</strong> 倍的其他 <code>MoE 模型</code>。</p>
+<p>目前模型权重已在 <strong>Hugging Face</strong> 开放，采用 <code>LFM2 开放权重许可证</code>，并实现了对 <strong>AMD</strong>、<strong>Intel</strong>、<strong>Apple</strong> 等多家硬件平台的 <code>Day 0 推理</code>支持。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/15204c44-1960-428d-a170-bdb30533dbf7/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF">https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF</a></li>
+</ul>
+<hr>
+<h2><a href="https://huggingface.co/bageldotcom/paris2">Bagel Labs 发布 Paris 2.0 去中心化视频生成模型</a> <code>#8</code></h2>
+<blockquote>
+<p><strong>Bagel Labs</strong> 团队发布了 <code>Paris 2.0</code> 视频生成模型。官方称这是首个去中心化训练视频生成模型。该模型权重已在 <strong>Hugging Face</strong> 上有限度开放。</p>
+</blockquote>
+<p><strong>Bagel Labs</strong> 团队正式发布了 <strong>Paris 2.0</strong> 去中心化扩散模型，旨在解决地理分布式异构 <code>GPU</code> 上的视频生成训练难题。</p>
+<p>该模型包含 <strong>3</strong> 个独立的 <code>11B</code> <code>Flux MM-DiT</code> 专家模型。训练时各模型独立处理数据切片且不交换任何梯度或参数，仅在推理阶段通过轻量级路由器进行专家选择。</p>
+<p>官方数据显示，在匹配总算力的条件下，<strong>Paris 2.0</strong> 的 <code>FVD</code> 指标降至 <strong>279.01</strong>，表现优于同等条件下训练的单体模型，且 <code>CLIP</code> 对齐度与美学评分均有所提升。</p>
+<p>模型权重目前已上线 <strong>Hugging Face</strong> 平台，仅限研究与评估使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/78bd2b45-7399-4f22-b5ee-46655f7d71b0/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://huggingface.co/bageldotcom/paris2">https://huggingface.co/bageldotcom/paris2</a></li>
+<li><a href="https://arxiv.org/abs/2605.26064">https://arxiv.org/abs/2605.26064</a></li>
+</ul>
+<hr>
+<h2><a href="https://elevenlabs.io/dubbing-studio">ElevenLabs 推出支持 90 多种语言的 Dubbing v2</a> <code>#9</code></h2>
+<blockquote>
+<p><strong>ElevenLabs</strong> 发布了 <code>Dubbing v2</code>配音模型。该模型直接处理原始音频，能在<strong>90</strong>多种语言的翻译中保留原说话人的情感、语气和声音特征，并通过<code>同步感知逻辑</code>实现配音精准对齐。</p>
+</blockquote>
+<p><strong>ElevenLabs</strong> 正式发布 <code>Dubbing v2</code> 语音配音模型。</p>
+<p>官方表示，该模型直接基于原始声音表现进行音频到音频处理，从而在翻译时保留原说话人的情感、语气、节奏及声音克隆特征。</p>
+<p>该模型支持 <strong>90 多种</strong>语言及口音，内置具备同步感知能力的<code>翻译逻辑</code>以实现声音对齐。</p>
+<p><code>Dubbing v2</code> 现已在 <strong>ElevenCreative</strong> 和 <strong>ElevenProductions</strong> 平台上线，并在<strong>未来 7 天</strong>内为不同订阅计划的用户提供 <strong>1 到 30 分钟</strong>不等的免费使用额度。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/3359f49f-4faf-490b-9873-7f19e7bc5156/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://elevenlabs.io/dubbing-studio">https://elevenlabs.io/dubbing-studio</a></li>
+</ul>
+<hr>
+<h2><a href="https://elevenlabs.io/blog/introducing-music-v2">ElevenLabs 发布 Music v2 模型，支持跨流派无缝转换与局部重绘</a> <code>#10</code></h2>
+<blockquote>
+<p><strong>ElevenLabs</strong> 近期发布了 <code>Music v2</code> 音乐模型，支持在同一首歌内无缝融合歌剧与重金属风格，并新增局部重绘功能，现已正式上线。</p>
+</blockquote>
+<p><strong>ElevenLabs</strong> 近期发布了全新升级的 AI 音乐生成模型 <code>Music v2</code>，提升了全流派的人声、器乐和编曲质量。</p>
+<p>该模型能够在同一首歌曲中实现从歌剧到重金属、快节奏说唱的无缝过渡，甚至可嵌入非音乐类音效，同时保持音乐的连贯性。</p>
+<p>新版本引入了改进的局部重绘功能，允许用户逐段重新生成特定部分而不影响其余内容，且多语言支持得到显著增强。</p>
+<p><code>Music v2</code> 现已在 <code>ElevenMusic</code> 和 <code>ElevenCreative</code> 平台全面上线，即将登陆 <code>ElevenAPI</code>。</p>
+<p>官方同步下调了相关服务的<strong>收费标准</strong>，并确认所有生成的音轨均可用于商业用途。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/82c79641-c86c-4a31-b148-84a20ffd92dc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://elevenlabs.io/blog/introducing-music-v2">https://elevenlabs.io/blog/introducing-music-v2</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/googleaidevs/status/2060068093485895978">Nano Banana 系列模型 GA，可通过 Gemini API 投入生产使用</a> <code>#11</code></h2>
+<blockquote>
+<p><strong>Google</strong> 宣布将 <code>Nano Banana Pro</code> 和 <code>Nano Banana 2</code> 两款图像生成模型正式转为GA，现可通过 <code>Gemini API</code> 投入生产环境使用。</p>
+</blockquote>
+<p><strong>Nano Banana Pro</strong>（对应 <code>Gemini 3 Pro Image</code>）与 <strong>Nano Banana 2</strong>（对应 <code>Gemini 3.1 Flash Image</code>）现已作为正式版发布。</p>
+<p>其中 <strong>Nano Banana 2</strong> 的定价为每张图片 <strong>0.045 美元</strong>，并支持视频输入，能够分析视频片段以生成具有上下文感知能力的图片、缩略图和信息图。</p>
+<p><strong>Nano Banana Pro</strong> 的定价为每张 <strong>0.134 美元</strong>。</p>
+<p>两款模型均通过 <code>Gemini API</code> 提供，开发者可立即用于生产环境。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/c968f8a5-1a2c-4b64-9fec-34eda697c138/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/googleaidevs/status/2060068093485895978">https://x.com/googleaidevs/status/2060068093485895978</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/shengzheyao/status/2059814938609332726">Antigravity CLI 1.0.3 发布：支持配额耗尽后使用 Google AI credits</a> <code>#12</code></h2>
+<blockquote>
+<p><strong>Antigravity CLI</strong> 发布 <code>1.0.3</code>版。该版本新增配额耗尽时启用 <strong>Google AI credits</strong> 的功能，同时改进了 <code>/diff</code> 体验并修复多项关键问题。</p>
+</blockquote>
+<p><strong>Shengzhe</strong> 宣布推出 <code>Antigravity CLI 1.0.3</code>。</p>
+<p>新版本允许用户在原有配额耗尽时使用 <strong>Google AI credits</strong>，可通过 <code>/config -&gt; UseF1Credits</code> 开启该功能，并使用 <code>/credits</code> 查询余额。</p>
+<p>此外，此次更新还增强了 <code>Apple Terminal</code> 的 logo 显示效果与色彩方案预览面板。</p>
+<p>同时，改善了 <code>/diff</code> 使用体验，并修复了多项关键问题。</p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/shengzheyao/status/2059814938609332726">https://x.com/shengzheyao/status/2059814938609332726</a></li>
+</ul>
+<hr>
+<h2><a href="https://memory.hunyuan.tencent.com/">腾讯混元发布 Hy-Memory 插件提升 Agent 长期记忆能力</a> <code>#13</code></h2>
+<blockquote>
+<p><strong>腾讯混元</strong>正式发布专为 <code>Openclaw</code> 等长期协作型 <code>Agent</code> 打造的 <strong><code>Hy-Memory</code></strong> 记忆插件，官方称其通过<strong>6层记忆框架</strong>与<strong>演化链技术</strong>解决记忆碎片化问题。</p>
+</blockquote>
+<p><strong>腾讯混元</strong>正式发布 <strong><code>Hy-Memory</code></strong> 记忆插件，专门为 <strong><code>Openclaw</code></strong> 这类长期协作型 <code>Agent</code> 设计，旨在解决长期任务中的记忆漂移和降级使用问题。</p>
+<p>该插件采用 <strong>6层记忆框架</strong>、<code>System1</code>/<code>System2</code> 双系统以及演化链结构，通过 <code>supersedes</code> 指针串联新旧记忆，确保 <code>Agent</code> 在更新判断时不会丢失历史因果。</p>
+<p>用户目前可通过单行命令将其安装至 <strong><code>Openclaw</code></strong>，默认使用 <strong><code>Chroma</code></strong> 本地嵌入式向量库，无需额外部署外部服务，并提供 <strong><code>Lite</code></strong>、<strong><code>Pro</code></strong> 和 <strong><code>Ultra</code></strong> 三种配置模式。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260529/20260529082051_4eec39d67a.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://memory.hunyuan.tencent.com/">https://memory.hunyuan.tencent.com/</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/firecrawl/status/2060042535003701523">Firecrawl 发布 Monitoring 网页变更监控功能</a> <code>#14</code></h2>
+<blockquote>
+<p><strong>Firecrawl</strong> 发布 <strong>Monitoring</strong> 功能，系统在网页变动时仅提取变化并通知 <code>Agent</code>，官方称最高减少 <strong>90%</strong> 的 <code>LLM token</code> 消耗。</p>
+</blockquote>
+<p><strong>Firecrawl</strong> 正式发布 <code>Monitoring</code> 功能，允许用户通过输入 <code>URL</code> 并使用自然语言描述需求来设定网页追踪目标。</p>
+<p>该功能支持追踪特定页面元素或整页内容。</p>
+<p>用户可自定义内容过滤器、抓取行为以及监控频率，且系统仅在目标页面发生实际变化时才会触发通知。</p>
+<p>触发后，系统会通过 <code>webhook</code> 或邮件发送包含详细差异对比及永久链接的通知。</p>
+<p>官方表示，由于仅摄取变动内容，此举最高可减少 <strong>90%</strong> 的 <code>LLM token</code> 消耗。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/32455386-366b-4f54-88ee-831c6e6c0896/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/firecrawl/status/2060042535003701523">https://x.com/firecrawl/status/2060042535003701523</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/Teknium/status/2060088572049559893">Nous Research 发布 Hermes Agent v0.15.0 版本</a> <code>#15</code></h2>
+<blockquote>
+<p><strong>Nous Research</strong> 官方发布 <code>Hermes Agent</code> v0.15.0 版本，新增对 <code>Opus 4.8</code> 等模型的支持及 <strong>SpaceXAI</strong> 集成，官方称其会话搜索速度提升达 <strong>750</strong> 倍。</p>
+</blockquote>
+<p><strong>Nous Research</strong> 官方正式发布 <code>Hermes Agent v0.15.0</code> 版本。</p>
+<p>该版本合并了来自 <strong>321</strong> 名贡献者的 <strong>747</strong> 个 PR。</p>
+<p>此次更新新增了对 <code>Krea 2</code>、<code>Opus 4.8</code>、<code>Qwen 3.7</code> 等模型的支持以及深度的 <code>SpaceXAI</code> 集成，并引入了 <code>Skill Bundles</code> 与 <code>MCP Catalog</code>。</p>
+<p>官方称此次性能优化使加载时间缩短 <strong>50%</strong>、会话搜索速度大幅提升 <strong>750</strong> 倍。</p>
+<p>同时在安全层面加入了 <code>Bitwarden</code> 原生集成等防护机制。</p>
+<p>用户现可通过运行 <code>hermes update</code> 命令获取更新。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/e708c704-aa5a-4780-a8bf-a637ee62e156/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/Teknium/status/2060088572049559893">https://x.com/Teknium/status/2060088572049559893</a></li>
+</ul>
+<hr>
+<h2><a href="https://openclaw.ai/blog/lighter-core-sharper-claws/">OpenClaw 更新 v2026.5.27：官方称包体积缩小 59%，强化安全边界</a> <code>#16</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布 <strong>2026.5.27</strong> 版本，官方称其稳定冷启动 <code>Agent</code> 轮次提速 <strong>2.9</strong> 倍，发布包体积缩小 <strong>59%</strong>，同时收紧运行时安全边界。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 正式发布 <strong>2026.5.27</strong> 版本。</p>
+<p>官方数据显示其稳定冷启动 <code>Agent</code> 轮次提速 <strong>2.9</strong> 倍至 <strong>3.4</strong> 秒，发布包体积缩小 <strong>59%</strong> 至 <strong>17.8 MB</strong>。</p>
+<p>新版本收紧了运行时安全边界，提前拦截不安全的 <code>Node</code> 环境覆盖等输入，提升了 <code>Codex</code>内存稳定性与 <code>hook relay</code> 的重启恢复能力，并将 <code>Pixverse</code> 视频生成、<code>OpenAI</code> 兼容嵌入等功能引入核心或插件。</p>
+<p>同时，官方公开了包含完整测试证据的发布仓库。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260529/20260529080815_82ebb3e301.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openclaw.ai/blog/lighter-core-sharper-claws/">https://openclaw.ai/blog/lighter-core-sharper-claws/</a></li>
+<li><a href="https://github.com/openclaw/releases/blob/main/evidence/2026.5.27/release-evidence.md#mock-provider">https://github.com/openclaw/releases/blob/main/evidence/2026.5.27/release-evidence.md#mock-provider</a></li>
+</ul>
+<hr>
+<h2>Mistral AI 将 Le Chat 更名为 Vibe 并推出 Work 与 Code 模式 <code>#17</code></h2>
+<blockquote>
+<p><strong>Mistral AI</strong> 宣布将 <code>Le Chat</code> 更名为 <code>Vibe</code>，升级为面向长周期生产力与编码的统一 <strong>Agent</strong>，同步上线 <strong>Work 模式</strong>、<strong>Code 模式</strong>及全新 <code>VS Code</code> 扩展。</p>
+</blockquote>
+<p><strong>Mistral AI</strong> 正式将其对话产品 <code>Le Chat</code> 更名为 <strong>Vibe</strong>，定位为执行长周期、多步骤复杂任务的统一 <code>Agent</code>。</p>
+<p>全新上线的 <code>Work</code> 模式支持接入 <code>Google Workspace</code> 等办公工具执行计划与搜索。</p>
+<p><code>Code</code> 模式则在网页端提供隔离沙盒以实现并行编码和自动提交 <code>PR</code>，同时推出了配合该模式的 <code>VS Code</code> 扩展。</p>
+<p>据媒体报道，此举旨在与 <strong>OpenAI</strong> 等公司的同类 <code>Agent</code> 展开竞争，且 <code>Pro</code> 订阅价格已下调至每月 <strong>14.99 美元</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/e93271c1-bd15-41ae-84b8-b14ab16a574e/m001.png" alt=""></p>
+<hr>
+<h2><a href="https://www.perplexity.ai/hub/products/integrations/microsoft">Perplexity AI 助手 Computer 上线插件接入 Microsoft 365</a> <code>#18</code></h2>
+<blockquote>
+<p>Perplexity AI 宣布其产品 <strong>Computer</strong> 集成至 <strong>Microsoft 365</strong>。用户可在 <strong>Word</strong>、<strong>Excel</strong> 等应用内直接起草、分析与联网搜索，插件已上架 <strong>微软应用商店</strong>。</p>
+</blockquote>
+<p><strong>Perplexity AI</strong> 宣布，其 AI 助手 <code>Computer</code> 现已正式集成 <code>Microsoft 365</code> 办公套件。</p>
+<p>该助手能够根据不同任务自动分配合适的模型，并在 <code>Word</code>、<code>Excel</code>、<code>PowerPoint</code>、<code>Outlook</code> 和 <code>Teams</code> 等应用中提取上下文。</p>
+<p>这让用户无需切换标签页或复制粘贴即可完成起草、分析和研究工作。</p>
+<p>目前，<code>Computer</code> 支持连接企业内部 <code>SharePoint</code> 及其他第三方工具。</p>
+<p>相关集成插件已上线 <strong>Microsoft Marketplace</strong> 供用户安装使用。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/34cc8cca-5f6e-4fb0-b988-21c79d3257e3/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.perplexity.ai/hub/products/integrations/microsoft">https://www.perplexity.ai/hub/products/integrations/microsoft</a></li>
+<li><a href="https://marketplace.microsoft.com/en-us/product/WA200010847?tab=Overview">https://marketplace.microsoft.com/en-us/product/WA200010847?tab=Overview</a></li>
+</ul>
+<hr>
+<h2><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/">微软重构 Microsoft 365 Copilot 并提升加载速度</a> <code>#19</code></h2>
+<blockquote>
+<p><strong>微软</strong>近日重构 <code>Microsoft 365 Copilot</code>。官方称新版应用加载速度提升超 <strong>50%</strong>，并引入统一的跨应用入口，将静态提示框升级为任务感知系统。</p>
+</blockquote>
+<p><strong>微软</strong>近日正式推出 <strong>Microsoft 365 Copilot</strong> 的全新设计方案，对独立应用及其在 <code>Word</code>、<code>Excel</code> 等办公软件中的交互界面进行了全面重构。</p>
+<p>新设计将原本的静态提示框转变为任务感知工作区，并引入了统一的跨应用悬浮入口，支持在侧边栏直接操作或在画布内即时调用。</p>
+<p>根据官方公布的测试数据，<code>Copilot</code> 应用的加载时间减少了 <strong>50%</strong> 以上，复杂提示词的响应时间也缩短了约 <strong>10%</strong>。</p>
+<p>此外，官方数据显示在推出该体验后，<code>Copilot</code> 在 <code>Word</code>、<code>Excel</code>、<code>PowerPoint</code> 和 <code>Outlook</code> 中的使用量均出现了 <strong>27%</strong> 至 <strong>43%</strong> 不等的增长。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/334b3a06-6289-4645-8712-b686fe4af1dc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/">https://www.microsoft.com/en-us/microsoft-365/blog/2026/05/28/introducing-a-new-design-for-microsoft-365-copilot/</a></li>
+</ul>
+<hr>
+<h2><a href="https://github.com/QwenLM/Qwen-Image-Bench">Qwen 团队发布文生图评测基准 Qwen-Image-Bench</a> <code>#20</code></h2>
+<blockquote>
+<p><strong>Qwen</strong> 团队推出文生图评测基准 <strong>Qwen-Image-Bench</strong> 及开源模型 <strong>Q-Judger</strong>。官方称该基准含 <strong>56</strong> 个专业创作考点，其自动评分结果与人类专家评估高度相关。</p>
+</blockquote>
+<p><strong>Qwen</strong> 团队正式发布文生图评测基准 <strong>Qwen-Image-Bench</strong> 以及配套的自动化评估模型 <strong>Q-Judger</strong>，相关数据集与代码均已开源。</p>
+<p>该基准由专业艺术家团队参与开发，将评测维度划分为<code>质量</code>、<code>美学</code>、<code>对齐</code>、<code>真实世界保真度</code>和<code>创意生成</code> <strong>5</strong> 大核心支柱，并进一步细化为 <strong>56</strong> 个考点。</p>
+<p>配套包含 <strong>1000</strong> 条中英文分层提示词。</p>
+<p>评估模型 <strong>Q-Judger</strong> 基于 <code>Qwen3.6-27B</code> 微调，根据官方公布的测试数据，其自动评分结果与人类专家的专业评估具有显著相关性。</p>
+<p>整体 <strong>Spearman</strong> 相关系数达到 <strong>0.92</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260528/20260528194955_7f0a819d48.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://github.com/QwenLM/Qwen-Image-Bench">https://github.com/QwenLM/Qwen-Image-Bench</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen-Image-Bench">https://huggingface.co/Qwen/Qwen-Image-Bench</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/SakanaAILabs/status/2059648778051924281">Sakana AI 提出 DiffusionBlocks 训练框架</a> <code>#21</code></h2>
+<blockquote>
+<p><strong>Sakana AI</strong> 提出 <code>DiffusionBlocks</code> 训练框架，该框架将 <code>Transformer</code> 划分为多个独立块进行训练，且性能与端到端训练相当。代码已开源。</p>
+</blockquote>
+<p><strong>Sakana AI</strong> 团队提出了名为 <code>DiffusionBlocks</code> 的框架，通过扩散解释将 <code>Transformer</code> 网络划分为多个独立可训练的块。</p>
+<p>该方法在每次训练迭代中仅需计算<strong>单个块</strong>的梯度，从而将内存需求降至原先的约 <strong>1/B</strong>（<code>B</code> 为块数），且性能与端到端训练相匹配。</p>
+<p>该团队在<strong>视觉</strong>、<strong>图像生成</strong>和<strong>文本生成</strong>等五种架构上验证了此方法，并指出其对<strong>循环深度模型</strong>可用单次前向传播替代昂贵的 <code>BPTT</code> 训练。</p>
+<p>相关代码已开源，该论文被 <strong>ICLR 2026</strong> 接收，但目前方法仅在从零开始训练的网络上得到验证。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/884bba03-6cc1-421a-82da-732d6f9484a6/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/SakanaAILabs/status/2059648778051924281">https://x.com/SakanaAILabs/status/2059648778051924281</a></li>
+</ul>
+<hr>
+<h2><a href="https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/">NVIDIA发布Dynamo Snapshot：K8s推理冷启动降至5秒内</a> <code>#22</code></h2>
+<blockquote>
+<p><strong>NVIDIA</strong>推出<code>Dynamo Snapshot</code>，结合<code>CRIU</code>与<code>cuda-checkpoint</code>技术，将<code>K8s</code>推理冷启动降至<strong>5秒</strong>内，目前该实验版仅限单<code>GPU</code>的<code>vLLM</code>与<code>SGLang</code>使用。</p>
+</blockquote>
+<p><strong>NVIDIA</strong> 发布 <code>NVIDIA Dynamo Snapshot</code>，这是一种针对 <code>Kubernetes</code> 上 <strong>AI</strong> 推理工作负载的检查点与恢复方案。</p>
+<p>其旨在将冷启动时间从 <strong>数分钟</strong> 减少至 <strong>5秒以内</strong>。</p>
+<p>该方案利用 <code>CRIU</code> 恢复主机端进程状态，结合 <code>cuda-checkpoint</code> 恢复设备端 <code>GPU</code> 状态，并引入 <code>GPU Memory Service（GMS）</code> 将模型权重解耦以实现并行恢复。</p>
+<p>目前，该功能的实验性版本已支持单 <code>GPU</code> 环境下的 <code>vLLM</code> 和 <code>SGLang</code> 工作负载。</p>
+<p>但多 <code>GPU</code> 支持及部分性能优化仍在开发中。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/ad0c587b-3b63-44ad-a0ae-d680edede50b/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/">https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/l5qeFWtXtaStweOqLP7RKA">小米分享 AI Coding 工程化实践：VAF、VKF 与 eight-claw</a> <code>#23</code></h2>
+<blockquote>
+<p><strong>小米</strong>发文分享了<strong>小米</strong>零售研发团队 AI Coding 工程化实践，通过构建统一工作流 <code>VAF</code>、代码知识索引工具 <code>VKF</code> 及基于<strong>飞书</strong>的协作工作台 <code>eight-claw</code>，解决 <code>AI</code> 提效仅局限于个体的问题，实现组织级提效与知识沉淀。</p>
+</blockquote>
+<p><strong>小米</strong>发文分享了<strong>小米零售研发团队</strong>将 <strong>AI Coding</strong> 从个人提速推向团队提效的工程化实践，重点介绍了三个核心内部系统。</p>
+<p>该团队指出，虽然 <strong>AI</strong> 提升了个体编码效率，但需求转述损耗与上下文散落导致组织整体未变快，因此必须降低工具使用门槛。</p>
+<p>该实践通过带菜单的低门槛工作流 <code>VAF</code> 规范了开发流程，支持多服务汇聚协调并覆盖前后端及测试环节。</p>
+<p>针对 <strong>AI</strong> 理解业务偏差的问题，团队构建了代码知识库 <code>VKF</code>，其 <code>2.0</code> 版本放弃了将代码转化为自然语言文档的尝试，转而作为代码的直接索引辅助 <strong>AI</strong> 检索。</p>
+<p>此外，团队开发了集成于<strong>飞书</strong>的协作机器人 <code>eight-claw</code>，底层接入了 <code>Codex CLI</code>、<code>Claude Code</code> 等多种引擎，以“话题”为最小并行单元解决过程透明与多任务并行协作问题。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/3980e3b0-35ac-48cd-a11c-b28f8629140d/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/l5qeFWtXtaStweOqLP7RKA">https://mp.weixin.qq.com/s/l5qeFWtXtaStweOqLP7RKA</a></li>
+</ul>
+<hr>
+<h2><a href="https://weibo.com/7778831349/R1vRkEqCY">豆包澄清“听信AI致婴儿喂养不足”传闻</a> <code>#24</code></h2>
+<blockquote>
+<p><strong>豆包</strong>回应婴儿喂养争议，指自媒体将“每顿”造谣为“每天”，且家长未提供完整对话背景。<strong>豆包</strong>同时强调<code>AI</code>内容仅供参考，不替代医嘱。</p>
+</blockquote>
+<p><strong>豆包</strong>官方针对“家长听信AI建议导致婴儿喂养不足”的媒体报道以及“每顿60ml”与“每天60ml”的争议发布澄清说明。</p>
+<p>官方表示，经多轮测试，<code>豆包</code>会给出每日总奶量及就医建议。且涉事家长就诊时，并未提供完整的 <code>AI</code> 对话上下文。</p>
+<p><strong>豆包</strong>指出，部分自媒体将“每顿”扭曲为“每天”属于造谣。
+<strong>豆包</strong>并重申，<code>AI</code> 内容仅供参考，不能替代专业医疗诊断。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260528/20260528195229_abed117a84.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://weibo.com/7778831349/R1vRkEqCY">https://weibo.com/7778831349/R1vRkEqCY</a></li>
+</ul>
+<hr>
+<h2><a href="https://openmdw.ai/">Linux Foundation 发布 OpenMDW-1.1，NVIDIA 宣布采用该模型许可证</a> <code>#25</code></h2>
+<blockquote>
+<p><strong>Linux Foundation</strong> 发布专为 <strong>AI</strong> 模型打造的宽松许可证 <strong>OpenMDW</strong>，<strong>NVIDIA</strong> 宣布在 <code>Cosmos</code>、<code>Nemotron</code> 等多个开源模型系列中采用该框架以简化许可。</p>
+</blockquote>
+<p><strong>Linux Foundation</strong> 发布了专为 AI 模型设计的宽松统一许可证 <strong>OpenMDW-1.1</strong>，该框架覆盖模型权重、代码、数据和文档。</p>
+<p><strong>NVIDIA</strong> 宣布正在其开源模型系列中采用该框架，旨在通过单一法律体系减少开发者和企业的法律摩擦。</p>
+<p>此举将具体应用于 <code>Cosmos</code>、<code>Isaac GR00T</code>、<code>Ising</code> 和 <code>Nemotron</code> 等模型家族。</p>
+<p>开发者只需将许可证文件复制到代码库根目录即可完成应用，且该许可证不强制要求发布特定的模型组件。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/4ed6b4e2-6ca0-4bc3-adb2-6bd1f80013e2/c144e498-0e4a-452c-bcc5-480f28dcaafd/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://openmdw.ai/">https://openmdw.ai/</a></li>
+<li><a href="https://x.com/NVIDIAAI/status/2060035668655677804">https://x.com/NVIDIAAI/status/2060035668655677804</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/105</guid><pubDate>Fri, 29 May 2026 01:33:16 +0000</pubDate></item><item><title>2026-05-28</title><link>https://imjuya.github.io/juya-ai-daily/issue-104/</link><description>AI 早报 2026-05-28 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 OpenAI Foundation 宣布投入 2.5 亿美元应对 AI 经济变革 ↗ #1 模型发布 Biohub 发布蛋白质生物学世界模型 ESMFold2 并全面开源 ↗ #2 开发生态 Claude Code 推出响应速度与可靠性优化更新 ↗ #3 Codex 将于 6 月 2 日下线 GPT-5.2 及 5.3-Codex 模型 ↗ #4 OpenCode 限时免费提供 MiMo V2.5 模型 ↗ #5 SuperGrok 及 X Premium+ 用户可在 Kilo Code 使用 Grok 模型 ↗ #6 OpenAI 推出 Secure MCP Tunnel 等多项企业级安全与管理功能 ↗ #7 腾讯发布 AI…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260528/202605280923503118194401_cover_98cc.png" alt=""></p>
 <h1>AI 早报 2026-05-28</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1jQGQ6kEJe">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=BcKPIYmiu4s">YouTube</a></p>
 <h2>概览</h2>
@@ -2362,214 +2794,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/96</guid><pubDate>Wed, 20 May 2026 02:22:45 +0000</pubDate></item><item><title>2026-05-19</title><link>https://imjuya.github.io/juya-ai-daily/issue-95/</link><description>AI 早报 2026-05-19 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview ↗ #1 模型发布 Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 ↗ #2 开发生态 Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 ↗ #3 Claude Code 上线基于 Opus 4.7 的 /fast 模式 ↗ #4 GitHub 发布多项 Copilot 更新 一键修复 Actions 上线 ↗ #5 OpenRouter 发布长周期 Agent 构建原语与 SDK ↗ #6 Browserbase 推出 Browse.sh 技能目录…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260519/20260519090243818278329c_cover_fb7c.png" alt=""></p>
-<h1>AI 早报 2026-05-19</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1LoLK6pEXE">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=FzRTrUbr4cw">YouTube</a></p>
-<h2>概览</h2>
-<h3>要闻</h3>
-<ul>
-<li>千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview <a href="https://x.com/Alibaba_Qwen/status/2056403591464984753">↗</a> <code>#1</code></li>
-</ul>
-<h3>模型发布</h3>
-<ul>
-<li>Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型 <a href="https://cursor.com/blog/composer-2-5">↗</a> <code>#2</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>Anthropic 宣布将 Claude Design 各计划 token limits 翻倍 <a href="https://x.com/claudeai/status/2056460045756309820">↗</a> <code>#3</code></li>
-<li>Claude Code 上线基于 Opus 4.7 的 /fast 模式 <a href="https://x.com/ClaudeDevs/status/2056454359685476491">↗</a> <code>#4</code></li>
-<li>GitHub 发布多项 Copilot 更新 一键修复 Actions 上线 <a href="https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent">↗</a> <code>#5</code></li>
-<li>OpenRouter 发布长周期 Agent 构建原语与 SDK <a href="https://openrouter.ai/long-horizon">↗</a> <code>#6</code></li>
-<li>Browserbase 推出 Browse.sh 技能目录 <a href="http://Browse.sh">↗</a> <code>#7</code></li>
-</ul>
-<h3>技术与洞察</h3>
-<ul>
-<li>腾讯混元等机构发布古文字评测基准 Chronicles-OCR <a href="https://github.com/VirtualLUOUCAS/Chronicles-OCR">↗</a> <code>#8</code></li>
-</ul>
-<h3>行业动态</h3>
-<ul>
-<li>Anthropic 收编 SDK 供应商 Stainless，将关停其托管产品 <a href="https://www.anthropic.com/news/anthropic-acquires-stainless">↗</a> <code>#9</code></li>
-<li>消息称 Musk 诉 OpenAI 案败诉，陪审团认定起诉超时 <a href="https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours">↗</a> <code>#10</code></li>
-</ul>
-<h3>前瞻与传闻</h3>
-<ul>
-<li>DeepSeek 调研 DeepSeek-V4 角色扮演及情感陪伴体验 <a href="https://www.xiaohongshu.com/explore/6a0ac4ce000000003601e8f6?xsec_source=pc_feed&amp;note_flow_source=wechat">↗</a> <code>#11</code></li>
-<li>SpaceXAI 将提高 Grok Imagine 速率限制并改进生成准确度 <a href="https://x.com/elonmusk/status/2056282453556240552">↗</a> <code>#12</code></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/Alibaba_Qwen/status/2056403591464984753">千问上线 Qwen3.7 Max Preview 和 Qwen3.7 Plus Preview</a> <code>#1</code></h2>
-<blockquote>
-<p><strong>千问团队</strong>在 <strong>Qwen Studio</strong> 上线了 <code>Qwen3.7 Max</code> 及 <code>Qwen3.7 Plus</code> 两款模型的 <strong>Preview</strong> 版。同步公开了 <strong>Arena</strong> 分数和排名，该系列模型或于近期的<strong>阿里云峰会</strong>正式发布。</p>
-</blockquote>
-<p><strong>阿里通义千问</strong>团队日前在 <strong>Qwen Studio</strong> 及评测平台 <strong>Arena</strong> 上线了 <code>Qwen3.7</code> 的预览版模型，包含 <code>Qwen3.7-Max-Preview</code> 与 <code>Qwen3.7-Plus-Preview</code> 两个版本。</p>
-<p>根据 <strong>Arena</strong> 公布的数据，<strong>Max</strong> 版在 <strong>Text</strong> 赛道总排名第 <strong>13</strong>，且在数学、编程等分项均跻身前十。<strong>Plus</strong> 版在 <strong>Vision</strong> 赛道总排名第 <strong>16</strong>。</p>
-<p>其正式发布活动预计在即将到来的<strong>阿里云峰会</strong>上进行。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260519/20260519083604_d682e09e32.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/274224ce-15ef-43ec-8263-5aa043388bee/m002.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/274224ce-15ef-43ec-8263-5aa043388bee/m003.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/Alibaba_Qwen/status/2056403591464984753">https://x.com/Alibaba_Qwen/status/2056403591464984753</a></li>
-<li><a href="https://mp.weixin.qq.com/s/MrimtAw2GECk7Gycgh6hCw?scene=1">https://mp.weixin.qq.com/s/MrimtAw2GECk7Gycgh6hCw?scene=1</a></li>
-</ul>
-<hr>
-<h2><a href="https://cursor.com/blog/composer-2-5">Cursor 发布 Composer 2.5 并携手 SpaceXAI 合训新模型</a> <code>#2</code></h2>
-<blockquote>
-<p><strong>Cursor</strong> 宣布推出 <strong><code>Composer 2.5</code></strong>，官方称其复杂指令跟随能力更强，效率最高可比同类提升<strong>十倍</strong>，首周额度翻倍。同时，其宣布将与 <strong>SpaceXAI</strong> 联手，使用<strong>十倍</strong>算力从零训练一个更大模型。</p>
-</blockquote>
-<p><strong>Cursor</strong> 发布了最新的编程模型 <code>Composer 2.5</code>，该模型基于 <strong>Moonshot</strong> 的 <code>Kimi K2.5</code> 训练。</p>
-<p><code>Composer 2.5</code> 强化了长时间运行任务中的持续工作能力和复杂指令遵循表现。<strong>Cursor</strong> 官方称其效率最高可比同等能力模型提升<strong>十倍</strong>。</p>
-<p>模型现已上线，提供标准版和更快的快速版本，后者为默认选项。首周将提供<strong>双倍</strong>使用额度。</p>
-<p>训练中引入了基于文本反馈的强化学习等方法，有效解决了长轨迹中的信用分配难题。</p>
-<p>同时，<strong>Cursor</strong> 同步宣布正与 <strong>SpaceXAI</strong> 合作，使用<strong>十倍</strong>总计算资源在<strong>百万</strong> <code>H100</code> 等效的 <code>Colossus 2</code> 集群上从零训练一个更大模型。</p>
-<p>预计将带来重大能力飞跃。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/7cf42979-c620-4eac-a432-fd78581fa2a7/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/7cf42979-c620-4eac-a432-fd78581fa2a7/m002.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260519/20260519090446_d73ab25434.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://cursor.com/blog/composer-2-5">https://cursor.com/blog/composer-2-5</a></li>
-<li><a href="https://cursor.com/docs/models/cursor-composer-2-5">https://cursor.com/docs/models/cursor-composer-2-5</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/claudeai/status/2056460045756309820">Anthropic 宣布将 Claude Design 各计划 token limits 翻倍</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong> 官方宣布已将 <strong>Claude Design</strong> 在所有订阅计划中的 <code>token limits</code> 翻倍。</p>
-</blockquote>
-<p><strong>Anthropic</strong> 通过其官方社交账号宣布，已将 <strong>Claude Design</strong> 在所有订阅计划中的 <code>token limits</code> 翻倍。</p>
-<p>此次扩容主要针对此前用户极易触及输出上限的痛点。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/d4e3c78d-abe2-4a13-9ddd-a4bc71f96f21/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/claudeai/status/2056460045756309820">https://x.com/claudeai/status/2056460045756309820</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/ClaudeDevs/status/2056454359685476491">Claude Code 上线基于 Opus 4.7 的 /fast 模式</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>Claude Code</strong> 官方宣布 <strong>Fast</strong> 模式已默认切换为 <code>Opus 4.7</code>，官方称其响应速度约为标准模式的 <strong>2.5</strong> 倍，但按更高 token 费率计费。</p>
-</blockquote>
-<p><strong>ClaudeDevs</strong> 官方社交账号宣布，<code>Claude Code</code> 的 Fast 模式现已默认使用 <code>Opus 4.7</code> 模型。</p>
-<p>官方称该模式提供与标准 <code>Opus</code> 相同的质量，响应速度约为标准模式的 <strong>2.5 倍</strong>。但该功能按更高的 token 费率计费，适用于快速迭代、实时调试等对延迟敏感的场景。</p>
-<p>用户可通过 <code>/fast</code> 命令启用。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/4dddca10-6173-45bd-92a5-64885b7c5bd2/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/ClaudeDevs/status/2056454359685476491">https://x.com/ClaudeDevs/status/2056454359685476491</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent">GitHub 发布多项 Copilot 更新 一键修复 Actions 上线</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>GitHub</strong>发布多项 <strong>Copilot</strong>更新，推出可一键修复 <code>Actions</code> 的云 Agent，并将 <code>Spaces API</code> 与 <code>CLI</code> 远程控制正式开放。</p>
-</blockquote>
-<p><strong>GitHub</strong> 官方近日针对 <strong>Business</strong> 和 <strong>Enterprise</strong> 用户推出多项 <strong>Copilot</strong> 更新。</p>
-<p>核心全新能力是云 Agent 现可一键修复失败的 <strong>GitHub Actions</strong>，自动完成代码调查、修复推送并标记审查，同时新增用于审计该 Agent 配置的 <code>REST API</code>。</p>
-<p>此前处于测试阶段的 Spaces 编程管理 API，以及 <code>Copilot CLI</code> 和 <code>VS Code</code> 会话的远程控制功能均已在本次正式全面可用。</p>
-<p>此外 <strong>Copilot Chat</strong> 也通过同页面面板和上下文自动附加改善了交互体验。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent">https://github.blog/changelog/2026-05-18-one-click-fixes-for-failing-actions-with-copilot-cloud-agent</a></li>
-<li><a href="https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks">https://github.blog/changelog/2026-05-18-copilot-cloud-agent-fast-cost-efficient-models-for-simple-tasks</a></li>
-<li><a href="https://github.blog/changelog/2026-05-18-ask-questions-in-context-with-copilot-on-web">https://github.blog/changelog/2026-05-18-ask-questions-in-context-with-copilot-on-web</a></li>
-</ul>
-<hr>
-<h2><a href="https://openrouter.ai/long-horizon">OpenRouter 发布长周期 Agent 构建原语与 SDK</a> <code>#6</code></h2>
-<blockquote>
-<p><strong>OpenRouter</strong> 推出用于构建长程 <code>AI Agent</code> 的 <code>SDK</code> 与开发原语。该工具包支持运行多小时的复杂任务循环，内置成本上限控制、状态可恢复等功能。</p>
-</blockquote>
-<p><strong>OpenRouter</strong> 官方宣布发布用于构建长程、持久运行 <strong>AI Agent</strong> 的开发工具包与原语。</p>
-<p>通过该 <strong>Agent SDK</strong>，开发者可以运行高步骤数、长超时的多步任务循环，并利用 <code>maxCost</code> 和 <code>stepCountIs</code> 等条件组合来限制最高成本与执行步数。</p>
-<p>该工具支持持久化对话消息、工具结果和共享上下文，允许在系统崩溃、重新部署或人工审查后重放或恢复长程任务。</p>
-<p>此外，SDK 原生集成了 <code>/api/v1/audio/transcriptions</code> 等端点以支持语音输入与输出，开发者目前可通过获取 API 密钥直接部署相关智能体。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/e7652021-6208-47b5-93cd-fec0a9353531/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://openrouter.ai/long-horizon">https://openrouter.ai/long-horizon</a></li>
-<li><a href="https://x.com/OpenRouter/status/2056404687461519479">https://x.com/OpenRouter/status/2056404687461519479</a></li>
-</ul>
-<hr>
-<h2><a href="http://Browse.sh">Browserbase 推出 Browse.sh 技能目录</a> <code>#7</code></h2>
-<blockquote>
-<p><strong>Browserbase</strong> 推出并开源名为 <strong>Browse.sh</strong> 的 <code>Agent</code> 技能生态系统，为 <code>Agent</code> 提供数百家网站预设指南。仅特定功能需 <code>API</code> 密钥。</p>
-</blockquote>
-<p><strong>Browserbase</strong> 官宣推出并开源名为 <code>Browse.sh</code> 的 Agent 技能生态系统，旨在帮助其可靠执行复杂的端到端浏览器任务。</p>
-<p>官方称该生态为最大的开源技能集合，已研究数百家网站并提供了预设指南，同时与 <strong>Ramp</strong>、<strong>Lovable</strong> 等平台合作创建了认证技能。</p>
-<p>该目录及其配套 CLI 工具对所有人免费开放，支持社区提交技能或由系统按需生成，但官方澄清，涉及调用 <strong>Browserbase</strong> 平台特定底层功能的技能仍需使用带有免费额度的 API 密钥。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/1d91ea5a-2674-45b2-8c73-419d3f675c00/m001.gif" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="http://Browse.sh">http://Browse.sh</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/VirtualLUOUCAS/Chronicles-OCR">腾讯混元等机构发布古文字评测基准 Chronicles-OCR</a> <code>#8</code></h2>
-<blockquote>
-<p><strong>腾讯混元</strong>等机构发布古文字评测基准 <code>Chronicles-OCR</code>。官方称其能覆盖汉字“七体之变”，测试显示当前主流多模态大模型对古文字的识别与转写能力近乎失效。</p>
-</blockquote>
-<p><strong>腾讯混元</strong>、<strong>SSV 数字文化实验室</strong>等团队联合多家高校与<strong>中科院</strong>正式推出中国古文字感知评测基准 <strong>Chronicles-OCR</strong>。官方称该基准是业界首个覆盖甲骨、金文、篆、隶、楷、行、草“七体之变”的评测数据集，包含 <code>2800</code> 张专家标注图像，目前已公开于 <strong>GitHub</strong>。</p>
-<p>研究团队对 <code>28</code> 个主流多模态大模型进行的测试显示，<strong>GPT-5</strong>、<strong>Gemini 2.5 Pro</strong> 等模型在跨时代字符检测任务上的得分接近零。且开启思维链推理模式反而会导致识别表现下降。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/6f791a39-c5b8-4f62-9998-717b41792e94/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/VirtualLUOUCAS/Chronicles-OCR">https://github.com/VirtualLUOUCAS/Chronicles-OCR</a></li>
-<li><a href="https://mp.weixin.qq.com/s/RmzRuZcmYCDIhp_VI2G5Ig">https://mp.weixin.qq.com/s/RmzRuZcmYCDIhp_VI2G5Ig</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.anthropic.com/news/anthropic-acquires-stainless">Anthropic 收编 SDK 供应商 Stainless，将关停其托管产品</a> <code>#9</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong> 收购 <code>SDK</code> 及 <code>MCP</code> 工具平台 <strong>Stainless</strong> 以提升 <code>Agent</code> 连接能力，后续将关停该公司所有托管版产品。</p>
-</blockquote>
-<p><strong>Anthropic</strong>宣布收购 SDK 和 MCP 服务器工具平台 <strong>Stainless</strong>。后者自 API 早期起，便为 <strong>Anthropic</strong> 生成所有官方 SDK。</p>
-<p>官方虽未披露交易金额，但据媒体报道，此次收购作价超过 <strong>3 亿美元</strong>。</p>
-<p>收购完成后，<strong>Anthropic</strong> 将逐步关停所有托管版 <strong>Stainless</strong> 产品，但现有客户仍可保留并修改已生成的 SDK。</p>
-<p>官方称此举旨在进一步推进 <code>Claude</code> 平台的开发者体验及 Agent 外部连接能力。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.anthropic.com/news/anthropic-acquires-stainless">https://www.anthropic.com/news/anthropic-acquires-stainless</a></li>
-<li><a href="https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare">https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare</a></li>
-</ul>
-<hr>
-<h2><a href="https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours">消息称 Musk 诉 OpenAI 案败诉，陪审团认定起诉超时</a> <code>#10</code></h2>
-<blockquote>
-<p>据媒体报道，<strong>Elon Musk</strong> 在针对 <strong>OpenAI</strong> 的诉讼中败诉，九人陪审团经过仅<strong>两小时</strong>的审议后一致认定其起诉过晚，<strong>Musk</strong> 的律师表示计划提起上诉。</p>
-</blockquote>
-<p>据媒体报道，<strong>Elon Musk</strong> 近日在针对 <strong>OpenAI</strong> 和 <strong>Sam Altman</strong> 的诉讼中败诉。</p>
-<p>奥克兰的九人陪审团在经过三周庭审和仅两小时的审议后，一致认定其主张已超过法定诉讼时效。该诉讼寻求高达 <strong>1340 亿美元</strong> 的赔偿。</p>
-<p>法官 <strong>Yvonne Gonzalez</strong> 表示支持陪审团决定。而据媒体及 <strong>Musk</strong> 律师透露，<strong>Musk</strong> 方面保留了上诉权并计划继续上诉。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours">https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.xiaohongshu.com/explore/6a0ac4ce000000003601e8f6?xsec_source=pc_feed&amp;note_flow_source=wechat">DeepSeek 调研 DeepSeek-V4 角色扮演及情感陪伴体验</a> <code>#11</code></h2>
-<blockquote>
-<p><strong>DeepSeek</strong> 官方工作人员发帖向用户收集 <code>DeepSeek-V4</code> 模型使用反馈，调研角色扮演与情感陪伴体验，相关意见将用于指导下一次更新。</p>
-</blockquote>
-<p><strong>DeepSeek</strong> 工作人员在小红书平台发布调研贴，向用户收集关于 <strong>DeepSeek-V4</strong> 模型的使用反馈。</p>
-<p>该模型上线已大半个月，此次调研重点聚焦于角色扮演与情感陪伴场景的体验。</p>
-<p>同时也接受关于小说、公文、幻觉、搜索和代码等其他领域的反馈。</p>
-<p>用户可以通过小红书评论区、私信进行提交。</p>
-<p>如需提交长篇资料，可发送至指定邮箱。</p>
-<p>这些收集到的意见将被用于指导模型的下次更新。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/fb7c583c-2c0f-4da4-9571-965532ee8ce4/4a04a1d3-3611-41f4-9bda-5ee9f69ee5d5/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.xiaohongshu.com/explore/6a0ac4ce000000003601e8f6?xsec_source=pc_feed&amp;note_flow_source=wechat">https://www.xiaohongshu.com/explore/6a0ac4ce000000003601e8f6?xsec_source=pc_feed&amp;note_flow_source=wechat</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/elonmusk/status/2056282453556240552">SpaceXAI 将提高 Grok Imagine 速率限制并改进生成准确度</a> <code>#12</code></h2>
-<blockquote>
-<p><strong>Elon Musk</strong> 称，<code>Grok</code>的图像与视频生成准确度即将大幅提升，并承诺将放宽 <code>Grok Imagine</code> 的使用频率限制。</p>
-</blockquote>
-<p><strong>Elon Musk</strong> 近期在社交平台上针对 <strong>SpaceXAI</strong> 的相关功能做出了两项明确表态。</p>
-<p>他首先确认 <code>Grok</code> 在图像与视频生成的准确度方面即将迎来重大改进。</p>
-<p>同时，针对用户反馈的 <code>Grok Imagine</code> 频率限制过严问题，他承诺将会提高使用额度。</p>
-<p>但目前官方尚未公布具体的生效时间与详细额度。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260518/20260518180749_56c250221c.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260518/20260518180841_76e8477114.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/elonmusk/status/2056282453556240552">https://x.com/elonmusk/status/2056282453556240552</a></li>
-<li><a href="https://x.com/elonmusk/status/2056202821771403505">https://x.com/elonmusk/status/2056202821771403505</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/95</guid><pubDate>Tue, 19 May 2026 01:19:25 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/96</guid><pubDate>Wed, 20 May 2026 02:22:45 +0000</pubDate></item></channel></rss>
