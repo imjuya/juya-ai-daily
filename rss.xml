@@ -1,5 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sat, 30 May 2026 02:11:22 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-106/</link><description>AI 早报 2026-05-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Codex 为 Windows 端上线 Computer use 与远程控制功能 ↗ #1 ChatGPT 更新 GPT-5.5 Instant 模型并推出长对话目录功能 ↗ #2 MiniMax M3 即将发布并招募中文开源社区评测者 ↗ #3 开发生态 llama.cpp 发布官方新网站与统一命令行工具 ↗ #4 Hermes Agent 推出 Tool Search 并发布 v0.15.1 修复补丁 ↗ #5 阿里云百炼宣布推出并开源百炼 CLI ↗ #6 产品应用 谷歌Gemini调整配额规则：Ultra会员视频生成量翻倍 ↗ #7 DeepSeek 增加对话修改与内容刷新次数限制，且专家模式暂不支持搜索 #8 行业动…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260530/20260530084928335711bdd0_cover_d60c.png" alt=""></p>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><description>资讯内容由AI辅助生成，可能存在错误，请以原始信息出处和官方信息为准。RSS正常提供服务中，但Folo存在问题，接收不到最新文章。建议使用其他RSS阅读器</description><atom:link href="https://imjuya.github.io/juya-ai-daily/rss.xml" rel="self" type="application/rss+xml"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://imjuya.github.io/juya-ai-daily/icon.png</url><title>橘鸦AI早报</title><link>https://imjuya.github.io/juya-ai-daily/</link><width>144</width><height>144</height></image><language>zh-CN</language><lastBuildDate>Sun, 31 May 2026 00:07:44 +0000</lastBuildDate><itunes:image href="https://imjuya.github.io/juya-ai-daily/icon.png"/><webfeeds:icon>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:icon><webfeeds:logo>https://imjuya.github.io/juya-ai-daily/icon.png</webfeeds:logo><item><title>2026-05-31</title><link>https://imjuya.github.io/juya-ai-daily/issue-107/</link><description>AI 早报 2026-05-31 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务 ↗ #1 开发生态 OpenClaw 发布 2026.5.28 版本 ↗ #2 技术与洞察 小米详解 MiMo-V2.5 推理优化 ↗ #3 行业动态 MiniMax 启动 A 股 IPO 进程 ↗ #4 软银宣布在法国投资最高 750 亿欧元建设 AI 数据中心 ↗ #5 前瞻与传闻 爆料称 ChatGPT 正在开发 "Translation Block" ↗ #6 阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务 #1 阶跃星辰的新模型 Step 3.7 Flash 目前正通过…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260531/20260531075840013178bc0b_cover_748a.png" alt=""></p>
+<h1>AI 早报 2026-05-31</h1>
+<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV1mvVj68Es1">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=ysd4v7xE-4Q">YouTube</a></p>
+<h2>概览</h2>
+<h3>模型发布</h3>
+<ul>
+<li>阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务 <a href="https://x.com/StepFun_ai/status/2060726184712052849">↗</a> <code>#1</code></li>
+</ul>
+<h3>开发生态</h3>
+<ul>
+<li>OpenClaw 发布 2026.5.28 版本 <a href="https://x.com/openclaw/status/2060843306100183541">↗</a> <code>#2</code></li>
+</ul>
+<h3>技术与洞察</h3>
+<ul>
+<li>小米详解 MiMo-V2.5 推理优化 <a href="https://mp.weixin.qq.com/s/3e8ms4m00NbRVicLry1oAQ">↗</a> <code>#3</code></li>
+</ul>
+<h3>行业动态</h3>
+<ul>
+<li>MiniMax 启动 A 股 IPO 进程 <a href="https://zhidx.com/p/561711.html">↗</a> <code>#4</code></li>
+<li>软银宣布在法国投资最高 750 亿欧元建设 AI 数据中心 <a href="https://group.softbank/en/news/press/20260531_0">↗</a> <code>#5</code></li>
+</ul>
+<h3>前瞻与传闻</h3>
+<ul>
+<li>爆料称 ChatGPT 正在开发 "Translation Block" <a href="https://x.com/btibor91/status/2060811897495294445">↗</a> <code>#6</code></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/StepFun_ai/status/2060726184712052849">阶跃星辰为 Hermes Agent 用户提供 Step 3.7 Flash 模型限时免费服务</a> <code>#1</code></h2>
+<blockquote>
+<p>阶跃星辰的新模型 <code>Step 3.7 Flash</code> 目前正通过 <strong>Nous Portal</strong> ，面向 <strong>Hermes Agent</strong> 用户开展为期 <strong>30 天</strong> 的免费开放活动。</p>
+</blockquote>
+<p><strong>StepFun</strong> 联合 <strong>Nous Research</strong> 面向 <code>Hermes Agent</code> 用户推出了全新的 <code>Step 3.7 Flash</code> 模型限时免费活动。</p>
+<p>官方表示，<code>Step 3.7 Flash</code> 是一款 <code>MoE</code> 视觉-语言模型，重点针对 <code>Agent</code> 效率、编码、搜索以及多模态工作流进行了优化。</p>
+<p>用户需在 <strong>Nous Portal</strong> 注册免费账号方可获取 <strong>30 天</strong> 的访问权限。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260531/20260531074421_02033a4328.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/StepFun_ai/status/2060726184712052849">https://x.com/StepFun_ai/status/2060726184712052849</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/openclaw/status/2060843306100183541">OpenClaw 发布 2026.5.28 版本</a> <code>#2</code></h2>
+<blockquote>
+<p><strong>OpenClaw</strong> 发布 <strong>2026.5.28</strong> 版本，新增支持 <code>Claude Opus 4.8</code> 模型及通过 <code>fal</code> 接入的 <code>Krea</code> 图像模型，官方称该版本冷启动快 <strong>14.5%</strong>、热启动快 <strong>16.0%</strong>、新安装体积缩小 <strong>52.8%</strong>。</p>
+</blockquote>
+<p><strong>OpenClaw</strong> 正式发布 <strong>2026.5.28</strong> 版本，将 <code>Claude Opus 4.8</code> 纳入模型目录，使用常规 <strong>Anthropic</strong> 认证与运行时路由。</p>
+<p>该版本同时通过 <code>fal</code> 接入 <code>Krea</code> 图像模型，可接入现有 <code>image_generate</code> 工作流。</p>
+<p>根据官方测量数据，相比前版 .27，冷启动快 <strong>14.5%</strong>、热启动快 <strong>16.0%</strong>、新安装体积缩小 <strong>52.8%</strong>，<code>Package roots</code> 从 <strong>371</strong> 减至 <strong>300</strong>。</p>
+<p>此外 <code>Gateway</code>、插件与会话热路径减少了重复的元数据、配置及 <code>session-store</code> 开销。</p>
+<p><code>Discord</code> 进度草稿可在工具长时间运行时显示清理后的助手评论而不改变最终回复。</p>
+<p><code>/subagents</code> 命令新增展示活跃子运行的标签、会话、时间戳与工具日志，便于调试委托链路。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260531/20260531073802_ab80eab5ae.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/openclaw/status/2060843306100183541">https://x.com/openclaw/status/2060843306100183541</a></li>
+</ul>
+<hr>
+<h2><a href="https://mp.weixin.qq.com/s/3e8ms4m00NbRVicLry1oAQ">小米详解 MiMo-V2.5 推理优化</a> <code>#3</code></h2>
+<blockquote>
+<p><strong>小米MIMO团队</strong>发布了 <code>MiMo-V2.5</code> 系列模型推理优化技术报告，通过重构 <strong>KVCache</strong> 系统和引入自研分布式缓存 <strong>GCache</strong>，官方称成功兑现了 <code>Hybrid SWA</code> 架构的效率潜力，使线上服务端 <strong>KV Cache</strong> 命中率平均达 <strong>93%</strong>，并将由此节省的成本通过 <strong>API</strong> 降价回馈用户。</p>
+</blockquote>
+<p><strong>小米</strong>大模型团队发文详细介绍了 <code>MiMo-V2.5</code> 系列模型的推理全链路工程化实践，旨在解决 <code>Hybrid SWA</code>、<code>MoE</code> 及多模态 <code>Encoder</code> 在真实线上系统中的效率转化问题。</p>
+<p>通过重构双池 <code>KV Cache</code> 管理、引入自研分布式缓存 <code>GCache</code> 以及优化 <code>Prefill</code> 与 <code>Decode</code> 执行链路，官方称将 <code>EP</code> 缩减至原先的 <strong>1/2</strong>，实现了约 <strong>40%</strong> 的端到端性能提升，多模态 <code>Encoder</code> 吞吐也提升至 <strong>2 倍</strong>。</p>
+<p>官方表示，目前服务端 <code>KV Cache</code> 命中率平均可达 <strong>93%</strong>，部分优化成果已回馈 <code>SGLang</code> 开源社区，且已通过 <code>API</code> 降价将节省的成本回馈用户。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/748a2e98-87ab-4ee9-a26d-8e3100e9e163/d26c6930-c4c1-486a-838d-187967db1773/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/3e8ms4m00NbRVicLry1oAQ">https://mp.weixin.qq.com/s/3e8ms4m00NbRVicLry1oAQ</a></li>
+</ul>
+<hr>
+<h2><a href="https://zhidx.com/p/561711.html">MiniMax 启动 A 股 IPO 进程</a> <code>#4</code></h2>
+<blockquote>
+<p>据媒体报道，<strong>MiniMax</strong> 已于 <strong>5 月 29 日</strong> 同 <strong>中信证券</strong> 签署辅导协议，正式启动 <code>A 股 IPO</code> 进程，此前该公司已于今年 <strong>1 月</strong> 在 <code>港交所</code> 上市。</p>
+</blockquote>
+<p>媒体报道显示，<strong>证监会</strong>官网披露 <strong>MiniMax</strong> 已提交上市辅导备案报告，由 <strong>中信证券</strong> 担任辅导机构，正式开启 <strong>A 股</strong> 上市进程。</p>
+<p>在资本表现方面，该公司自今年 <strong>1 月</strong> 登陆 <strong>港交所</strong> 以来股价大幅上涨，并将于 <strong>6 月 8 日</strong> 被纳入 <code>恒生科技指数</code>。</p>
+<p>业务数据方面，官方称其过去两个月 <code>ARR</code> 实现超 <strong>100%</strong> 增长，目前 <code>ARR</code> 已超过 <strong>3 亿美元</strong>，全球企业及开发者客户数超 <strong>百万</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/748a2e98-87ab-4ee9-a26d-8e3100e9e163/25c91425-2074-4afd-86bc-d1cdaf722cbc/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://zhidx.com/p/561711.html">https://zhidx.com/p/561711.html</a></li>
+</ul>
+<hr>
+<h2><a href="https://group.softbank/en/news/press/20260531_0">软银宣布在法国投资最高 750 亿欧元建设 AI 数据中心</a> <code>#5</code></h2>
+<blockquote>
+<p><strong>软银</strong>宣布计划在<strong>法国</strong>投资最高 <strong>750 亿欧元</strong>，开发并运营总容量 <code>5 GW</code> 的 <strong>AI 数据中心</strong>，其中第一阶段将投入 <strong>450 亿欧元</strong>建设 <code>3.1 GW</code> 产能。</p>
+</blockquote>
+<p><strong>SoftBank Group</strong> 宣布计划在法国开发和运营 <code>5 GW</code> 的 <strong>AI</strong> 数据中心，总投资额最高可达 <strong>750 亿欧元</strong>。</p>
+<p>该项目第一阶段将向 <strong>Hauts-de-France</strong> 地区投入 <strong>450 亿欧元</strong>，计划于 <strong>2031 年</strong>前在 <strong>Dunkirk</strong>、<strong>Bosquel</strong> 和 <strong>Bouchain</strong> 等地交付 <code>3.1 GW</code> 的数据中心容量。</p>
+<p>此外，<strong>SoftBank Group</strong> 将与 <strong>Schneider Electric</strong> 合作，在 <strong>Dunkirk</strong> 港建立涵盖两家工厂的先进制造集群。</p>
+<p>预计该整体项目将为当地创造数千个高技能工作岗位。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260531/20260531075712_8ec04c1232.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://group.softbank/en/news/press/20260531_0">https://group.softbank/en/news/press/20260531_0</a></li>
+</ul>
+<hr>
+<h2><a href="https://x.com/btibor91/status/2060811897495294445">爆料称 ChatGPT 正在开发 "Translation Block"</a> <code>#6</code></h2>
+<blockquote>
+<p>据爆料博主称，<strong>OpenAI</strong> 正在为 <code>ChatGPT</code> 开发 "Translation Block" 翻译组件，其支持的语言中罕见地包含了《权力的游戏》虚构语言 <strong>"High Valyrian"</strong>。</p>
+</blockquote>
+<p>据爆料博主 <strong>Tibor Blaho</strong> 发文，<strong>OpenAI</strong> 目前正在为 <strong>ChatGPT</strong> 开发一款名为 <code>"Translation Block"</code> 的全新翻译小组件。</p>
+<p>该组件被测试的语言列表中不仅包含现实中的常用语种，还特别加入了一种为 <strong>《权力的游戏》</strong> 专门创造的虚构语言 <code>"High Valyrian"</code>。</p>
+<p>该功能仍处于内部开发阶段，尚未正式上线。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/748a2e98-87ab-4ee9-a26d-8e3100e9e163/6aa3dadb-334a-49ee-bc85-68e0ea088a20/m001.png" alt=""></p>
+<p>相关链接：</p>
+<ul>
+<li><a href="https://x.com/btibor91/status/2060811897495294445">https://x.com/btibor91/status/2060811897495294445</a></li>
+</ul>
+<hr>
+<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/107</guid><pubDate>Sun, 31 May 2026 00:07:20 +0000</pubDate></item><item><title>2026-05-30</title><link>https://imjuya.github.io/juya-ai-daily/issue-106/</link><description>AI 早报 2026-05-30 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Codex 为 Windows 端上线 Computer use 与远程控制功能 ↗ #1 ChatGPT 更新 GPT-5.5 Instant 模型并推出长对话目录功能 ↗ #2 MiniMax M3 即将发布并招募中文开源社区评测者 ↗ #3 开发生态 llama.cpp 发布官方新网站与统一命令行工具 ↗ #4 Hermes Agent 推出 Tool Search 并发布 v0.15.1 修复补丁 ↗ #5 阿里云百炼宣布推出并开源百炼 CLI ↗ #6 产品应用 谷歌Gemini调整配额规则：Ultra会员视频生成量翻倍 ↗ #7 DeepSeek 增加对话修改与内容刷新次数限制，且专家模式暂不支持搜索 #8 行业动…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260530/20260530084928335711bdd0_cover_d60c.png" alt=""></p>
 <h1>AI 早报 2026-05-30</h1>
 <p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV11pVM6iERu">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=OrOFrJpy0mU">YouTube</a></p>
 <h2>概览</h2>
@@ -2081,324 +2190,4 @@
 </ul>
 <hr>
 <p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/98</guid><pubDate>Fri, 22 May 2026 01:26:24 +0000</pubDate></item><item><title>2026-05-21</title><link>https://imjuya.github.io/juya-ai-daily/issue-97/</link><description>AI 早报 2026-05-21 视频版：哔哩哔哩 ｜ YouTube 概览 模型发布 千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API ↗ #1 千问发布实时同传模型 Qwen3.5-LiveTranslate ↗ #2 Cohere 发布开源模型 Command A+ ↗ #3 Stability AI 发布 Stable Audio 3.0 系列音频模型 ↗ #4 NVIDIA 推出 SANA-WM 分钟级视频生成模型 ↗ #5 开发生态 Codex 重置使用限制 ↗ #6 Hermes agent 上线 SpaceXAI 网络搜索功能 ↗ #7 OpenClaw 发布 2026.5.19 更新 ↗ #8 产品应用 Hugging Face 上线 Hardware 页面及模型参数筛选功能…</description><content:encoded><![CDATA[<p><img src="http://testtttt.oss-cn-guangzhou.aliyuncs.com/imagehub/20260521/2026052109093256239509e2_cover_b59a.png" alt=""></p>
-<h1>AI 早报 2026-05-21</h1>
-<p><strong>视频版</strong>：<a href="https://www.bilibili.com/video/BV15vLx6uEGZ">哔哩哔哩</a> ｜ <a href="https://www.youtube.com/watch?v=F6lSopOv2zc">YouTube</a></p>
-<h2>概览</h2>
-<h3>模型发布</h3>
-<ul>
-<li>千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API <a href="https://qwenlm.github.io/zh/blog/qwen3.7/">↗</a> <code>#1</code></li>
-<li>千问发布实时同传模型 Qwen3.5-LiveTranslate <a href="https://qwen.ai/blog?id=qwen3.5-livetranslate">↗</a> <code>#2</code></li>
-<li>Cohere 发布开源模型 Command A+ <a href="https://cohere.com/blog/command-a-plus">↗</a> <code>#3</code></li>
-<li>Stability AI 发布 Stable Audio 3.0 系列音频模型 <a href="https://stability.ai/stable-audio">↗</a> <code>#4</code></li>
-<li>NVIDIA 推出 SANA-WM 分钟级视频生成模型 <a href="https://nvlabs.github.io/Sana/WM/">↗</a> <code>#5</code></li>
-</ul>
-<h3>开发生态</h3>
-<ul>
-<li>Codex 重置使用限制 <a href="https://x.com/thsottiaux/status/2056851041132696025">↗</a> <code>#6</code></li>
-<li>Hermes agent 上线 SpaceXAI 网络搜索功能 <a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok">↗</a> <code>#7</code></li>
-<li>OpenClaw 发布 2026.5.19 更新 <a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.19">↗</a> <code>#8</code></li>
-</ul>
-<h3>产品应用</h3>
-<ul>
-<li>Hugging Face 上线 Hardware 页面及模型参数筛选功能 <a href="https://huggingface.co/datasets?benchmark=benchmark:official&amp;sort=trending">↗</a> <code>#9</code></li>
-<li>Google 发布跨平台 Agent Ask Advisor 及多项广告 AI 更新 <a href="https://blog.google/products/ads-commerce/ask-advisor/">↗</a> <code>#10</code></li>
-</ul>
-<h3>技术与洞察</h3>
-<ul>
-<li>OpenAI宣布内部通用模型自主攻克Erdős问题，证明已获外部验证 <a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/">↗</a> <code>#11</code></li>
-<li>Z.ai 等联合部署 ZCube 网络架构：推理吞吐提升 15% <a href="https://x.com/Zai_org/status/2057216685040443743">↗</a> <code>#12</code></li>
-</ul>
-<h3>行业动态</h3>
-<ul>
-<li>DeepSeek 组建 Harness 团队，招聘中 <code>#13</code></li>
-<li>Anthropic 宣布与 SpaceX 扩大算力合作并即将启用 Colossus 2 数据中心 <a href="https://x.com/nottombrown/status/2057194829986300375">↗</a> <code>#14</code></li>
-<li>阿里云发布磐久AL128超节点服务器及自研真武M890芯片 <a href="https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA">↗</a> <code>#15</code></li>
-<li>GitHub 调查内部仓库泄露事件，官方称客户数据暂未受影响 <a href="https://x.com/github/status/2056949168208552080">↗</a> <code>#16</code></li>
-<li>Exa 完成 2.5 亿美元 C 轮融资，估值达 22 亿美元 <a href="https://a16z.com/announcement/investing-in-exa/">↗</a> <code>#17</code></li>
-<li>OpenAI 推出“OpenAI for Singapore”多年期合作计划 <a href="https://openai.com/index/introducing-openai-for-singapore/">↗</a> <code>#18</code></li>
-</ul>
-<h3>前瞻与传闻</h3>
-<ul>
-<li>报道称 OpenAI 计划最快本周提交 IPO 申请 <a href="https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1">↗</a> <code>#19</code></li>
-<li>消息称白宫已向 OpenAI 等企业通报前沿 AI 模型审查计划 <a href="https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/">↗</a> <code>#20</code></li>
-</ul>
-<hr>
-<h2><a href="https://qwenlm.github.io/zh/blog/qwen3.7/">千问发布新一代旗舰 Qwen3.7-Max，即将上线百炼 API</a> <code>#1</code></h2>
-<blockquote>
-<p><strong>Qwen</strong> 团队正式发布面向 <strong>Agent</strong> 时代的旗舰模型 <code>Qwen3.7-Max</code>，主打编程、办公自动化与长周期自主执行能力。官方称，该模型在编程 <strong>Agent</strong>、通用 <strong>Agent</strong> 及高难度推理等多个评测维度表现领先，即将通过 <strong>阿里云</strong> <code>百炼 API</code> 上线。</p>
-</blockquote>
-<p><strong>阿里</strong>千问正式发布新一代旗舰模型 <code>Qwen3.7-Max</code>，定位为面向 Agent 时代的全能基座模型。</p>
-<p>官方称，该模型在编程 Agent、通用 Agent 及高难度推理等多个评测维度表现领先或居前。在一项 <strong>35 小时</strong>、<strong>1158 次</strong>工具调用的自主 <code>kernel</code> 优化实验中，实现相对参考实现 <strong>10.0 倍</strong>的几何平均加速。</p>
-<p>该模型采用任务 - 运行框架 - 验证器正交解耦训练架构，原生适配 <code>Claude Code</code>、<code>OpenClaw</code>、<code>Qwen Code</code> 等主流智能体框架。同时支持 <code>MCP</code> 集成与多智能体协作，并可通过工具调用操控机器狗等具身设备。</p>
-<p>API 即将通过 <strong>阿里云百炼</strong>上线。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/128ebcf2-5d18-428d-b9b9-f0d20a067b72/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/128ebcf2-5d18-428d-b9b9-f0d20a067b72/m002.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://qwenlm.github.io/zh/blog/qwen3.7/">https://qwenlm.github.io/zh/blog/qwen3.7/</a></li>
-</ul>
-<hr>
-<h2><a href="https://qwen.ai/blog?id=qwen3.5-livetranslate">千问发布实时同传模型 Qwen3.5-LiveTranslate</a> <code>#2</code></h2>
-<blockquote>
-<p><strong>千问</strong>发布实时同传模型 <code>Qwen3.5-LiveTranslate-Flash</code>。该模型支持<strong>60</strong>种语言音频输入及<strong>29</strong>种语言语音输出，并具备实时跨语言音色克隆能力，现已开放 <strong>Demo</strong> 体验。</p>
-</blockquote>
-<p><strong>通义实验室</strong>正式发布实时同传翻译大模型 <code>Qwen3.5-LiveTranslate-Flash</code>。官方数据显示，该模型将输入文本与音频语种扩展至 <strong>60 种</strong>，音频输出语种提升至 <strong>29 种</strong>。</p>
-<p>端到端字均延迟降至 <strong>2.8 秒</strong>，并支持实时音色克隆及最高 <strong>1000 个词条</strong> 的动态热词配置。该模型基于 <code>Qwen3.5-Omni Thinker-Talker</code> 架构打造。</p>
-<p>目前在 <code>FLEURS</code> 等公开基准测试中，其翻译准确率优于前代及主流语音大模型。<strong>官方 Blog</strong> 与在线 Demo 已开放，<strong>阿里云百炼平台</strong>集成服务即将上线。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/240e7111-3784-4493-bde0-66c502ba5e37/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://qwen.ai/blog?id=qwen3.5-livetranslate">https://qwen.ai/blog?id=qwen3.5-livetranslate</a></li>
-<li><a href="https://omni.qwen.ai/live-translate">https://omni.qwen.ai/live-translate</a></li>
-<li><a href="https://mp.weixin.qq.com/s/N6mr3RPIzbLuU5lTgy4P-w">https://mp.weixin.qq.com/s/N6mr3RPIzbLuU5lTgy4P-w</a></li>
-</ul>
-<hr>
-<h2><a href="https://cohere.com/blog/command-a-plus">Cohere 发布开源模型 Command A+</a> <code>#3</code></h2>
-<blockquote>
-<p><strong>Cohere</strong> 发布开源大模型 <strong>Command A+</strong>。该模型采用 <code>218B</code> 总参数和 <code>25B</code> 激活参数的 <code>MoE</code> 架构，它整合了前代视觉与推理能力，专精 <code>Agentic</code> 任务。</p>
-</blockquote>
-<p><strong>Cohere</strong> 发布开源大模型 <code>Command A+</code>，该模型基于 <code>Apache 2.0</code> 许可，采用 <strong>218B</strong> 总参与 <strong>25B</strong> 激活参的 <code>Sparse MoE</code> 架构。</p>
-<p>官方称，该模型统一了前代 <strong>Command A</strong> 系列能力，支持 <strong>128K</strong> 上下文、<strong>64K</strong> 输出、图像输入及 <strong>48</strong> 种语言，专为 <code>Agentic</code> 任务与高性能企业环境优化。</p>
-<p>模型提供 <code>BF16</code>、<code>FP8</code> 和 <code>W4A4</code> 三种量化版本，通过引入推测解码和新分词器提升了推理效率。</p>
-<p>官方推荐的 <code>W4A4</code> 版本最低仅需单块 <code>B200</code> 或两块 <code>H100</code> GPU 即可运行，目前权重已在 <strong>Hugging Face</strong> 发布。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/a67d4278-94a8-4405-bea5-57368558e0aa/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://cohere.com/blog/command-a-plus">https://cohere.com/blog/command-a-plus</a></li>
-<li><a href="https://huggingface.co/CohereLabs/command-a-plus-05-2026">https://huggingface.co/CohereLabs/command-a-plus-05-2026</a></li>
-</ul>
-<hr>
-<h2><a href="https://stability.ai/stable-audio">Stability AI 发布 Stable Audio 3.0 系列音频模型</a> <code>#4</code></h2>
-<blockquote>
-<p><strong>Stability AI</strong> 发布 <strong>Stable Audio 3.0</strong> 系列音频生成模型，提供多个规格，其中小号与中号版本以开放权重形式发布，支持最长 <code>6</code> 分钟的音频生成，可在一定限制下免费商用。</p>
-</blockquote>
-<p><strong>Stability AI</strong> 推出了名为 <strong>Stable Audio 3.0</strong> 的音频生成模型系列。</p>
-<p>该系列共包含四个模型，基于新的 <code>语义 - 声学自编码器</code> 架构构建，旨在实现可变长度的音频生成与编辑。</p>
-<p>其中，<code>small SFX</code>、<code>small</code> 与 <code>medium</code> 三个模型的权重已开放，<code>large</code> 模型则仅通过 API 及付费自托管服务提供。</p>
-<p>官方表示，用户对生成内容的输出拥有所有权，年收入低于 <strong>100 万美元</strong> 的用户可根据社区许可证进行分发与商业化。</p>
-<p>公司同时开放了面向专业音乐家的产品套件候补名单。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://stability.ai/stable-audio">https://stability.ai/stable-audio</a></li>
-<li><a href="https://huggingface.co/collections/stabilityai/stable-audio-3">https://huggingface.co/collections/stabilityai/stable-audio-3</a></li>
-</ul>
-<hr>
-<h2><a href="https://nvlabs.github.io/Sana/WM/">NVIDIA 推出 SANA-WM 分钟级视频生成模型</a> <code>#5</code></h2>
-<blockquote>
-<p><strong>NVIDIA</strong> 开源世界模型 <code>SANA-WM</code>，支持基于单张图像与摄像机轨迹，在单块 <strong>GPU</strong> 上生成 <code>720p</code> 分辨率的 <strong>60 秒</strong>可控视频。</p>
-</blockquote>
-<p><strong>NVIDIA</strong> 研究团队发布了名为 <strong>SANA-WM</strong> 的开源世界模型，该模型原生支持一分钟时长的视频生成。</p>
-<p><strong>SANA-WM</strong> 包含 <code>26 亿</code> 参数，能够接收单张图像、文本提示词以及精确的 6 自由度摄像机轨迹作为输入，进而合成 <code>720p</code> 分辨率的高保真视频。</p>
-<p>其架构核心采用混合线性注意力机制与双分支摄像机控制设计，并结合了两阶段生成管道。</p>
-<p>官方称，该模型在单块 <code>H100 GPU</code> 上即可完成一分钟视频的推理。</p>
-<p>而其经过蒸馏与 <code>NVFP4</code> 量化的变体更可在单块 <code>RTX 5090</code> 上仅需 <code>34 秒</code> 完成 <code>60 秒</code> <code>720p</code> 视频的去噪。</p>
-<p>目前，该模型的双向检查点、推理代码及相关组件已在 <strong>Hugging Face</strong> 上正式开源。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/63490b7b-44c3-404a-87a4-97f381c0a380/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://nvlabs.github.io/Sana/WM/">https://nvlabs.github.io/Sana/WM/</a></li>
-<li><a href="https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional">https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/thsottiaux/status/2056851041132696025">Codex 重置使用限制</a> <code>#6</code></h2>
-<blockquote>
-<p>疑似迎接 <strong>Google</strong> I/O 召开，<strong>OpenAI</strong> 于<strong>5月20日</strong>早上宣布重置了 <code>Codex</code> 的速率限制。</p>
-</blockquote>
-<p>疑似迎接 <strong>Google</strong> I/O 召开，<strong>OpenAI</strong> 于 <strong>5 月 20 日</strong>早上宣布重置了 <code>Codex</code> 的速率限制。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/e32daf2a-467e-40a6-b0a7-ed6f016d4fcf/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/thsottiaux/status/2056851041132696025">https://x.com/thsottiaux/status/2056851041132696025</a></li>
-</ul>
-<hr>
-<h2><a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok">Hermes agent 上线 SpaceXAI 网络搜索功能</a> <code>#7</code></h2>
-<blockquote>
-<p><strong>NousResearch</strong> 的 <strong>Hermes agent</strong> 现已支持调用 <code>Grok</code> 执行网络搜索，相关功能文档已同步上线。</p>
-</blockquote>
-<p><strong>NousResearch</strong> 的 <strong>Hermes</strong> <code>agent</code> 正式集成了 <strong>SpaceXAI</strong> 的网络搜索能力。</p>
-<p>用户可以在该 <code>Agent</code> 中直接使用 <strong>SpaceXAI</strong> 执行联网查询。</p>
-<p>目前，官方已公开了该功能的用户指南文档，详细介绍了其配置与使用方法。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok">https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search#xai-grok</a></li>
-</ul>
-<hr>
-<h2><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.19">OpenClaw 发布 2026.5.19 更新</a> <code>#8</code></h2>
-<blockquote>
-<p><code>OpenClaw</code> 发布 <strong>2026.5.19</strong> 更新，Android <code>Talk Mode</code> 迎来实时化升级，并优化了 Mac 设置界面与无头设备的 <code>SpaceXAI</code> 登录体验。</p>
-</blockquote>
-<p><strong>OpenClaw</strong> 官方发布 <strong>2026.5.19</strong> 版本更新。</p>
-<p>此次更新将 Android 平台的 <code>Talk Mode</code> 升级为实时语音会话，支持流式麦克风输入、实时音频播放、工具结果桥接及屏幕显示转录文本。</p>
-<p>同时，新版优化了 Mac 设置界面的布局与稳定性，改进了无头和远程机器上基于设备码 OAuth 的 <code>SpaceXAI</code> 登录体验。</p>
-<p>此外，Tg 的论坛主题处理与浏览器对话框交互也得到了相应改善。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://github.com/openclaw/openclaw/releases/tag/v2026.5.19">https://github.com/openclaw/openclaw/releases/tag/v2026.5.19</a></li>
-</ul>
-<hr>
-<h2><a href="https://huggingface.co/datasets?benchmark=benchmark:official&amp;sort=trending">Hugging Face 上线 Hardware 页面及模型参数筛选功能</a> <code>#9</code></h2>
-<blockquote>
-<p><strong>Hugging Face</strong> 宣布为 <strong>Dataset Leaderboard</strong> 新增按模型参数量级筛选基准测试结果的功能，并推出用于展示开源 <strong>AI</strong> 社区真实硬件使用情况的 <strong>Hugging Face Hardware</strong>。</p>
-</blockquote>
-<p><strong>Hugging Face</strong> 官方宣布为 <strong>Dataset Leaderboard</strong> 新增了按模型参数范围筛选基准测试结果的功能，帮助用户查找特定参数限制下的最优模型。</p>
-<p>同时，其联合创始人 <strong>Julien Chaumond</strong> 宣布推出 <strong>Hugging Face Hardware</strong>，旨在呈现开源 AI 生态系统的真实世界硬件运行情况。</p>
-<p>该硬件追踪功能将提供热门 GPU 与 CPU 统计、VRAM 分布情况以及推理硬件的发展趋势。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/7c394a7d-aec1-4096-b109-024418ba248c/m001.png" alt=""></p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521083248_0112b96442.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://huggingface.co/datasets?benchmark=benchmark:official&amp;sort=trending">https://huggingface.co/datasets?benchmark=benchmark:official&amp;sort=trending</a></li>
-<li><a href="https://huggingface.co/hardware">https://huggingface.co/hardware</a></li>
-</ul>
-<hr>
-<h2><a href="https://blog.google/products/ads-commerce/ask-advisor/">Google 发布跨平台 Agent Ask Advisor 及多项广告 AI 更新</a> <code>#10</code></h2>
-<blockquote>
-<p><strong>Google</strong> 连续发布多项广告与营销 <strong>AI</strong> 更新，宣布跨产品 <strong>Agent</strong> <code>Ask Advisor</code> 现已面向英文账户推出测试版，<code>Asset Studio</code> 即将集成 <code>Gemini Omni</code> 模型，并在 <code>AI Mode</code> 中测试多种由 <code>Gemini</code> 驱动的新型广告格式。</p>
-</blockquote>
-<p><strong>Google</strong> 宣布了一系列针对其广告与营销平台的 <strong>AI</strong> 更新，旨在统一用户体验并提升广告互动性。</p>
-<p>该公司推出了跨产品 <code>Agent Ask Advisor</code> 以连接 <strong>Google Ads</strong>、<strong>Analytics</strong> 和 <strong>Merchant Center</strong>。同时为 <code>Asset Studio</code> 引入了多模态功能，并即将整合 <code>Gemini Omni</code>。此外，公司还在测试由 <code>Gemini</code> 模型驱动的新型搜索广告格式。</p>
-<p>目前 <code>Ask Advisor</code> 仅限英文账户参与测试。<code>Asset Studio</code> 的新功能将于 <strong>今年夏季</strong> 面向全球英语用户推出。而新的搜索广告格式和扩展的 <code>Direct Offers</code> 试点正处于测试或逐步推进阶段。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://blog.google/products/ads-commerce/ask-advisor/">https://blog.google/products/ads-commerce/ask-advisor/</a></li>
-<li><a href="https://blog.google/products/ads-commerce/asset-studio-updates/">https://blog.google/products/ads-commerce/asset-studio-updates/</a></li>
-<li><a href="https://blog.google/products/ads-commerce/google-marketing-live-search-ads/">https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</a></li>
-</ul>
-<hr>
-<h2><a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/">OpenAI宣布内部通用模型自主攻克Erdős问题，证明已获外部验证</a> <code>#11</code></h2>
-<blockquote>
-<p><strong>OpenAI</strong>宣布其通用推理模型自主解决平面单位距离问题，成功推翻近<strong>80</strong>年的离散几何核心猜想，标志着<strong>AI</strong>首次独立解决数学界著名开放问题。</p>
-</blockquote>
-<p><strong>OpenAI</strong> 宣布其通用推理模型成功解决了由 <strong>保罗·埃尔德什</strong> 于 <strong>1946</strong> 年提出的平面单位距离问题，推翻了离散几何学领域长达近 <strong>80</strong> 年的核心猜想。</p>
-<p>该模型并非专门针对数学构建，而是自主发现了代数数论在几何问题上的新应用，构建出优于传统“方形网格”的全新无限族构造。</p>
-<p>该证明目前已通过外部数学家团队的验证，官方称这也是 <strong>AI</strong> 首次自主解决处于数学子领域中心地位的著名开放问题。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521085029_1f6ad403ae.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/">https://openai.com/index/model-disproves-discrete-geometry-conjecture/</a></li>
-<li><a href="https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf">https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/Zai_org/status/2057216685040443743">Z.ai 等联合部署 ZCube 网络架构：推理吞吐提升 15%</a> <code>#12</code></h2>
-<blockquote>
-<p><strong>智谱</strong>与相关机构联合开发并在生产环境部署了 <strong>ZCube</strong> <code>网络架构</code>。官方数据显示，该架构使 <code>GLM-5.1</code> 推理集群的网络硬件成本降低 <strong>33%</strong>，平均吞吐量提升 <strong>15%</strong>，目前已稳定运行超 <strong>两周</strong>。</p>
-</blockquote>
-<p><strong>Z.ai</strong>、<strong>Harnets.AI</strong> 与 <strong>清华大学</strong> 联合开发了名为 <code>ZCube</code> 的新一代 <code>LLM</code> 推理网络架构，并已将其部署于线上生产集群。</p>
-<p>该架构采用完全扁平化的拓扑结构，旨在解决传统架构在 <code>Prefill-Decode</code> 分离场景下因流量不对称导致的网络拥塞问题。</p>
-<p>根据官方提供的基准测试数据，在运行 <code>GLM-5.1</code> 推理服务时，<strong>ZCube</strong> 在降低约三分之一交换机及光模块硬件成本的同时，使平均 <strong>GPU</strong> 推理吞吐量提升了 <strong>15%</strong>，并将 <strong>TTFT P99</strong> 尾部延迟降低了 <strong>40.6%</strong>。</p>
-<p>该生产集群目前已在无应用层修改的情况下稳定运行超过 <strong>两周</strong>，其相关论文已在 <strong>ACM SIGCOMM 2025</strong> 发表。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/Zai_org/status/2057216685040443743">https://x.com/Zai_org/status/2057216685040443743</a></li>
-</ul>
-<hr>
-<h2>DeepSeek 组建 Harness 团队，招聘中 <code>#13</code></h2>
-<blockquote>
-<p>据 <strong>DeepSeek</strong> 工作人员透露，<strong>DeepSeek</strong> 正在组建一个新的 <code>Harness</code> 团队做 <code>Harness</code> 方向的产品和研究。目前正在招聘产品和研发方向的两个岗位。</p>
-</blockquote>
-<p><strong>DeepSeek</strong>正在内部组建新团队，聚焦 <strong>Harness</strong>方向的产品和研究。</p>
-<p>该公司已在官方招聘平台开放了"<code>Agent Harness 产品经理</code>"和"<code>Agent Harness 研发工程师</code>"两个职位，工作地点目前仅限北京。</p>
-<p><strong>DeepSeek</strong>资深研究员<strong>陈德里</strong>在社交媒体上证实了这一动向，明确提出要“对标 <strong>Claude Code</strong>，做 <strong>DeepSeek Code Harness</strong>"。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/2d086d4d-eecc-478f-b778-12454942acaf/m001.png" alt=""></p>
-<hr>
-<h2><a href="https://x.com/nottombrown/status/2057194829986300375">Anthropic 宣布与 SpaceX 扩大算力合作并即将启用 Colossus 2 数据中心</a> <code>#14</code></h2>
-<blockquote>
-<p><strong>Anthropic</strong> 宣布与 <strong>SpaceX</strong> 扩大合作，并将在六月起的 <strong>Colossus 2</strong> 数据中心大规模扩展 <strong>Claude</strong> 所需的 <code>GB200</code> 算力。与此同时，有报道称该公司预计在当季收入将首次突破百亿美元并实现运营盈利。</p>
-</blockquote>
-<p><strong>Anthropic</strong> 联合创始人 <strong>Tom Brown</strong> 日前表示，公司正在扩展与 <strong>SpaceX</strong> 的合作，并将在 <strong>六月</strong> 期间于 <code>Colossus 2</code> 数据中心扩充 <code>GB200</code> 算力，以满足 <strong>Claude</strong> 日益增长的推理需求。</p>
-<p>据《华尔街日报》独家报道，<strong>Anthropic</strong> 在向投资者披露的预测中预计，<strong>第二季度</strong>收入将激增 <strong>130%</strong> 至 <strong>109亿美元</strong>，并在此季度首次实现运营利润；该报道同时指出，<strong>Anthropic</strong> 正在进行新一轮融资，估值可能将超越 <strong>OpenAI</strong>。</p>
-<p>此外，据 <strong>TechCrunch</strong> 消息，<strong>Anthropic</strong> 与 <code>xAI</code> 达成了一份算力采购协议，将在 <strong>2029年5月</strong> 前每月向 <code>xAI</code> 支付 <strong>12.5亿美元</strong>，以使用其位于孟菲斯的 <code>Colossus 1</code> 数据中心的全部 <strong>300兆瓦</strong> 算力输出，合同允许任意一方提前 <strong>90天</strong> 通知终止。</p>
-<p><strong>Elon Musk</strong> 也在社交平台上确认，<strong>SpaceX</strong> 正以服务形式向 <strong>Anthropic</strong> 及其他公司提供规模化 AI 算力。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260521/20260521085426_d78829239d.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/nottombrown/status/2057194829986300375">https://x.com/nottombrown/status/2057194829986300375</a></li>
-<li><a href="https://x.com/elonmusk/status/2057228707606196434">https://x.com/elonmusk/status/2057228707606196434</a></li>
-<li><a href="https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4">https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4</a></li>
-<li><a href="https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute">https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute</a></li>
-</ul>
-<hr>
-<h2><a href="https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA">阿里云发布磐久AL128超节点服务器及自研真武M890芯片</a> <code>#15</code></h2>
-<blockquote>
-<p><strong>阿里云</strong>发布<strong>磐久<code>AL128</code>超节点服务器</strong>及自研<strong>真武<code>M890</code>芯片</strong>，官方称其支持<strong>万亿参数</strong>大模型单节点运行。同时，宣布面向 Agent 时代推出聚合 <strong>150多款</strong> 模型 API 的新门户“<strong>千问云</strong>”。</p>
-</blockquote>
-<p>在 <strong>2026</strong> <strong>阿里云峰会</strong> 上，<strong>阿里云</strong> 正式发布 <code>磐久AL128</code> 超节点服务器。该单机柜紧密耦合 <strong>128</strong> 张首次亮相的自研训推一体芯片 <code>真武M890</code>。</p>
-<p>该服务器搭配自研互联芯片，官方称其能支持万亿参数大模型单节点运行，并已上线百炼平台。</p>
-<p>同时，<strong>阿里云</strong> 发布在第三方盲测中位列国产第一的旗舰模型 <code>Qwen3.7-Max</code>，并推出聚合 <strong>150</strong> 多款模型 API 的新门户"<strong>千问云</strong>"。</p>
-<p>目前，<strong>阿里云</strong> 产品已进行 Skill 化、MCP 化和 CLI 化改造。百炼平台也计划接入 Kimi、DeepSeek 等第三方模型。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA">https://mp.weixin.qq.com/s/1lz9yxEobWao6milBdizgA</a></li>
-</ul>
-<hr>
-<h2><a href="https://x.com/github/status/2056949168208552080">GitHub 调查内部仓库泄露事件，官方称客户数据暂未受影响</a> <code>#16</code></h2>
-<blockquote>
-<p>据媒体报道，黑客组织 <strong>TeamPCP</strong> 正挂牌出售窃取的约 <strong>3800</strong> 个 <code>GitHub</code> 内部仓库数据。<strong>GitHub</strong> 官方确认此次泄露源于一名员工安装了恶意的 <code>Visual Studio Code</code> 扩展，目前无证据显示客户数据受到影响，并已轮换了关键凭证。</p>
-</blockquote>
-<p><strong>GitHub</strong> 正在调查一起涉及内部仓库的未授权访问事件，起因是一名员工安装了被投毒的 <code>Visual Studio Code</code> 扩展导致设备被攻破。</p>
-<p>黑客组织 <strong>TeamPCP</strong> 宣称窃取了这些内部源代码，并在网络犯罪论坛上以不低于 <strong>5 万美元</strong> 的价格寻找买家，声称若未售出将免费公开数据。</p>
-<p><strong>GitHub</strong> 官方评估认为，此次外泄仅涉及其内部仓库，数量约为 <strong>3800 个</strong>，与黑客声称的数量基本一致。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/20260520/20260520182405_8a3719e650.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://x.com/github/status/2056949168208552080">https://x.com/github/status/2056949168208552080</a></li>
-</ul>
-<hr>
-<h2><a href="https://a16z.com/announcement/investing-in-exa/">Exa 完成 2.5 亿美元 C 轮融资，估值达 22 亿美元</a> <code>#17</code></h2>
-<blockquote>
-<p>AI 搜索引擎公司 <strong>Exa</strong> 完成 <strong>2.5 亿美元</strong> <code>C 轮</code> 融资，估值达 <strong>22 亿美元</strong>，由 <strong>a16z</strong> 领投，致力于为 <strong>AI Agent</strong> 构建专属搜索引擎。</p>
-</blockquote>
-<p><strong>Exa</strong> 官方宣布完成 <strong>2.5 亿美元</strong> C 轮融资，估值达到 <strong>22 亿美元</strong>，本轮由 <strong>a16z</strong> 领投。</p>
-<p>该公司从零构建了专为 <code>AI Agent</code> 设计的搜索堆栈，提供低于 <strong>200</strong> 毫秒的搜索延迟及定制的嵌入模型。</p>
-<p>目前已为 <strong>Cursor</strong> 等超 <strong>5000</strong> 家企业及 <strong>40 万</strong> 开发者提供支持。</p>
-<p>面对未来大语言模型预计千倍于传统搜索的需求量，<strong>Exa</strong> 计划利用新资金训练下一代模型。</p>
-<p>公司将基础设施扩展至每秒处理<strong>十万次</strong>搜索，并拓展全球市场团队。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/eae5a97d-eab0-4bbf-b1eb-10e5ded00e2b/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://a16z.com/announcement/investing-in-exa/">https://a16z.com/announcement/investing-in-exa/</a></li>
-<li><a href="https://exa.ai/blog/announcing-series-c">https://exa.ai/blog/announcing-series-c</a></li>
-</ul>
-<hr>
-<h2><a href="https://openai.com/index/introducing-openai-for-singapore/">OpenAI 推出“OpenAI for Singapore”多年期合作计划</a> <code>#18</code></h2>
-<blockquote>
-<p><strong>OpenAI</strong> 宣布推出“<strong>OpenAI for Singapore</strong>”合作计划，承诺投入超<strong>3</strong>亿新元，并设立其美国境外的首个 <code>Applied AI Lab</code> 以支持该国国家 <code>AI</code> 战略。</p>
-</blockquote>
-<p><strong>OpenAI</strong>宣布推出“<strong>OpenAI for Singapore</strong>”多年期合作计划，以支持新加坡国家 AI 战略。</p>
-<p>根据官方公告，该计划承诺投入超 <strong>3 亿</strong>新元资金，将在当地设立 <strong>OpenAI</strong>首个美国境外的 <code>Applied AI Lab</code>。</p>
-<p>未来几年将创造 <strong>200</strong>多个技术岗位。此项合作将重点聚焦前沿 <code>AI</code>部署、本土<code>AI</code>人才培养以及赋能本地中小企业与初创公司。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/imjuya/picx-images-hosting@master/imagehub/aidaily/b59a785a-802d-4ae0-bcc9-23d4f9da7feb/676120d1-1c52-4e66-bcb4-d750837d65a9/m001.png" alt=""></p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://openai.com/index/introducing-openai-for-singapore/">https://openai.com/index/introducing-openai-for-singapore/</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1">报道称 OpenAI 计划最快本周提交 IPO 申请</a> <code>#19</code></h2>
-<blockquote>
-<p>媒体报道称，<strong>OpenAI</strong> 计划在未来几天或几周内提交 IPO 申请，传闻估值最高达 <strong>2 万亿美元</strong>，预计最快于 <strong>9 月</strong> 上市。</p>
-</blockquote>
-<p>据**《华尔街日报》**报道，<strong>OpenAI</strong>正准备在未来的几天或几周内向监管机构秘密提交首次公开募股（IPO）申请。</p>
-<p>首席执行官<strong>Sam Altman</strong>希望公司能在今年 9 月前准备好上市，目前该公司正与<strong>Goldman Sachs</strong>和<strong>Morgan Stanley</strong>合作处理相关事宜。</p>
-<p>科技圈及社交媒体传闻其 IPO 估值可能在 <strong>1 万亿至 2 万亿美元</strong>之间。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1">https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5?mod=hp_lead_pos1</a></li>
-<li><a href="https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september">https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september</a></li>
-<li><a href="https://x.com/theinformation/status/2057173173104226318">https://x.com/theinformation/status/2057173173104226318</a></li>
-</ul>
-<hr>
-<h2><a href="https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/">消息称白宫已向 OpenAI 等企业通报前沿 AI 模型审查计划</a> <code>#20</code></h2>
-<blockquote>
-<p>据媒体报道，<strong>白宫</strong>向多家 <strong>AI</strong> 公司通报了一项行政令计划，拟建立自愿审查框架，要求企业在发布前沿模型前最多提前 <strong>90</strong> 天与政府共享。</p>
-</blockquote>
-<p>据 <strong>The Information</strong> 报道，<strong>白宫国家网络总监办公室</strong>近期为<strong>主流 AI</strong>企业举办了一场简报会，讨论一项旨在审查高级<code>AI</code>模型的行政命令。</p>
-<p>参会企业包括 <strong>OpenAI</strong>、<strong>Anthropic</strong> 和 <strong>Reflection AI</strong>。该报道指出，这项预计最快将于<strong>本周</strong>签署的行政令旨在建立一个自愿框架，授权情报等政府机构在模型发布前进行评估。</p>
-<p>此外，行政令要求前沿模型开发者在重大发布前通知政府，且最多可提前 <strong>90 天</strong>将模型共享给政府。</p>
-<p>相关链接：</p>
-<ul>
-<li><a href="https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/">https://www.reuters.com/legal/litigation/white-house-briefs-ai-firms-plans-model-review-information-reports-2026-05-20/</a></li>
-</ul>
-<hr>
-<p><strong>提示</strong>：内容由AI辅助创作，可能存在<strong>幻觉</strong>和<strong>错误</strong>。</p>
-]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/97</guid><pubDate>Thu, 21 May 2026 01:21:12 +0000</pubDate></item></channel></rss>
+]]></content:encoded><guid isPermaLink="false">https://github.com/imjuya/juya-ai-daily/issues/98</guid><pubDate>Fri, 22 May 2026 01:26:24 +0000</pubDate></item></channel></rss>
